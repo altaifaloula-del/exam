@@ -18,8 +18,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
         with:
           node-version: 22
           cache: npm
@@ -34,3 +34,5 @@ jobs:
         run: npm audit --audit-level=high
       - name: End-to-end tests (real Chrome)
         run: CHROME_PATH="$(which google-chrome)" npm run test:e2e
+      - name: Site end-to-end tests again with deliberately slow page rendering (catches timing races in the tests)
+        run: E2E_SLOW_HASH_MS=250 CHROME_PATH="$(which google-chrome)" node tests/e2e/smoke.mjs

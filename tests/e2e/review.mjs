@@ -31,7 +31,8 @@ async function newPage({ viewport = { width: 390, height: 844 }, colorScheme = '
   page.on('console', (m) => { if (m.type() === 'error') problems.push('console: ' + m.text()); });
   page.on('pageerror', (e) => problems.push('pageerror: ' + e.message));
   page.on('dialog', (d) => { problems.push('unexpected dialog: ' + d.message()); d.dismiss(); });
-  await page.route(/^https?:\/\/(?!127\.0\.0\.1)/, (r) => r.abort());     // any external request is blocked
+  await page.route(/^(?:https?|wss?):\/\/(?!127\.0\.0\.1[:/])/, (r) => r.abort());     // any external request is blocked
+  // The standalone physician page (not part of site/) still uses Google Fonts; stub them so the test stays offline.
   // Playwright runs the LAST registered matching route first: the fonts stub must come after the catch-all.
   await page.route(/^https:\/\/fonts\.(googleapis|gstatic)\.com\//, (r) => r.fulfill({ status: 200, contentType: 'text/css', body: '' }));
   await page.goto(url);

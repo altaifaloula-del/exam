@@ -60,7 +60,7 @@ export function renderSetup(ctx, { tab, spec }) {
   }
 
   function next() {
-    let plan = null;
+    let plan;
     const n = Math.min(sel.count, poolSize());
     if (active === 'models') plan = modelPlan(models[sel.model]);
     else if (active === 'topic') plan = topicPlan(bank, ctx.topics, { spec, selected: [...sel.topics], count: n, minutes: sel.minutes });
