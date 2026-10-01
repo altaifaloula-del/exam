@@ -11,7 +11,7 @@ export function h(tag, attrs, ...kids) {
     else if (k.startsWith('on') && typeof v === 'function') el.addEventListener(k.slice(2), v);
     else el.setAttribute(k, v === true ? '' : String(v));
   }
-  for (const c of kids.flat(Infinity)) {
+  for (const c of flatten(kids)) {
     if (c == null || c === false) continue;
     el.append(c instanceof Node ? c : document.createTextNode(String(c)));
   }
@@ -25,7 +25,18 @@ export function safeLink(url, label) {
   return h('a', { href, target: '_blank', rel: 'noopener noreferrer' }, label || href);
 }
 
-/** Replaces root's children. null/false entries are skipped (replaceChildren would print them as "null"). */
+/** Nested arrays -> one flat array (Array.prototype.flat(Infinity) is not available in older browsers). */
+export function flatten(list, out = []) {
+  for (const x of list) {
+    if (Array.isArray(x)) flatten(x, out);
+    else out.push(x);
+  }
+  return out;
+}
+
+/** Replaces root's children. null/false entries are skipped (they would otherwise be printed as "null"). */
 export function mount(root, ...nodes) {
-  root.replaceChildren(...nodes.flat(Infinity).filter((n) => n != null && n !== false));
+  const fresh = flatten(nodes).filter((n) => n != null && n !== false);
+  while (root.firstChild) root.removeChild(root.firstChild);
+  for (const n of fresh) root.append(n);
 }

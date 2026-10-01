@@ -3,7 +3,7 @@
 
 const PREFIX = 'bank:v1:';
 
-export function createStore(getStorage = () => globalThis.localStorage, onError = () => {}) {
+export function createStore(getStorage = () => (typeof window !== 'undefined' ? window : globalThis).localStorage, onError = () => {}) {
   const memory = new Map();
   let broken = false;
 

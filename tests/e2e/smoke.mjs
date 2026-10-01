@@ -6,6 +6,7 @@ import { readFile } from 'node:fs/promises';
 import { extname, join, normalize } from 'node:path';
 import { chromium } from 'playwright-core';
 import { applySlowRender } from './slow-render.mjs';
+import { applyOldBrowser, oldBrowserOn, stillPresent } from './old-browser.mjs';
 import { examPool, formatClock, questionsPhrase } from '../../site/js/logic.js';
 import { examModels, minutesFor } from '../../site/js/plan.js';
 import { topicCounts, topicPool, validateTopics } from '../../site/js/topics.js';
@@ -50,6 +51,7 @@ const benignFontAbort = (r) => r.resourceType() === 'font' && r.url().startsWith
 async function newPage(viewport = { width: 1280, height: 800 }, { expectConsole = null } = {}) {
   const ctx = await browser.newContext({ viewport, locale: 'ar' });
   await applySlowRender(ctx);
+  await applyOldBrowser(ctx);
   const page = await ctx.newPage();
   const at = () => `[scenario ${passed + 1}]`;
   page.on('console', (m) => { if (m.type() === 'error' && !(expectConsole && expectConsole.test(m.text()))) problems.push(`${at()} console: ${m.text()}`); });
@@ -148,6 +150,7 @@ try {
     const page = await newPage({ width: w, height: h });
     await page.goto(base);
     await page.getByRole('heading', { level: 1 }).waitFor();
+    if (oldBrowserOn()) assert.deepEqual(await stillPresent(page), [], 'E2E_OLD_BROWSER must have removed every listed API');
     assert.ok(await noHScroll(page), `home horizontal scroll at ${w}`);
     assert.equal(await page.locator('a.sign').count(), 5);
     assert.equal(await page.locator('.tool').count(), 6, 'models, custom, topic, review, mistakes, last result');
@@ -825,6 +828,7 @@ try {
   {
     const ctx = await browser.newContext({ viewport: { width: 1280, height: 800 } });
     await applySlowRender(ctx);
+    await applyOldBrowser(ctx);
     await ctx.addInitScript(() => { Object.defineProperty(window, 'localStorage', { get() { throw new Error('blocked'); } }); });
     const page = await ctx.newPage();
     page.on('pageerror', (e) => problems.push('pageerror: ' + e.message));
@@ -862,6 +866,104 @@ try {
     await page.context().close();
   }
   ok('keyboard operation, visible focus and accessible names');
+
+  // 14. Start-up guard (js/guard.js): a browser that cannot run the app gets a clear message with a reload button, never an
+  // endless "loading" line. Every way the app script can fail is simulated; only the failures caused on purpose are tolerated.
+  {
+    const open = async ({ main, init = null, hold = false }) => {
+      const ctx = await browser.newContext({ viewport: { width: 390, height: 740 }, locale: 'ar' });
+      if (init) await ctx.addInitScript(init);
+      const page = await ctx.newPage();
+      const seen = [];
+      page.on('pageerror', (e) => seen.push('pageerror: ' + e.message));
+      page.on('console', (m) => { if (m.type() === 'error') seen.push('console: ' + m.text()); });
+      page.on('requestfailed', (r) => seen.push('requestfailed: ' + r.url()));
+      await page.route(/^(?:https?|wss?):\/\/(?!127\.0\.0\.1[:/])/, (r) => r.abort());
+      await page.route('**/js/main.js', main);
+      await page.goto(base, hold ? { waitUntil: 'commit' } : undefined);   // hold: main.js is still being held back, so `load` would never come
+      return { page, ctx, seen };
+    };
+    const js = (body) => (r) => r.fulfill({ contentType: 'text/javascript', body });
+    const expectMessage = async (page, where) => {
+      await page.locator('#app [role=alert]').filter({ hasText: 'تعذّر تشغيل الموقع في هذا المتصفح' }).waitFor({ timeout: 5000 });
+      assert.equal(await page.locator('#app .boot').count(), 0, `${where}: the endless loading line is gone`);
+      assert.ok(await page.getByRole('button', { name: 'إعادة تحميل الصفحة' }).isVisible(), `${where}: reload button`);
+      assert.ok(await noHScroll(page), `${where}: horizontal scroll`);
+      await noInlineStyle(page, where);
+      await noLeaks(page, where);
+      await shot(page, `boot-failure-${where.replace(/\W+/g, '-')}.png`);
+    };
+    const onlyCaused = (seen, re, where) => assert.deepEqual(seen.filter((x) => !re.test(x)), [], `${where}: unexpected console/page errors`);
+
+    const cases = [
+      ['app script cannot be downloaded', { main: (r) => r.abort() }, /main\.js|Failed to load resource/],
+      ['app script does not parse', { main: js('const = ;') }, /SyntaxError|Unexpected|main\.js/],
+      ['app script throws before the first screen', { main: js("throw new Error('boom');") }, /boom/],
+      ['app script rejects before the first screen', { main: js("Promise.reject(new Error('rejected'));") }, /rejected/],
+      ['browser has no ES-module support', { main: js('/* a valid empty module */'), init: () => { delete HTMLScriptElement.prototype.noModule; } }, /^$/],
+    ];
+    for (const [name, opts, tolerated] of cases) {
+      const { page, ctx, seen } = await open(opts);
+      await expectMessage(page, name);
+      onlyCaused(seen, tolerated, name);
+      if (name === 'app script cannot be downloaded') {
+        // The reload button really reloads: with the script available again the app starts and the message is gone.
+        await page.unroute('**/js/main.js');
+        await page.getByRole('button', { name: 'إعادة تحميل الصفحة' }).click();
+        await page.getByRole('heading', { level: 1 }).waitFor();
+        assert.equal(await page.locator('#app [role=alert]').count(), 0, 'message gone after a successful reload');
+        assert.equal(await page.locator('a.sign').count(), 5, 'the app started after the reload');
+      }
+      await ctx.close();
+    }
+
+    // Noise from OUTSIDE the site while the app is still loading must not show the message (it would stay up for the whole download on a
+    // slow network, and its button would restart the download): a script injected by an in-app browser or add-on that fails, a cross-origin
+    // "Script error.", an error with no file name, an error from another origin, a rejection that does not come from the site's files.
+    // A positive control proves the guard is listening (otherwise "no message" would prove nothing); then the app finishes and draws over it.
+    {
+      let release;
+      const gate = new Promise((resolve) => { release = resolve; });
+      const { page, ctx, seen } = await open({ main: async (r) => { await gate; await r.continue(); }, hold: true });
+      await page.locator('#app .boot').waitFor();
+      await page.waitForFunction(() => performance.getEntriesByType('resource').some((e) => e.name.endsWith('/js/guard.js') && e.responseEnd > 0));
+      await page.evaluate(() => {
+        const s = document.createElement('script');
+        s.src = 'https://third-party.invalid/injected.js';       // blocked by the CSP: an error event fires on the element
+        document.head.appendChild(s);
+        window.dispatchEvent(new ErrorEvent('error', { message: 'Script error.', filename: '' }));
+        window.dispatchEvent(new ErrorEvent('error', { message: 'Uncaught Error: from an add-on', filename: '' }));
+        window.dispatchEvent(new ErrorEvent('error', { message: 'x', filename: 'https://other.example/js/x.js' }));
+        window.dispatchEvent(new PromiseRejectionEvent('unhandledrejection', { promise: Promise.resolve(), reason: { stack: 'Error: x\n at f (https://other.example/a.js:1:1)' } }));
+        window.dispatchEvent(new PromiseRejectionEvent('unhandledrejection', { promise: Promise.resolve(), reason: 'a string with no stack' }));
+      });
+      await page.waitForTimeout(400);
+      assert.equal(await page.locator('#app [role=alert]').count(), 0, 'noise from outside the site must not show the failure message');
+      assert.equal(await page.locator('#app .boot').count(), 1, 'the loading line stays while the app is still loading');
+      await page.evaluate(() => window.dispatchEvent(new ErrorEvent('error', { message: 'x', filename: location.origin + '/js/main.js' })));
+      await expectMessage(page, 'positive control');
+      release();
+      await page.getByRole('heading', { level: 1 }).waitFor();
+      assert.equal(await page.locator('#app [role=alert]').count(), 0, 'the app drew over the message when it finished loading');
+      assert.equal(await page.locator('a.sign').count(), 5);
+      onlyCaused(seen, /third-party\.invalid|Refused to load the script|Content Security Policy/, 'noise while loading');
+      await ctx.close();
+    }
+
+    // Healthy page: no message. Error events that arrive AFTER the first screen is drawn must not touch it.
+    const page = await newPage({ width: 390, height: 740 });
+    await page.goto(base);
+    await page.getByRole('heading', { level: 1 }).waitFor();
+    assert.equal(await page.locator('#app [role=alert]').count(), 0, 'no failure message on a healthy start');
+    await page.evaluate(() => {
+      window.dispatchEvent(new ErrorEvent('error', { message: 'late', filename: location.origin + '/js/views/home.js' }));
+      window.dispatchEvent(new PromiseRejectionEvent('unhandledrejection', { promise: Promise.resolve(), reason: new Error('late') }));
+    });
+    assert.equal(await page.locator('#app [role=alert]').count(), 0, 'late errors do not replace the drawn app');
+    assert.equal(await page.locator('a.sign').count(), 5);
+    await page.context().close();
+  }
+  ok('start-up guard: visible message + reload button when the app script is missing, broken, throws, rejects or modules are unsupported; healthy page untouched');
 } finally {
   await browser.close();
   server.close();

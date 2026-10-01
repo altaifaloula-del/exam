@@ -6,6 +6,8 @@ import { ESSAY } from './essay.js';
 
 const SPEC_KEYS = new Set(['all', ...SPECIALTIES.map((s) => s.key)]);
 const isInt = Number.isInteger;
+// Same result as `v ?? d`, written without that operator: it is ES2020 and a browser that cannot parse it fails to start the whole site.
+const orElse = (v, d) => (v == null ? d : v);
 const LEGACY_LABEL = 'اختبار مخصّص';
 
 /** plan: { kind, spec, label, ids, limit } from plan.js. Returns a fresh state, or null when the plan is unusable. */
@@ -176,12 +178,12 @@ export function buildResult(state, bank, now, essayById = null) {
   const byId = new Map(bank.map((q) => [q.id, q]));
   const qs = state.ids.map((id) => byId.get(id)).filter(Boolean);
   const s = score(qs, state.answers);
-  const mcqEnd = state.mcqEnd ?? now;
+  const mcqEnd = orElse(state.mcqEnd, now);
   const elapsed = Math.min(state.limit, Math.max(0, Math.floor((mcqEnd - state.start) / 1000)));
   let essay = null;
   if (state.essay && essayById) {
     const e = essayScore(state, essayById);
-    const end = state.essay.end ?? now;
+    const end = orElse(state.essay.end, now);
     essay = { ...e, elapsed: Math.min(state.essay.limit, Math.max(0, Math.floor((end - state.essay.start) / 1000))), limit: state.essay.limit };
   }
   return {
@@ -194,7 +196,7 @@ export function buildResult(state, bank, now, essayById = null) {
     elapsed,
     limit: state.limit,
     ...s,
-    items: qs.map((q) => ({ id: q.id, picked: state.answers[q.id] ?? null })),
+    items: qs.map((q) => ({ id: q.id, picked: orElse(state.answers[q.id], null) })),
     missIds: qs.filter((q) => state.answers[q.id] !== q.answer).map((q) => q.id),
   };
 }

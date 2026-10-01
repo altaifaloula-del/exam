@@ -36,3 +36,5 @@ jobs:
         run: CHROME_PATH="$(which google-chrome)" npm run test:e2e
       - name: Site end-to-end tests again with deliberately slow page rendering (catches timing races in the tests)
         run: E2E_SLOW_HASH_MS=250 CHROME_PATH="$(which google-chrome)" node tests/e2e/smoke.mjs
+      - name: Site end-to-end tests again with newer browser APIs removed (the site must run without them)
+        run: E2E_OLD_BROWSER=1 CHROME_PATH="$(which google-chrome)" node tests/e2e/smoke.mjs

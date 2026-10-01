@@ -21,7 +21,7 @@ export function renderSetup(ctx, { tab, spec }) {
   const poolSize = () => (active === 'topic' ? topicPool(bank, ctx.topics, spec, [...sel.topics]).length : examPool(bank, spec).length);
   // Counts above the pool are disabled, except the smallest one that covers it (it means "everything available").
   const cover = () => CUSTOM.counts.find((c) => c >= poolSize());
-  const fitCount = () => { const p = poolSize(); return p >= 50 ? 50 : (cover() ?? CUSTOM.counts[0]); };
+  const fitCount = () => { const p = poolSize(); const c = cover(); return p >= 50 ? 50 : (c != null ? c : CUSTOM.counts[0]); };
   const countOk = (c) => c <= poolSize() || c === cover();
   sel.count = fitCount();
   // Essays follow the same scope as the multiple-choice part: the model's specialty, the chosen specialty, or the chosen topics.

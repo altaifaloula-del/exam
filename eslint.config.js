@@ -4,7 +4,7 @@ const browser = {
   window: 'readonly', document: 'readonly', location: 'readonly', fetch: 'readonly', console: 'readonly',
   setTimeout: 'readonly', clearInterval: 'readonly', setInterval: 'readonly', clearTimeout: 'readonly',
   Node: 'readonly', URL: 'readonly', globalThis: 'readonly', Uint32Array: 'readonly', Map: 'readonly', Set: 'readonly',
-  Event: 'readonly', getComputedStyle: 'readonly', localStorage: 'readonly', sessionStorage: 'readonly',
+  Event: 'readonly', performance: 'readonly', ErrorEvent: 'readonly', PromiseRejectionEvent: 'readonly', HTMLScriptElement: 'readonly', getComputedStyle: 'readonly', localStorage: 'readonly', sessionStorage: 'readonly',
 };
 const node = {
   process: 'readonly', console: 'readonly', URL: 'readonly', Buffer: 'readonly', globalThis: 'readonly',
@@ -16,7 +16,9 @@ export default [
   js.configs.recommended,
   {
     files: ['site/**/*.js'],
-    languageOptions: { ecmaVersion: 2022, sourceType: 'module', globals: browser },
+    // ES2019 is the syntax floor of the site (so `??`, `?.` and other newer syntax fail the lint instead of silently
+    // breaking older browsers: one unparsable module stops the whole app).
+    languageOptions: { ecmaVersion: 2019, sourceType: 'module', globals: browser },
     rules: {
       'no-eval': 'error', 'no-implied-eval': 'error', 'no-new-func': 'error',
       'no-restricted-properties': ['error',
@@ -26,6 +28,11 @@ export default [
       'no-restricted-globals': ['error', { name: 'eval' }],
       'no-unused-vars': ['error', { args: 'after-used', caughtErrors: 'none' }],
     },
+  },
+  {
+    // The start-up guard must parse in any browser that can run a script at all: plain ES5, classic script.
+    files: ['site/js/guard.js'],
+    languageOptions: { ecmaVersion: 5, sourceType: 'script', globals: browser },
   },
   {
     files: ['tests/**/*.mjs', 'scripts/**/*.mjs', 'eslint.config.js'],
