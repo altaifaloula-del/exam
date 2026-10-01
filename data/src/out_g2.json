@@ -1,0 +1,3717 @@
+[
+ {
+  "src": "f02",
+  "page": 1,
+  "no": 1,
+  "lang": "en",
+  "q": "Aminophylin is often administered to the patient acute asthma to:",
+  "q_ar": null,
+  "options": [
+   "increasethe pulmonary artery pressure",
+   "Decrease the bronchospasm",
+   "increase the peripheral vascular",
+   "decrease the cardiac irritability"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 1,
+  "no": 2,
+  "lang": "en",
+  "q": "Care of the indwelling urinary catheter involves the followings, EXCEPT:",
+  "q_ar": null,
+  "options": [
+   "tube checking for kinks",
+   "routine irrigation",
+   "perineal area cleaning",
+   "urine bag drainage at a lower level."
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 1,
+  "no": 3,
+  "lang": "en",
+  "q": "Which of the following blood tests must be performed before a blood transfusion?",
+  "q_ar": null,
+  "options": [
+   "prothrombin and coagulation time",
+   "Blood typing and cross matching",
+   "Bleeding and clotting time",
+   "Complete blood count (CBC) and electrolyte levels."
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 2,
+  "no": 4,
+  "lang": "en",
+  "q": "when blood transfusion reaction occur, the immediate nursing action is:",
+  "q_ar": null,
+  "options": [
+   "monitor vital signs closely",
+   "Give antipyretic drugs",
+   "document relevant data",
+   "Discontinue the blood transfusion"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 2,
+  "no": 5,
+  "lang": "en",
+  "q": "to monitor cardiovascular stability, the nurse assess the patient's:",
+  "q_ar": null,
+  "options": [
+   "color and moisture",
+   "skin temperature",
+   "cardiac rhythm",
+   "All the above"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 2,
+  "no": 6,
+  "lang": "en",
+  "q": "All of the followings are used for monitoring the deterioration in renal funcation EXCEPT",
+  "q_ar": null,
+  "options": [
+   "White blood cells count",
+   "Serum creatinine.",
+   "blood urea nitrogen",
+   "urine volum"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 3,
+  "no": 7,
+  "lang": "en",
+  "q": "When the patient has gastric bleeding, the color of the stool may be changed",
+  "q_ar": null,
+  "options": [
+   "Bright red",
+   "pink",
+   "Yellow",
+   "black tarry"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 3,
+  "no": 8,
+  "lang": "en",
+  "q": "which of the following is not a desirable nursing action during patient understands general anesthesia?",
+  "q_ar": null,
+  "options": [
+   "Encourage deep breathing exercises",
+   "Positioning the patient supine",
+   "suctioning to remove excess respiratory secretions",
+   "assess respiratory function"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 3,
+  "no": 9,
+  "lang": "en",
+  "q": "The dressing is applied to the wound for the following reason :",
+  "q_ar": null,
+  "options": [
+   "tube absorb drainage",
+   "to splint or immobilize the wound",
+   "protect the wound from bacteria contaminated",
+   "All of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 3,
+  "no": 10,
+  "lang": "en",
+  "q": "the best position for the patient with head injury and high intracranial pressure is :",
+  "q_ar": null,
+  "options": [
+   "Elevation the head of the bed to 30 _45degrees",
+   "supin position and head turned to least",
+   "High flowers position with knee flexion and legs elevated",
+   "Side-lying position with hips and knees flexed"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 4,
+  "no": 11,
+  "lang": "en",
+  "q": "The overall goals of fracture treatment fracture are:",
+  "q_ar": null,
+  "options": [
+   "atomical goals realignment of bone fractures fragments",
+   "immobilization to maintain realignment",
+   "restoration of function of the part",
+   "All of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 4,
+  "no": 12,
+  "lang": "en",
+  "q": "The instruction given to the patient with a cast should include:",
+  "q_ar": null,
+  "options": [
+   "awareness of signs of developing peripheral neurovascular complication",
+   "Hazards of walking on a new cast",
+   "joint exercise above and below the cast",
+   "All of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 4,
+  "no": 13,
+  "lang": "en",
+  "q": "The preoperative patient is kept NPO \" after midnight in order of prevent:",
+  "q_ar": null,
+  "options": [
+   "over hydration or fluid over-load postoperatively",
+   "urinary incontinence in the operating room",
+   "vomiting and aspiration during anesthesia",
+   "NO of the above"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 4,
+  "no": 14,
+  "lang": "en",
+  "q": "The management of the hypovolemic shock include:",
+  "q_ar": null,
+  "options": [
+   "the timely admiistration of IV fluids",
+   "Blood and blood products",
+   "medcation the elevate blood pressure",
+   "All of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 5,
+  "no": 15,
+  "lang": "en",
+  "q": "patient in the ER has sever hemorrhage, which of the following is a manifestation hemorrhage shock:",
+  "q_ar": null,
+  "options": [
+   "apprehensive restless and thirsty",
+   "the skin is cold,moist,and pale and temperature falls",
+   "the pulse rate increase, and respirations are rapid and deep",
+   "ALLOF THE ABOVE"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 5,
+  "no": 16,
+  "lang": "en",
+  "q": "Dysrhythmias may result from the following, Except:",
+  "q_ar": null,
+  "options": [
+   "Electrolyte balance",
+   "altered respiratory function",
+   "pain",
+   "Hypothermi"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 5,
+  "no": 17,
+  "lang": "en",
+  "q": "the following measures are used to determin patient readiness for discharge from the post recovery room EXCEPT",
+  "q_ar": null,
+  "options": [
+   "stable v/s",
+   "orintation to person, place,event,time",
+   "puls oximeter reading indicated adequate blood oxygen saturation",
+   "urine output at last 10ml/h"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 6,
+  "no": 18,
+  "lang": "en",
+  "q": ":Safety issues in the Operation room include the fallowing EXCEITE",
+  "q_ar": null,
+  "options": [
+   "exposure to blood and body fluids",
+   "hazards associated with laser beans",
+   "exposure to latex and adhesive substances",
+   "exposure to the artificial light"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 6,
+  "no": 19,
+  "lang": "en",
+  "q": "_The physician preseribed an IV dextrose 5% in water at 100ml flow rate be if the drops factors is 15gtt=1ml",
+  "q_ar": null,
+  "options": [
+   "5 gtt/minute",
+   "13 gttminute",
+   "25 gtt/minute",
+   "50 gtt/minute"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 6,
+  "no": 20,
+  "lang": "en",
+  "q": "The Physicians preseribedo.5 gr of paracetamolthe the equivalents dose in milligrams is :",
+  "q_ar": null,
+  "options": [
+   "0.6 mg",
+   "10 mg",
+   "60 mg",
+   "500 mg"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 6,
+  "no": 21,
+  "lang": "en",
+  "q": "The physician prescribed ampicilin capsule TID PO, this means the drug should be given:",
+  "q_ar": null,
+  "options": [
+   "Three times a day orally",
+   "Three times a day after meals",
+   "Two time a day by mouth",
+   "Two times a day before meals"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark",
+   "multiple_marks"
+  ]
+ },
+ {
+  "src": "f02",
+  "page": 7,
+  "no": 22,
+  "lang": "en",
+  "q": "When transferring a patient from a bed to a chair, whieh muscles the nurse should use to avoid back injury?",
+  "q_ar": null,
+  "options": [
+   "Back muscles",
+   "Leg muscles",
+   "Upper arm muscles",
+   "Abdominal muscles"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f02",
+  "page": 7,
+  "no": 23,
+  "lang": "en",
+  "q": "After routine patient contact, handwashing should last at last: :",
+  "q_ar": null,
+  "options": [
+   "10_15 seconds",
+   "1minute",
+   "2minute",
+   "3 minute"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 7,
+  "no": 24,
+  "lang": "en",
+  "q": "All of the following statements are true bout donning serial gloves Except",
+  "q_ar": null,
+  "options": [
+   "The frist gloves picking up by grasping the inside of the cuff",
+   "The second gloves picking up by inserting. The gloves fingers under the cuff outside.",
+   "the gloves adjusted by sliding the gloved finger under the sterile cuff and pulling the glove",
+   "the inside of the glove is considered sterile"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 8,
+  "no": 25,
+  "lang": "en",
+  "q": "which the following clinical procedure always requires urinary surgical asepsis :",
+  "q_ar": null,
+  "options": [
+   "vaginal installation of conjugated estrogen",
+   "urinary catherization",
+   "nasogestric tube insertion",
+   "colostomy irrigation"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 8,
+  "no": 26,
+  "lang": "en",
+  "q": "which of the following consitition a break in sterile technique while preparing sterile filed for a dressing change",
+  "q_ar": null,
+  "options": [
+   "using sterile forceps, rather than sterile gloves to handle a sterile item",
+   "touching the outside wapper of sterilized material without sterile gloves",
+   "place ingredients a sterile object on the edge of the sterile filed",
+   "pouring out a small amount of solultion (15 to 30 ml/before pouring the solultion into a sterile container"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 8,
+  "no": 27,
+  "lang": "en",
+  "q": "Healing of the surgical wound is most affected by :",
+  "q_ar": null,
+  "options": [
+   "fat intake",
+   "protein intake",
+   "carbohydrate intake",
+   "non of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 8,
+  "no": 28,
+  "lang": "en",
+  "q": "Which of the following patients is at greatest risk for developing pressure ulcers ?",
+  "q_ar": null,
+  "options": [
+   "An alert, chronic arthritic patient treated with steroids and asprin",
+   "An 88-year old incontinent patient with gastric cancer who is confined to has bed at hom",
+   "An apathetic 63_year old COPD patient receiving nasal oxygen Vai cannula",
+   "All confused 78-year old patient with congestive heart failure CHF who requires"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f02",
+  "page": 9,
+  "no": 29,
+  "lang": "en",
+  "q": "An infected patient has chills and begin shivering, the best nursing intervention is to",
+  "q_ar": null,
+  "options": [
+   "Apply iced alcohol sponges",
+   "provide increased cool liquids",
+   "provide additional body bed clothes",
+   "provide increased ventilation"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 9,
+  "no": 30,
+  "lang": "en",
+  "q": "_ which of the the following is the most important purpos in hand washing",
+  "q_ar": null,
+  "options": [
+   "to promote hand circulation",
+   "to prevent the transfer of microorganisms",
+   "to avoid touching the elimination with a dirty hand",
+   "the provide comfort"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 10,
+  "no": 31,
+  "lang": "en",
+  "q": "signs &symptoms systemic wound infection include?",
+  "q_ar": null,
+  "options": [
+   "increased pulse rate &temperature",
+   "An elevated white blood cells count",
+   "wound swelling, warmth, tenderness, readness",
+   "a&b"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 10,
+  "no": 32,
+  "lang": "en",
+  "q": "which of the following in not a factor that affecting oxygenation",
+  "q_ar": null,
+  "options": [
+   "Anemia",
+   "Atherosclerosis",
+   "arthroprosis",
+   "heart failure"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 10,
+  "no": 33,
+  "lang": "en",
+  "q": "medical asispsis uses practice to reduce :",
+  "q_ar": null,
+  "options": [
+   "the number of Microorganism",
+   "growth of microorganisms",
+   "spread of microorganisms",
+   "All of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 10,
+  "no": 34,
+  "lang": "en",
+  "q": "Inability of unconscious patient to blink eyes may results in:",
+  "q_ar": null,
+  "options": [
+   "Drying of the cornea.",
+   "Comeal ulceration",
+   "eye swelling and infection",
+   "All of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 11,
+  "no": 35,
+  "lang": "en",
+  "q": "Immediate Emergency intervention for patient with spinal cord injury is:",
+  "q_ar": null,
+  "options": [
+   "Encourage the patient to do passive exercises",
+   "Change position frequently.",
+   "administrated analgesics",
+   "spinal immobilization"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 11,
+  "no": 36,
+  "lang": "en",
+  "q": "The hormone responsible for the development of the ovum during the menstrual cycle is",
+  "q_ar": null,
+  "options": [
+   "estrogen",
+   "progesterone",
+   "follicle stimulat hormone FSH",
+   "luteinzing hormone LH"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 11,
+  "no": 37,
+  "lang": "en",
+  "q": "During which of the following phase ofr the menstrual cycle is it ideal for implantation of a fertilized egg to occur",
+  "q_ar": null,
+  "options": [
+   "ischaemia phase",
+   "Menstrual phase",
+   "Proliferative phase",
+   "Secretory phase"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 11,
+  "no": 38,
+  "lang": "en",
+  "q": "Which of the followin g methods would be avoided for a woman who is 38 years old,3 chidren and smokes a pack of cigarette per day",
+  "q_ar": null,
+  "options": [
+   "IUD Intra-uterine a device )",
+   "Oral contraceptives",
+   "Ceryical cap"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 12,
+  "no": 39,
+  "lang": "en",
+  "q": "Magnesium Sulfate is ordered per IV. Which of the following should prompt the note to refer to the obstetricians prior to administration of the drug?",
+  "q_ar": null,
+  "options": [
+   "B/p=180/100",
+   "urine output is 40ml/h",
+   "RR=12b/m",
+   "Temperature 37c°"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 12,
+  "no": 40,
+  "lang": "mixed",
+  "q": "nures know that Jamal is knowledgeable about the occurrence of PIH when remarks?PIH (Pregnancy induced hypertension)",
+  "q_ar": "ارتفاع الضغط عند الحامل | يتميز ارتفاع ضغط الدم للعامل بوجود فائض بروتين في البول في الاسبوع ٢٠ من الحامل",
+  "options": [
+   "it usually appear anytime during the pregnancy",
+   "it's similar to cardiogenic vascular disease",
+   "PIH occurs during the 1st trimester",
+   "PIH occurs after the 20th weeks"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 13,
+  "no": 41,
+  "lang": "en",
+  "q": "After several hrours of MgS04 administration to Jamila, she should be observed for clinical manifestations",
+  "q_ar": null,
+  "options": [
+   "Hypercalcemia",
+   "hypermagensmia",
+   "hypoglycemia",
+   "Hypokalmia kalemia"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 13,
+  "no": 42,
+  "lang": "en",
+  "q": "Which of the following may happen if the uterus becomes over stimulated by oxytogin during induction of labor?",
+  "q_ar": null,
+  "options": [
+   "Weak contractions prolonged to more than 70 sec",
+   "Titanic contractions prolonged for more than 90 sec",
+   "Increased pain with bright red vaginal bleeding",
+   "Increased restlessness"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f02",
+  "page": 13,
+  "no": 43,
+  "lang": "en",
+  "q": "The average length of the umbilical cord in human is:",
+  "q_ar": null,
+  "options": [
+   "5 cm",
+   "55 cm",
+   "amniotic fluid",
+   "45 cm"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f02",
+  "page": 13,
+  "no": 44,
+  "lang": "en",
+  "q": "Which of the following is not a part of conceptus?",
+  "q_ar": null,
+  "options": [
+   "Deciduas",
+   "amniotic fluid",
+   "fetus",
+   "membranes"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f02",
+  "page": 14,
+  "no": 45,
+  "lang": "mixed",
+  "q": "According to Salwa, her LMP is November 15, 2017, using the Naegle's ule what EDD?",
+  "q_ar": "نهايه الورقه التفاصيل",
+  "options": [
+   "August 22, 2018",
+   "August 18, 2018",
+   "July 22,2018",
+   "February 22, 2018"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f02",
+  "page": 14,
+  "no": 46,
+  "lang": "en",
+  "q": "Sawa wants to know how many fetal movements per hour is normal. The correct response of Nurse Karema is: [printed note after options: Kick count (fetal movements counting Instruct the patient to notify the heath care provider if there are fewer than 10 kick in 2 consecutive 2_ hours periods]",
+  "q_ar": null,
+  "options": [
+   "Twice",
+   "therice",
+   "four times",
+   "10 _12 times"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f02",
+  "page": 15,
+  "no": 47,
+  "lang": "en",
+  "q": "Mona gave birth to a term baby with yellowish skin a and sclera. The balby is pla phototherapy. The treatment is effective when hlood test shows:",
+  "q_ar": null,
+  "options": [
+   "low serum bilirubin",
+   "O2 level of 99%",
+   "Normal RBC and WBC count",
+   "low platelet count"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 15,
+  "no": 48,
+  "lang": "en",
+  "q": "Oxygen and co2 are exchange in the placentiaThrough of the process.Of",
+  "q_ar": null,
+  "options": [
+   "Panocytosis",
+   "Diffusion",
+   "Faceluted diffusion",
+   "active transfusion"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 15,
+  "no": 49,
+  "lang": "en",
+  "q": "Anurse in a newborn nursery is performing an assessme of a newborn infant. The nurse is preparing to measure the head circumference of the infant. The nurse would most appropriate lying:",
+  "q_ar": null,
+  "options": [
+   "Wrap the tape measure araund t the infant's head and measure just above the eycbrows.",
+   "Place the tape measture under the infants head at the base of the skull and wrap around to the front just above the eyes",
+   "Place the tape measure under the infants hend, wrap araund the occiput, and measure just above the eyes",
+   "Place the tape mensure at the back of the infint's head, wrap around across the ears, and measure across the infant's mouth."
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f02",
+  "page": 16,
+  "no": 50,
+  "lang": "en",
+  "q": "Vitamin K is preseribed for a neonate. A nurse prepares to Administer the medication in which muscle site?",
+  "q_ar": null,
+  "options": [
+   "Deltoid.",
+   "Triceps",
+   "Vastuslateralis",
+   "Biceps"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 1,
+  "no": 1,
+  "lang": "en",
+  "q": "Aminophylin is often administered to the patient acute asthma to:",
+  "q_ar": null,
+  "options": [
+   "increasethe pulmonary artery pressure",
+   "Decrease the bronchospasm",
+   "increase the peripheral vascular",
+   "decrease the cardiac irritability"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 1,
+  "no": 2,
+  "lang": "en",
+  "q": "Care of the indwelling urinary catheter involves the followings, EXCEPT:",
+  "q_ar": null,
+  "options": [
+   "tube checking for kinks",
+   "routine irrigation",
+   "perineal area cleaning",
+   "urine bag drainage at a lower level."
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 1,
+  "no": 3,
+  "lang": "en",
+  "q": "Which of the following blood tests must be performed before a blood transfusion?",
+  "q_ar": null,
+  "options": [
+   "prothrombin and coagulation time",
+   "Blood typing and cross matching",
+   "Bleeding and clotting time",
+   "Complete blood count (CBC) and electrolyte levels."
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 1,
+  "no": 4,
+  "lang": "en",
+  "q": "when blood transfusion reaction occur, the immediate nursing action is:",
+  "q_ar": null,
+  "options": [
+   "monitor vital signs closely",
+   "Give antipyretic drugs",
+   "document relevant data",
+   "Discontinue the blood transfusion"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 2,
+  "no": 5,
+  "lang": "en",
+  "q": "to monitor cardiovascular stability, the nurse assess the patient's:",
+  "q_ar": null,
+  "options": [
+   "color and moisture",
+   "skin temperature",
+   "cardiac rhythm",
+   "All the above"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 2,
+  "no": 6,
+  "lang": "en",
+  "q": "All of the followings are used for monitoring the deterioration in renal funcation EXCEPT",
+  "q_ar": null,
+  "options": [
+   "White blood cells count",
+   "Serum creatinine.",
+   "blood urea nitrogen",
+   "urine volum"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 2,
+  "no": 7,
+  "lang": "en",
+  "q": "When the patient has gastric bleeding, the color of the stool may be changed",
+  "q_ar": null,
+  "options": [
+   "Bright red",
+   "pink",
+   "Yellow",
+   "black tarry"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 3,
+  "no": 8,
+  "lang": "en",
+  "q": "which of the following is not a desirable nursing action during patient understands general anesthesia?",
+  "q_ar": null,
+  "options": [
+   "Encourage deep breathing exercises",
+   "Positioning the patient supine",
+   "suctioning to remove excess respiratory secretions",
+   "assess respiratory function"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 3,
+  "no": 9,
+  "lang": "en",
+  "q": "The dressing is applied to the wound for the following reason :",
+  "q_ar": null,
+  "options": [
+   "tube absorb drainage",
+   "to splint or immobilize the wound",
+   "protect the wound from bacteria contaminated",
+   "All of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 3,
+  "no": 10,
+  "lang": "en",
+  "q": "the best position for the patient with head injury and high intracranial pressure is :",
+  "q_ar": null,
+  "options": [
+   "Elevation the head of the bed to 30 _45degrees",
+   "supin position and head turned to least",
+   "High flowers position with knee flexion and legs elevated",
+   "Side-lying position with hips and knees flexed"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 4,
+  "no": 11,
+  "lang": "en",
+  "q": "The overall goals of fracture treatment fracture are:",
+  "q_ar": null,
+  "options": [
+   "atomical goals realignment of bone fractures fragments",
+   "immobilization to maintain realignment",
+   "restoration of function of the part",
+   "All of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 4,
+  "no": 12,
+  "lang": "en",
+  "q": "The instruction given to the patient with a cast should include:",
+  "q_ar": null,
+  "options": [
+   "awareness of signs of developing peripheral neurovascular complication",
+   "Hazards of walking on a new cast",
+   "joint exercise above and below the cast",
+   "All of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 4,
+  "no": 13,
+  "lang": "en",
+  "q": "The preoperative patient is kept NPO \" after midnight in order of prevent:",
+  "q_ar": null,
+  "options": [
+   "over hydration or fluid over-load postoperatively",
+   "urinary incontinence in the operating room",
+   "vomiting and aspiration during anesthesia",
+   "NO of the above"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 4,
+  "no": 14,
+  "lang": "en",
+  "q": "The management of the hypovolemic shock include:",
+  "q_ar": null,
+  "options": [
+   "the timely admiistration of IV fluids",
+   "Blood and blood products",
+   "medcation the elevate blood pressure",
+   "All of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 5,
+  "no": 15,
+  "lang": "en",
+  "q": "patient in the ER has sever hemorrhage, which of the following is a manifestation hemorrhage shock:",
+  "q_ar": null,
+  "options": [
+   "apprehensive restless and thirsty",
+   "the skin is cold,moist,and pale and temperature falls",
+   "the pulse rate increase, and respirations are rapid and deep",
+   "ALLOF THE ABOVE"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 5,
+  "no": 16,
+  "lang": "en",
+  "q": "Dysrhythmias may result from the following, Except:",
+  "q_ar": null,
+  "options": [
+   "Electrolyte balance",
+   "altered respiratory function",
+   "pain",
+   "Hypothermi"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 5,
+  "no": 17,
+  "lang": "en",
+  "q": "the following measures are used to determin patient readiness for discharge from the post recovery room EXCEPT",
+  "q_ar": null,
+  "options": [
+   "stable v/s",
+   "orintation to person, place,event,time",
+   "puls oximeter reading indicated adequate blood oxygen saturation",
+   "urine output at last 10ml/h"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 6,
+  "no": 18,
+  "lang": "en",
+  "q": ":Safety issues in the Operation room include the fallowing EXCEITE",
+  "q_ar": null,
+  "options": [
+   "exposure to blood and body fluids",
+   "hazards associated with laser beans",
+   "exposure to latex and adhesive substances",
+   "exposure to the artificial light"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 6,
+  "no": 19,
+  "lang": "en",
+  "q": "_The physician preseribed an IV dextrose 5% in water at 100ml flow rate be if the drops factors is 15gtt=1ml",
+  "q_ar": null,
+  "options": [
+   "5 gtt/minute",
+   "13 gttminute",
+   "25 gtt/minute",
+   "50 gtt/minute"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 6,
+  "no": 20,
+  "lang": "en",
+  "q": "The Physicians preseribedo.5 gr of paracetamolthe the equivalents dose in milligrams is :",
+  "q_ar": null,
+  "options": [
+   "0.6 mg",
+   "10 mg",
+   "60 mg",
+   "500 mg"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 6,
+  "no": 21,
+  "lang": "en",
+  "q": "The physician prescribed ampicilin capsule TID PO, this means the drug should be given:",
+  "q_ar": null,
+  "options": [
+   "Three times a day orally",
+   "Three times a day after meals",
+   "Two time a day by mouth",
+   "Two times a day before meals"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 7,
+  "no": 22,
+  "lang": "en",
+  "q": "When transferring a patient from a bed to a chair, whieh muscles the nurse should use to avoid back injury?",
+  "q_ar": null,
+  "options": [
+   "Back muscles",
+   "Leg muscles",
+   "Upper arm muscles",
+   "Abdominal muscles"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f03",
+  "page": 7,
+  "no": 23,
+  "lang": "en",
+  "q": "After routine patient contact, handwashing should last at last: :",
+  "q_ar": null,
+  "options": [
+   "10_15 seconds",
+   "1minute",
+   "2minute",
+   "3 minute"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 7,
+  "no": 24,
+  "lang": "en",
+  "q": "All of the following statements are true bout donning serial gloves Except",
+  "q_ar": null,
+  "options": [
+   "The frist gloves picking up by grasping the inside of the cuff",
+   "The second gloves picking up by inserting. The gloves fingers under the cuff outside.",
+   "the gloves adjusted by sliding the gloved finger under the sterile cuff and pulling the glove",
+   "the inside of the glove is considered sterile"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 8,
+  "no": 25,
+  "lang": "en",
+  "q": "which the following clinical procedure always requires urinary surgical asepsis :",
+  "q_ar": null,
+  "options": [
+   "vaginal installation of conjugated estrogen",
+   "urinary catherization",
+   "nasogestric tube insertion",
+   "colostomy irrigation"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 8,
+  "no": 26,
+  "lang": "en",
+  "q": "which of the following consitition a break in sterile technique while preparing sterile filed for a dressing change",
+  "q_ar": null,
+  "options": [
+   "using sterile forceps, rather than sterile gloves to handle a sterile item",
+   "touching the outside wapper of sterilized material without sterile gloves",
+   "place ingredients a sterile object on the edge of the sterile filed",
+   "pouring out a small amount of solultion (15 to 30 ml/before pouring the solultion into a sterile container"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 9,
+  "no": 27,
+  "lang": "en",
+  "q": "Healing of the surgical wound is most affected by :",
+  "q_ar": null,
+  "options": [
+   "fat intake",
+   "protein intake",
+   "carbohydrate intake",
+   "non of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 9,
+  "no": 28,
+  "lang": "en",
+  "q": "Which of the following patients is at greatest risk for developing pressure ulcers ?",
+  "q_ar": null,
+  "options": [
+   "An alert, chronic arthritic patient treated with steroids and asprin",
+   "An 88-year old incontinent patient with gastric cancer who is confined to has bed at hom",
+   "An apathetic 63_year old COPD patient receiving nasal oxygen Vai cannula",
+   "All confused 78-year old patient with congestive heart failure CHF who requires"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f03",
+  "page": 9,
+  "no": 29,
+  "lang": "en",
+  "q": "An infected patient has chills and begin shivering, the best nursing intervention is to",
+  "q_ar": null,
+  "options": [
+   "Apply iced alcohol sponges",
+   "provide increased cool liquids",
+   "provide additional body bed clothes",
+   "provide increased ventilation"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 10,
+  "no": 30,
+  "lang": "en",
+  "q": "_ which of the the following is the most important purpos in hand washing",
+  "q_ar": null,
+  "options": [
+   "to promote hand circulation",
+   "to prevent the transfer of microorganisms",
+   "to avoid touching the elimination with a dirty hand",
+   "the provide comfort"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 10,
+  "no": 31,
+  "lang": "en",
+  "q": "signs &symptoms systemic wound infection include?",
+  "q_ar": null,
+  "options": [
+   "increased pulse rate &temperature",
+   "An elevated white blood cells count",
+   "wound swelling, warmth, tenderness, readness",
+   "a&b"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 10,
+  "no": 32,
+  "lang": "en",
+  "q": "which of the following in not a factor that affecting oxygenation",
+  "q_ar": null,
+  "options": [
+   "Anemia",
+   "Atherosclerosis",
+   "arthroprosis",
+   "heart failure"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 10,
+  "no": 33,
+  "lang": "en",
+  "q": "medical asispsis uses practice to reduce :",
+  "q_ar": null,
+  "options": [
+   "the number of Microorganism",
+   "growth of microorganisms",
+   "spread of microorganisms",
+   "All of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 11,
+  "no": 34,
+  "lang": "en",
+  "q": "Inability of unconscious patient to blink eyes may results in:",
+  "q_ar": null,
+  "options": [
+   "Drying of the cornea.",
+   "Comeal ulceration",
+   "eye swelling and infection",
+   "All of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 11,
+  "no": 35,
+  "lang": "en",
+  "q": "Immediate Emergency intervention for patient with spinal cord injury is:",
+  "q_ar": null,
+  "options": [
+   "Encourage the patient to do passive exercises",
+   "Change position frequently.",
+   "administrated analgesics",
+   "spinal immobilization"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 11,
+  "no": 36,
+  "lang": "en",
+  "q": "The hormone responsible for the development of the ovum during the menstrual cycle is",
+  "q_ar": null,
+  "options": [
+   "estrogen",
+   "progesterone",
+   "follicle stimulat hormone FSH",
+   "luteinzing hormone LH"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 11,
+  "no": 37,
+  "lang": "en",
+  "q": "During which of the following phase ofr the menstrual cycle is it ideal for implantation of a fertilized egg to occur",
+  "q_ar": null,
+  "options": [
+   "ischaemia phase",
+   "Menstrual phase",
+   "Proliferative phase",
+   "Secretory phase"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 11,
+  "no": 38,
+  "lang": "en",
+  "q": "Which of the followin g methods would be avoided for a woman who is 38 years old,3 chidren and smokes a pack of cigarette per day",
+  "q_ar": null,
+  "options": [
+   "IUD Intra-uterine a device )",
+   "Oral contraceptives",
+   "Ceryical cap"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 12,
+  "no": 39,
+  "lang": "en",
+  "q": "Magnesium Sulfate is ordered per IV. Which of the following should prompt the note to refer to the obstetricians prior to administration of the drug?",
+  "q_ar": null,
+  "options": [
+   "B/p=180/100",
+   "urine output is 40ml/h",
+   "RR=12b/m",
+   "Temperature 37c°"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 12,
+  "no": 40,
+  "lang": "mixed",
+  "q": "nures know that Jamal is knowledgeable about the occurrence of PIH when remarks?PIH (Pregnancy induced hypertension)",
+  "q_ar": "ارتفاع الضغط عند الحامل | يتميز ارتفاع ضغط الدم للعامل بوجود فائض بروتين في البول في الاسبوع ٢٠ من الحامل",
+  "options": [
+   "it usually appear anytime during the pregnancy",
+   "it's similar to cardiogenic vascular disease",
+   "PIH occurs during the 1st trimester",
+   "PIH occurs after the 20th weeks"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 13,
+  "no": 41,
+  "lang": "en",
+  "q": "After several hrours of MgS04 administration to Jamila, she should be observed for clinical manifestations",
+  "q_ar": null,
+  "options": [
+   "Hypercalcemia",
+   "hypermagensmia",
+   "hypoglycemia",
+   "Hypokalmia kalemia"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 13,
+  "no": 42,
+  "lang": "en",
+  "q": "Which of the following may happen if the uterus becomes over stimulated by oxytogin during induction of labor?",
+  "q_ar": null,
+  "options": [
+   "Weak contractions prolonged to more than 70 sec",
+   "Titanic contractions prolonged for more than 90 sec",
+   "Increased pain with bright red vaginal bleeding",
+   "Increased restlessness"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f03",
+  "page": 13,
+  "no": 43,
+  "lang": "en",
+  "q": "The average length of the umbilical cord in human is:",
+  "q_ar": null,
+  "options": [
+   "5 cm",
+   "55 cm",
+   "amniotic fluid",
+   "45 cm"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f03",
+  "page": 13,
+  "no": 44,
+  "lang": "en",
+  "q": "Which of the following is not a part of conceptus?",
+  "q_ar": null,
+  "options": [
+   "Deciduas",
+   "amniotic fluid",
+   "fetus",
+   "membranes"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f03",
+  "page": 14,
+  "no": 45,
+  "lang": "mixed",
+  "q": "According to Salwa, her LMP is November 15, 2017, using the Naegle's ule what EDD?",
+  "q_ar": "نهايه الورقه التفاصيل",
+  "options": [
+   "August 22, 2018",
+   "August 18, 2018",
+   "July 22,2018",
+   "February 22, 2018"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f03",
+  "page": 14,
+  "no": 46,
+  "lang": "en",
+  "q": "Sawa wants to know how many fetal movements per hour is normal. The correct response of Nurse Karema is: [printed note after options: Kick count (fetal movements counting Instruct the patient to notify the heath care provider if there are fewer than 10 kick in 2 consecutive 2_ hours periods]",
+  "q_ar": null,
+  "options": [
+   "Twice",
+   "therice",
+   "four times",
+   "10 _12 times"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f03",
+  "page": 15,
+  "no": 47,
+  "lang": "en",
+  "q": "Mona gave birth to a term baby with yellowish skin a and sclera. The balby is pla phototherapy. The treatment is effective when hlood test shows:",
+  "q_ar": null,
+  "options": [
+   "low serum bilirubin",
+   "O2 level of 99%",
+   "Normal RBC and WBC count",
+   "low platelet count"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 15,
+  "no": 48,
+  "lang": "en",
+  "q": "Oxygen and co2 are exchange in the placentiaThrough of the process.Of",
+  "q_ar": null,
+  "options": [
+   "Panocytosis",
+   "Diffusion",
+   "Faceluted diffusion",
+   "active transfusion"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 15,
+  "no": 49,
+  "lang": "en",
+  "q": "Anurse in a newborn nursery is performing an assessme of a newborn infant. The nurse is preparing to measure the head circumference of the infant. The nurse would most appropriate lying:",
+  "q_ar": null,
+  "options": [
+   "Wrap the tape measure araund t the infant's head and measure just above the eycbrows.",
+   "Place the tape measture under the infants head at the base of the skull and wrap around to the front just above the eyes",
+   "Place the tape measure under the infants hend, wrap araund the occiput, and measure just above the eyes",
+   "Place the tape mensure at the back of the infint's head, wrap around across the ears, and measure across the infant's mouth."
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f03",
+  "page": 16,
+  "no": 50,
+  "lang": "en",
+  "q": "Vitamin K is preseribed for a neonate. A nurse prepares to Administer the medication in which muscle site?",
+  "q_ar": null,
+  "options": [
+   "Deltoid.",
+   "Triceps",
+   "Vastuslateralis",
+   "Biceps"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 1,
+  "no": 1,
+  "lang": "en",
+  "q": "All of the following are normally present in urine result EXCEPT:",
+  "q_ar": null,
+  "options": [
+   "Urea.",
+   "Createnin.",
+   "Albumin.",
+   "Sodium."
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 1,
+  "no": 2,
+  "lang": "en",
+  "q": "All of the following are etiologic factors of fluid volume deficit except:",
+  "q_ar": null,
+  "options": [
+   "Vomiting",
+   "Diarrhea",
+   "Renal failure",
+   "Excessive sweating"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 1,
+  "no": 3,
+  "lang": "en",
+  "q": "All of the following are most common complications postoperatively except:",
+  "q_ar": null,
+  "options": [
+   "Hemorrhage",
+   "Tonsillitis",
+   "Wound infection",
+   "Pain"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 1,
+  "no": 4,
+  "lang": "en",
+  "q": "All of the following are clinical manifestations of fluid volume excess except:",
+  "q_ar": null,
+  "options": [
+   "Edema",
+   "Oligurea",
+   "Distended neck veins",
+   "Increased CVP"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 1,
+  "no": 5,
+  "lang": "en",
+  "q": "Apnea is medical term means:",
+  "q_ar": null,
+  "options": [
+   "Rapid pulse",
+   "Increase body temperature",
+   "Stop breathing",
+   "Low blood pressure"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 1,
+  "no": 6,
+  "lang": "en",
+  "q": "All of the following are nursing actions during preoperative nursing care except:",
+  "q_ar": null,
+  "options": [
+   "Observe incisional site",
+   "Remove hairpins and hairpieces",
+   "Remove jewelry and prostheses",
+   "Assess all vital signs"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 1,
+  "no": 7,
+  "lang": "en",
+  "q": "Signs and symptoms of Hypovolemic shock are all of the following except:",
+  "q_ar": null,
+  "options": [
+   "Tachycardia",
+   "Hypertension",
+   "Pallor and cyanosis",
+   "Tachypnea"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 1,
+  "no": 8,
+  "lang": "en",
+  "q": "Normal Saline 0.9% solution is considered as which of the following:",
+  "q_ar": null,
+  "options": [
+   "Isotonic solution",
+   "Hypotonic solution",
+   "Hypertonic solution",
+   "Non of the above"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 2,
+  "no": 9,
+  "lang": "en",
+  "q": "When blood sugar level is above normal range, this means that patient has:",
+  "q_ar": null,
+  "options": [
+   "Hypotension",
+   "Hypoglycemia",
+   "Hyperglycemia",
+   "Bradycardia"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 2,
+  "no": 10,
+  "lang": "en",
+  "q": "The most important thing should be done after any nursing action is:",
+  "q_ar": null,
+  "options": [
+   "Documentation",
+   "Nursing diagnosis",
+   "Planning",
+   "All of the above"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 2,
+  "no": 11,
+  "lang": "en",
+  "q": "All of the following are assessment sites for body temperature except:",
+  "q_ar": null,
+  "options": [
+   "Oral Site.",
+   "Rectal Site.",
+   "Axillary Site.",
+   "Apical"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 2,
+  "no": 12,
+  "lang": "en",
+  "q": "Mr. Ashraf aged 35 years old, his pulse rate is found to be 120 bpm. His heart rate could be described as:",
+  "q_ar": null,
+  "options": [
+   "Tachypnea.",
+   "Tachycardia.",
+   "Bradypnea",
+   "Bradycardia."
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 2,
+  "no": 13,
+  "lang": "en",
+  "q": "Which of the following factors are affecting body temperature:",
+  "q_ar": null,
+  "options": [
+   "Food intake.",
+   "Age and Gender",
+   "Climate.",
+   "All of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 2,
+  "no": 14,
+  "lang": "en",
+  "q": "The condition in which a person is aware of his or her own heart beats is called:",
+  "q_ar": null,
+  "options": [
+   "Palpitation.",
+   "Dysrhythmia.",
+   "Pulse rhythm.",
+   "Arrhythmia."
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 2,
+  "no": 15,
+  "lang": "en",
+  "q": "The condition in which the body temperature is above the average normal is called:",
+  "q_ar": null,
+  "options": [
+   "Bradypnea",
+   "Fever.",
+   "Hypertension.",
+   "Hypothermia."
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 2,
+  "no": 16,
+  "lang": "en",
+  "q": "Which of the following best describes the technique of palpation:",
+  "q_ar": null,
+  "options": [
+   "The use of the sense of hearing to listen for sounds.",
+   "The use of tapping on a particular part of the body to produce sounds.",
+   "The use of the senses to evaluate general appearance of the patient.",
+   "The sense of touch to feel the body by slight or deep pressure."
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 2,
+  "no": 17,
+  "lang": "en",
+  "q": "Inhalation or inspiration means:",
+  "q_ar": null,
+  "options": [
+   "Stop breathing.",
+   "Difficult breathing.",
+   "Breathing out.",
+   "Breathing in."
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 3,
+  "no": 18,
+  "lang": "en",
+  "q": "Normal body temperature is ranging from:",
+  "q_ar": null,
+  "options": [
+   "35.8 – 37.4 C",
+   "34.5 – 36.5 C",
+   "35.0 – 38.0 C",
+   "36.5 – 38.5 C"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 3,
+  "no": 19,
+  "lang": "en",
+  "q": "Pulse pressure is defined as which of the following:",
+  "q_ar": null,
+  "options": [
+   "Difference between systolic and diastolic pressure.",
+   "Expansion of the artery as blood moves through it.",
+   "Difference between arterial and venous pressure.",
+   "Difference between venous and systolic pressure."
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 3,
+  "no": 20,
+  "lang": "en",
+  "q": "Sleep is defined as:",
+  "q_ar": null,
+  "options": [
+   "A state of arousable unconsciousness.",
+   "A state of emotional rest and excessive sleepiness.",
+   "A state of drowsiness and decreased activity.",
+   "A state of decreased activity and mental stimulation."
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 3,
+  "no": 21,
+  "lang": "en",
+  "q": "Unoccupied bed making means:",
+  "q_ar": null,
+  "options": [
+   "Changing linen when the patient remains in the bed.",
+   "Changing linen when the bed empty.",
+   "State in which a person is relieved of distress.",
+   "None of the above."
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 3,
+  "no": 22,
+  "lang": "en",
+  "q": "The advantage of use head to toe approach when you assess the patient:",
+  "q_ar": null,
+  "options": [
+   "It is difficult to detect the disease or problem.",
+   "It helps to prevent overlooking some aspect of data collection.",
+   "It increase the number of position changes.",
+   "It takes more time."
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 3,
+  "no": 23,
+  "lang": "en",
+  "q": "The most accurate time for measuring pulse rate is:",
+  "q_ar": null,
+  "options": [
+   "30 seconds.",
+   "15 seconds.",
+   "60 seconds.",
+   "45 seconds."
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 3,
+  "no": 24,
+  "lang": "en",
+  "q": "Normal respiratory rate at rest per minute in adults is ranging from:",
+  "q_ar": null,
+  "options": [
+   "10-14.",
+   "12-20.",
+   "20-25.",
+   "20-30."
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 3,
+  "no": 25,
+  "lang": "en",
+  "q": "Practices that promote health through personal cleanliness is called:",
+  "q_ar": null,
+  "options": [
+   "General appearance.",
+   "Self image.",
+   "Insomnia.",
+   "Hygiene."
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 3,
+  "no": 26,
+  "lang": "en",
+  "q": "All of the following are therapeutic bathes except:",
+  "q_ar": null,
+  "options": [
+   "Shampooing bath.",
+   "Whirlpool bath,",
+   "Medicated bath.",
+   "Sitz bath."
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 4,
+  "no": 27,
+  "lang": "en",
+  "q": "Orthopnea is defined as:",
+  "q_ar": null,
+  "options": [
+   "Breathing facilitated by sitting or standing up.",
+   "Absence of breathing.",
+   "Rapid breathing.",
+   "Difficult breathing."
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 4,
+  "no": 28,
+  "lang": "en",
+  "q": "Which of the following is a form of radiograhpy:",
+  "q_ar": null,
+  "options": [
+   "Fluoroscopy.",
+   "Contrast medium.",
+   "C.T. Scan",
+   "All of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 4,
+  "no": 29,
+  "lang": "en",
+  "q": "The examination that indicates physical inspection of the vagina and cervix with palpation of uterus and ovaries is called:",
+  "q_ar": null,
+  "options": [
+   "A Pap test.",
+   "Electrocardiography.",
+   "Pelvic examination.",
+   "Paracentesis."
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 4,
+  "no": 30,
+  "lang": "en",
+  "q": "Procedure that involves the insertion of a needle between lumber vertebra in the spine but below the spinal cord itself is called:",
+  "q_ar": null,
+  "options": [
+   "Lumber puncture.",
+   "Paracentesis.",
+   "Pelvic Examination.",
+   "Electromyography."
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 4,
+  "no": 31,
+  "lang": "en",
+  "q": "Which of the following is considered as a benefit of bathing:",
+  "q_ar": null,
+  "options": [
+   "Improving self image.",
+   "Eliminating body odor.",
+   "Stimulating circulation.",
+   "All of the above."
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 4,
+  "no": 32,
+  "lang": "en",
+  "q": "The patient is reclining on back with the feet elevated in metal support, this position is called:",
+  "q_ar": null,
+  "options": [
+   "Knee-Chest position.",
+   "Lithotomy position.",
+   "Modified Standing position.",
+   "Sims position."
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 4,
+  "no": 33,
+  "lang": "en",
+  "q": "Exchange of oxygen and carbon dioxide when taking air in and out of the chest is:",
+  "q_ar": null,
+  "options": [
+   "Respiration.",
+   "Circulation.",
+   "Blood pressure.",
+   "None of the above."
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 5,
+  "no": 34,
+  "lang": "en",
+  "q": "Ventilation means:",
+  "q_ar": null,
+  "options": [
+   "Movement of air in and out of the chest.",
+   "Movement of air out of the chest.",
+   "Movement of air in the chest.",
+   "Non of the above."
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 5,
+  "no": 35,
+  "lang": "en",
+  "q": "All of the following are common factors that invalidated examination or test results except:",
+  "q_ar": null,
+  "options": [
+   "Inadequate specimen volume.",
+   "Failure to send the specimen in a timely manner.",
+   "Correct diet preparation.",
+   "Insufficient bowel cleansing."
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 5,
+  "no": 36,
+  "lang": "en",
+  "q": "All of the following are physical assessment techniques except:",
+  "q_ar": null,
+  "options": [
+   "Inspection.",
+   "Percussion.",
+   "Puncturing.",
+   "Palpation"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 5,
+  "no": 37,
+  "lang": "en",
+  "q": "All of the following are post procedural nursing responsibilities except:",
+  "q_ar": null,
+  "options": [
+   "The nurse has to attend the patient for comfort and rest.",
+   "Care of specimens.",
+   "Assist the examiner.",
+   "Record and report of information."
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 5,
+  "no": 38,
+  "lang": "en",
+  "q": "A patient is prepared for hemodialysis. He receives heparin before therapy before primarily to help:",
+  "q_ar": null,
+  "options": [
+   "Relieve discomfort",
+   "Prevent blood clotting",
+   "Maintain blood pressure",
+   "Stimulate the production of urine"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 5,
+  "no": 39,
+  "lang": "en",
+  "q": "Another name for a stone in the urinary tract is:",
+  "q_ar": null,
+  "options": [
+   "Calix",
+   "Calculus",
+   "Calcemia",
+   "Calcitonin"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 5,
+  "no": 40,
+  "lang": "en",
+  "q": "Urine that remains in pt's bladder after he voids is called:",
+  "q_ar": null,
+  "options": [
+   "Reflux urine",
+   "Over flow urine",
+   "Retention urine",
+   "Residual urine"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 5,
+  "no": 41,
+  "lang": "en",
+  "q": "For a normal person the urine specific gravity is ranged between:",
+  "q_ar": null,
+  "options": [
+   "1.000 and 1.010",
+   "1.015 and 1.025",
+   "1.025 and 1.050",
+   "1.050 and 1.070"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 6,
+  "no": 42,
+  "lang": "en",
+  "q": "Which of the following conditions does not predispose the development of renal failure:",
+  "q_ar": null,
+  "options": [
+   "Mismatched blood transfusion",
+   "Sever dehydration",
+   "Septicemia",
+   "Cerebrovascular accident (CVA)"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 6,
+  "no": 43,
+  "lang": "en",
+  "q": "Which of the following terms is used to indicate total urine out put of less than 50 ml in 24 hours:",
+  "q_ar": null,
+  "options": [
+   "Anuria",
+   "Oliguria",
+   "Dysuria",
+   "Polyuria"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 6,
+  "no": 44,
+  "lang": "en",
+  "q": "Which of the following terms refers to a disorder characterized by proteinuria, edema, hypoalbuminuria, and hyperlipidemia.",
+  "q_ar": null,
+  "options": [
+   "Pyelonephritis",
+   "Interstitial cystitis",
+   "Nephrotic syndrome",
+   "Glomerulonephritis"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 6,
+  "no": 45,
+  "lang": "en",
+  "q": "The name of the procedure for the removal of urinary bladder stone is:",
+  "q_ar": null,
+  "options": [
+   "Cystolithiasis",
+   "Cystolithectomy",
+   "Cystometry",
+   "Cystoextraction"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 6,
+  "no": 46,
+  "lang": "en",
+  "q": "Patients who are receiving hemodialysis for ESRD (end stage renal failure), are especially prone to develop:",
+  "q_ar": null,
+  "options": [
+   "Peritonitis",
+   "Renal calculi",
+   "Bladder infection",
+   "Serum hepatitis"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 6,
+  "no": 47,
+  "lang": "en",
+  "q": "After the IVP, the nurse should anticipate incorporating which of the following measures into the client plan of care:",
+  "q_ar": null,
+  "options": [
+   "Maintaining bed rest.",
+   "Encouraging adequate fluid intake.",
+   "Assessing for hematuria.",
+   "Administering laxatives."
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 6,
+  "no": 48,
+  "lang": "en",
+  "q": "The nurse should instruct the female to reduce the recurrent UTI as the following:",
+  "q_ar": null,
+  "options": [
+   "Cleanse around the perineum with front to back cleansing.",
+   "Wash genitalia in tub bath.",
+   "Drink alittle amount of fluid.",
+   "Non of the above."
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 6,
+  "no": 49,
+  "lang": "en",
+  "q": "Acetyl calsilic acid (Aspirin) contraindicated to be given in:",
+  "q_ar": null,
+  "options": [
+   "Pt. with hemorrhage .",
+   "Severe headack.",
+   "Heart disease",
+   "Rheumatic fever"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 6,
+  "no": 50,
+  "lang": "en",
+  "q": "Gentamicin is:",
+  "q_ar": null,
+  "options": [
+   "Broad spectrum antibiotics .",
+   "Antimetabolite .",
+   "Aminoglycocides",
+   "A and c"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 7,
+  "no": 51,
+  "lang": "en",
+  "q": "Paracetamole is:",
+  "q_ar": null,
+  "options": [
+   "Analgesic .",
+   "Antipyretic .",
+   "Antibiotic",
+   "A and B"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 7,
+  "no": 52,
+  "lang": "en",
+  "q": "All of the following are analgesics except:",
+  "q_ar": null,
+  "options": [
+   "Diclofin",
+   "Flagyl",
+   "Acamol",
+   "Aspirin"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 7,
+  "no": 53,
+  "lang": "en",
+  "q": "Pt. with head trauma should have all the following treatment except:",
+  "q_ar": null,
+  "options": [
+   "IV line catheter",
+   "IV fluid",
+   "Sedatives",
+   "Oxygen"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 7,
+  "no": 54,
+  "lang": "en",
+  "q": "You should instruct the Pt. when taking Prothiasin:",
+  "q_ar": null,
+  "options": [
+   "To take it after 2 hours of meal",
+   "To void after 2 hours",
+   "Not to drive his care",
+   "Don’t worry about vomiting"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 7,
+  "no": 55,
+  "lang": "en",
+  "q": "Diclofin is:",
+  "q_ar": null,
+  "options": [
+   "Antipyretic",
+   "Non steroidal anti-inflammatory drug",
+   "a and b",
+   "Non of the above"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 7,
+  "no": 56,
+  "lang": "en",
+  "q": "Insertion of a tube through the nose into the stomach called:",
+  "q_ar": null,
+  "options": [
+   "Orogastric intubation.",
+   "Nasogastric intubation.",
+   "Nasointestinal intubation.",
+   "Transabdominal tube."
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 7,
+  "no": 57,
+  "lang": "en",
+  "q": "Lavage is:",
+  "q_ar": null,
+  "options": [
+   "Giving nourishment by tube.",
+   "Surgical opening in the stomach.",
+   "Removing substances from the stomach.",
+   "Non of the above."
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 8,
+  "no": 58,
+  "lang": "en",
+  "q": "Normal color of urine is:",
+  "q_ar": null,
+  "options": [
+   "Urine has no color.",
+   "Bright red color.",
+   "Light yellow.",
+   "Light green."
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 8,
+  "no": 59,
+  "lang": "en",
+  "q": "Urinary elimination process means:",
+  "q_ar": null,
+  "options": [
+   "The process of re-absorption of water and minerals in the kidney.",
+   "The process of urine collection in the human bladder.",
+   "The process of releasing excess fluid and metabolic wastes.",
+   "The process of urine assessment by the lab technicians."
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 8,
+  "no": 60,
+  "lang": "en",
+  "q": "Measurement of the NGT as:",
+  "q_ar": null,
+  "options": [
+   "From neck to nose to epigastric region.",
+   "From shoulder to nose to zephoid process.",
+   "From ear to nose to zephoid process.",
+   "From mouth to nose to zephoid process."
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 8,
+  "no": 61,
+  "lang": "en",
+  "q": "Substances associated with childhood poisoning include all of the following except:",
+  "q_ar": null,
+  "options": [
+   "Drugs.",
+   "Cleansing agents.",
+   "Fresh food.",
+   "Cosmetics."
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 8,
+  "no": 62,
+  "lang": "en",
+  "q": "For all the following poisoning situation induce vomiting and gastric lavage recommended except:",
+  "q_ar": null,
+  "options": [
+   "Food poisoning.",
+   "Drug poisoning .",
+   "Caustic and corrosive poisoning .",
+   "Plant poisoning."
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 8,
+  "no": 63,
+  "lang": "en",
+  "q": "Pain transmition begins by stimulation of:",
+  "q_ar": null,
+  "options": [
+   "Nerve plexus.",
+   "Nerve receptors.",
+   "Spinal cord.",
+   "Skin."
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 8,
+  "no": 64,
+  "lang": "en",
+  "q": "Blood pH normal range:",
+  "q_ar": null,
+  "options": [
+   "7.25 – 7.30",
+   "6.40 – 7.00",
+   "7.75 – 8.00",
+   "7.35 – 7.45"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 8,
+  "no": 65,
+  "lang": "en",
+  "q": "Promotion of oxygenation could be occur by:",
+  "q_ar": null,
+  "options": [
+   "Maintain air way open",
+   "Positioning (sitting or fowler)",
+   "Oxygen supply.",
+   "Breathing techniques.",
+   "All of the above.",
+   "Non of the above."
+  ],
+  "answer": 4,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 9,
+  "no": 66,
+  "lang": "en",
+  "q": "Peri-operative period means:",
+  "q_ar": null,
+  "options": [
+   "Total period before surgery",
+   "Total period after surgery",
+   "Total period of (before, during and after surgery)",
+   "Non of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 9,
+  "no": 67,
+  "lang": "en",
+  "q": "All the following factors are considered when selecting a syringe and needle except:",
+  "q_ar": null,
+  "options": [
+   "Depth of the tissue",
+   "Family history",
+   "Type of the drug",
+   "Size of the patient"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 9,
+  "no": 68,
+  "lang": "en",
+  "q": "All the following routs of administration considered parenteral routs except:",
+  "q_ar": null,
+  "options": [
+   "Intradermal",
+   "IV",
+   "SC",
+   "Otic",
+   "Intra-joint",
+   "Ophthalmic",
+   "Both d and f"
+  ],
+  "answer": 6,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 9,
+  "no": 69,
+  "lang": "en",
+  "q": "IV bolus administration means:",
+  "q_ar": null,
+  "options": [
+   "Given drug IV in short period",
+   "Given drug IV in along period",
+   "Given drug IV by infusion",
+   "Given drug IV quickly without dilution"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 9,
+  "no": 70,
+  "lang": "en",
+  "q": "Z-Tract technique used in:",
+  "q_ar": null,
+  "options": [
+   "Deep intramuscular injection",
+   "Irritant drugs",
+   "Both a and b",
+   "Neither a nor b"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 9,
+  "no": 71,
+  "lang": "en",
+  "q": "All the following IM injection sights except:",
+  "q_ar": null,
+  "options": [
+   "Dorsogluteal",
+   "Forearm",
+   "Ventrogluteal",
+   "Vastus lateralis",
+   "Deltoid"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 9,
+  "no": 72,
+  "lang": "en",
+  "q": "In case of meningitis, the CSF examination will be :",
+  "q_ar": null,
+  "options": [
+   "Low protein level.",
+   "Low glucose level.",
+   "Clear appearance.",
+   "Decrease CSF pressure."
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 9,
+  "no": 73,
+  "lang": "en",
+  "q": "All the following are potential complication of meningitis Except:",
+  "q_ar": null,
+  "options": [
+   "Seizures.",
+   "Cerebral infarction or abscess.",
+   "Myocardial infarction.",
+   "Subdural effusion."
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 10,
+  "no": 74,
+  "lang": "en",
+  "q": "All the following is clinical manifestation of a cute glomerulonephritis Except :",
+  "q_ar": null,
+  "options": [
+   "Brown colored urine",
+   "Weight loss.",
+   "Malaise.",
+   "Hypertension"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 10,
+  "no": 75,
+  "lang": "en",
+  "q": "11- All of the following are considered congenital a cyanotic heart disease Except:",
+  "q_ar": null,
+  "options": [
+   "Ventricular septal defect (VSD)",
+   "Tricuspid atresia.",
+   "Coarctation of aorta",
+   "Patent ductus arterioses."
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f06",
+  "page": 10,
+  "no": 76,
+  "lang": "en",
+  "q": "Tetorolgy of fallot is characterized by all of the following Except:",
+  "q_ar": null,
+  "options": [
+   "Right ventricular hypertrophy.",
+   "Pulmonary stenosis",
+   "Ventricular septal defect.",
+   "Atrial septal defect."
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 10,
+  "no": 77,
+  "lang": "en",
+  "q": "Kerning's sign is manifestation for:",
+  "q_ar": null,
+  "options": [
+   "Wiliam's tumor Encephalitis",
+   "Acute Rheumatic Fever.",
+   "Encephalitis",
+   "Meningitis"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 10,
+  "no": 78,
+  "lang": "en",
+  "q": "All of the following are cardinal signs of nephrotic syndrome Except:",
+  "q_ar": null,
+  "options": [
+   "Hypoalbuminemia",
+   "Proteinuria",
+   "Hypocholesterolemia",
+   "Edema"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 10,
+  "no": 79,
+  "lang": "en",
+  "q": "A full-term pregnancy normally ranges between:",
+  "q_ar": null,
+  "options": [
+   "37-40",
+   "38-42",
+   "38-44",
+   "36-40"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 10,
+  "no": 80,
+  "lang": "en",
+  "q": "Morning sickness is caused by:",
+  "q_ar": null,
+  "options": [
+   "Vitamin deficiency",
+   "Exhaustion",
+   "Pregnancy Hormones",
+   "Twins pregnancy"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 10,
+  "no": 81,
+  "lang": "en",
+  "q": "During what phase of the menstrual cycle is an egg (ovum) released?",
+  "q_ar": null,
+  "options": [
+   "Ovulation",
+   "Gestation",
+   "Luteal",
+   "Mittelschmerz",
+   "Incubation"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 11,
+  "no": 82,
+  "lang": "en",
+  "q": "What does amenorrhea mean?",
+  "q_ar": null,
+  "options": [
+   "Painful menstruation",
+   "Menstrual cycle where ovulation does not occur",
+   "Absence of menstrual period",
+   "Heavy bleeding during menstruation"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 11,
+  "no": 83,
+  "lang": "en",
+  "q": "When the foetus is growing inside the uterus it needs nutrients. What provides these nutrients?",
+  "q_ar": null,
+  "options": [
+   "Placenta",
+   "Amniotic sac",
+   "Uterus",
+   "Oviduct"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 11,
+  "no": 84,
+  "lang": "en",
+  "q": "Why is breast milk important to a newly born baby?",
+  "q_ar": null,
+  "options": [
+   "It is the right temperature for the baby",
+   "It is made by its own mother so it is matched to its needs",
+   "It contains antibodies that protect against common microorganisms",
+   "It tastes better than bottle milk"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 11,
+  "no": 85,
+  "lang": "en",
+  "q": "HCG is an acronym for what?",
+  "q_ar": null,
+  "options": [
+   "Human cloning gene",
+   "Human cell gamete",
+   "Human chorionic gonadotropin",
+   "Human corpus growth"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 11,
+  "no": 86,
+  "lang": "en",
+  "q": "The family structure consisting of parents and their dependent children living together is known as a(n):",
+  "q_ar": null,
+  "options": [
+   "Binuclear family",
+   "Reconstituted family",
+   "Nuclear family",
+   "Extended family"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 11,
+  "no": 87,
+  "lang": "en",
+  "q": "Adolescents are at a greater risk for injury from:",
+  "q_ar": null,
+  "options": [
+   "Poisoning and child abduction.",
+   "Automobile accidents, suicide, and substance abuse.",
+   "Home accidents.",
+   "Physiological changes of aging."
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 11,
+  "no": 88,
+  "lang": "en",
+  "q": "The patient lying face down is called:",
+  "q_ar": null,
+  "options": [
+   "Supine",
+   "Prone",
+   "Fowler's",
+   "Lateral"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 11,
+  "no": 89,
+  "lang": "en",
+  "q": "Which of the following has had the greatest impact on reducing infant mortality in the United States?",
+  "q_ar": null,
+  "options": [
+   "Improvements in perinatal care",
+   "Decreased incidence of congenital abnormalities",
+   "Better maternal nutrition",
+   "Improved funding for health care"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 11,
+  "no": 90,
+  "lang": "en",
+  "q": "Which of the following is FALSE concerning gestational diabetes in mothers-to-be?",
+  "q_ar": null,
+  "options": [
+   "The diabetes usually disappears after birth",
+   "Their babies may experience hypo-glycemia after birth",
+   "Their babies are commonly born with breathing difficulties",
+   "Their newborns tend to be underweight"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 12,
+  "no": 91,
+  "lang": "en",
+  "q": "What is polyhydramnios?",
+  "q_ar": null,
+  "options": [
+   "Excessive vomiting during pregnancy",
+   "Excessive maternal hair growth",
+   "Excessive maternal swelling",
+   "Excessive fluid around the fetus"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 12,
+  "no": 92,
+  "lang": "en",
+  "q": "Preeclampsia is another possible complication of pregnancy. Which of the following is NOT characteristic of preeclampsia?",
+  "q_ar": null,
+  "options": [
+   "protein in the urine",
+   "high blood pressure",
+   "vaginal bleeding",
+   "swelling"
+  ],
+  "answer": 2,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 12,
+  "no": 93,
+  "lang": "en",
+  "q": "Pregnancy Lasts on average",
+  "q_ar": null,
+  "options": [
+   "280 days from last period",
+   "37 weeks",
+   "42 weeks",
+   "40 weeks",
+   "a & c"
+  ],
+  "answer": 4,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 12,
+  "no": 94,
+  "lang": "en",
+  "q": "Which nutrient has been proven to prevent birth defects?",
+  "q_ar": null,
+  "options": [
+   "Folic acid",
+   "Pantothenic acid",
+   "Manganese",
+   "b. Riboflavin"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 12,
+  "no": 95,
+  "lang": "en",
+  "q": "Which of the following vitamins helps the body absorb iron?",
+  "q_ar": null,
+  "options": [
+   "Vitamin C",
+   "Riboflavin",
+   "Vitamin E",
+   "Vitamin A"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 12,
+  "no": 96,
+  "lang": "en",
+  "q": "When will the baby first recognize his mother visually?",
+  "q_ar": null,
+  "options": [
+   "From birth",
+   "3 to 4 weeks",
+   "3 to 4 months",
+   "6 to 8 months"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 12,
+  "no": 97,
+  "lang": "en",
+  "q": "Antibodies in milk protect the baby against problems with:",
+  "q_ar": null,
+  "options": [
+   "Vision",
+   "Gastrointestinal tract",
+   "Respiratory system",
+   "B and C"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 13,
+  "no": 98,
+  "lang": "en",
+  "q": "You're most fertile when one of your ovaries releases a mature egg. This process, called ovulation, occurs:",
+  "q_ar": null,
+  "options": [
+   "Halfway through your menstrual cycle",
+   "12 to 16 days before your next period starts",
+   "Right before you get your period"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 13,
+  "no": 99,
+  "lang": "en",
+  "q": "The Nurse Midwife is an advanced practice nurse who:",
+  "q_ar": null,
+  "options": [
+   "Provides care to child-bearing women during preconception, prenatal, labor and delivery, and postpartum periods.",
+   "Transports and cares for sick and injured patients in emergency situations and during the transport of patients from one patient care facility to another.",
+   "Performs pharmaceutical, medical, and nursing research.",
+   "Helps create public health policies."
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 13,
+  "no": 100,
+  "lang": "en",
+  "q": "A newborn loses heat through:",
+  "q_ar": null,
+  "options": [
+   "Evaporation",
+   "Conduction",
+   "convection",
+   "radiation",
+   "insensible water loss through skin, feces, urine, respiration",
+   "all of the above"
+  ],
+  "answer": 5,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 13,
+  "no": 101,
+  "lang": "en",
+  "q": "8-Premature separation of the normally implanted placenta is",
+  "q_ar": null,
+  "options": [
+   "placenta accrete",
+   "placenta previa",
+   "placenta percreta",
+   "none of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f06",
+  "page": 13,
+  "no": 102,
+  "lang": "en",
+  "q": "Treatment with hormone replacement therapy",
+  "q_ar": null,
+  "options": [
+   "Should always include a progestagen.",
+   "Reduces the incidence of cardiovascular disease in post-menopausal women.",
+   "Is not beneficial unless given within one year of the menopause.",
+   "Should not result in vaginal bleeding.",
+   "Is of no benefit unless given for longer than ten years."
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 13,
+  "no": 103,
+  "lang": "en",
+  "q": "Immediate post-partum hemorrhage is associated with",
+  "q_ar": null,
+  "options": [
+   "Retained placenta.",
+   "lacerations or tears of the cervix.",
+   "Ritodrine administration.",
+   "Uterine atony."
+  ],
+  "answer": 3,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f06",
+  "page": 13,
+  "no": 104,
+  "lang": "en",
+  "q": "Placenta previa is:",
+  "q_ar": null,
+  "options": [
+   "Premature separation of the normally implanted placenta before the birth of the fetus.",
+   "The abnormal implantation of the placenta in the lower uterine segment, partially or completely",
+   "A placenta that attaches itself too deeply and too firmly into the wall of the uterus.",
+   "Placenta that bleeds all the pregnancy period"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ }
+]

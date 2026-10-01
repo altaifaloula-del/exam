@@ -1,0 +1,906 @@
+[
+ {
+  "id": "Q0455",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "انقطاع الحمل قبل أن يكون الجنين قابلاً للحياة يسمى: -",
+  "q_ar": null,
+  "options": [
+   "الحمل خارج الرحم",
+   "حادث",
+   "الإجهاض",
+   "ليس كل ماسبق"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "الإجهاض",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0456",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أكثر اضطرابات الدم شيوعا التي تحدث أثناء فترة الحمل هي:",
+  "q_ar": null,
+  "options": [
+   "فقر الدم المنجلي",
+   "قلة الصفائح",
+   "فرط حجم الدم",
+   "فقر الدم الناجم عن نقص الحديد"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "فقر الدم الناجم عن نقص الحديد",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0457",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "إذا احتُجزت قطعة من المشيمة في الرحم فإنها تتداخل مع انقباض الرحم السليم، وينتج عن ذلك:",
+  "q_ar": null,
+  "options": [
+   "عدم قدرة المرأة على الحمل مرة أخرى",
+   "تقليل كمية تدفق الهلابة",
+   "نزيف ما بعد الولادة",
+   "تطور قيلة المستقيم"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "نزيف ما بعد الولادة",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0458",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "تعرف المرحلة الرابعة من المخاض بـ: -",
+  "q_ar": null,
+  "options": [
+   "مرحلة المشيمة",
+   "مرحلة التوسيع",
+   "مرحلة التسليم",
+   "فترة التعافي"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "فترة التعافي",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0459",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "دلالة للاستشارة الوراثية هي: -",
+  "q_ar": null,
+  "options": [
+   "مولود ميت أكثر من ثلاثة اطفال",
+   "الإجهاض التلقائي",
+   "سن ٣٥ أو أكثر والتفكير في الحمل",
+   "كل ما سبق"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "كل ما سبق",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0460",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "كل هذه الهرمونات تؤدي إلى غثيان الصباح بإستثناء: -",
+  "q_ar": null,
+  "options": [
+   "البروجسترون",
+   "الاستروجين",
+   "ريلاكسين",
+   "هرمون المنبه للجريب FSH"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "البروجسترون",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0461",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أي من القراءات التالية يحتمل أن يزيد ارتفاع ضغط الدم خلال الثلث الثاني أو الثالث من الحمل:",
+  "q_ar": null,
+  "options": [
+   "125/80mmhg",
+   "130/85mmhg",
+   "140/90mmhg",
+   "110/70mmhg"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "130/85mmhg",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0462",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "كلها وظيفة المشيمة بإستثناء: -",
+  "q_ar": null,
+  "options": [
+   "التغذية ونقل الاكسجين",
+   "إفراز النفايات",
+   "وظيفة التمثيل الغذائي",
+   "حماية الجنين من الصدمات"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "حماية الجنين من الصدمات",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0463",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "كلها من وظائف البروجسترون باستثناء: -",
+  "q_ar": null,
+  "options": [
+   "تليين عنق الرحم",
+   "إرخاء عضلة الرحم",
+   "تستجيب للنصف الثاني من الدورة الشهرية",
+   "اخفاء التقلصات أثناء الحمل"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "إرخاء عضلة الرحم",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0464",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "كل الاتي من الرعاية التمريضية للوقاية من النزيف بعد الولادة باستثناء: -",
+  "q_ar": null,
+  "options": [
+   "تدليك البطن",
+   "أعطاء سينتوسينون",
+   "تطبيق كمادات باردة",
+   "تقييم متكرر"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "تطبيق كمادات باردة",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0465",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أي من وسائل منع الحمل التالية تكون دائمة: -",
+  "q_ar": null,
+  "options": [
+   "موانع الحمل الفموية",
+   "الحاجز",
+   "اللولب",
+   "ربط البوق"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "ربط البوق",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0466",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "خروج المشيمة يحدث عادة بعد: -",
+  "q_ar": null,
+  "options": [
+   "1/2hr",
+   "2hr",
+   "1hr",
+   "4hr"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "1/2hr",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0467",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أفضل وضع للطفل أثناء الولادة هو:",
+  "q_ar": null,
+  "options": [
+   "الموضع الظهري dorsal position",
+   "الموضع الجانبي الأيسر left lateral position",
+   "الموضع الصخري lithotomic position",
+   "منكب prone position"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "الموضع الصخري lithotomic position",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0468",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "تقلصات الرحم المصاحبة للحيض تعرف باسم:",
+  "q_ar": null,
+  "options": [
+   "عسر الجماع",
+   "قلة الطمث",
+   "انقطاع الطمث",
+   "عسر الطمث"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "عسر الطمث",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0469",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "واحد من الاتي الموقع الأكثر شيوعا للحمل خارج الرحم :",
+  "q_ar": null,
+  "options": [
+   "المبايض",
+   "عنق الرحم",
+   "البطن",
+   "قناتي فالوب"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "قناتي فالوب",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0470",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "تعتبر الحالة زيادة المُلَى عندما يكون كمية المحيط الأمنيوسي السائل عند الحد ......... أو أكثر من ذلك:",
+  "q_ar": null,
+  "options": [
+   "٥٠٠ مل",
+   "٨٠٠ مل مي",
+   "١٠٠٠ مل",
+   "٢٠٠٠ مل"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "٨٠٠ مل مي",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0471",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "وزن الرحم غير الحامل:",
+  "q_ar": null,
+  "options": [
+   "30g",
+   "60g",
+   "100g",
+   "120g"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "60g",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0472",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "تسمى بطانة الرحم غير الحامل:",
+  "q_ar": null,
+  "options": [
+   "عضل الرحم",
+   "الظهارة الرحمية",
+   "بطانة الرحم",
+   "ديسيدوس"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "عضل الرحم",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0473",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "يتم إخصاب البويضة في:",
+  "q_ar": null,
+  "options": [
+   "الأنبوب الرحمي",
+   "المرحلة السابقة للدورة",
+   "مرحلة التبويض",
+   "مرحلة الحيض"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "الأنبوب الرحمي",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0474",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "تشير المرحلة الإفرازية من الدورة الشهرية إلى:",
+  "q_ar": null,
+  "options": [
+   "مرحلة ما قبل التبويض",
+   "المرحلة السابقة على الحيض",
+   "مرحلة الإباضة",
+   "مرحلة الحيض."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "المرحلة السابقة على الحيض",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0475",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "تتم دورة المبيض تحت تأثير:",
+  "q_ar": null,
+  "options": [
+   "بطانة الرحم",
+   "القشرة المخية",
+   "الغدة النخامية الأمامية",
+   "الغدة النخامية الخلفية"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "الغدة النخامية الأمامية",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0476",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أي من هذه الهرمونات يتحكم بشكل مباشر في وظيفة المبيض:",
+  "q_ar": null,
+  "options": [
+   "هرمون الاستروجين والبروجسترون",
+   "الهرمون المنبه للجريب والبروجسترون",
+   "هرمون الاستروجين وهرمون اللوتين",
+   "الهرمون المنبه للجريب والهرمون اللوتيني"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "هرمون الاستروجين والبروجسترون",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0477",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "يتم العثور على الغدد التناسلية المشيمية البشرية في:",
+  "q_ar": null,
+  "options": [
+   "البول أثناء الحمل",
+   "الدم في جميع الأوقات",
+   "مخاط عنق الرحم",
+   "تدفق الدورة الشهرية"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "البول أثناء الحمل",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0478",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "قلة السائل السلوي:",
+  "q_ar": null,
+  "options": [
+   "السائل الذي يحيط بالجنين أقل من ٤٠٠ سم",
+   "السائل الذي يحيط بالجنين أكثر من ١٠٠٠ سم",
+   "السائل الذي يحيط بالجنين أقل من ١٠٠٠ سم",
+   "السائل الذي يحيط بالجنين أكثر من ٤٠٠٠ سم مكعب."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "السائل الذي يحيط بالجنين أقل من ٤٠٠ سم",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0479",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "يمكن استخدام بزل المُلى لتحديد:",
+  "q_ar": null,
+  "options": [
+   "جنس الجنين",
+   "الضائقة الجنينية",
+   "خلع الورك الخلقي",
+   "مستوى البيليروبين والشذوذ الخلقي"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "مستوى البيليروبين والشذوذ الخلقي",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0480",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "الوضع الطبيعي للرحم:",
+  "q_ar": null,
+  "options": [
+   "مائل للأمام",
+   "مائل للخلف",
+   "منحني للأمام",
+   "عمودي"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "مائل للأمام",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0481",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "يحدث غرس البويضة عادة بعد الإخصاب في:",
+  "q_ar": null,
+  "options": [
+   "أسبوع واحد",
+   "يومان",
+   "أسبوعان",
+   "ثلاثة أسابيع"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "أسبوع واحد",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0482",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "يسمى جزء البصيلة الذي يفرغ البويضة بـ:",
+  "q_ar": null,
+  "options": [
+   "الجسم الابيض",
+   "الجسم الاصفر",
+   "الجريب الرئتي",
+   "حويصلات جراف"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "الجسم الاصفر",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0483",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "المخاض الذي يحدث تلقائيًا خلال أسبوعين من تاريخ الولادة المحسوب يسمى:",
+  "q_ar": null,
+  "options": [
+   "المخاض الكاذب",
+   "المخاض الطبيعي",
+   "ما بعد الولادة الناضجة",
+   "الولادة المبكرة"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "المخاض الطبيعي",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0484",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أهم أسباب النزيف بعد الولادة هي: -",
+  "q_ar": null,
+  "options": [
+   "ارتفاع ضغط الدم الناجم عن الحمل",
+   "سكري الحمل",
+   "قطع المشيمة المحتجزة",
+   "الحمل المتعدد"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "قطع المشيمة المحتجزة",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0485",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "في الحمل الطبيعي يجب ألا تتجاوز الزيادة الكلية في الوزن: -",
+  "q_ar": null,
+  "options": [
+   "٥ كجم",
+   "٩ كجم",
+   "١٣كجم",
+   "١٧كجم"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "١٣كجم",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0486",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "النزيف المهبلي قبل الأسبوع الثامن والعشرين من الحمل يسمى:",
+  "q_ar": null,
+  "options": [
+   "خطر الإجهاض",
+   "الشامة الملتهبة",
+   "نزيف قبل الولادة",
+   "الخلد المائي"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "خطر الإجهاض",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0487",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "من العلامات الخطيرة لتسمم الحمل ما يلي باستثناء:",
+  "q_ar": null,
+  "options": [
+   "فقدان الوزن",
+   "بروتين مع البول",
+   "وذمة",
+   "ارتفاع ضغط الدم"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "فقدان الوزن",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0488",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "المشيمة المنزاحة قد تسبب نزيفاً:",
+  "q_ar": null,
+  "options": [
+   "بسبب هبوط الوعاء",
+   "بسبب الصدمة",
+   "من مشيمة تقع بشكل طبيعي",
+   "من مشيمة غير طبيعية"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "من مشيمة غير طبيعية",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0489",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "التقيؤ الحملي قد يؤدي إلى:",
+  "q_ar": null,
+  "options": [
+   "قلة البول",
+   "الجفاف",
+   "الكيتوزيه",
+   "كثرة السائل السلوي"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "الجفاف",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0490",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "يحدث الحيض:",
+  "q_ar": null,
+  "options": [
+   "قبل ١٠ قبل التبويض",
+   "١٤ يوم قبل التبويض",
+   "١٤ يوم بعد التبويض",
+   "٢١ يوما بعد التبويض"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "١٤ يوم بعد التبويض",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0491",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "عند نضج البويضة يمكن من تقليل عدد الكروموسومات في نواتها إلى: -",
+  "q_ar": null,
+  "options": [
+   "22",
+   "23 أزواج",
+   "44",
+   "47"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "23 أزواج",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0492",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أي مما يلي لا يعتبر من مضاعفات الولادة :",
+  "q_ar": null,
+  "options": [
+   "شلل الوجه",
+   "كسر الجمجمة من الضغط",
+   "ورم رأسي دموي",
+   "تخثر دم الأم"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "تخثر دم الأم",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0493",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "من المضاعفات التي تحدث في فترة ما بعد الولادة:",
+  "q_ar": null,
+  "options": [
+   "انخفاض حرارة الجسم",
+   "نقص السكر في الدم",
+   "ارتفاع ضغط الدم",
+   "الذهان"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "الذهان",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0494",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "يجب تجنب الفحص المهبلي في الحالات التالية: -",
+  "q_ar": null,
+  "options": [
+   "تسمم الحمل",
+   "هبوط المشيمة",
+   "الحمل خارج الرحم",
+   "إجهاض"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "هبوط المشيمة",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0495",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "الموعد التقديري للولادة لمن فاتها الدورة في ٢٠٢٠/٥/٥ هو: -",
+  "q_ar": null,
+  "options": [
+   "٢٠٢٠/١٢/١٢",
+   "أكتوبر ٢٠٢٠/١٢/١٢",
+   "أغسطس ٢٠٢٠/١٢/١٢",
+   "٢٠٢٠/٢/١٢"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "٢٠٢٠/٢/١٢",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0496",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "الجزء الذي ينقل المغذيات والاكسجين للجنين في اليوم الثاني والثالث من الحمل :",
+  "q_ar": null,
+  "options": [
+   "المشيمة",
+   "كيس الصفار",
+   "الجسم الأصفر",
+   "الحمل المشيمي"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "كيس الصفار",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0497",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "يتميز جنس الرضيع في:-",
+  "q_ar": null,
+  "options": [
+   "20 أسبوعًا",
+   "12 أسبوعا",
+   "30 أسبوعًا",
+   "37 أسبوعًا"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "12 أسبوعا",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0498",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "ورم بطانة الرحم يعني:-",
+  "q_ar": null,
+  "options": [
+   "التهاب بطانة الرحم",
+   "التهاب عضل الرحم",
+   "التهاب المبايض",
+   "التهاب قناة فالوب"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "التهاب المبايض",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0499",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أحد الأمراض الآتية يورث بإسم مرض تنحي العامل الوراثي X",
+  "q_ar": null,
+  "options": [
+   "التلاسيميا",
+   "متلازمة كلينفتر",
+   "الهيموفيليا",
+   "متلازمة داون"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "الهيموفيليا",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0500",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أول حركة للجنين عند: -",
+  "q_ar": null,
+  "options": [
+   "12 أسبوعًا",
+   "9 أسابيع",
+   "20 أسبوعًا",
+   "2 أسبوع"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "20 أسبوعًا",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0501",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أكثر اضطرابات الدورة شيوعاً هي:-",
+  "q_ar": null,
+  "options": [
+   "عدم الاستقرار الحركي الوعائي",
+   "الصداع",
+   "الاكتئاب",
+   "جفاف الأعضاء التناسلية"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "عدم الاستقرار الحركي الوعائي",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0502",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "الرعاية التمريضية لمنع نزيف الدم الناجم عن تمزق العجان هي:-",
+  "q_ar": null,
+  "options": [
+   "رفع الساق",
+   "تطبيق وسادة ضغط نظيفة واخبار المرأة بالضغط على فخذيها.",
+   "إعطاء سينتوسينون",
+   "كل ما سبق"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "رفع الساق",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0503",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "الطريقة الأكثر شيوعا والأكثر فاعلية لتنظيم الأسرة هي: -",
+  "q_ar": null,
+  "options": [
+   "حبوب منع الحمل",
+   "تعقيم الذكور والإناث",
+   "الواقي الذكري",
+   "اللولب"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "تعقيم الذكور والإناث",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0504",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "كل ما يلي يعتبر خطرا من تمزق الغشاء عدا: -",
+  "q_ar": null,
+  "options": [
+   "العدوى",
+   "سوائل شاحبة وملونة",
+   "الولادة المبكرة",
+   "كل ما سبق"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "سوائل شاحبة وملونة",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

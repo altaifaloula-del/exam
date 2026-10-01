@@ -1,0 +1,1708 @@
+[
+ {
+  "src": "f01",
+  "page": 1,
+  "no": 1,
+  "lang": "mixed",
+  "q": "Type of examination to know the movement of air in bronchioles:",
+  "q_ar": "ماهو نوع الاجراء عند معرفة حركة الهواء في القصيبات الهوائية",
+  "options": [
+   "Auscultion",
+   "Palpation",
+   "inspection",
+   "percussion"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": "التسمع",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 1,
+  "no": 2,
+  "lang": "mixed",
+  "q": "Among the factors that affect the heart patients:",
+  "q_ar": "من العوامل التي تؤثر على مرضى القلب",
+  "options": [
+   "Obesity",
+   "blood pressure",
+   "all mentioned"
+  ],
+  "answer": 2,
+  "answer_basis": "tick",
+  "answer_ar": "كل ماورد",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 1,
+  "no": 3,
+  "lang": "mixed",
+  "q": "Type of wound and the instrument that that cause wound as knife?",
+  "q_ar": "نوع الجرح الذي يسببه السكين",
+  "options": [
+   "punctuation wound",
+   "rupture wound",
+   "Fissure wound",
+   "non all above"
+  ],
+  "answer": 2,
+  "answer_basis": "tick",
+  "answer_ar": "جرح قطعي",
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f01",
+  "page": 1,
+  "no": 4,
+  "lang": "mixed",
+  "q": "Which of the following blood tests must be performed before a blood transfusion?",
+  "q_ar": "أي من الفحوصات الاتية يجب عملها قبل نقل الدم",
+  "options": [
+   "prothrombin and coagulation time",
+   "Blood typing and cross matching",
+   "Bleeding and clotting time",
+   "Complete blood count (CBC) and electrolyte levels."
+  ],
+  "answer": 1,
+  "answer_basis": "tick",
+  "answer_ar": "فصيلة الدم والمطابقة",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 1,
+  "no": 5,
+  "lang": "mixed",
+  "q": "When you want to withdraw a sample of the spinal cord, it is called (L.P-Lumper puncture) what will the patient's position be?",
+  "q_ar": "عندما نريد سحب عينة من النخاع الشوكي يكون وضعية المريض",
+  "options": [
+   "high flowers position",
+   "supin position",
+   "semi sitting position",
+   "prone position"
+  ],
+  "answer": 3,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 1,
+  "no": 6,
+  "lang": "mixed",
+  "q": "the first intervention in pancture wound is:",
+  "q_ar": "التدخل الاولي في الجروح الثاقبة",
+  "options": [
+   "cleaning",
+   "stop bleeding",
+   "remove the instrucment",
+   "give antitetanus"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": "التنظيف",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 1,
+  "no": 7,
+  "lang": "mixed",
+  "q": "PT before surgery don't have food or drink for 10 hours then you measured temp body and result 37,7C that mean:",
+  "q_ar": "قبل العملية لم يتناول المريض طعام اوشراب لمدة 10 ساعات ثم قمت بقياس درجة حرارة الجسم وكانت النتيجة 37.7 هذا يعني ان",
+  "options": [
+   "Infection",
+   "Dehydration",
+   "hyperthermia",
+   "anexity"
+  ],
+  "answer": 3,
+  "answer_basis": "tick",
+  "answer_ar": "عنده قلق",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 2,
+  "no": 8,
+  "lang": "mixed",
+  "q": "PT with burn at hospital the will have the bacterial infection from: (first cause)",
+  "q_ar": "مريض في المستشفى عنده حرق حصل له عدوى بكترية ما السبب الاولي في ذالك",
+  "options": [
+   "his family",
+   "intestinal",
+   "hospital care",
+   "entertainment"
+  ],
+  "answer": 2,
+  "answer_basis": "tick",
+  "answer_ar": "عناية المستشفى",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 2,
+  "no": 9,
+  "lang": "mixed",
+  "q": "Which of the following is hormone released from Langerhans in pancreas?",
+  "q_ar": "أي مما يلي هو هرمون يفرز من النجرهانز في البنكرياس؟",
+  "options": [
+   "estrogen",
+   "progesterone",
+   "insulin",
+   "all above"
+  ],
+  "answer": 2,
+  "answer_basis": "tick",
+  "answer_ar": "الأنسولين",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 2,
+  "no": 10,
+  "lang": "mixed",
+  "q": "about CPR chose the correct answer:",
+  "q_ar": "اختار الإجابة الصحيحة حول الإنعاش",
+  "options": [
+   "two breaths and 15 compression",
+   "one breaths and 15 compression",
+   "two breaths and 5 compression",
+   "one breaths and 15 compression"
+  ],
+  "answer": 1,
+  "answer_basis": "tick",
+  "answer_ar": "نفس واحد و 15 ضغطه",
+  "flags": [
+   "duplicate_options"
+  ]
+ },
+ {
+  "src": "f01",
+  "page": 2,
+  "no": 11,
+  "lang": "mixed",
+  "q": "the chamber the receive oxygenated blood that is coming from the lung is:",
+  "q_ar": "الحجرة التي يتلقى فيها الدم المؤكسج القادم من الرئة هي",
+  "options": [
+   "left atrium",
+   "right atrium",
+   "left vertical",
+   "right vertical"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": "الأذين الأيسر",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 2,
+  "no": 12,
+  "lang": "mixed",
+  "q": "the diagnostic test for parasite infection in the intestine is:",
+  "q_ar": "الاختبار التشخيصي لعدوى الطفيليات في الأمعاء هو:",
+  "options": [
+   "U/S",
+   "x_ray",
+   "stool analysis",
+   "MRI"
+  ],
+  "answer": 2,
+  "answer_basis": "tick",
+  "answer_ar": "تحليل البراز",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 2,
+  "no": 13,
+  "lang": "mixed",
+  "q": "for liver and gall bladder abscess you case see it by:",
+  "q_ar": "في حالة خراج الكبد والمرارة يمكنك رؤيته من خلال:",
+  "options": [
+   "??",
+   "??",
+   "CT scan x_ray",
+   "MRI"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": "الاشعة التلفزيونية U/S",
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f01",
+  "page": 2,
+  "no": 14,
+  "lang": "mixed",
+  "q": "the purpose of platelets that is to era lot",
+  "q_ar": "الغرض من الصفائح الدموية هو",
+  "options": [
+   "to identity blood clot",
+   "to identify bleeding",
+   "to identify antibiotic"
+  ],
+  "answer": 0,
+  "answer_basis": "arabic_answer_line",
+  "answer_ar": "لتحديد تجلط الدم",
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f01",
+  "page": 3,
+  "no": 15,
+  "lang": "mixed",
+  "q": "difference between the diastolic and systolic blood pressure?",
+  "q_ar": "الفرق بين ضغط الدم الانبساطي والانقباضي؟",
+  "options": [
+   "pressure arterial.",
+   "blood vine.",
+   "pulse.",
+   "??"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f01",
+  "page": 3,
+  "no": 16,
+  "lang": "mixed",
+  "q": "which organ in the body contains 90% of calcium?",
+  "q_ar": "أي عضو في الجسم يحتوي على 90٪ من الكالسيوم؟",
+  "options": [
+   "liver.",
+   "muscles.",
+   "nerves.",
+   "bones"
+  ],
+  "answer": 3,
+  "answer_basis": "tick",
+  "answer_ar": "العظام",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 3,
+  "no": 17,
+  "lang": "mixed",
+  "q": "The buccal means give the drug in?",
+  "q_ar": "الشدق يعني إعطاء الدواء؟",
+  "options": [
+   "the jaw.",
+   "the eye conjunctive",
+   "the oral.",
+   "cheek"
+  ],
+  "answer": 3,
+  "answer_basis": "tick",
+  "answer_ar": "الخد",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 3,
+  "no": 18,
+  "lang": "mixed",
+  "q": "the first treatment for the back pain?",
+  "q_ar": "أول علاج لآلام الظهر؟",
+  "options": [
+   "Message of the back.",
+   "washing of the back.",
+   "??",
+   "??"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": "مساج الظهر",
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f01",
+  "page": 3,
+  "no": 19,
+  "lang": "mixed",
+  "q": "where is the ascending colon in the abdomen?",
+  "q_ar": "أين يقع القولون الصاعد في البطن؟",
+  "options": [
+   "In the lower right quadrant of the abdomen",
+   "In the upper left quadrant of the abdomen",
+   "In the upper right quadrant of the abdomen",
+   "In the lower left quadrant of the abdomen"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": "في الربع الأيمن السفلي من البطن",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 3,
+  "no": 20,
+  "lang": "mixed",
+  "q": "Factors Affects the heart EXEPT:",
+  "q_ar": "العوامل التي تؤثر على القلب ما عدا:",
+  "options": [
+   "Obesity",
+   "hypertension",
+   "Pulspertur",
+   "rest"
+  ],
+  "answer": 3,
+  "answer_basis": "tick",
+  "answer_ar": "الراحة",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 3,
+  "no": 21,
+  "lang": "mixed",
+  "q": "the chronic disease of lung bronchi and emphysema that associated obstruction is:",
+  "q_ar": "المرض المزمن الذي يصيب القصبات الهوائية وانتفاخ الرئة المصاحب للانسداد هو:",
+  "options": [
+   "COPD",
+   "asthma",
+   "Pneumonia",
+   "Tuberculosis"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": "مرض الانسداد الرئوي المزمن",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 4,
+  "no": 22,
+  "lang": "mixed",
+  "q": "The urine output between 100 and 500 is called:",
+  "q_ar": "يسمى إخراج البول بين 100 و 500؟",
+  "options": [
+   "oliguria",
+   "polyuria",
+   "anuria",
+   "dysuria"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": "قلة البول",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 4,
+  "no": 23,
+  "lang": "mixed",
+  "q": "When examining the abdomen as a nurse, what is required",
+  "q_ar": "عند فحص البطن كممرض ، ما هو الاجراء المطلوب",
+  "options": [
+   "Auscultation",
+   "Palpation",
+   "inspection",
+   "observation"
+  ],
+  "answer": 3,
+  "answer_basis": "tick",
+  "answer_ar": "المشاهدة",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 4,
+  "no": 24,
+  "lang": "mixed",
+  "q": "the emergency care for hyporolemic shock is:",
+  "q_ar": "التعامل في الطوارئ لصدمة نقص حجم الدم هي",
+  "options": [
+   "I.V fluid",
+   "give blood",
+   "give drug that high BP",
+   "??"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": "إعطاء السائل الوريدي",
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f01",
+  "page": 4,
+  "no": 25,
+  "lang": "mixed",
+  "q": "When a patient arrives at the emergency room, and the patient is bleeding, and the wound was caused by a piercing machine, what do we start?",
+  "q_ar": "عندما يصل المريض إلى غرفة الطوارئ والمريض ينزف ، والجرح ناجم عن آلة ثقب ، ماذا نبدأ؟؟",
+  "options": [
+   "stop the bleeding",
+   "the fight",
+   "Removing the sharp instrument",
+   "give him a place to live"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": "إيقاف النزيف",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 4,
+  "no": 26,
+  "lang": "mixed",
+  "q": "A patient arrived at the emergency room and his body temperature was 37.7 and he is in a coma and he has not eaten for 10 hours and he has a lack of fluids. What to diagnose the case",
+  "q_ar": "وصل مريض إلى غرفة الطوارئ وكانت درجة حرارة جسمه 37.7 وهو في غيبوبة ولم يأكل منذ 10 ساعات ويعاني من نقص في السوائل. ما لتشخيص الحالة؟",
+  "options": [
+   "Hypothermia",
+   "Dehydration",
+   "Swelling",
+   "Anemia"
+  ],
+  "answer": 1,
+  "answer_basis": "tick",
+  "answer_ar": "الجفاف",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 4,
+  "no": 27,
+  "lang": "mixed",
+  "q": "function skeletal muscle:",
+  "q_ar": "وظيفة العضلات الهيكلية:",
+  "options": [
+   "movement",
+   "posture",
+   "heat production",
+   "all of above"
+  ],
+  "answer": 3,
+  "answer_basis": "tick",
+  "answer_ar": "كل ما سبق",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 4,
+  "no": 28,
+  "lang": "mixed",
+  "q": "which the right choice of antidote for paracetamol?",
+  "q_ar": "ما هو الاختيار الصحيح لترياق الباراسيتامول؟",
+  "options": [
+   "Acetylcysteine.",
+   "Mefanamic acid.",
+   "Clonidine.",
+   "Epinephrine."
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": "أسيتيل سيستئين (الاسبرين)",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 5,
+  "no": 29,
+  "lang": "mixed",
+  "q": "Glasgow coma scale composed of all of the following except",
+  "q_ar": "يتكون مقياس غلاسكو للغيبوبة من كل ما يلي باستثناء؟",
+  "options": [
+   "best motor response",
+   "eye opening",
+   "best verbal response",
+   "orientation level"
+  ],
+  "answer": 3,
+  "answer_basis": "tick",
+  "answer_ar": "مستوى التوجه",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 5,
+  "no": 30,
+  "lang": "mixed",
+  "q": "which of the following is the most important purpose in hand washing?",
+  "q_ar": "أي مما يلي هو أهم غرض من غسل اليدين؟",
+  "options": [
+   "to promote hand circulation",
+   "to prevent the transfer of microorganisms",
+   "to avoid touching the elimination with a dirty hand",
+   "the provide comfort"
+  ],
+  "answer": 1,
+  "answer_basis": "tick",
+  "answer_ar": "منع انتقال الكائنات الدقيقة",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 5,
+  "no": 31,
+  "lang": "mixed",
+  "q": "the first cause of heart disease except:",
+  "q_ar": "السبب الأول لمرض القلب باستثناء؟",
+  "options": [
+   "hypertension",
+   "hyperlipidemia",
+   "cigarette smoking",
+   "physical activity"
+  ],
+  "answer": 1,
+  "answer_basis": "tick",
+  "answer_ar": "النشاط البدني",
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f01",
+  "page": 5,
+  "no": 32,
+  "lang": "mixed",
+  "q": "size of needle that use for ID, SC, IV and IM",
+  "q_ar": "حجم الإبرة التي تستخدم للحقن تحت الجلد والعضل والوريد؟",
+  "options": [
+   "22 gauge",
+   "23 gauge",
+   "24 gauge",
+   "25 gauge"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": "قياس 22",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 5,
+  "no": 33,
+  "lang": "mixed",
+  "q": "How many times you should take vital signs in the recovery room at the first hour:",
+  "q_ar": "كم مرة يجب أن تأخذ العلامات الحيوية في غرفة الإنعاش في الساعة الأولى؟",
+  "options": [
+   "6",
+   "10",
+   "12",
+   "14"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": "٦ مرات",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 6,
+  "no": 34,
+  "lang": "mixed",
+  "q": "When transfusion of blood to a patient suffering from anemia and observed sensitivity called this:",
+  "q_ar": "عند نقل الدم لمريض يعاني من فقر دم وحساسية ملحوظة يسمى هذا ؟",
+  "options": [
+   "feel",
+   "anaphylactic shock"
+  ],
+  "answer": 1,
+  "answer_basis": "tick",
+  "answer_ar": "صدمة تحسس",
+  "flags": []
+ },
+ {
+  "src": "f01",
+  "page": 6,
+  "no": 35,
+  "lang": "mixed",
+  "q": "PT receive blood then had hematuria",
+  "q_ar": "عند تلقي المريض الدم ثم حصل له بول دموي يسمى هذا ؟",
+  "options": [
+   "anaphylactic reaction",
+   "hemolytic reaction"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": "رد فعل تحسسي",
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 1,
+  "no": 1,
+  "lang": "en",
+  "q": "patient with chronic with chronic gastritis, he complains deficiency any vitamin?",
+  "q_ar": null,
+  "options": [
+   "vitamin B12",
+   "vitamin C",
+   "vitamin A",
+   "vitamin E"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 1,
+  "no": 2,
+  "lang": "en",
+  "q": "Care of the indwelling urinary catheter involves the followings, EXCEPT:",
+  "q_ar": null,
+  "options": [
+   "tube checking for kinks",
+   "routine irrigation",
+   "perineal area cleaning",
+   "urine bag drainage at a lower level."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 1,
+  "no": 3,
+  "lang": "en",
+  "q": "Care of the indwelling urinary catheter involves the followings, EXCEPT:",
+  "q_ar": null,
+  "options": [
+   "tube checking for kinks",
+   "routine irrigation",
+   "perineal area cleaning",
+   "urine bag drainage at a lower level."
+  ],
+  "answer": 1,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 1,
+  "no": 4,
+  "lang": "en",
+  "q": "which the following clinical procedure always requires urinary surgical asepsis:",
+  "q_ar": null,
+  "options": [
+   "vaginal installation of conjugated estrogen",
+   "urinary cauterization",
+   "nasogastric tube insertion",
+   "colostomy irrigation"
+  ],
+  "answer": 1,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 1,
+  "no": 5,
+  "lang": "en",
+  "q": "An infected patient has chills and begin shivering, the best nursing intervention is to",
+  "q_ar": null,
+  "options": [
+   "Apply iced alcohol sponges",
+   "provide increased cool liquids",
+   "provide additional body bed clothes",
+   "provide increased ventilation"
+  ],
+  "answer": 2,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 1,
+  "no": 6,
+  "lang": "en",
+  "q": "A patient has burns on the chest & abdominal & perineum and posterior . anterior right head. the appropriate percentage of his body that has been involved is:",
+  "q_ar": null,
+  "options": [
+   "18%",
+   "28%",
+   "36%",
+   "45%"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 2,
+  "no": 7,
+  "lang": "en",
+  "q": "History including:",
+  "q_ar": null,
+  "options": [
+   "subjective data",
+   "objectives data",
+   "physical examination",
+   "None of the above"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f18",
+  "page": 2,
+  "no": 8,
+  "lang": "en",
+  "q": "After routine patient contact, hand washing should last at last: :",
+  "q_ar": null,
+  "options": [
+   "15-30 seconds",
+   "1 minute",
+   "5 minute",
+   "10 minute"
+  ],
+  "answer": 1,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 2,
+  "no": 9,
+  "lang": "en",
+  "q": "When the patient has gastric bleeding, the color of the stool may be changed:",
+  "q_ar": null,
+  "options": [
+   "Bright red",
+   "pink",
+   "Yellow",
+   "black tarry"
+  ],
+  "answer": 3,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 2,
+  "no": 10,
+  "lang": "en",
+  "q": "Heath history considered",
+  "q_ar": null,
+  "options": [
+   "subject data",
+   "objective data",
+   "vital signs",
+   "physical examination"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 2,
+  "no": 11,
+  "lang": "en",
+  "q": "Patient with hepatitis he say eat Contaminated food what type hepatitis:",
+  "q_ar": null,
+  "options": [
+   "hepatitis A",
+   "hepatitis B",
+   "hepatitis C",
+   "All of the above"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 2,
+  "no": 12,
+  "lang": "en",
+  "q": "Open air way for patient unconscious costly?",
+  "q_ar": null,
+  "options": [
+   "head tilt, chin lift",
+   "chest thrust",
+   "jaw thrust ..",
+   "put him in left side position"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 2,
+  "no": 13,
+  "lang": "en",
+  "q": "Abnormal in liver test:",
+  "q_ar": null,
+  "options": [
+   "low hemoglobin",
+   "low serum bilirubin",
+   "blood urea",
+   "BUN"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 3,
+  "no": 14,
+  "lang": "en",
+  "q": "Early in the morning a person woke up with a respiratory rate of 30, a temperature of 37.5 and a pulse of 88. The most important thing to focus on:",
+  "q_ar": null,
+  "options": [
+   "just breathe",
+   "pulse only",
+   "temperature and respiration",
+   "Nothing of the erotic"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 3,
+  "no": 15,
+  "lang": "en",
+  "q": "The patient's position is changed to avoid infection after surgical every",
+  "q_ar": null,
+  "options": [
+   "1 hour",
+   "2 hours",
+   "4 hours",
+   "6 hours"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 3,
+  "no": 16,
+  "lang": "en",
+  "q": "patient with weak pulse and breathing what do you do?",
+  "q_ar": null,
+  "options": [
+   "CPR",
+   "Heimlich way",
+   "compression chest",
+   "chest thrust"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 3,
+  "no": 17,
+  "lang": "en",
+  "q": "who does the first diagnostic test",
+  "q_ar": null,
+  "options": [
+   "the nurse",
+   "the doctor",
+   "laboratory",
+   "Physician"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 3,
+  "no": 18,
+  "lang": "en",
+  "q": "patient with lingual hernia appearance swelling, what advice?",
+  "q_ar": null,
+  "options": [
+   "limit oral fluid",
+   "scrotum",
+   "bedrest",
+   "heat bag"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 3,
+  "no": 19,
+  "lang": "en",
+  "q": "All following discharge hospital prepare except:",
+  "q_ar": null,
+  "options": [
+   "obtain patient, name, sex",
+   "notify of business",
+   "diagnosis",
+   "???"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f18",
+  "page": 3,
+  "no": 20,
+  "lang": "en",
+  "q": "one following clinical manifestation must nurse observation patient",
+  "q_ar": null,
+  "options": [
+   "chest and abdominal skin rash",
+   "elevate of blood pressure",
+   "increase appetite"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f18",
+  "page": 4,
+  "no": 21,
+  "lang": "en",
+  "q": "hemoptysis is appearance",
+  "q_ar": null,
+  "options": [
+   "cardiac disease",
+   "pulmonary disease",
+   "cardiac and pulmonary disease",
+   "؟؟؟؟"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f18",
+  "page": 4,
+  "no": 22,
+  "lang": "en",
+  "q": "general appendix perfusion often pain",
+  "q_ar": null,
+  "options": [
+   "6 hours",
+   "12 hours",
+   "24 hours",
+   "36 hours"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 4,
+  "no": 23,
+  "lang": "en",
+  "q": "all following Couse of anemia pregnancy women except:",
+  "q_ar": null,
+  "options": [
+   "deficiency of iron in diet",
+   "deficiency of folic acid",
+   "hemorrhage during menstrual",
+   "deficiency vitamin B12"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 4,
+  "no": 24,
+  "lang": "en",
+  "q": "Which of the following is FALSE concerning gestational diabetes in mothers-tobe?",
+  "q_ar": null,
+  "options": [
+   "The diabetes usually disappears after birth",
+   "Their babies may experience hypo-glycemia after birth",
+   "Their babies are commonly born with breathing difficulties",
+   "Their newborns tend to be underweight"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 4,
+  "no": 25,
+  "lang": "en",
+  "q": "Before administering Digitalis the nurse must",
+  "q_ar": null,
+  "options": [
+   "temperature measurement",
+   "Blood pressure measurement",
+   "pulse oximetry",
+   "respiratory rate measurement"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 4,
+  "no": 26,
+  "lang": "en",
+  "q": "The bottom and surface are cleaned in the hospital. Are you?",
+  "q_ar": null,
+  "options": [
+   "Soap and water",
+   "Insecticide",
+   "Disinfectant",
+   "all of the above"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 5,
+  "no": 27,
+  "lang": "en",
+  "q": "When a blood test is done for a patient suspected of being infected with the hepatitis virus, what confirms that he is infected with that:",
+  "q_ar": null,
+  "options": [
+   "High level of bilirubin",
+   "high blood level",
+   "High blood platelet count"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f18",
+  "page": 5,
+  "no": 28,
+  "lang": "en",
+  "q": "Measurement of the degree of awareness includes the following except",
+  "q_ar": null,
+  "options": [
+   "open eye",
+   "response motor",
+   "verbal response",
+   "fecal"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f18",
+  "page": 5,
+  "no": 29,
+  "lang": "en",
+  "q": "Among the causes of anemia in pregnant women are",
+  "q_ar": null,
+  "options": [
+   "Do not take folic acid tablets"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f18",
+  "page": 5,
+  "no": 1,
+  "lang": "en",
+  "q": "surgical is treat of disease or injury by in strument and opening",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [],
+  "section": "true_false"
+ },
+ {
+  "src": "f18",
+  "page": 5,
+  "no": 2,
+  "lang": "en",
+  "q": "sleep apnea is absent air flow for 10 second or during sleep",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [],
+  "section": "true_false"
+ },
+ {
+  "src": "f18",
+  "page": 5,
+  "no": 3,
+  "lang": "en",
+  "q": "capillary hemorrhage is small......",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ],
+  "section": "true_false"
+ },
+ {
+  "src": "f18",
+  "page": 5,
+  "no": 4,
+  "lang": "en",
+  "q": "patient age 18 or more must before surgical table parent or legal grandum consent form",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [],
+  "section": "true_false"
+ },
+ {
+  "src": "f18",
+  "page": 5,
+  "no": 6,
+  "lang": "en",
+  "q": "physical examination including subjective data",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [],
+  "section": "true_false"
+ },
+ {
+  "src": "f18",
+  "page": 5,
+  "no": 7,
+  "lang": "en",
+  "q": "psychological support before surgical is necessary",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [],
+  "section": "true_false"
+ },
+ {
+  "src": "f18",
+  "page": 5,
+  "no": 8,
+  "lang": "en",
+  "q": "neurosurgic shock common most in the surgery asepsis surgical",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [],
+  "section": "true_false"
+ },
+ {
+  "src": "f18",
+  "page": 5,
+  "no": 9,
+  "lang": "en",
+  "q": "cough and sputum in the morning including bronchitis",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [],
+  "section": "true_false"
+ },
+ {
+  "src": "f18",
+  "page": 5,
+  "no": 10,
+  "lang": "en",
+  "q": "unintentional wound cause treat and therapy",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [],
+  "section": "true_false"
+ },
+ {
+  "src": "f18",
+  "page": 6,
+  "no": 11,
+  "lang": "en",
+  "q": "anosmia is inability sleep",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [],
+  "section": "true_false"
+ },
+ {
+  "src": "f18",
+  "page": 6,
+  "no": 12,
+  "lang": "en",
+  "q": "percussion teaching is observation shape, color, mioture",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [],
+  "section": "true_false"
+ },
+ {
+  "src": "f18",
+  "page": 6,
+  "no": 13,
+  "lang": "en",
+  "q": "physical examination give complete partial picture for physicology function",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [],
+  "section": "true_false"
+ },
+ {
+  "src": "f18",
+  "page": 6,
+  "no": 14,
+  "lang": "en",
+  "q": "percussion hammer with rubber head use for check sensory",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [],
+  "section": "true_false"
+ },
+ {
+  "src": "f16",
+  "page": 1,
+  "no": null,
+  "lang": "ar",
+  "q": "امرأة تعاني من نزيف حاد بعد الولادة قد يؤدي إلى صدمة، أفضل محلول وريدي هو؟",
+  "q_ar": null,
+  "options": [
+   "محلول ملح",
+   "محلول ملحي سكري",
+   "محلول جلوكوز"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f16",
+  "page": 1,
+  "no": null,
+  "lang": "ar",
+  "q": "اللقاحات الموصوفة أثناء الحمل تشمل الآتي عدا واحدة؟",
+  "q_ar": null,
+  "options": [
+   "الكزاز",
+   "الكتف",
+   "الانفلونزا الموسمية",
+   "الحصبة"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "unreadable",
+   "truncated"
+  ]
+ },
+ {
+  "src": "f16",
+  "page": 1,
+  "no": null,
+  "lang": "ar",
+  "q": "نقص أي من العناصر التالية يؤثر على النشاط عضلة القلب؟",
+  "q_ar": null,
+  "options": [
+   "بوتاسيوم",
+   "كالسيوم",
+   "صوديوم",
+   "مغنيسيوم"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "unreadable"
+  ]
+ },
+ {
+  "src": "f16",
+  "page": 1,
+  "no": null,
+  "lang": "ar",
+  "q": "أقراص تنظيم النسل أحادية الهرمون (بروجيسترون) تستخدم في الحالات التالية؟",
+  "q_ar": null,
+  "options": [
+   "النساء اللاتي تمارس الرضاعة الطبيعية",
+   "النساء اللاتي لا تمارس الرضاعة الطبيعية",
+   "النساء اللاتي تعاني من أمراض الكبد",
+   "النساء اللاتي تعاني من سرطان الرحم"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f16",
+  "page": 1,
+  "no": null,
+  "lang": "ar",
+  "q": "مريض يعاني من ... بالسكر وإسهال ولتشخيص طلب الدكتور منه عمل فحص CBC على مرض متابع",
+  "q_ar": null,
+  "options": [
+   "كريات الدم الحمراء",
+   "كريات الدم البيضاء WBC",
+   "الهيموجلوبين ...",
+   "كل ما سبق"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "unreadable"
+  ]
+ },
+ {
+  "src": "f16",
+  "page": 2,
+  "no": null,
+  "lang": "ar",
+  "q": "أثناء إجراء الانعاش القلبي الرئوي للبالغ يوجد مسعف واحد يكون عدد الضغطات",
+  "q_ar": null,
+  "options": [
+   "15 ضغطة ونفس واحد",
+   "5 ضغطات ونفس واحد",
+   "15 ضغطة ونفسين",
+   "??"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "unreadable"
+  ]
+ },
+ {
+  "src": "f16",
+  "page": 2,
+  "no": null,
+  "lang": "ar",
+  "q": "تطبيق مقياس العزل لمريض يعاني من مرض السل الرئوي يجب على الممرضين؟",
+  "q_ar": null,
+  "options": [
+   "المحافظة على تقييم جميع الزوار(؟) المريض قبل دخولها الغرفة",
+   "المحافظة على تقييم المصادر(؟) لكل ما يخرج من غرفة المريض",
+   "الشديد على التنظيف المضاعف لكل ما يخرج من غرفة المريض",
+   "ارتداء اللبس الوقائي والكمامة والقفازات كل دخول غرفة المريض"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "unreadable"
+  ]
+ },
+ {
+  "src": "f16",
+  "page": 2,
+  "no": null,
+  "lang": "ar",
+  "q": "اشتكت مريضة من ازرقاق بالجلد بسبب حقنة عملتها الممرضة(؟) لها بفترة الصباح قائلة (انها) لم تفعل(؟) ولكن ظلت نازفة(؟) وسمعتها تقول ان الابرة مقاسها 25 اليس هذا مقاسا كبيرا (لحقن موضعي) كيف ترد عليها؟",
+  "q_ar": null,
+  "options": [
+   "هذا المقاس صغير ولكنه قريب(؟) مناسب بسيط دعيني ارى ذراعك",
+   "حقيقة لأحد يشتكي من هذا المقاس لكنك أكثر حساسية من غيرك",
+   "هذا المقاس صغير جدا لكنك عصبية ومتوترة اثناء الحقن",
+   "هذا المقاس صغير جدا لذلك أنت مبالغة في الألم وتشتكين"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "unreadable"
+  ]
+ },
+ {
+  "src": "f16",
+  "page": 2,
+  "no": null,
+  "lang": "ar",
+  "q": "من علامات الالتواء كل آتي ماعدا",
+  "q_ar": null,
+  "options": [
+   "ألم وورم حول المفصل",
+   "عدم القدرة على تحريك العضو",
+   "خروج العظم من المفصل"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f16",
+  "page": 3,
+  "no": null,
+  "lang": "ar",
+  "q": "أي علامة من النزيف متوقعة لمريض يعاني من قرحة الاثنى عشر؟",
+  "q_ar": null,
+  "options": [
+   "دم قاتم مصاحب للبراز",
+   "لون البراز أسود ورقيق(؟)",
+   "لون البراز بني كلون القهوة",
+   "لون البراز أحمر فاتح"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "unreadable"
+  ]
+ },
+ {
+  "src": "f16",
+  "page": 3,
+  "no": null,
+  "lang": "ar",
+  "q": "عند إصابة مريض بقرح سريرية بسيطة بمنطقة أسفل الظهر تقوم الممرضة بمعالجة هذه المشكلة عن طريق؟",
+  "q_ar": null,
+  "options": [
+   "الحفاظ على جفاف منطقة الإصابة",
+   "وضع ضماد(؟) مبلل على منطقة الإصابة",
+   "وجبات غذائية ذات سعرات حرارية عالية",
+   "وضع المريض على جانبه الأيمن"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "unreadable"
+  ]
+ },
+ {
+  "src": "f16",
+  "page": 3,
+  "no": null,
+  "lang": "ar",
+  "q": "مصطلح ( Schiroph ) يعني؟",
+  "q_ar": null,
+  "options": [
+   "ذهان المرح(؟)",
+   "الوسواس القهري",
+   "الفصام",
+   "الاكتئاب"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "unreadable"
+  ]
+ },
+ {
+  "src": "f16",
+  "page": 3,
+  "no": null,
+  "lang": "ar",
+  "q": "أي من وظائف الجسم يعتبر أساسيا لعملية الامتصاص من الزوائد(؟)؟",
+  "q_ar": null,
+  "options": [
+   "امداد الدم الكافي",
+   "أماكن استقبال كافية",
+   "وظائف الكبد السليمة",
+   "وظائف الكلى سليمة"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "unreadable"
+  ]
+ },
+ {
+  "src": "f16",
+  "page": 3,
+  "no": null,
+  "lang": "ar",
+  "q": "الطريقة الصحيحة لفتح مجرى الهواء عند مريض يعاني من غيبوبة؟",
+  "q_ar": null,
+  "options": [
+   "امالة الرأس للخلف ورفع الذقن",
+   "اخراج لسانه من فمه",
+   "انعاش قلبي رئوي"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "unreadable"
+  ]
+ },
+ {
+  "src": "f16",
+  "page": 4,
+  "no": 15,
+  "lang": "ar",
+  "q": "في حالة ورم في الفخذ واحمرار وعدم التفريق هل هو التواء أو خلع أو كسر كانت تتعامل مع الحالة كأنها؟",
+  "q_ar": null,
+  "options": [
+   "خلع",
+   "كسر",
+   "التواء"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "unreadable"
+  ]
+ },
+ {
+  "src": "f16",
+  "page": 4,
+  "no": 16,
+  "lang": "ar",
+  "q": "عند تغيير الشرشف لسرير مريض (بواسطة ممرضين) أين يجب أن يقف الممرضات بالنسبة للمريض لتسريع عملية تغيير الشرشف؟",
+  "q_ar": null,
+  "options": [
+   "على جانبي السرير عند مستوى الصدر",
+   "على جانبي السرير عند مستوى الكتف",
+   "على جانبي السرير عند مستوى الحوض",
+   "على جانبي السرير عند مستوى الركبة"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "unreadable"
+  ]
+ }
+]

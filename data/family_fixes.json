@@ -1,0 +1,15 @@
+{
+  "_doc": "Manual corrections to question families (a family = variants of ONE question; only its best variant is shown). Applied by tools/finalize.py. Each entry needs a reason. 'alone' = give the question its own family; 'move' = put it in the family of another question.",
+  "alone": {
+    "Q0306": "contraception methods - unrelated to the hand-washing question Q0060 it was grouped with (legacy batch-1 family)",
+    "Q0716": "cause of MI pain - different question from Q0715 (primary nursing goal in MI)",
+    "Q0848": "before a blood transfusion - different question from Q0852 (before digoxin)",
+    "Q0804": "meaning of 'tid' - different question from Q0803 (meaning of 'PRN')",
+    "Q0654": "'most common non-communicable diseases' - different question from Q0659 (non-communicable EXCEPT)",
+    "Q0765": "communicable diseases EXCEPT - the complement of Q0659, a different question",
+    "Q0405": "'among the causes of anemia in pregnancy are' - different question from Q0082 (most common cause)"
+  },
+  "move": {
+    "Q0392": {"to": "Q0105", "reason": "'causes of anemia in pregnancy EXCEPT' belongs with Q0105 (the same EXCEPT question), not with Q0082 (most common cause)"}
+  }
+}

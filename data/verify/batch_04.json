@@ -1,0 +1,911 @@
+[
+ {
+  "id": "Q0151",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following terms is used to indicate total urine out put of less than 50 ml in 24 hours:",
+  "q_ar": null,
+  "options": [
+   "Anuria",
+   "Oliguria",
+   "Dysuria",
+   "Polyuria"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Anuria",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0152",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following terms refers to a disorder characterized by proteinuria, edema, hypoalbuminuria, and hyperlipidemia.",
+  "q_ar": null,
+  "options": [
+   "Pyelonephritis",
+   "Interstitial cystitis",
+   "Nephrotic syndrome",
+   "Glomerulonephritis"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Nephrotic syndrome",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0153",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The name of the procedure for the removal of urinary bladder stone is:",
+  "q_ar": null,
+  "options": [
+   "Cystolithiasis",
+   "Cystolithectomy",
+   "Cystometry",
+   "Cystoextraction"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Cystolithectomy",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0154",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Patients who are receiving hemodialysis for ESRD (end stage renal failure), are especially prone to develop:",
+  "q_ar": null,
+  "options": [
+   "Peritonitis",
+   "Renal calculi",
+   "Bladder infection",
+   "Serum hepatitis"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Serum hepatitis",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0155",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "After the IVP, the nurse should anticipate incorporating which of the following measures into the client plan of care:",
+  "q_ar": null,
+  "options": [
+   "Maintaining bed rest.",
+   "Encouraging adequate fluid intake.",
+   "Assessing for hematuria.",
+   "Administering laxatives."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Encouraging adequate fluid intake.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0156",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The nurse should instruct the female to reduce the recurrent UTI as the following:",
+  "q_ar": null,
+  "options": [
+   "Cleanse around the perineum with front to back cleansing.",
+   "Wash genitalia in tub bath.",
+   "Drink alittle amount of fluid.",
+   "Non of the above."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Cleanse around the perineum with front to back cleansing.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0157",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Acetyl calsilic acid (Aspirin) contraindicated to be given in:",
+  "q_ar": null,
+  "options": [
+   "Pt. with hemorrhage .",
+   "Severe headack.",
+   "Heart disease",
+   "Rheumatic fever"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Pt. with hemorrhage .",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0158",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Gentamicin is:",
+  "q_ar": null,
+  "options": [
+   "Broad spectrum antibiotics .",
+   "Antimetabolite .",
+   "Aminoglycocides",
+   "A and c"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "A and c",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0159",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Paracetamole is:",
+  "q_ar": null,
+  "options": [
+   "Analgesic .",
+   "Antipyretic .",
+   "Antibiotic",
+   "A and B"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "A and B",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0160",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following are analgesics except:",
+  "q_ar": null,
+  "options": [
+   "Diclofin",
+   "Flagyl",
+   "Acamol",
+   "Aspirin"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Flagyl",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0161",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Pt. with head trauma should have all the following treatment except:",
+  "q_ar": null,
+  "options": [
+   "IV line catheter",
+   "IV fluid",
+   "Sedatives",
+   "Oxygen"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Sedatives",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0162",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "You should instruct the Pt. when taking Prothiasin:",
+  "q_ar": null,
+  "options": [
+   "To take it after 2 hours of meal",
+   "To void after 2 hours",
+   "Not to drive his care",
+   "Don’t worry about vomiting"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Not to drive his care",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0163",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Diclofin is:",
+  "q_ar": null,
+  "options": [
+   "Antipyretic",
+   "Non steroidal anti-inflammatory drug",
+   "a and b",
+   "Non of the above"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "a and b",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0164",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Insertion of a tube through the nose into the stomach called:",
+  "q_ar": null,
+  "options": [
+   "Orogastric intubation.",
+   "Nasogastric intubation.",
+   "Nasointestinal intubation.",
+   "Transabdominal tube."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Nasogastric intubation.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0165",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Lavage is:",
+  "q_ar": null,
+  "options": [
+   "Giving nourishment by tube.",
+   "Surgical opening in the stomach.",
+   "Removing substances from the stomach.",
+   "Non of the above."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Removing substances from the stomach.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0166",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Normal color of urine is:",
+  "q_ar": null,
+  "options": [
+   "Urine has no color.",
+   "Bright red color.",
+   "Light yellow.",
+   "Light green."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Light yellow.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0167",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Urinary elimination process means:",
+  "q_ar": null,
+  "options": [
+   "The process of re-absorption of water and minerals in the kidney.",
+   "The process of urine collection in the human bladder.",
+   "The process of releasing excess fluid and metabolic wastes.",
+   "The process of urine assessment by the lab technicians."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "The process of releasing excess fluid and metabolic wastes.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0168",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Measurement of the NGT as:",
+  "q_ar": null,
+  "options": [
+   "From neck to nose to epigastric region.",
+   "From shoulder to nose to zephoid process.",
+   "From ear to nose to zephoid process.",
+   "From mouth to nose to zephoid process."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "From ear to nose to zephoid process.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0169",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Substances associated with childhood poisoning include all of the following except:",
+  "q_ar": null,
+  "options": [
+   "Drugs.",
+   "Cleansing agents.",
+   "Fresh food.",
+   "Cosmetics."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Fresh food.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0170",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "For all the following poisoning situation induce vomiting and gastric lavage recommended except:",
+  "q_ar": null,
+  "options": [
+   "Food poisoning.",
+   "Drug poisoning .",
+   "Caustic and corrosive poisoning .",
+   "Plant poisoning."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Caustic and corrosive poisoning .",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0171",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Pain transmition begins by stimulation of:",
+  "q_ar": null,
+  "options": [
+   "Nerve plexus.",
+   "Nerve receptors.",
+   "Spinal cord.",
+   "Skin."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Nerve receptors.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0172",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Blood pH normal range:",
+  "q_ar": null,
+  "options": [
+   "7.25 – 7.30",
+   "6.40 – 7.00",
+   "7.75 – 8.00",
+   "7.35 – 7.45"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "7.35 – 7.45",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0173",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Promotion of oxygenation could be occur by:",
+  "q_ar": null,
+  "options": [
+   "Maintain air way open",
+   "Positioning (sitting or fowler)",
+   "Oxygen supply.",
+   "Breathing techniques.",
+   "All of the above.",
+   "Non of the above."
+  ],
+  "source_marked_answer_index": 4,
+  "source_marked_answer_text": "All of the above.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0174",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Peri-operative period means:",
+  "q_ar": null,
+  "options": [
+   "Total period before surgery",
+   "Total period after surgery",
+   "Total period of (before, during and after surgery)",
+   "Non of the above"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Non of the above",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0175",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All the following factors are considered when selecting a syringe and needle except:",
+  "q_ar": null,
+  "options": [
+   "Depth of the tissue",
+   "Family history",
+   "Type of the drug",
+   "Size of the patient"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Family history",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0176",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All the following routs of administration considered parenteral routs except:",
+  "q_ar": null,
+  "options": [
+   "Intradermal",
+   "IV",
+   "SC",
+   "Otic",
+   "Intra-joint",
+   "Ophthalmic",
+   "Both d and f"
+  ],
+  "source_marked_answer_index": 6,
+  "source_marked_answer_text": "Both d and f",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0177",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "IV bolus administration means:",
+  "q_ar": null,
+  "options": [
+   "Given drug IV in short period",
+   "Given drug IV in along period",
+   "Given drug IV by infusion",
+   "Given drug IV quickly without dilution"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Given drug IV quickly without dilution",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0178",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Z-Tract technique used in:",
+  "q_ar": null,
+  "options": [
+   "Deep intramuscular injection",
+   "Irritant drugs",
+   "Both a and b",
+   "Neither a nor b"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Both a and b",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0179",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All the following IM injection sights except:",
+  "q_ar": null,
+  "options": [
+   "Dorsogluteal",
+   "Forearm",
+   "Ventrogluteal",
+   "Vastus lateralis",
+   "Deltoid"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Forearm",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0180",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "In case of meningitis, the CSF examination will be :",
+  "q_ar": null,
+  "options": [
+   "Low protein level.",
+   "Low glucose level.",
+   "Clear appearance.",
+   "Decrease CSF pressure."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Low glucose level.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0181",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All the following are potential complication of meningitis Except:",
+  "q_ar": null,
+  "options": [
+   "Seizures.",
+   "Cerebral infarction or abscess.",
+   "Myocardial infarction.",
+   "Subdural effusion."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Myocardial infarction.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0182",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All the following is clinical manifestation of a cute glomerulonephritis Except :",
+  "q_ar": null,
+  "options": [
+   "Brown colored urine",
+   "Weight loss.",
+   "Malaise.",
+   "Hypertension"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Weight loss.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0183",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "11- All of the following are considered congenital a cyanotic heart disease Except:",
+  "q_ar": null,
+  "options": [
+   "Ventricular septal defect (VSD)",
+   "Tricuspid atresia.",
+   "Coarctation of aorta",
+   "Patent ductus arterioses."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Coarctation of aorta",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0184",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Tetorolgy of fallot is characterized by all of the following Except:",
+  "q_ar": null,
+  "options": [
+   "Right ventricular hypertrophy.",
+   "Pulmonary stenosis",
+   "Ventricular septal defect.",
+   "Atrial septal defect."
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Atrial septal defect.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0185",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Kerning's sign is manifestation for:",
+  "q_ar": null,
+  "options": [
+   "Wiliam's tumor Encephalitis",
+   "Acute Rheumatic Fever.",
+   "Encephalitis",
+   "Meningitis"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Meningitis",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0186",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following are cardinal signs of nephrotic syndrome Except:",
+  "q_ar": null,
+  "options": [
+   "Hypoalbuminemia",
+   "Proteinuria",
+   "Hypocholesterolemia",
+   "Edema"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Hypocholesterolemia",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0187",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A full-term pregnancy normally ranges between:",
+  "q_ar": null,
+  "options": [
+   "37-40",
+   "38-42",
+   "38-44",
+   "36-40"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "37-40",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0188",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Morning sickness is caused by:",
+  "q_ar": null,
+  "options": [
+   "Vitamin deficiency",
+   "Exhaustion",
+   "Pregnancy Hormones",
+   "Twins pregnancy"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Pregnancy Hormones",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0189",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "During what phase of the menstrual cycle is an egg (ovum) released?",
+  "q_ar": null,
+  "options": [
+   "Ovulation",
+   "Gestation",
+   "Luteal",
+   "Mittelschmerz",
+   "Incubation"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Ovulation",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0190",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "What does amenorrhea mean?",
+  "q_ar": null,
+  "options": [
+   "Painful menstruation",
+   "Menstrual cycle where ovulation does not occur",
+   "Absence of menstrual period",
+   "Heavy bleeding during menstruation"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Absence of menstrual period",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0191",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When the foetus is growing inside the uterus it needs nutrients. What provides these nutrients?",
+  "q_ar": null,
+  "options": [
+   "Placenta",
+   "Amniotic sac",
+   "Uterus",
+   "Oviduct"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Placenta",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0192",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Why is breast milk important to a newly born baby?",
+  "q_ar": null,
+  "options": [
+   "It is the right temperature for the baby",
+   "It is made by its own mother so it is matched to its needs",
+   "It contains antibodies that protect against common microorganisms",
+   "It tastes better than bottle milk"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "It contains antibodies that protect against common microorganisms",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0193",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "HCG is an acronym for what?",
+  "q_ar": null,
+  "options": [
+   "Human cloning gene",
+   "Human cell gamete",
+   "Human chorionic gonadotropin",
+   "Human corpus growth"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Human chorionic gonadotropin",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0194",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The family structure consisting of parents and their dependent children living together is known as a(n):",
+  "q_ar": null,
+  "options": [
+   "Binuclear family",
+   "Reconstituted family",
+   "Nuclear family",
+   "Extended family"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Nuclear family",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0195",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Adolescents are at a greater risk for injury from:",
+  "q_ar": null,
+  "options": [
+   "Poisoning and child abduction.",
+   "Automobile accidents, suicide, and substance abuse.",
+   "Home accidents.",
+   "Physiological changes of aging."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Automobile accidents, suicide, and substance abuse.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0196",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The patient lying face down is called:",
+  "q_ar": null,
+  "options": [
+   "Supine",
+   "Prone",
+   "Fowler's",
+   "Lateral"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Prone",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0197",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following has had the greatest impact on reducing infant mortality in the United States?",
+  "q_ar": null,
+  "options": [
+   "Improvements in perinatal care",
+   "Decreased incidence of congenital abnormalities",
+   "Better maternal nutrition",
+   "Improved funding for health care"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Improvements in perinatal care",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0198",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following is FALSE concerning gestational diabetes in mothers-to-be?",
+  "q_ar": null,
+  "options": [
+   "The diabetes usually disappears after birth",
+   "Their babies may experience hypo-glycemia after birth",
+   "Their babies are commonly born with breathing difficulties",
+   "Their newborns tend to be underweight"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Their newborns tend to be underweight",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0199",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "What is polyhydramnios?",
+  "q_ar": null,
+  "options": [
+   "Excessive vomiting during pregnancy",
+   "Excessive maternal hair growth",
+   "Excessive maternal swelling",
+   "Excessive fluid around the fetus"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Excessive fluid around the fetus",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0200",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Preeclampsia is another possible complication of pregnancy. Which of the following is NOT characteristic of preeclampsia?",
+  "q_ar": null,
+  "options": [
+   "protein in the urine",
+   "high blood pressure",
+   "vaginal bleeding",
+   "swelling"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "vaginal bleeding",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

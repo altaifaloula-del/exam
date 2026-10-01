@@ -1,0 +1,747 @@
+[
+ {
+  "id": "Q0001",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الإصغاء (Auscultation) هو الفحص المستخدم لتقييم حركة الهواء في الشعب والقصيبات الهوائية (الأزيز ينشأ من مرور الهواء في القصيبات الضيقة).",
+  "refs": [
+   {
+    "title": "Lung Sounds - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK537253/"
+   }
+  ]
+ },
+ {
+  "id": "Q0002",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "السمنة وارتفاع ضغط الدم كلاهما عامل خطر مثبت لأمراض القلب والشريان التاجي، فخيار «all mentioned» صحيح.",
+  "refs": [
+   {
+    "title": "Risk Factors for Coronary Artery Disease (Archived) - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK554410/"
+   }
+  ]
+ },
+ {
+  "id": "Q0003",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": false,
+  "note_ar": "الجرح الناتج عن السكين هو الجرح القطعي (Incised wound) وهو غير مدرج في الخيارات فيكون «none of above» الأقرب؛ لكن الطعن بالسكين قد يُسمّى جرحًا وخزيًا (الخيار 0) فلا حسم. علامة المصدر (Fissure) خاطئة لأن الشق ليس نوع جرح ناتجًا عن السكين.",
+  "refs": [
+   {
+    "title": "Types of wound - FutureLearn (basic first aid)",
+    "url": "https://www.futurelearn.com/info/courses/basic-first-aid/0/steps/27028"
+   }
+  ]
+ },
+ {
+  "id": "Q0004",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "قبل نقل الدم يلزم تحديد فصيلة الدم (ABO/Rh) والمطابقة المصلية (crossmatch) مع فحص الأجسام المضادة؛ باقي الفحوص لا تغني عنهما.",
+  "refs": [
+   {
+    "title": "Pretransfusion Testing - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK585033/"
+   },
+   {
+    "title": "OpenStax Clinical Nursing Skills 13.4: Blood Transfusions (LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/13%3A_Intravenous_Administration/13.04%3A_Blood_Transfusions"
+   }
+  ]
+ },
+ {
+  "id": "Q0005",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": false,
+  "note_ar": "الوضعيتان المعتمدتان لبزل القطني هما الاستلقاء الجانبي (lateral recumbent) أو الجلوس مع انحناء الظهر؛ وضعية الانبطاح (prone) غير معتمدة فعلامة المصدر خاطئة. لا يوجد خيار مطابق تمامًا و«semi sitting» هو الأقرب لوضعية الجلوس فقط.",
+  "refs": [
+   {
+    "title": "Lumbar Puncture - StatPearls (NCBI Bookshelf, PDF copy hosted by HETI NSW)",
+    "url": "https://www.heti.nsw.gov.au/__data/assets/pdf_file/0019/922060/Lumbar-Puncture-StatPearls-NCBI-Bookshelf.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0006",
+  "verdict": "corrected",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": false,
+  "note_ar": "في الإسعاف الأولي للجرح الثاقب تأتي السيطرة على النزف (ضغط لطيف) أولًا ثم التنظيف، ثم لقاح الكزاز عند الحاجة؛ علامة المصدر (التنظيف) تخالف ترتيب Mayo Clinic.",
+  "refs": [
+   {
+    "title": "Puncture wounds: First aid - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/first-aid/first-aid-puncture-wounds/basics/art-20056665"
+   },
+   {
+    "title": "OpenStax Clinical Nursing Skills 8.3: Wound Management (LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/08%3A_Wound_and_Burn_Assessment_and_Care/8.03%3A_Wound_Management"
+   }
+  ]
+ },
+ {
+  "id": "Q0007",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": false,
+  "note_ar": "حرارة 37.7 بعد صيام 10 ساعات: يذكر StatPearls أن الجفاف الخفيف سبب معروف لارتفاع الحرارة الطفيف، ولم أجد مرجعًا يربط ذلك بالقلق؛ لكن المصدر اختار «anxiety» وقد يكون هذا مفتاح الامتحان نفسه. السيناريو نفسه في Q0026 إجابته الجفاف.",
+  "refs": [
+   {
+    "title": "Postoperative Fever - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482299/"
+   },
+   {
+    "title": "Dehydration - MedlinePlus",
+    "url": "https://medlineplus.gov/dehydration.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0008",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "مصادر عدوى الحروق: فلورا المريض الذاتية (ومنها الجهاز الهضمي) والبيئة المستشفوية عبر أيدي الطاقم (Medscape)؛ عبارة «السبب الأول» غامضة، و«hospital care» (عدوى المستشفيات) الأقرب لكن «intestinal» مصدر ذاتي موثّق أيضًا.",
+  "refs": [
+   {
+    "title": "Burn Wound Infections - Medscape",
+    "url": "https://emedicine.medscape.com/article/213595-overview"
+   }
+  ]
+ },
+ {
+  "id": "Q0009",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الإنسولين تفرزه خلايا بيتا في جزر لانغرهانز بالبنكرياس؛ الإستروجين والبروجسترون هرمونان مبيضيان.",
+  "refs": [
+   {
+    "title": "Pancreatic Islet - ScienceDirect Topics",
+    "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/pancreatic-islet"
+   }
+  ]
+ },
+ {
+  "id": "Q0010",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": false,
+  "note_ar": "الخياران 1 و3 مكرّران ولا خيار يوافق الإرشادات الحالية (AHA/ERC: 30 ضغطة : نفَسان). نسبة 15:2 (نفَسان و15 ضغطة) من النسب القديمة قبل إرشادات 2005، أما «نفَس واحد و15 ضغطة» فليست نسبة معتمدة؛ فالأقرب الخيار 0 وفق الإرشادات القديمة.",
+  "refs": [
+   {
+    "title": "The changes in cardiopulmonary resuscitation guidelines: from 2000 to the present - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6944876/"
+   }
+  ]
+ },
+ {
+  "id": "Q0011",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الدم المؤكسج يعود من الرئتين عبر الأوردة الرئوية إلى الأذين الأيسر (left atrium)؛ كلمة «vertical» تحريف لـ ventricle.",
+  "refs": [
+   {
+    "title": "Heart: Anatomy, Function & Structure - Cleveland Clinic",
+    "url": "https://my.clevelandclinic.org/health/body/21704-heart"
+   }
+  ]
+ },
+ {
+  "id": "Q0012",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "تحليل البراز (فحص البيض والطفيليات O&P تحت المجهر) هو الفحص التشخيصي لطفيليات الأمعاء؛ الأشعة والموجات فوق الصوتية لا تكشفها.",
+  "refs": [
+   {
+    "title": "Ova and Parasite Test - MedlinePlus",
+    "url": "https://medlineplus.gov/lab-tests/ova-and-parasite-test/"
+   }
+  ]
+ },
+ {
+  "id": "Q0013",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخياران 0 و1 مقطوعان (??) والخيار الذي علّمه المصدر هو نفسه «??»؛ لا يمكن الحسم.",
+  "refs": []
+ },
+ {
+  "id": "Q0014",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "وظيفة الصفائح الدموية تكوين الجلطة لوقف النزف؛ لكن الصياغة مشوهة («era lot» و«identity blood clot») والخيار 0 هو الوحيد المتعلق بالجلطة، فلا جزم بالنص المشوّه.",
+  "refs": [
+   {
+    "title": "What Are Platelets? Function & Anatomy - Cleveland Clinic",
+    "url": "https://my.clevelandclinic.org/health/body/22879-platelets"
+   }
+  ]
+ },
+ {
+  "id": "Q0015",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الفرق بين الانقباضي والانبساطي هو ضغط النبض (pulse pressure)، ولا خيار بهذا النص (الخيار 3 مقطوع و«pulse» وحدها ليست الجواب) والمصدر بلا علامة.",
+  "refs": []
+ },
+ {
+  "id": "Q0016",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "العظام تخزّن نحو 98–99% من كالسيوم الجسم (NIH)، والسؤال يقرّب النسبة إلى 90%.",
+  "refs": [
+   {
+    "title": "Calcium - Health Professional Fact Sheet - NIH Office of Dietary Supplements",
+    "url": "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/"
+   }
+  ]
+ },
+ {
+  "id": "Q0017",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الإعطاء الشدقي (buccal) هو وضع الدواء بين اللثة والخد (cheek).",
+  "refs": [
+   {
+    "title": "OpenStax Clinical Nursing Skills 12.1: Administering Oral Medications (LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/12%3A_Medication_Administration_Procedures/12.01%3A_Administering_Oral_Medications"
+   },
+   {
+    "title": "Buccal administration - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Buccal_administration"
+   }
+  ]
+ },
+ {
+  "id": "Q0018",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخياران 2 و3 مقطوعان؛ ولا يمكن الحكم على «massage of the back» كأول علاج لآلام الظهر دون رؤية بقية الخيارات.",
+  "refs": []
+ },
+ {
+  "id": "Q0019",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "القولون الصاعد يمتد من الربع السفلي الأيمن (بداية الصاعد بعد الأعور) إلى الثني الكبدي في الربع العلوي الأيمن (Kenhub)؛ الخيار 0 هو الجواب الشائع في الكتب المبسطة لكن الخيار 2 صحيح جزئيًا.",
+  "refs": [
+   {
+    "title": "Abdominal regions: Anatomy, landmarks and contents - Kenhub",
+    "url": "https://www.kenhub.com/en/library/anatomy/regions-of-the-abdomen"
+   },
+   {
+    "title": "The anatomy of the ascending colon - Kenhub",
+    "url": "https://www.kenhub.com/en/library/anatomy/ascending-colon"
+   }
+  ]
+ },
+ {
+  "id": "Q0020",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "السمنة وارتفاع الضغط عوامل خطر للقلب، أما الراحة فليست عامل خطر (النشاط البدني وقائي والخمول هو الضار)؛ كلمة «Pulspertur» مشوهة فتنخفض الثقة.",
+  "refs": [
+   {
+    "title": "Risk Factors for Coronary Artery Disease (Archived) - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK554410/"
+   }
+  ]
+ },
+ {
+  "id": "Q0021",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "COPD (مرض الانسداد الرئوي المزمن) يشمل التهاب القصبات المزمن وانتفاخ الرئة مع انسداد تدفق الهواء.",
+  "refs": [
+   {
+    "title": "COPD - MedlinePlus",
+    "url": "https://medlineplus.gov/copd.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0022",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "قلّة البول (oliguria) تُعرَّف بأقل من 400 مل/يوم في StatPearls وتُذكر في بعض الكتب 100–500 مل/يوم؛ أما anuria فأقل من 100 مل/يوم وpolyuria زيادة البول وdysuria ألم التبول.",
+  "refs": [
+   {
+    "title": "Oliguria (Archived) - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK560738/"
+   }
+  ]
+ },
+ {
+  "id": "Q0023",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "«inspection» و«observation» مترادفان والسؤال لا يحدد المطلوب؛ فحص البطن يتضمن الأربعة بالترتيب: inspection ثم auscultation ثم palpation ثم percussion، فلا إجابة وحيدة.",
+  "refs": [
+   {
+    "title": "OpenStax Clinical Nursing Skills 27.2: Physical Assessment of the abdomen (LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/27%3A_Assessment_of_the_Abdomen/27.02%3A_Physical_Assessment"
+   }
+  ]
+ },
+ {
+  "id": "Q0024",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "الخيار 3 مقطوع (ربما «all of the above» كما في Q0045)؛ التعويض الوريدي بالسوائل البلورية هو الخط الأول في صدمة نقص الحجم (StatPearls) لكن لا جزم دون الخيار المقطوع.",
+  "refs": [
+   {
+    "title": "Hypovolemia and Hypovolemic Shock - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK513297/"
+   }
+  ]
+ },
+ {
+  "id": "Q0025",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "مع النزف والجرح الثاقب يبدأ التدخل بإيقاف النزف بالضغط (Mayo)؛ ولا يُنزع الجسم الحاد المغروس في الطوارئ، والخياران 1 و3 غير منطقيين (ترجمة مشوهة).",
+  "refs": [
+   {
+    "title": "Puncture wounds: First aid - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/first-aid/first-aid-puncture-wounds/basics/art-20056665"
+   }
+  ]
+ },
+ {
+  "id": "Q0026",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "نقص السوائل وعدم الشرب مع الغيبوبة يدل على الجفاف (dehydration)؛ وحرارة 37.7 ليست hypothermia، والتورم وفقر الدم لا يفسران نقص السوائل.",
+  "refs": [
+   {
+    "title": "Dehydration - MedlinePlus",
+    "url": "https://medlineplus.gov/dehydration.html"
+   },
+   {
+    "title": "Postoperative Fever - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482299/"
+   }
+  ]
+ },
+ {
+  "id": "Q0027",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "وظائف العضلات الهيكلية: الحركة والحفاظ على وضعية الجسم وإنتاج الحرارة، فخيار «all of above» صحيح.",
+  "refs": [
+   {
+    "title": "Muscular System Homeostasis - CCCOnline Biology pressbook",
+    "url": "https://pressbooks.ccconline.org/bio106/chapter/muscular-system-homeostasis/"
+   }
+  ]
+ },
+ {
+  "id": "Q0028",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "N-acetylcysteine (أسيتيل سيستئين) هو الترياق النوعي لتسمم الباراسيتامول.",
+  "refs": [
+   {
+    "title": "N-acetylcysteine - LITFL Toxicology Library",
+    "url": "https://litfl.com/n-acetylcysteine/"
+   }
+  ]
+ },
+ {
+  "id": "Q0029",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "مقياس غلاسكو يتكون من فتح العين والاستجابة اللفظية والاستجابة الحركية؛ مستوى التوجه (orientation) ليس مكوّنًا مستقلًا بل جزء من تقييم الاستجابة اللفظية.",
+  "refs": [
+   {
+    "title": "Glasgow Coma Scale - Adult - Medscape",
+    "url": "https://emedicine.medscape.com/article/2172603-overview"
+   },
+   {
+    "title": "Glasgow Coma Scale - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK513298/"
+   }
+  ]
+ },
+ {
+  "id": "Q0030",
+  "verdict": "corrected",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": false,
+  "note_ar": "فرط دهون الدم (hyperlipidemia) عامل خطر رئيس لمرض القلب (ثاني أكثر العوامل شيوعًا في StatPearls) فلا يصح أن يكون الاستثناء؛ النشاط البدني وقائي لا مسبّب (والمقصود غالبًا الخمول) فهو الاستثناء. الصياغة مشوهة فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Risk Factors for Coronary Artery Disease (Archived) - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK554410/"
+   }
+  ]
+ },
+ {
+  "id": "Q0031",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "لا يوجد مقاس واحد يصلح للحقن داخل الأدمة والتحت جلدية والوريدية والعضلية: داخل الأدمة 26–27G وتحت الجلد 25–30G وعضلي 20–25G (OpenStax)، فلا خيار (22–25) يغطي الطرق الأربع.",
+  "refs": [
+   {
+    "title": "OpenStax Clinical Nursing Skills 12.4: Administering Intradermal Injections (LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/12%3A_Medication_Administration_Procedures/12.04%3A_Administering_Intradermal_Injections"
+   },
+   {
+    "title": "OpenStax Clinical Nursing Skills 12.5: Administering Subcutaneous Injections (LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/12%3A_Medication_Administration_Procedures/12.05%3A_Administering_Subcutaneous_Injections"
+   },
+   {
+    "title": "OpenStax Clinical Nursing Skills 12.6: Administering Intramuscular Injections (LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/12%3A_Medication_Administration_Procedures/12.06%3A_Administering_Intramuscular_Injections"
+   }
+  ]
+ },
+ {
+  "id": "Q0032",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "بروتوكول شائع: كل 5 دقائق لأول 15 دقيقة (3 قراءات) ثم كل 15 دقيقة (3 قراءات) = 6 قراءات في الساعة الأولى وهو يوافق الخيار 0؛ لكن لم أجد مرجعًا موثوقًا يحدد العدد الكلي (Wikipedia يذكر فقط أول 15 دقيقة) والبروتوكولات تختلف.",
+  "refs": [
+   {
+    "title": "Post-anesthesia care unit - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Post-anesthesia_care_unit"
+   }
+  ]
+ },
+ {
+  "id": "Q0033",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "تفاعل الحساسية أثناء نقل الدم (allergic) قد يتطور إلى تأق (anaphylaxis)؛ والخيار الآخر «feel» بلا معنى. النص يقول «حساسية ملحوظة» والأدق allergic reaction وهو غير متاح بين الخيارين.",
+  "refs": [
+   {
+    "title": "OpenStax Clinical Nursing Skills 13.4: Blood Transfusions (LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/13%3A_Intravenous_Administration/13.04%3A_Blood_Transfusions"
+   }
+  ]
+ },
+ {
+  "id": "Q0034",
+  "verdict": "corrected",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": false,
+  "note_ar": "بول دموي/أحمر (hemoglobinuria) بعد نقل الدم من علامات تفاعل انحلال الدم الحاد (hemolytic) وليس التأق (الذي يظهر بحكة وطفح وضيق تنفس)؛ علامة المصدر خاطئة.",
+  "refs": [
+   {
+    "title": "Hemolytic Transfusion Reaction - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK448158/"
+   },
+   {
+    "title": "OpenStax Clinical Nursing Skills 13.4: Blood Transfusions (LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/13%3A_Intravenous_Administration/13.04%3A_Blood_Transfusions"
+   }
+  ]
+ },
+ {
+  "id": "Q0035",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "إرشادات CDC: غسل المثانة الروتيني غير موصى به ما لم يُتوقع انسداد؛ أما تجنب التواء الأنبوب وإبقاء كيس البول أسفل المثانة والنظافة الروتينية للمنطقة فكلها موصى بها.",
+  "refs": [
+   {
+    "title": "Guideline for Prevention of Catheter-Associated Urinary Tract Infections (2009) - CDC",
+    "url": "https://www.cdc.gov/infection-control/media/pdfs/Guideline-CAUTI-H.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0036",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "أول إجراء عند الاشتباه بتفاعل نقل الدم هو إيقاف النقل فورًا (مع إبقاء الوريد مفتوحًا وإخطار الطبيب) ثم مراقبة العلامات الحيوية والتوثيق.",
+  "refs": [
+   {
+    "title": "Hemolytic Transfusion Reaction - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK448158/"
+   },
+   {
+    "title": "OpenStax Clinical Nursing Skills 13.4: Blood Transfusions (LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/13%3A_Intravenous_Administration/13.04%3A_Blood_Transfusions"
+   }
+  ]
+ },
+ {
+  "id": "Q0037",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": false,
+  "note_ar": "لون الجلد ورطوبته وحرارته والإيقاع القلبي كلها مؤشرات لتقييم استقرار القلب والدورة الدموية فـ«All the above» منطقي، لكن علامة المصدر (cardiac rhythm) قد تعكس نص الكتاب الأصلي؛ لم أجد مرجعًا صريحًا للسؤال (StatPearls للصدمة النزفية يدعم فقط أن الجلد البارد الرطب الشاحب علامة دورانية).",
+  "refs": [
+   {
+    "title": "Hemorrhagic Shock - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470382/"
+   }
+  ]
+ },
+ {
+  "id": "Q0038",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "تدهور وظائف الكلى يُراقَب بكرياتينين المصل ونيتروجين اليوريا (BUN) وحجم البول/معدل الترشيح؛ تعداد كريات الدم البيضاء ليس مؤشرًا لوظيفة الكلى.",
+  "refs": [
+   {
+    "title": "Creatinine Test - MedlinePlus",
+    "url": "https://medlineplus.gov/lab-tests/creatinine-test/"
+   },
+   {
+    "title": "Renal function - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Renal_function"
+   }
+  ]
+ },
+ {
+  "id": "Q0039",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "التخدير العام يفقد المريض الوعي فلا يمكن تشجيعه على التنفس العميق أثناءه، بينما الوضع الظهري والشفط وتقييم التنفس إجراءات مقبولة؛ لكن إن قُصد مرحلة الإفاقة بعد التخدير فقد يكون الوضع الظهري هو غير المرغوب. النص مشوه («understands») والمرجع لا يحسم.",
+  "refs": [
+   {
+    "title": "General anaesthesia - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/General_anaesthesia"
+   }
+  ]
+ },
+ {
+  "id": "Q0040",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الضمادة تمتص الإفرازات وتحمي الجرح من التلوث وتُستخدم أيضًا للضغط والتثبيت؛ المراجع المسترجعة تدعم الحماية والامتصاص وإيقاف النزف أما التثبيت (splint) فمن نص التمريض القياسي دون مرجع صريح، والخيار 0 مشوه لفظيًا.",
+  "refs": [
+   {
+    "title": "Dressing (medical) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dressing_(medical)"
+   },
+   {
+    "title": "OpenStax Clinical Nursing Skills 8.3: Wound Management (LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/08%3A_Wound_and_Burn_Assessment_and_Care/8.03%3A_Wound_Management"
+   }
+  ]
+ },
+ {
+  "id": "Q0041",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "رفع رأس السرير يخفض الضغط داخل الجمجمة بتحسين التصريف الوريدي، والزاوية 30–45° هي الممارسة المعتمدة في كتب التمريض؛ الزاوية لم تُذكر صراحةً في المرجع المسترجع (فشل فتح إرشادات BTF)، والوضعيات الأخرى (مسطحة/ثني الوركين/Trendelenburg) غير مناسبة.",
+  "refs": [
+   {
+    "title": "Intracranial pressure - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Intracranial_pressure"
+   }
+  ]
+ },
+ {
+  "id": "Q0042",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "أهداف علاج الكسر: رد الكسر وإعادة الاصطفاف، والتثبيت للحفاظ عليه، واستعادة وظيفة العضو؛ فـ«All of the above».",
+  "refs": [
+   {
+    "title": "Bone fracture - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+   }
+  ]
+ },
+ {
+  "id": "Q0043",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "تعليمات الجبيرة تشمل مراقبة علامات ضعف الدورة/الأعصاب (تنميل، تورم، تغير اللون)، وعدم تحميل الوزن على جبيرة جديدة، وتحريك المفاصل غير المثبتة؛ فـ«All of the above».",
+  "refs": [
+   {
+    "title": "Orthopedic cast - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Orthopedic_cast"
+   }
+  ]
+ },
+ {
+  "id": "Q0044",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الصيام قبل التخدير غرضه منع القيء واستنشاق محتويات المعدة (aspiration) أثناء التخدير؛ الخياران 0 و1 ليسا غرضًا للـNPO.",
+  "refs": [
+   {
+    "title": "Pulmonary aspiration - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pulmonary_aspiration"
+   }
+  ]
+ },
+ {
+  "id": "Q0045",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "إدارة صدمة نقص الحجم: سوائل وريدية أولًا ثم منتجات الدم عند النزف، والرافعات الضغطية لا تُستخدم عادةً إلا إذا فشلت الاستجابة للسوائل (StatPearls)؛ فـ«all of the above» صحيح بهذا القيد.",
+  "refs": [
+   {
+    "title": "Hypovolemia and Hypovolemic Shock - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK513297/"
+   }
+  ]
+ },
+ {
+  "id": "Q0046",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الصدمة النزفية: تسرع قلب وتنفس وجلد بارد رطب شاحب وتغير بالحالة الذهنية (قلق/هياج)؛ العطش والقلق ضمن الأعراض التقليدية في كتب التمريض ولم يُذكر العطش صراحة في المرجع المسترجع.",
+  "refs": [
+   {
+    "title": "Hemorrhagic Shock - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470382/"
+   }
+  ]
+ },
+ {
+  "id": "Q0047",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": false,
+  "note_ar": "كل الخيارات أسباب معروفة لاضطراب النظم بعد العمليات (خلل الكهارل، نقص الأكسجة/اضطراب التنفس، الألم بتنبيه الودي، انخفاض الحرارة)، والخيار 0 مكتوب «balance» لا «imbalance»؛ فعلامة المصدر (altered respiratory function) غير مدعومة ولا يوجد استثناء واضح.",
+  "refs": [
+   {
+    "title": "Cardiac arrhythmia - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cardiac_arrhythmia"
+   }
+  ]
+ },
+ {
+  "id": "Q0048",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "معايير الخروج من الإفاقة: ثبات العلامات الحيوية والتوجه وكفاية التشبع الأكسجيني؛ أما إدرار 10 مل/ساعة فأقل من الكافي (oliguria أقل من 20 مل/س في StatPearls والمعتمد في كتب التمريض ≥30 مل/س)، ومقياس Aldrete لا يتضمن البول.",
+  "refs": [
+   {
+    "title": "Aldrete score - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Aldrete_score"
+   },
+   {
+    "title": "Oliguria (Archived) - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK560738/"
+   }
+  ]
+ },
+ {
+  "id": "Q0049",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "مخاطر غرفة العمليات المعروفة تشمل التعرض للدم وسوائل الجسم والليزر ومواد اللاتكس؛ أما «التعرض للضوء الصناعي» فليس من المخاطر المعتمدة. المراجع المسترجعة تدعم خطر الدم والليزر فقط.",
+  "refs": [
+   {
+    "title": "Bloodborne Pathogens and Needlestick Prevention - OSHA",
+    "url": "https://www.osha.gov/bloodborne-pathogens"
+   },
+   {
+    "title": "Laser Hazards - OSHA",
+    "url": "https://www.osha.gov/laser-hazards"
+   }
+  ]
+ },
+ {
+  "id": "Q0050",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "المعدل = (100 مل/س × 15 نقطة/مل) ÷ 60 = 25 نقطة/دقيقة؛ نص السؤال ينقصه «/ساعة» واعتُمدت من الخيارات (لا تنطبق الخيارات الأخرى على أي زمن منطقي)، فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "OpenStax Clinical Nursing Skills 13.3: Intravenous Infusion (LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/13%3A_Intravenous_Administration/13.03%3A_Intravenous_Infusion"
+   }
+  ]
+ }
+]

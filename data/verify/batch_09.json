@@ -1,0 +1,910 @@
+[
+ {
+  "id": "Q0401",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "cough and sputum in the morning including bronchitis",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0402",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "unintentional wound cause treat and therapy",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0403",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When a blood test is done for a patient suspected of being infected with the hepatitis virus, what confirms that he is infected with that:",
+  "q_ar": null,
+  "options": [
+   "High level of bilirubin",
+   "high blood level",
+   "High blood platelet count"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0404",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Measurement of the degree of awareness includes the following except",
+  "q_ar": null,
+  "options": [
+   "open eye",
+   "response motor",
+   "verbal response",
+   "fecal"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0405",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Among the causes of anemia in pregnant women are",
+  "q_ar": null,
+  "options": [
+   "Do not take folic acid tablets"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0406",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "anosmia is inability sleep",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0407",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "percussion teaching is observation shape, color, mioture",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0408",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "physical examination give complete partial picture for physicology function",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0409",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "percussion hammer with rubber head use for check sensory",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0561",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Nurse Jenny is instilling an otic solution into an adult male client left ear. Nurse Jenny avoids doing which of the following as part of the procedure",
+  "q_ar": null,
+  "options": [
+   "Pulling the auricle back ward and upward",
+   "Warming the solution to room temperature",
+   "Pacing the tip of the dropper on the edge of ear canal",
+   "Placing client in side lying position."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0562",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "A nurse caring for a patient in the intensive care unit (ICU) implements strategies to create an environment conducive to sleep. Which strategy would be most effective?",
+  "q_ar": null,
+  "options": [
+   "Turning off the lights in the room during the night",
+   "Having the television on at all times for background noise",
+   "Silencing the alarms on the bedside monitor and infusion pumps",
+   "Administering ordered analgesics around the clock, even if the patient denies pain."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0563",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Which of the following compilations should the nurse care fully monitors a client with acute pancreatitis",
+  "q_ar": null,
+  "options": [
+   "Myocardial Infarction",
+   "Cirrhosis",
+   "Pepticulcer",
+   "Pneumonia."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0564",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "What is the definition of substance use disorder (SUD)?",
+  "q_ar": null,
+  "options": [
+   "A compulsive need to experience pleasure",
+   "Behavior associated with maintaining an addiction",
+   "Absence of a substance will cause withdrawal symptoms",
+   "Overuse and dependence on a substance that negatively affects."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0565",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Which nutrients aid in capillary synthesis and collagen production by the fibroblasts in wound healing?",
+  "q_ar": null,
+  "options": [
+   "Fats",
+   "Proteins",
+   "Vitamin C",
+   "Vitamin A"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0566",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "A patient who had abdominal surgery 3 months ago calls the clinic reporting severe abdominal pain and cramping, vomiting, and bloating. What should the nurse mostlikely suspect as the cause of the patient's problem?",
+  "q_ar": null,
+  "options": [
+   "Infection",
+   "Adhesion",
+   "Contracture",
+   "Evisceration"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0567",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Priority Decision: During admission to the emergency department, a patient with chronic alcoholism is intoxicated and very disoriented and confused. Which drug will the nurse administer first?",
+  "q_ar": null,
+  "options": [
+   "IV thiamine",
+   "IV benzodiazepines",
+   "IV haloperidol (Haldol)",
+   "IV naloxone in normal saline."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0568",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "A client suffered from a lower leg injury and seeks treatment in the emergency room. There is a prominent deformity to the lower aspect of the leg and thate injured leg appears shorter that the other leg. The affected leg is painful swollen and beginning to become ecchymotic The nurse interprets that the client is experiencing:",
+  "q_ar": null,
+  "options": [
+   "Fracture",
+   "Strain",
+   "Sprain",
+   "Contusion."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0569",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Priority Decision: When should the nurse check for leaks in the chest tube and pleural drainage system?",
+  "q_ar": null,
+  "options": [
+   "There is continuous bubbling in the water-seal chamber.",
+   "There is constant bubbling of water in the suction control chamber.",
+   "Fluid in the water-seal chamber fluctuates with the patient's breathing.",
+   "The water levels in the water-seal and suction control chambers are decreased."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0570",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Kate who has undergone mitral valve replace ment suddenly experiences continuous bleeding from the surgical incision during postoperative period. Which of the following pharmaceutical agents should Nurse Aiza prepare to administer to Kate?",
+  "q_ar": null,
+  "options": [
+   "Protamine Sulfate",
+   "Quinidine Sulfate",
+   "Vitamin C",
+   "Coumadin."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0571",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Which patient is at the greatest risk for developing a pressure injury?",
+  "q_ar": null,
+  "options": [
+   "A 42-year-old obese woman with type 2 diabetes",
+   "A 78-year-old man who is confused and malnourished",
+   "A 30-year-old man who is comatose after a head injury",
+   "A 65-year-old woman who has urge and stress incontinence."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0572",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "George who has undergone thoracic surgery has chest tube connected to ab water-seal drainage system attached to suction. Presence of excessive bubbling is identified in water-seal chamber, the nurse should:",
+  "q_ar": null,
+  "options": [
+   "\"Strip\" the chest tube catheter",
+   "Check the system for air leaks",
+   "Recognize the system is functioning correctly",
+   "Decrease the amount of suction pressure."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0573",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "John suddenly experiences a seizure and Nurse Gina notice that John exhibits uncontrollable jerking movement Nurse Gina documents that John experienced which type of seizure?",
+  "q_ar": null,
+  "options": [
+   "Tonic seizure",
+   "Absence seizure",
+   "Myoclonic seizure",
+   "Clonic seizure."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0574",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Priority Decision: During care of patients, what is the most important precaution preventing transmission of infections?",
+  "q_ar": null,
+  "options": [
+   "Wearing face and eye protection during routine daily care of the patient",
+   "Wearing nonsterile gloves when in contact with body fluids, excretions, and contaminated items",
+   "Wearing a gown to protect the skin and clothing during patient care activities likely to soil clothing",
+   "Hand washing after touching fluids and secretions, removing gloves, and between patient contacts."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0575",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "A 68 year old client is diagnosed with a right sided brain attack and is admitted to the hospital in caring for this client, the nurse should plan to:",
+  "q_ar": null,
+  "options": [
+   "Application of elastic stockings to prevent flaccid by muscle",
+   "Use hand roll and extend the left upper extremity on pillow to prevent contractions",
+   "Use abed cradle to prevent dorsiflexion of feet",
+   "Do passive range of motion exercise."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0576",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Priority Decision: What is the most important nursing intervention for the prevention and treatment of pressure injuries?",
+  "q_ar": null,
+  "options": [
+   "Using pressure-reduction devices",
+   "Repositioning the patient frequently",
+   "Massaging pressure areas with lotion",
+   "Using lift sheets and trapeze bars to facilitate patient movement."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0577",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "A 64 year old male client with along history of cardiovascular problem including hypertension and angina is to be scheduled for cardiac catheterization. During precardiac catheterization teaching, Nurse Cherry should inform the client that the primary purpose of the procedure is.....",
+  "q_ar": null,
+  "options": [
+   "To determine the existence of CHD",
+   "To visualize the disease process in the coronary arteries",
+   "To obtain the heart chambers pressure",
+   "To measure oxygen content of different heart chambers."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0578",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "During the second day of hospitalization of the client after a Myocardial Infarction. Which of the following is an expected outcome?",
+  "q_ar": null,
+  "options": [
+   "Able to perform self-care activities without pain",
+   "Severe chest pain",
+   "Can recognize the risk factors of Myocardial Infarction",
+   "Can Participate in cardiac rehabilitation walking program."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Can recognize the risk factors of Myocardial Infarction",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0579",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "A female client is taking Cascara Sagrada. Nurse Betty informs the client that the following may be experienced as side effects of this medication:",
+  "q_ar": null,
+  "options": [
+   "GI bleeding",
+   "Peptic ulcer disease",
+   "Abdominal cramps",
+   "Partial bowel obstruction."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0580",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Modifiable risk factors..........",
+  "q_ar": null,
+  "options": [
+   "Age,diet,weight",
+   "BP,,Diet,weight",
+   "Family.......",
+   "Weight,Family...."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0581",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Balanced anesthesia.............",
+  "q_ar": null,
+  "options": [
+   "local and........",
+   "Inhalation, local and....",
+   "....",
+   "..."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0582",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Contraindications for measuring temperature from the rectum:",
+  "q_ar": null,
+  "options": [
+   "Parkinson's disease.",
+   "Patients has diabetes mellitus..........",
+   "....",
+   "....."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0583",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "In promoting health maintenance for prevention of strokes, the nurse understands that the highest risk for the most common type of stroke is present in which people?",
+  "q_ar": null,
+  "options": [
+   "Blacks",
+   "Women who smoke",
+   "Persons with hypertension and diabetes",
+   "Those who are obese with high dietary fat intake."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0584",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "A social nurse educates people in the rural about reducing _ limit _ the spread of encephalitis ....by",
+  "q_ar": null,
+  "options": [
+   "vaccination.",
+   "Do not leave the house at night",
+   "Spray pesticides to kill mosquito.",
+   "Wear gloves when working in the garden."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0585",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Priority......when when dealing with MI Patient..",
+  "q_ar": null,
+  "options": [
+   "prevent blood loss....",
+   "Relieve pain.",
+   "decrease BP",
+   "....."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0586",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "When you observe a case in the emergency department, you must call the doctor or tell the doctor when",
+  "q_ar": null,
+  "options": [
+   "urine output 125ml/4hrs",
+   "urine output 90ml/3hrs",
+   "urine output 64ml/2hrs.",
+   "urine output less than 30ml /60 minute."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0587",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "One of the procedures that the nurse does for a patient before performing an EEG (Electroencephalogram):",
+  "q_ar": null,
+  "options": [
+   "Shaving the head",
+   "The patient is told that the procedure is painless.",
+   "....",
+   "..."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0588",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "An emergency patient is bleeding from his head after an accident, to stop the bleeding you will press....",
+  "q_ar": null,
+  "options": [
+   "Facial artery.",
+   "Temporal artery.",
+   "Radial artery.",
+   "femoral artery."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Temporal artery.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0589",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "patient is admitted to the emergency department with a spinal cord injury at the level of T2. Which finding is of most concern to the nurse?",
+  "q_ar": null,
+  "options": [
+   "SpO2 of 92%",
+   "Heart rate of 42 bpm",
+   "Blood pressure of 88/60 mm Hg",
+   "Loss of motor and sensory function in arms and legs."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0590",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "When teaching the patient with diabetes about insulin administration, the nurse should include which instruction for the patient?",
+  "q_ar": null,
+  "options": [
+   "Pull back on the plunger after inserting the needle to check for blood.",
+   "Consistently use the same size of insulin syringe to avoid dosing errors.",
+   "Clean the skin at the injection site with an alcohol swab before each injection.",
+   "Rotate injection sites from arms to thighs to abdomen with each injection to prevent lipodystrophies."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0591",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "A patient came to the emergency room complaining of severe abdominal pain and diarrhea 16 times a day. The nurse expects that the patient....",
+  "q_ar": null,
+  "options": [
+   "Diverticulitis.",
+   "Ulcer diverticulitis.",
+   "......",
+   "...."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0592",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "patient with ulcerative colitis undergoes the first phase of a total proctocolectomy with ileal pouch and analanastomosis. On postoperative assessment of the patient, what should the nurse expect to find?",
+  "q_ar": null,
+  "options": [
+   "A rectal tube set to low continuous suction",
+   "A loop ileostomy with a plastic rod to hold it in place",
+   "A colostomy stoma with an NG tube in place to provide pouch irrigations",
+   "A permanent ileostomy stoma in the right lower quadrant of the abdomen."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0593",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Priority Decision: When caring for a patient with an acute exacerbation of a peptic ulcer, the nurse finds the patient doubled up in bed with shallow, grunting respirations. Which action should the nurse take first?",
+  "q_ar": null,
+  "options": [
+   "Irrigate the patient's NG tube.",
+   "Notify the health care provider.",
+   "Place the patient in high-Fowler's position.",
+   "Assess the patient's abdomen and vital signs."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0594",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "The patient comes to the emergency department with intermittent crampy abdominal pain, nausea, projectile vomiting, and dehydration. The nurse suspects a GI obstruction. Based on the manifestations, what area of the bowel should the nurse suspect is obstructed?",
+  "q_ar": null,
+  "options": [
+   "Large intestine",
+   "Esophageal sphincter",
+   "Upper small intestine",
+   "Lower small intestine."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0595",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Following a hemorrhoidectomy, what should the nurse advise the patient to do?",
+  "q_ar": null,
+  "options": [
+   "Use daily laxatives to facilitate bowel emptying.",
+   "Use ice packs to the perineum to prevent swelling.",
+   "Avoid having a bowel movement for several days until healing occurs.",
+   "Take warm sitz baths several times a day to promote comfort and cleaning."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0596",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "patient...acute exacerbation diverticulitis...nurse should....",
+  "q_ar": null,
+  "options": [
+   "monitor iv fluid",
+   "restrict.......diet.",
+   "...",
+   "...."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0597",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Paracentesis من الاجراءات التي نطلب من المريض عملها قبل عمل",
+  "q_ar": null,
+  "options": [
+   "NPO",
+   "bowel تفريغ",
+   "bladder تفريغ",
+   "..."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0598",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "....education for patient has Colostomy.......",
+  "q_ar": null,
+  "options": [
+   "Empty it when it reaches two-thirds capacity....",
+   "....",
+   "...",
+   "..."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0599",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Rectal cancer...........",
+  "q_ar": null,
+  "options": [],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0600",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Intussusception......",
+  "q_ar": null,
+  "options": [],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0601",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "أي من الطرق التالية تعتبر من الطرق الرئيسية لانتقال مرض السل الرئوي (TB)",
+  "q_ar": null,
+  "options": [
+   "الأيدي",
+   "الرذاذ ( رذاذ التنفس )",
+   "تناول الطعام الملوث",
+   "سوائل الجسم"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "الرذاذ ( رذاذ التنفس )",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

@@ -1,0 +1,747 @@
+[
+ {
+  "id": "Q0691",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة خاطئة: ضغط الدم يُكتب على صورة انقباضي/انبساطي (150/96)، أما الفرق بينهما (الانقباضي − الانبساطي) فهو «ضغط النبض Pulse Pressure» = 54 ملم زئبق وليس ضغط الدم.",
+  "refs": [
+   {
+    "title": "StatPearls - Physiology, Pulse Pressure",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482408/"
+   }
+  ]
+ },
+ {
+  "id": "Q0684",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "اللقاحات الحيّة المخفَّفة (الحصبة الألمانية/MMR، الحصبة، الجدري، الحماق) ممنوعة في الحمل؛ فالخيارات الأول والثالث والرابع كلها ممنوعة نظرياً، بينما شلل الأطفال المعطَّل IPV لا يُمنع لكن يُتجنَّب من حيث المبدأ. أشهر إجابة تعليمية هي الحصبة الألمانية (خطر متلازمة الحصبة الألمانية الخلقية) لذا رُجِّح الخيار 0 بثقة منخفضة لأن السؤال لا يملك إجابة وحيدة دقيقة.",
+  "refs": [
+   {
+    "title": "CDC - Guidelines for Vaccinating Pregnant Persons",
+    "url": "https://www.cdc.gov/vaccines/pregnancy/hcp-toolkit/guidelines.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0692",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "صحيح: أول/أشيع أعراض تضيّق الصمام التاجي ضيق النفس (خاصة الجهدي) الناتج عن احتقان الأوردة الرئوية، ثم الانتصابي والليلي الانتيابي.",
+  "refs": [
+   {
+    "title": "StatPearls - Mitral Stenosis",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK430742/"
+   },
+   {
+    "title": "Merck Manual Professional - Mitral Stenosis",
+    "url": "https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/mitral-stenosis"
+   },
+   {
+    "title": "StatPearls - Mitral Stenosis (Nursing)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK568793/"
+   }
+  ]
+ },
+ {
+  "id": "Q0693",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "صحيح: التثبيت الخارجي هو الخيار المناسب للكسور المفتوحة الشديدة (Gustilo III) المصحوبة بتلف واسع في الأنسجة الرخوة وتلوث.",
+  "refs": [
+   {
+    "title": "StatPearls - Open Fracture Management",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK448083/"
+   }
+  ]
+ },
+ {
+  "id": "Q0694",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "صحيح: علاج الالتواء يكون بالراحة والثلج والضغط (الرباط الضاغط) ورفع الطرف (بروتوكول RICE/PRICE).",
+  "refs": [
+   {
+    "title": "NHS - Sprains and strains",
+    "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+   }
+  ]
+ },
+ {
+  "id": "Q0695",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "خطأ: لا يوجد دليل على أن الصابون المضاد للبكتيريا أفضل من الصابون العادي والماء في الوقاية من العدوى (CDC: لا فائدة صحية إضافية خارج المهنيين الصحيين)، وقد يسهم في مقاومة المضادات.",
+  "refs": [
+   {
+    "title": "CDC - Hand Hygiene Frequently Asked Questions (antibacterial vs plain soap)",
+    "url": "https://www.cdc.gov/clean-hands/faq/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0696",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة مطلقة: الإرشادات (Merck) تقول تُجرى المناورة فقط عند الانسداد الشديد (لا يستطيع الكلام/السعال/التنفس) أما إن كان يسعل ويتكلم فيُشجَّع على السعال دون مناورة؛ لذا «فوراً» لكل مختنق غير دقيقة فتُرجَّح خطأ، لكن إن قُصد بالاختناق الانسداد التام فالعبارة صحيحة — ثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Merck Manual Professional - Abdominal thrusts and back blows in the conscious choking adult/child",
+    "url": "https://www.merckmanuals.com/professional/critical-care-medicine/how-to-do-basic-airway-procedures/how-to-do-abdominal-thrusts-and-back-blows-in-the-conscious-adult-or-child-who-is-choking"
+   }
+  ]
+ },
+ {
+  "id": "Q0697",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "صحيح بالمعنى التعليمي: الوحدة الحركية Motor Unit = عصبون حركي واحد (خليته وليفه العصبي) مع كل الألياف العضلية التي يعصّبها؛ صياغة العبارة مختصرة (الألياف هنا العضلية).",
+  "refs": [
+   {
+    "title": "Medicine LibreTexts (Boundless A&P) - Overview of Motor Integration (motor unit)",
+    "url": "https://med.libretexts.org/Bookshelves/Anatomy_and_Physiology/Anatomy_and_Physiology_(Boundless)/12:_Peripheral_Nervous_System/12.8:_Motor_Activity/12.8B:_Overview_of_Motor_Integration"
+   }
+  ]
+ },
+ {
+  "id": "Q0698",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "صحيح: النزف الشعيري بطيء وراشح (رشح من سطح الجرح) وأخف أنواع النزف ويتوقف غالباً من تلقاء نفسه، بخلاف الوريدي المستمر الداكن والشرياني النابض.",
+  "refs": [
+   {
+    "title": "Medical News Today - Types of bleeding",
+    "url": "https://www.medicalnewstoday.com/articles/types-of-bleeding"
+   },
+   {
+    "title": "iMedic - Bleeding types and first aid",
+    "url": "https://imedic.health/en/first-aid/wounds-bruises/bleeding-types-treatment"
+   }
+  ]
+ },
+ {
+  "id": "Q0700",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "خطأ: تضخّم العضلة Hypertrophy هو زيادة حجم (قطر) الألياف العضلية الموجودة، أما زيادة عدد الألياف فتُسمّى فرط تنسّج Hyperplasia.",
+  "refs": [
+   {
+    "title": "NIH NTP Nonneoplastic Lesion Atlas - Skeletal muscle hypertrophy",
+    "url": "https://ntp.niehs.nih.gov/atlas/nnl/musculoskeletal-system/skeletal-muscle/Hypertrophy"
+   }
+  ]
+ },
+ {
+  "id": "Q0702",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "خطأ: التعقيم Sterilization يُبيد جميع أشكال الكائنات الدقيقة الحيّة بما فيها الأبواغ (spores، وكُتبت «sport» خطأً)؛ أما التطهير Disinfection فهو الذي قد لا يقضي على الأبواغ.",
+  "refs": [
+   {
+    "title": "CDC - Disinfection and Sterilization Glossary",
+    "url": "https://cdc.gov/infection-control/hcp/disinfection-sterilization/glossary.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0701",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "صحيح: البنكرياس يفرز الإنزيمات الهاضمة للبروتين كمولّدات إنزيم خاملة (التربسينوجين، الكيموتربسينوجين...) وتُنشَّط في الاثني عشر بفعل الإنتيروكيناز ثم التربسين (ملاحظة: الأميلاز والليباز يُفرزان بصيغة فعّالة، لكن العبارة صحيحة بالمفهوم الدراسي).",
+  "refs": [
+   {
+    "title": "StatPearls - Physiology, Digestion",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK544242/"
+   }
+  ]
+ },
+ {
+  "id": "Q0703",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "خطأ: ما يجمعه الفاحص من الفحص السريري (الملاحظة، الجس، السمع، القياسات) بيانات موضوعية Objective، أما البيانات الذاتية Subjective فهي ما يصفه المريض من أعراض وشعور.",
+  "refs": [
+   {
+    "title": "OpenStax Fundamentals of Nursing - 12.3 Collection of Assessment Data (subjective vs objective)",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data"
+   },
+   {
+    "title": "StatPearls - Nursing Admission Assessment and Examination",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK493211/"
+   }
+  ]
+ },
+ {
+  "id": "Q0704",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "خطأ غالباً: إرشادات CDC تنص على أن الأقسام الحرجة والطوارئ (العمليات، العناية المركزة، الطوارئ) تتطلب تنظيفاً مع تطهير بمطهّر معتمد، بينما يكفي المنظّف/الصابون والماء للأسطح منخفضة الخطورة. الصياغة غامضة لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "CDC - Environmental Cleaning Procedures (healthcare)",
+    "url": "https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0705",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الصياغة مشوّهة (source_typo)؛ بفرض أن المقصود جريان الدم/النزف الوريدي: فهو مستمر وبطيء نسبياً داكن اللون وبضغط منخفض مقارنة بالشرياني النابض، فتُرجَّح «صحيح» بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Healthline - Venous bleeding",
+    "url": "https://www.healthline.com/health/venous-bleeding"
+   },
+   {
+    "title": "Medical News Today - Types of bleeding",
+    "url": "https://www.medicalnewstoday.com/articles/types-of-bleeding"
+   }
+  ]
+ },
+ {
+  "id": "Q0706",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "خطأ: القلوي (اللاي/الصودا الكاوية) مادة كاوية تسبّب حروقاً كيميائية ولا تُستعمل للعلاج؛ إسعاف الحروق الكهربائية: فصل مصدر الكهرباء ثم تغطية الحرق بضمادة معقّمة/قماش نظيف وطلب الرعاية الطبية (لا يوجد في أي دليل إسعاف استعمال اللاي).",
+  "refs": [
+   {
+    "title": "Mayo Clinic - Electrical burns: First aid",
+    "url": "https://www.mayoclinic.org/first-aid/first-aid-electrical-burns/basics/art-20056687"
+   }
+  ]
+ },
+ {
+  "id": "Q0683",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "أعلى أولوية فورية لخطر السقوط في المستشفى: خفض السرير لأدنى مستوى لتقليل الإصابة عند السقوط؛ رفع الحواجز الجانبية كلها قد يزيد خطر الإصابة ويُعدّ تقييداً، ومراجعة الأدوية واختبار «Get up and go» تقييمات لا تحمي فوراً. مصدر الإجابة الأساسي كتاب تمريض مفتوح ومنصة تعليمية (ثقة متوسطة).",
+  "refs": [
+   {
+    "title": "BCcampus Clinical Procedures for Safer Patient Care - Fall Prevention",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/3-7-fall-prevention/"
+   },
+   {
+    "title": "Brainly - highest priority intervention for client at risk for falls (quiz site, weak)",
+    "url": "https://brainly.com/question/38683385"
+   }
+  ]
+ },
+ {
+  "id": "Q0709",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "معدل التنفس 30 غير طبيعي قطعاً (الطبيعي 12–20)؛ أما الحرارة 37.5 فوفق نطاق الخيار نفسه (36.5–37.3) تُعدّ مرتفعة قليلاً فالإجابة «حرارة + تنفس»، لكن StatPearls يجعل الحد الأعلى الطبيعي 37.5 (فيصبح «التنفس فقط» لو اعتُمد) — تختلف المراجع فالثقة منخفضة.",
+  "refs": [
+   {
+    "title": "StatPearls - Vital Signs (normal adult ranges)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK553213/"
+   }
+  ]
+ },
+ {
+  "id": "Q0710",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "إدراك الأهل وفهم اللغة سليمان مع عجز عن الكلام = حبسة بروكا (Broca)، وموضعها التلفيف الجبهي السفلي في الفص الجبهي (مناطق برودمان 44 و45) للنصف المسيطر.",
+  "refs": [
+   {
+    "title": "StatPearls - Broca Aphasia",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK436010/"
+   }
+  ]
+ },
+ {
+  "id": "Q0712",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "أول إجراء عند الصعق الكهربائي هو التأكد من فصل/إغلاق مصدر الكهرباء قبل لمس المصاب حفاظاً على سلامة المنقذ؛ التغطية والنقل والوضعية تأتي لاحقاً.",
+  "refs": [
+   {
+    "title": "Mayo Clinic - Electrical burns: First aid",
+    "url": "https://www.mayoclinic.org/first-aid/first-aid-electrical-burns/basics/art-20056687"
+   }
+  ]
+ },
+ {
+  "id": "Q0713",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "أول إجراء عند الصعق الكهربائي هو التأكد من فصل مصدر الكهرباء قبل لمس المصاب حفاظاً على سلامة المنقذ؛ التغطية والنقل والوضعية تأتي لاحقاً.",
+  "refs": [
+   {
+    "title": "Mayo Clinic - Electrical burns: First aid",
+    "url": "https://www.mayoclinic.org/first-aid/first-aid-electrical-burns/basics/art-20056687"
+   }
+  ]
+ },
+ {
+  "id": "Q0715",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الهدف التمريضي الأول في احتشاء عضلة القلب هو تخفيف الألم الصدري (موازنة إمداد الأكسجين بالطلب) لأن الألم يزيد الحمل القلبي؛ الخيارات الأخرى (منع النزف، خفض الضغط) ليست الهدف الأساسي. الخيارات مقطوعة في النقل (قد توجد خيارات مثل الأكسجة) لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Nursing Process: The Patient With Myocardial Infarction (Brunner & Suddarth excerpt, Brainkart)",
+    "url": "https://www.brainkart.com/article/Nursing-Process--The-Patient-With-Myocardial-Infarction_31910/"
+   },
+   {
+    "title": "Nurseslabs - Myocardial Infarction nursing care plans",
+    "url": "https://nurseslabs.com/myocardial-infarction-heart-attack-nursing-care-plans/"
+   },
+   {
+    "title": "OpenStax Medical-Surgical Nursing - 12.5 Myocardial Infarction",
+    "url": "https://openstax.org/books/medical-surgical-nursing/pages/12-5-myocardial-infarction"
+   }
+  ]
+ },
+ {
+  "id": "Q0716",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "ألم الاحتشاد ينتج عن عدم توازن الأكسجين (نقص التروية الإقفاري) ثم موت خلايا العضلة القلبية؛ وبين الخيارين المتاحين فإن «موت الخلايا القلبية» أقرب من «انخفاض النتاج القلبي»، لكن خيارات السؤال مقطوعة (قد يكون الخيار الصحيح «نقص التروية/الأكسجين») فالثقة منخفضة.",
+  "refs": [
+   {
+    "title": "StatPearls - Acute Myocardial Infarction",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK459269/"
+   },
+   {
+    "title": "Nurseslabs - Myocardial Infarction nursing care plans",
+    "url": "https://nurseslabs.com/myocardial-infarction-heart-attack-nursing-care-plans/"
+   }
+  ]
+ },
+ {
+  "id": "Q0717",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "مؤشر كفاية تعويض السوائل في الصدمة النقصية هو إدرار بول ≥30 مل/ساعة (دلالة على كفاية التروية الكلوية)، بينما معدل التنفس 21 وضغط انبساطي >90 ليسا مؤشرين موثوقين.",
+  "refs": [
+   {
+    "title": "OpenStax Medical-Surgical Nursing - Hypovolemic Shock (Medicine LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Medical-Surgical_Nursing_(OpenStax)/23:_Shock_and_Sepsis/23.02:_Hypovolemic_Shock"
+   },
+   {
+    "title": "StatPearls - Hypovolemia and Hypovolemic Shock",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK513297/"
+   }
+  ]
+ },
+ {
+  "id": "Q0719",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "ارتفاع البيليروبين في مصل الدم (مع ارتفاع ALT/AST) يدعم تشخيص التهاب الكبد؛ أما ارتفاع الهيموغلوبين أو الصفائح أو انخفاض سرعة الترسب فلا علاقة لها بتأكيده.",
+  "refs": [
+   {
+    "title": "MedlinePlus - Bilirubin Blood Test",
+    "url": "https://medlineplus.gov/lab-tests/bilirubin-blood-test/"
+   },
+   {
+    "title": "LiverTox (NCBI Bookshelf) - Acute Hepatitis",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK548606/"
+   }
+  ]
+ },
+ {
+  "id": "Q0720",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال مقطوع في بدايته (\"... testing because:\") فلا يمكن معرفة موضوعه؛ (لو كان عن فحص سكر الدم مقابل البول فالجواب «أدق» كما في السؤال Q0721) لكن لا يجوز الجزم.",
+  "refs": []
+ },
+ {
+  "id": "Q0721",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "تحليل سكر الدم مفضَّل لأنه أدق: سكر البول يعطي تقديراً تقريبياً فقط ولا يعكس مستويات السكر تحت العتبة الكلوية (~180 ملغ/دل) ولا يكشف نقص السكر، وقد حلّ قياس سكر الدم محله.",
+  "refs": [
+   {
+    "title": "American Diabetes Association - Tests of Glycemia in Diabetes (Diabetes Care)",
+    "url": "https://diabetesjournals.org/care/article/26/suppl_1/s106/21716/Tests-of-Glycemia-in-Diabetes"
+   },
+   {
+    "title": "PMC - Urine testing for diabetic analysis",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4944103/"
+   }
+  ]
+ },
+ {
+  "id": "Q0722",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخيارات مقطوعة (flag truncated) ولا يوجد بينها ما يجمع فيتامين E والكاروتين: فيتامين E مصدره الزيوت النباتية والمكسرات والخضار الورقية (لا الأسماك ولا الحمضيات ولا الجزر/البطاطس)، والكاروتين في الجزر والبطاطا الحلوة والخضار الورقية؛ فلا إجابة وحيدة يمكن الدفاع عنها.",
+  "refs": [
+   {
+    "title": "NIH ODS - Vitamin E Fact Sheet for Health Professionals",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+   },
+   {
+    "title": "NIH ODS - Vitamin A and Carotenoids Fact Sheet for Health Professionals",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+   }
+  ]
+ },
+ {
+  "id": "Q0723",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "من أعراض تسمم الديجوكسين الاضطرابات البصرية (رؤية بقع/هالات ضوئية وتلوّن أصفر-أخضر xanthopsia) إضافة إلى الغثيان واضطراب النظم القلبي.",
+  "refs": [
+   {
+    "title": "StatPearls - Digoxin Toxicity",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470568/"
+   }
+  ]
+ },
+ {
+  "id": "Q0726",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "أقرب تعريف بين الخيارات: تعاطي المادة المؤذي (الإفراط الضار) مع الاعتماد عليها؛ تعريف DSM-IV لإساءة استعمال المادة هو نمط استعمال غير متكيّف له عواقب سلبية متكررة، وتفضّل WHO مصطلح «الاستعمال الضار» — الصياغة تعليمية فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "SAMHSA TIP 42 (NCBI Bookshelf) - Definitions, Terms, and Classification Systems (substance abuse vs dependence)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK64184/"
+   },
+   {
+    "title": "WHO SEARO - Key terms and definitions in mental health (abuse, harmful use, dependence)",
+    "url": "https://www.who.int/southeastasia/health-topics/mental-health/key-terms-and-definitions-in-mental-health"
+   }
+  ]
+ },
+ {
+  "id": "Q0904",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "خيارات السؤال مقطوعة (\"… Folic acid\" و\"… of vitamin E\") فلا يمكن تحديد المقصود بدقة؛ المرجّح أن الشاذ (المستثنى) هو فيتامين E لأن أسباب فقر الدم الغذائية الكلاسيكية هي الحديد وحمض الفوليك وB12، لكن قطع الخيارات يمنع الجزم.",
+  "refs": []
+ },
+ {
+  "id": "Q0912",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "خيارات السؤال مقطوعة (\"… Folic acid\" و\"… Lost during menstrual period\") فلا تُعرف صياغتها الكاملة؛ المرجّح أن المستثنى هو فيتامين B6 لأن أسباب فقر الدم في الحمل الشائعة هي نقص الحديد وحمض الفوليك (وB12) وفقد الدم، لكن القطع يمنع الجزم.",
+  "refs": []
+ },
+ {
+  "id": "Q0743",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الصياغة مشوّهة (source_typo)؛ إن كان المقصود «أشيع أسباب الصدمة العصبية هو الجراحة» فهي خاطئة لأن السبب الأشيع تقريباً دائماً إصابة الحبل الشوكي (رضّ)، وتُذكر التخدير النخاعي/فوق الجافية سبباً أقل شيوعاً. ثقة منخفضة بسبب تشوّه النص.",
+  "refs": [
+   {
+    "title": "Cleveland Clinic - Neurogenic Shock",
+    "url": "https://my.clevelandclinic.org/health/diseases/22175-neurogenic-shock"
+   }
+  ]
+ },
+ {
+  "id": "Q0897",
+  "verdict": "corrected",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": false,
+  "note_ar": "علامة المصدر (الشاش الجاف) غير صحيحة: التئام الجروح يحتاج بيئة رطبة؛ وللقرحة السطحية جزئية السماكة (المرحلة 2) يُختار ضماد تفاعلي مثل الهيدروكولويد، بينما الشاش الجاف سلبي لاصق يؤذي الأنسجة، والألجينات لكثرة الإفراز، ولا يصحّ «لا ضماد». نص السؤال مشوّه («eroded necrotic areas») والأدلة الكوكرينية محدودة فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "NICE (NCBI Bookshelf) - Dressings, in Prevention and Management of Pressure Ulcers",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK333129/"
+   },
+   {
+    "title": "StatPearls - Pressure Ulcer",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK553107/"
+   },
+   {
+    "title": "Cochrane (PMC) - Dressings and topical agents for treating pressure ulcers",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6481609/"
+   }
+  ]
+ },
+ {
+  "id": "Q0898",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "معدل التنفس 30 غير طبيعي (الطبيعي 12–20) والحرارة 37.7 مرتفعة فوق الحد الأعلى للمعدل (≈37.5)، بينما النبض 88 طبيعي (60–100)؛ فالإجابة «التنفس والحرارة».",
+  "refs": [
+   {
+    "title": "StatPearls - Vital Signs (normal adult ranges)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK553213/"
+   }
+  ]
+ },
+ {
+  "id": "Q0916",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "رعاية نوبة الصرع: إنزال المريض برفق إلى الأرض، إبعاد الأشياء الخطرة، وحماية المجرى الهوائي (وضعه على جنبه) — فكل الخيارات صحيحة أي «كل ما سبق».",
+  "refs": [
+   {
+    "title": "CDC - First Aid for Seizures",
+    "url": "https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0892",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "حرق الدرجة الأولى سطحي يصيب الطبقة العليا من الجلد (البشرة) فقط ويسبب احمراراً وألماً وتورماً دون فقاعات؛ الفقاعات للدرجة الثانية وتدمير كل الطبقات للثالثة.",
+  "refs": [
+   {
+    "title": "MedlinePlus - Burns",
+    "url": "https://medlineplus.gov/ency/article/000030.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0902",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "حرق الدرجة الأولى سطحي يصيب الطبقة العليا من الجلد (البشرة) فقط ويسبب احمراراً وألماً وتورماً دون فقاعات؛ الفقاعات للدرجة الثانية وتدمير كل الطبقات للثالثة.",
+  "refs": [
+   {
+    "title": "MedlinePlus - Burns",
+    "url": "https://medlineplus.gov/ency/article/000030.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0920",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الاحتكاك والقص من عوامل حدوث قرح الضغط لا من وسائل الوقاية؛ أما النظافة والعناية بالجلد وتغيير الوضعية وأسطح تخفيف الضغط فهي إجراءات وقائية، فالمستثنى «استخدام الاحتكاك».",
+  "refs": [
+   {
+    "title": "NPIAP - Prevention Points",
+    "url": "https://npiap.com/page/PreventionPoints"
+   },
+   {
+    "title": "StatPearls - Pressure Ulcer",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK553107/"
+   }
+  ]
+ },
+ {
+  "id": "Q0765",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الزهري والتهاب الكبد الفيروسي وHIV أمراض معدية تنتقل عبر عامل ممرض، أما قرحة الاثني عشر فآفة مخاطية (مرض هضمي) غير معدية بحد ذاتها حتى لو ارتبطت بجرثومة H. pylori أو مضادات الالتهاب.",
+  "refs": [
+   {
+    "title": "NIH ClinicalInfo Glossary - Communicable disease",
+    "url": "https://clinicalinfo.hiv.gov/en/glossary/communicable-disease"
+   },
+   {
+    "title": "StatPearls - Duodenal Ulcer",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK557390/"
+   }
+  ]
+ },
+ {
+  "id": "Q0744",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "صحيح: الجس من التقنيات الأساسية للفحص السريري (مع الملاحظة والقرع والإصغاء) ويكشف الألم والكتل وحجم الأعضاء والتيبس.",
+  "refs": [
+   {
+    "title": "StatPearls - Abdominal Examination (palpation)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK459220/"
+   }
+  ]
+ },
+ {
+  "id": "Q0929",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "صحيح بالمفهوم السريري: التشخيص يُبنى غالباً على القصة المرضية والفحص السريري ثم تأتي الفحوص المخبرية والتشخيصية لتأكيد الانطباع التشخيصي واستبعاد غيره (في دراسة: القصة وحدها حسمت ~79% من التشخيصات وارتفعت ثقة الطبيب بعد الفحوص).",
+  "refs": [
+   {
+    "title": "PubMed - Relative contributions of history, physical examination and investigations in making medical diagnosis",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11273467/"
+   }
+  ]
+ },
+ {
+  "id": "Q0780",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الجروح «النظيفة-الملوّثة» Clean-contaminated هي الجروح الجراحية التي يُدخل فيها الجهاز التنفسي أو الهضمي أو البولي التناسلي تحت ظروف مضبوطة دون تلوث غير معتاد.",
+  "refs": [
+   {
+    "title": "NCBI Bookshelf (CADTH) - Classification of surgical wounds",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK174534/"
+   }
+  ]
+ },
+ {
+  "id": "Q0731",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال عربي مشوّه ومقطوع (source_typo/truncated) والخيار الرابع فارغ («........») والخيار «أخبار الصبيب» غير واضح؛ لا يمكن تحديد السؤال بدقة. (عموماً ظهور دم أحمر فاتح على الضماد بعد العملية يستدعي تعزيز الضماد وإبلاغ الجراح، لكن لا يجوز الجزم.)",
+  "refs": []
+ },
+ {
+  "id": "Q0732",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "للمحافظة على توازن السوائل يجب أن يقارب مجموع السوائل الداخلة مجموع الخارجة يومياً (مع الفقد غير المحسوس)، فالخيار الأول صحيح.",
+  "refs": [
+   {
+    "title": "NCBI Bookshelf - Nursing Assistant, Ch. 7 Reporting and Documentation (intake and output)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK599391/"
+   },
+   {
+    "title": "Medicine LibreTexts - Water Balance",
+    "url": "https://med.libretexts.org/Courses/Southern_Illinois_University_Edwardsville/Essentials_of_Physiology_for_Nurse_Anesthetists_I_(Gopalan)/13:_Fluid_Electrolyte_and_Acid-Base_Balance/13.06:_Water_Balance"
+   }
+  ]
+ },
+ {
+  "id": "Q0733",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "السؤال معيب لأن أكثر من خيار مصدر لفيتامين D: أغنى مصدر هو زيت كبد الحوت (الخيار «Liver oils») ثم الأسماك الدهنية، والبيض (صفار البيض) والكبد يحويان كميات أقل، والجبن قليل جداً. علامة المصدر «صفار البيض» مصدر صحيح لكنها ليست الأغنى، فالثقة منخفضة.",
+  "refs": [
+   {
+    "title": "NIH ODS - Vitamin D Fact Sheet for Health Professionals",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/"
+   }
+  ]
+ },
+ {
+  "id": "Q0734",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "الرأس والرقبة تُفحصان في وضع الجلوس المنتصب (وهو المتوقع في الاختبارات)، لكن الثدي أيضاً يبدأ فحصه بالجلوس ثم الاستلقاء، أما البطن فمستلقياً؛ فالسؤال ملتبس ولا مرجع صريح يحسم «الرأس والرقبة»، لذا الثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Stanford Medicine 25 - Breast Exam (patient positioning)",
+    "url": "https://med.stanford.edu/stanfordmedicine25/the25/BreastExam.html"
+   },
+   {
+    "title": "Nursing Skills (NCBI Bookshelf) - Head and Neck Assessment",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK593205/"
+   }
+  ]
+ },
+ {
+  "id": "Q0735",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "منظمة الصحة العالمية: نظافة اليدين هي أهم إجراء لتجنّب نقل الجراثيم ومنع العدوى المرتبطة بالرعاية الصحية؛ وهي مقدَّمة على القفازات والعزل والمضادات الوقائية.",
+  "refs": [
+   {
+    "title": "WHO - Hand Hygiene: Why, How & When?",
+    "url": "https://cdn.who.int/media/docs/default-source/documents/health-topics/hand-hygiene-why-how-and-when-brochure.pdf"
+   },
+   {
+    "title": "Johns Hopkins Medicine - Hand Hygiene",
+    "url": "https://www.hopkinsmedicine.org/patient-safety/infection-prevention/hand-hygiene"
+   }
+  ]
+ },
+ {
+  "id": "Q0736",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال مشوّه ومقطوع (source_typo/truncated) والخيار الرابع فارغ («.......») ولا توجد بيانات عن المرضى لتحديد أولوية التكليف؛ لا يمكن الحسم.",
+  "refs": []
+ }
+]

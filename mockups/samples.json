@@ -1,0 +1,177 @@
+[
+ {
+  "id": "Q0071",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "After several hrours of MgS04 administration to Jamila, she should be observed for clinical manifestations",
+  "options": [
+   "Hypercalcemia",
+   "hypermagensmia",
+   "hypoglycemia",
+   "Hypokalmia kalemia"
+  ],
+  "answer": 1,
+  "status": "verified",
+  "confidence": "high",
+  "ref_tier": "strong",
+  "note_ar": "بعد ساعات من كبريتات المغنيسيوم تجب مراقبة علامات فرط المغنيسيوم في الدم (فقدان المنعكسات الوترية، تثبيط التنفس، قلة البول) والتوقف عند ظهورها مع كالسيوم غلوكونات كترياق.",
+  "refs": [
+   {
+    "title": "StatPearls: Magnesium Toxicity (loss of patellar reflexes, respiratory depression)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK554593/"
+   },
+   {
+    "title": "StatPearls: Magnesium Sulfate (hypermagnesemia signs; monitor reflexes and urine output)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK554553/"
+   }
+  ],
+  "sources": [
+   "صنعاء (مترجم)",
+   "مساعد طبيب إنجليزي محلول"
+  ]
+ },
+ {
+  "id": "Q0075",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "According to Salwa, her LMP is November 15, 2017, using the Naegle's ule what EDD?",
+  "options": [
+   "August 22, 2018",
+   "August 18, 2018",
+   "July 22,2018",
+   "February 22, 2018"
+  ],
+  "answer": 0,
+  "status": "verified",
+  "confidence": "medium",
+  "ref_tier": "general",
+  "note_ar": "قاعدة نيجل: +سنة −3 أشهر +7 أيام؛ آخر دورة 15 نوفمبر 2017 → 22 أغسطس 2018 (=280 يومًا وقد تحقّقت حسابيًا)؛ فالخيار الأول صحيح وعلامة المصدر (22 يوليو) خطأ.",
+  "refs": [
+   {
+    "title": "Wikipedia: Estimated date of delivery - Naegele's rule (add a year, subtract three months, add seven days)",
+    "url": "https://en.wikipedia.org/wiki/Estimated_date_of_delivery"
+   }
+  ],
+  "sources": [
+   "صنعاء (مترجم)",
+   "مساعد طبيب إنجليزي محلول"
+  ]
+ },
+ {
+  "id": "Q0449",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "تنتج المشيمة كل ما يلي باستثناء:",
+  "options": [
+   "الاستروجين",
+   "البروجسترون",
+   "لاكتوجين المشيمة البشري",
+   "الفيبرينوجين"
+  ],
+  "answer": 3,
+  "status": "verified",
+  "confidence": "medium",
+  "ref_tier": "general",
+  "note_ar": "المشيمة تنتج الإستروجين والبروجسترون وHCG وHPL (لاكتوجين المشيمة)، أما الفيبرينوجين فيصنعه الكبد.",
+  "refs": [
+   {
+    "title": "Placenta (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Placenta"
+   },
+   {
+    "title": "Fibrinogen (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Fibrinogen"
+   }
+  ],
+  "sources": [
+   "الدليل العربي الشامل"
+  ]
+ },
+ {
+  "id": "Q0241",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The second examination we use in the abdominal check is any of the following:",
+  "options": [
+   "Palpation",
+   "inspection",
+   "Auscultation",
+   "percussion"
+  ],
+  "answer": 2,
+  "status": "verified",
+  "confidence": "medium",
+  "ref_tier": "general",
+  "note_ar": "في فحص البطن: الملاحظة أولًا ثم الإصغاء (auscultation) ثانيًا ثم الجس ثم القرع؛ الإصغاء قبل الجس لئلا تتغيّر أصوات الأمعاء.",
+  "refs": [
+   {
+    "title": "Wikipedia - Abdominal examination (inspection, auscultation, palpation, percussion; auscultation before palpation/percussion)",
+    "url": "https://en.wikipedia.org/wiki/Abdominal_examination"
+   }
+  ],
+  "sources": [
+   "صنعاء (مخطوط)",
+   "صنعاء 16/3/2023",
+   "صنعاء 16/3/2023 (حيكان)"
+  ]
+ },
+ {
+  "id": "Q0269",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Chronic pain indicates that damage or injury has occurred ( ).",
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "status": "verified",
+  "confidence": "medium",
+  "ref_tier": "strong",
+  "note_ar": "العبارة خاطئة: الألم الحاد هو الذي يدل عادةً على حدوث إصابة/تلف نسيجي ووظيفته وقائية، أما الألم المزمن فيستمر بعد مدة الالتئام ولا يعني بالضرورة وجود تلف حالي (كثيرًا ما يعكس اضطرابًا في الجهاز العصبي المركزي).",
+  "refs": [
+   {
+    "title": "StatPearls - Pain Assessment (acute vs chronic pain)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK556098/"
+   },
+   {
+    "title": "Wikipedia - Chronic pain",
+    "url": "https://en.wikipedia.org/wiki/Chronic_pain"
+   }
+  ],
+  "sources": [
+   "إب 23/11/2023"
+  ]
+ },
+ {
+  "id": "Q0054",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "After routine patient contact, handwashing should last at last: :",
+  "options": [
+   "10_15 seconds",
+   "1minute",
+   "2minute",
+   "3 minute"
+  ],
+  "answer": 0,
+  "status": "tentative",
+  "confidence": "low",
+  "ref_tier": "strong",
+  "note_ar": "الإرشادات تختلف: CDC تقول فرك اليدين 15 ثانية على الأقل (وجهات أخرى 20)، وStatPearls 15–20 ثانية، بينما WHO تحدد 40–60 ثانية (≈ دقيقة)؛ الخيار 10–15 ثانية يوافق الكتب التعليمية/CDC لكنه أقل من الحد الأدنى في التوصيات الأحدث، والخيار 1 دقيقة يوافق WHO.",
+  "refs": [
+   {
+    "title": "CDC: Clinical Safety: Hand Hygiene for Healthcare Workers",
+    "url": "https://www.cdc.gov/clean-hands/hcp/clinical-safety/index.html"
+   },
+   {
+    "title": "StatPearls: Hand Hygiene in Clinical Practice",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470254/"
+   }
+  ],
+  "sources": [
+   "صنعاء (مترجم)",
+   "مساعد طبيب إنجليزي محلول"
+  ]
+ }
+]

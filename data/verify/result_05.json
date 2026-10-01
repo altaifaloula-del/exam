@@ -1,0 +1,713 @@
+[
+ {
+  "id": "Q0201",
+  "verdict": "uncertain",
+  "answer": 4,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "الحمل الطبيعي ≈ 280 يومًا = 40 أسبوعًا من أول يوم لآخر دورة (Cleveland Clinic)؛ الخيار الجامع «a & c» يُقصد به غالبًا «280 يومًا + 40 أسبوعًا»، لكن بترتيب الخيارات المنقول صار c = 42 أسبوعًا (post-term) والـ40 أسبوعًا هو d، فحرفيًا لا يصح؛ السؤال يحتاج مراجعة ترتيب الخيارات.",
+  "refs": [
+   {
+    "title": "Cleveland Clinic - Pregnancy: Gestation, Trimesters (pregnancy lasts ~40 weeks = 280 days; full term 39w0d-40w6d; post-term after 42 weeks)",
+    "url": "https://my.clevelandclinic.org/health/articles/pregnancy"
+   }
+  ]
+ },
+ {
+  "id": "Q0202",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "حمض الفوليك (فيتامين B9) هو الوحيد المثبت في الدراسات لمنع عيوب الأنبوب العصبي (CDC)؛ بانتوثينيك والمنغنيز والريبوفلافين لم يثبت لها ذلك.",
+  "refs": [
+   {
+    "title": "CDC - About Folic Acid (folic acid helps prevent neural tube defects)",
+    "url": "https://www.cdc.gov/folic-acid/about/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0203",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "فيتامين C (حمض الأسكوربيك) يعزّز التوافر الحيوي لامتصاص الحديد غير الهيمي (NIH ODS).",
+  "refs": [
+   {
+    "title": "NIH Office of Dietary Supplements - Iron fact sheet for health professionals (ascorbic acid enhances nonheme iron bioavailability)",
+    "url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"
+   }
+  ]
+ },
+ {
+  "id": "Q0204",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "الدراسات تُظهر تفضيل حديثي الولادة لوجه الأم خلال أيام (Pascalis: متوسط 78 ساعة) وبعض المصادر العامة تقول بعد أسابيع/شهرين؛ لم أجد مرجعًا تمريضيًا حاسمًا لـ«3–4 أسابيع»، و«منذ الولادة» غير دقيق حرفيًا، فـ«3–4 أسابيع» الأقرب من الخيارات مع بقاء الشك.",
+  "refs": [
+   {
+    "title": "Pascalis et al. 1995 - Mother's face recognition by neonates (preference shown at mean age 78 hours)",
+    "url": "https://johnmorton.co.uk/wp-content/uploads/2014/11/1995-pascalis.pdf"
+   },
+   {
+    "title": "Wikipedia - Infant visual development (newborn discrimination of mother's face: days to ~2 weeks)",
+    "url": "https://en.wikipedia.org/wiki/Infant_visual_development"
+   },
+   {
+    "title": "Pathways.org - When does baby recognize faces (lay source: ~2 months)",
+    "url": "https://pathways.org/when-does-baby-recognize-faces"
+   }
+  ]
+ },
+ {
+  "id": "Q0205",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "أجسام IgA الإفرازية في حليب الأم تحمي الرضيع من إسهال العدوى ومن التهابات الجهاز التنفسي العلوي (أي الجهاز الهضمي والتنفسي) فالإجابة B وC معًا.",
+  "refs": [
+   {
+    "title": "PMC - Anti-infective properties of breast milk (milk SIgA protects against infectious diarrhea and upper respiratory infections)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9382412/"
+   }
+  ]
+ },
+ {
+  "id": "Q0206",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "التبويض يحدث عادةً قبل الدورة التالية بـ12–16 يومًا (Clearblue؛ Hopkins: 12–14)؛ خيار «منتصف الدورة» صحيح تقريبًا فقط لدورة 28 يومًا وهو متوسط لا قاعدة، فالنص الأدق هو الخيار الثاني.",
+  "refs": [
+   {
+    "title": "Clearblue - What is ovulation (ovulation typically occurs 12 to 16 days before your next period)",
+    "url": "https://www.clearblue.com/ovulation/what-is-ovulation"
+   },
+   {
+    "title": "Johns Hopkins Medicine - Calculating your monthly fertility window (ovulation about 12-14 days before next cycle)",
+    "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/calculating-your-monthly-fertility-window"
+   }
+  ]
+ },
+ {
+  "id": "Q0207",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "تعريف ACNM: القابلة الممرضة تقدّم الرعاية أثناء الحمل والولادة والنفاس ورعاية ما قبل الحمل؛ بقية الخيارات تصف مهام مسعف/باحث/سياسات صحية.",
+  "refs": [
+   {
+    "title": "ACNM - Become a Midwife (CNM: care during pregnancy, childbirth, postpartum; preconception care)",
+    "url": "https://midwife.org/Become-a-Midwife/"
+   }
+  ]
+ },
+ {
+  "id": "Q0208",
+  "verdict": "confirmed",
+  "answer": 5,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الوليد يفقد الحرارة بالتبخر والتوصيل والحمل (الحمل الهوائي) والإشعاع (OpenStax)، وفقد الماء غير المحسوس عبر الجلد والتنفس جزء من التبخر، فـ«كل ما سبق» صحيحة؛ الخيار الرابع ليس آلية مستقلة لكنه لا يُبطل الإجابة.",
+  "refs": [
+   {
+    "title": "OpenStax Maternal-Newborn Nursing 22.3 - Neutral Thermal Environment (evaporation, conduction, convection, radiation)",
+    "url": "https://openstax.org/books/maternal-newborn-nursing/pages/22-3-neutral-thermal-environment"
+   }
+  ]
+ },
+ {
+  "id": "Q0209",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الانفصال المبكر للمشيمة الطبيعية الانغراز = الانفكاك المشيمي (placental abruption)، وهو غير مدرج؛ أما الـaccreta/percreta فهي التصاق/اختراق مرضي، والـprevia انغراز فوق عنق الرحم؛ فالجواب «none of the above».",
+  "refs": [
+   {
+    "title": "StatPearls - Placental Abruption (early separation of the placenta before completion of second stage of labor)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482335/"
+   },
+   {
+    "title": "MSD Manual Professional - Placenta Previa (implantation of the placenta over or near the internal os)",
+    "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/antenatal-complications/placenta-previa"
+   }
+  ]
+ },
+ {
+  "id": "Q0210",
+  "verdict": "corrected",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": false,
+  "note_ar": "العلاج الهرموني التعويضي يجب أن يتضمن بروجستوجين عند وجود الرحم لحماية بطانته (PMC)؛ وهو الخيار الوحيد الصحيح عمليًا (كلمة «always» تستثني المستأصلة رحمها)؛ أما «يقلل أمراض القلب» فخطأ (لا يُستخدم للوقاية القلبية وقد يزيد الخطر إذا بدأ متأخرًا)، والنزف الانسحابي شائع مع النظم الدورية، وفرضية التوقيت 10 سنوات/60 سنة لا «سنة واحدة» ولا «أكثر من 10».",
+  "refs": [
+   {
+    "title": "PMC8034540 - Risks, Benefits, and Treatment Modalities of Menopausal Hormone Therapy: Current Concepts",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8034540/"
+   }
+  ]
+ },
+ {
+  "id": "Q0211",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "ارتخاء الرحم (uterine atony) هو السبب الأشيع لنزف ما بعد الولادة (~70–80%)؛ احتباس المشيمة والتمزقات أسباب أقل شيوعًا، والسؤال يطلب الأشهر.",
+  "refs": [
+   {
+    "title": "StatPearls - Postpartum Hemorrhage (uterine atony ~70% of PPH; 4 T's)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK499988/?page=3"
+   }
+  ]
+ },
+ {
+  "id": "Q0212",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "المشيمة المنزاحة = انغراز المشيمة فوق أو قرب الفوهة الداخلية لعنق الرحم (Merck) أي في القطعة السفلية جزئيًا أو كليًا؛ الخيار الأول يصف الانفكاك، والثالث يصف الالتصاق المرضي (accreta).",
+  "refs": [
+   {
+    "title": "MSD Manual Professional - Placenta Previa (implantation of the placenta over or near the internal os)",
+    "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/antenatal-complications/placenta-previa"
+   },
+   {
+    "title": "StatPearls - Placental Abruption (early separation of the placenta before completion of second stage of labor)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482335/"
+   }
+  ]
+ },
+ {
+  "id": "Q0213",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "قلة البول (Oliguria) = أقل من 400–500 مل/24 ساعة عند البالغ؛ الانعدام (anuria) أقل من 80–100 مل، وكثرة البول (polyuria) عكسها.",
+  "refs": [
+   {
+    "title": "Wikipedia - Oliguria (adult <400 or <500 mL/24h; cites Merck)",
+    "url": "https://en.wikipedia.org/wiki/Oliguria"
+   }
+  ]
+ },
+ {
+  "id": "Q0214",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "التعرّض الكيميائي للعين (حمض) يستلزم الغسل بالماء فورًا ولمدة 20 دقيقة على الأقل (EyeWiki/AAO؛ Mayo 20 دقيقة للحروق الكيميائية) فـ20 دقيقة هو الخيار الأنسب؛ نص السؤال مشوّه لكن المعنى واضح.",
+  "refs": [
+   {
+    "title": "EyeWiki (AAO) - Chemical (Alkali and Acid) Injury of the Conjunctiva and Cornea (irrigate at least 20 minutes)",
+    "url": "https://eyewiki.org/Chemical_(Alkali_and_Acid)_Injury_of_the_Conjunctiva_and_Cornea"
+   },
+   {
+    "title": "Mayo Clinic - First aid: Chemical burns (rinse chemicals off for at least 20 minutes)",
+    "url": "https://www.mayoclinic.org/first-aid/first-aid-chemical-burns/basics/art-20056667"
+   }
+  ]
+ },
+ {
+  "id": "Q0215",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "النيتروغليسرين تحت اللسان يُوضع تحت اللسان ويُترك ليذوب ولا يُبلع (تعليمات الدواء القياسية)؛ الخيارات الأخرى (بلع/مرهم/مزج بالطعام) طرق إعطاء مختلفة؛ لم أتمكّن من فتح مرجع رسمي لهذه الجلسة فالثقة منخفضة شكليًا.",
+  "refs": []
+ },
+ {
+  "id": "Q0216",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "أولوية الإفاقة هي الحفاظ على مجرى الهواء (ASA: مراقبة الأكسجة والتهوية أولًا) ووضعية الإفاقة الجانبية تُبقي المجرى مفتوحًا وتصرّف السوائل؛ أما الشفط فيُجرى عند وجود إفرازات، والعلامات الحيوية والمسكّن تأتي بعد تأمين المجرى؛ لا يوجد مرجع يحدد «أول تدخل» بين الخيارين 2 و3 فالحسم ضعيف.",
+  "refs": [
+   {
+    "title": "ASA - Standards for Postanesthesia Care (monitor oxygenation, ventilation, circulation, consciousness, temperature)",
+    "url": "https://www.asahq.org/standards-and-practice-parameters/standards-for-postanesthesia-care"
+   },
+   {
+    "title": "Wikipedia - Recovery position (keeps airway clear of tongue and lets fluid drain)",
+    "url": "https://en.wikipedia.org/wiki/Recovery_position"
+   }
+  ]
+ },
+ {
+  "id": "Q0217",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "في طور القشعريرة من الحمى ترتفع نقطة ضبط الحرارة فتحدث رعشة لتوليد الحرارة (Wikipedia: Fever) والتدخل التمريضي المعتاد هو التدفئة بأغطية إضافية، أما الكمادات الكحولية/السوائل الباردة/زيادة التهوية فتزيد الرعشة؛ لم أجد مرجعًا يذكر التدبير صراحةً، فالإجابة من المنهج التمريضي المعتاد.",
+  "refs": [
+   {
+    "title": "Wikipedia - Fever (raised hypothalamic set-point causes chills/shivering to generate heat)",
+    "url": "https://en.wikipedia.org/wiki/Fever"
+   }
+  ]
+ },
+ {
+  "id": "Q0218",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "ترتيب فحص البطن: الملاحظة (inspection) أولًا ثم الإصغاء ثم الجس ثم القرع؛ الإصغاء قبل الجس/القرع لأنهما يغيّران أصوات الأمعاء.",
+  "refs": [
+   {
+    "title": "Wikipedia - Abdominal examination (inspection, auscultation, palpation, percussion; auscultation before palpation/percussion)",
+    "url": "https://en.wikipedia.org/wiki/Abdominal_examination"
+   }
+  ]
+ },
+ {
+  "id": "Q0219",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال مشوّه؛ «Too much fluid» وصف لسبب لا توصية، فالخيار «Decrease Fluid» هو الوحيد الذي يصلح كتوصية، لكن علاج الوذمة يتبع السبب (تقليل الملح/مدرّات/رفع الطرف) وتقييد السوائل ليس قاعدة عامة (Wikipedia: Edema).",
+  "refs": [
+   {
+    "title": "Wikipedia - Edema (treatment depends on cause; salt restriction, diuretic, elevation)",
+    "url": "https://en.wikipedia.org/wiki/Edema"
+   }
+  ]
+ },
+ {
+  "id": "Q0220",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "ازرقاق الشفتين عند مريض قلب/التهاب رئوي = زرقة مركزية (cyanosis) وهي علامة ونقص التأكسج (hypoxemia) هو السبب؛ النص مبتور («plus color»/خيار رابع مفقود) فلا يمكن استبعاد خيار آخر.",
+  "refs": [
+   {
+    "title": "Wikipedia - Cyanosis (bluish-purple tissue color from reduced oxygen-bound hemoglobin; central cyanosis in cardiopulmonary disease)",
+    "url": "https://en.wikipedia.org/wiki/Cyanosis"
+   }
+  ]
+ },
+ {
+  "id": "Q0221",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال مبتور ومشوّه والخيار الرابع مفقود؛ مصادر فيتامين E الغنية هي المكسرات والبذور والزيوت النباتية (NIH ODS) ولا يظهر ذلك بين الخيارات المقروءة (المانجو مصدر ضعيف فقط، والسمك والمربى والبطاطس ليست مصادر مذكورة).",
+  "refs": [
+   {
+    "title": "NIH ODS - Vitamin E fact sheet (best sources: nuts, seeds, vegetable oils)",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+   }
+  ]
+ },
+ {
+  "id": "Q0222",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الإعطاء الشدقي (buccal) = وضع الدواء بين اللثة وبطانة الخد؛ نص السؤال مشوّه لكن الخيار الثالث هو الصحيح.",
+  "refs": [
+   {
+    "title": "Wikipedia - Buccal administration (between the gums and the inner lining of the cheek)",
+    "url": "https://en.wikipedia.org/wiki/Buccal_administration"
+   }
+  ]
+ },
+ {
+  "id": "Q0223",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "التهاب المعدة (خاصة الضموري) يقلّل إفراز العامل الداخلي وحمض المعدة فيُنقص امتصاص فيتامين B12 (NIH ODS)؛ D وE وB6 لا ترتبط بالتهاب المعدة.",
+  "refs": [
+   {
+    "title": "NIH ODS - Vitamin B12 fact sheet (atrophic gastritis decreases B12 absorption)",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/"
+   }
+  ]
+ },
+ {
+  "id": "Q0224",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة مبتورة («examination of the pa…»)؛ تقنيات الفحص السريري (الملاحظة والجس والقرع والإصغاء) هي طرق فحص جسم المريض فالأرجح «صح»، لكن لا يمكن الجزم بالنص المقطوع.",
+  "refs": [
+   {
+    "title": "Wikipedia - Physical examination (inspection, palpation, percussion, auscultation)",
+    "url": "https://en.wikipedia.org/wiki/Physical_examination"
+   }
+  ]
+ },
+ {
+  "id": "Q0225",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الامتصاص في الأمعاء الدقيقة يتم بالأسمزة (الماء) والانتشار البسيط/الميسّر (الدهون والفركتوز) والنقل النشط (الجلوكوز والأحماض الأمينية والصوديوم) فـ«كل ما سبق».",
+  "refs": [
+   {
+    "title": "Wikipedia - Absorption (small intestine) (osmosis, passive/facilitated diffusion, active transport)",
+    "url": "https://en.wikipedia.org/wiki/Absorption_(small_intestine)"
+   }
+  ]
+ },
+ {
+  "id": "Q0226",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الليزوزيم إنزيم مضاد للبكتيريا يُفرز في الدموع واللعاب والمخاط وحليب الأم ويُعدّ من وسائل الدفاع الكيميائي في المناعة الفطرية فالعبارة صحيحة.",
+  "refs": [
+   {
+    "title": "Wikipedia - Lysozyme (antimicrobial enzyme of innate immunity in tears, saliva, milk, mucus)",
+    "url": "https://en.wikipedia.org/wiki/Lysozyme"
+   }
+  ]
+ },
+ {
+  "id": "Q0227",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "حرفيًا العبارة خاطئة: هدف الإنفاخ إحداث ارتفاع مرئي في الصدر (أي نفخ الرئتين) مع إعطاء كل نفَس في نحو ثانية وتجنّب فرط التهوية (AHA)؛ والمعروف أن البطء يمنع انتفاخ المعدة، والنص غالبًا مبتور/محرّف (lung بدل stomach) فالحسم ضعيف.",
+  "refs": [
+   {
+    "title": "AHA - Adult Basic Life Support (rescue breathing 1 breath/6 s if pulse; each breath ~1 s with visible chest rise; HCP pulse check <=10 s)",
+    "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+   }
+  ]
+ },
+ {
+  "id": "Q0228",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "تركيب القسطرة البولية يتطلب تقنية معقّمة ومعدات معقّمة (CDC CAUTI 2009)؛ أما تركيب الأنبوب الأنفي المعدي والحقنة المهبلية وغسل فغر القولون فتُجرى عادةً بتقنية نظيفة (clean) وليست معقّمة.",
+  "refs": [
+   {
+    "title": "CDC - Guideline for Prevention of CAUTI 2009 (insert urinary catheters using aseptic technique and sterile equipment)",
+    "url": "https://www.cdc.gov/infectioncontrol/pdf/guidelines/cauti-guidelines-H.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0229",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الأنسولين العادي هو العلاج الدوائي الأساسي للحماض الكيتوني السكري لأنه يوقف توليد الكيتونات؛ الإماهة بالمحلول الملحي تأتي أولًا لكنها ليست بين الخيارات، والبيكربونات لا تُعطى إلا إذا pH<6.9، والبوتاسيوم يُضاف بعد التأكد من المستوى (>3.3) (ADA 2009).",
+  "refs": [
+   {
+    "title": "Kitabchi et al., Diabetes Care 2009 (PMC2699725) - Hyperglycemic crises in adult patients with diabetes",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2699725/"
+   },
+   {
+    "title": "Wikipedia - Diabetic ketoacidosis (treatment: fluids, insulin once K>3.3, bicarbonate discouraged)",
+    "url": "https://en.wikipedia.org/wiki/Diabetic_ketoacidosis"
+   }
+  ]
+ },
+ {
+  "id": "Q0230",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "أشيع سبب للصدمة القلبية المنشأ هو احتشاء عضلة القلب الحاد (StatPearls)؛ البكتيريا تسبب الصدمة الإنتانية، والحساسية الصدمة التأقية، والنزف الصدمة نقص الحجم.",
+  "refs": [
+   {
+    "title": "StatPearls - Cardiogenic Shock (most common cause is acute myocardial infarction)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK482255/"
+   }
+  ]
+ },
+ {
+  "id": "Q0231",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "إن وُجد نبض محسوس بوضوح مع غياب التنفس الطبيعي فالإجراء هو الإنعاش التنفسي (نفَس كل 6 ثوانٍ) (AHA)، أما إذا لم يُتأكد من النبض خلال 10 ثوانٍ فيُعامل كسكتة قلبية ويبدأ CPR؛ عبارة «weak pulse» غامضة بين الحالتين فالحسم ضعيف.",
+  "refs": [
+   {
+    "title": "AHA - Adult Basic Life Support (rescue breathing 1 breath/6 s if pulse; each breath ~1 s with visible chest rise; HCP pulse check <=10 s)",
+    "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+   }
+  ]
+ },
+ {
+  "id": "Q0232",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "لقاح التيتانوس (Tdap/Td) يُعطى أثناء الحمل (CDC: جرعة Tdap في كل حمل)؛ لكن بقية الخيارات مفقودة (مبتورة) وقد يكون بينها لقاح آخر موصى به (كالإنفلونزا)، فلا يمكن الجزم بأنه الإجابة الوحيدة.",
+  "refs": [
+   {
+    "title": "CDC - Vaccines recommended during pregnancy (Tdap each pregnancy; influenza; RSV)",
+    "url": "https://www.cdc.gov/vaccines-pregnancy/hcp/vaccination-guidelines/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0233",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخياران 2 و3 («High, large volume»/«Low, small volume») دخيلان من سؤال آخر؛ بين الخيارين الصالحين: تبدأ المراجع التمريضية (Jarvis) عادةً بالبيانات الحيوية/التعريفية ثم الشكوى الرئيسية، بينما يذكر الشكل المعياري للتاريخ المرضي الشكوى الرئيسية أولًا (Wikipedia)، فالحسم ضعيف.",
+  "refs": [
+   {
+    "title": "Wikipedia - Medical history (patient-reported complaints = symptoms/subjective; standard order of components)",
+    "url": "https://en.wikipedia.org/wiki/Medical_history"
+   }
+  ]
+ },
+ {
+  "id": "Q0234",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "تدبير صدمة نقص الحجم يشمل تعويض السوائل الوريدية والدم/مشتقاته، وتُستخدم رافعات الضغط عند عدم الاستجابة للتعويض (StatPearls)؛ فـ«كل ما سبق» مقبولة مع أن رافعات الضغط ليست خط أول.",
+  "refs": [
+   {
+    "title": "StatPearls - Hypovolemic Shock (crystalloids, blood products; vasopressors only if refractory)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK513297/"
+   }
+  ]
+ },
+ {
+  "id": "Q0235",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "المتداول في كتب العظام أن كسر عظمتي الساعد لدى البالغ يُثبَّت بجبيرة فوق المرفق مع الساعد في وضع محايد/نصف الكب (mid-prone) عند منتصف العظمة؛ لم أستطع فتح مرجع منشور لهذه الجلسة لتأكيده، فالثقة منخفضة.",
+  "refs": []
+ },
+ {
+  "id": "Q0236",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "التاريخ الصحي (شكوى المريض وما يرويه) بيانات ذاتية (subjective)، أما الفحص السريري والعلامات الحيوية والتحاليل فبيانات موضوعية (objective) (SOAP).",
+  "refs": [
+   {
+    "title": "Wikipedia - SOAP note (history/chief complaint = Subjective; exam/vitals/labs = Objective)",
+    "url": "https://en.wikipedia.org/wiki/SOAP_note"
+   },
+   {
+    "title": "Wikipedia - Medical history (patient-reported complaints = symptoms/subjective; standard order of components)",
+    "url": "https://en.wikipedia.org/wiki/Medical_history"
+   }
+  ]
+ },
+ {
+  "id": "Q0237",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة الخاطئة هي أن النوع الأول يُعالَج أساسًا بالرياضة والتغذية؛ مريض النوع الأول يجب أن يأخذ الأنسولين (NIDDK)، أما بقية العبارات فصحيحة (النوع 2 غالبًا بعد 40 وتزايد تشخيصه عند المراهقين).",
+  "refs": [
+   {
+    "title": "NIDDK - Insulin, Medicines & Other Diabetes Treatments (type 1: you must take insulin)",
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/insulin-medicines-treatments"
+   }
+  ]
+ },
+ {
+  "id": "Q0238",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "نقص الحديد هو أشيع سبب نقص-غذائي لفقر الدم عمومًا ولدى الحامل (WHO) فهو فقر الدم الأشيع أثناء الحمل.",
+  "refs": [
+   {
+    "title": "WHO - Anaemia fact sheet (iron deficiency is the most common nutritional cause; pregnancy increases risk)",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/anaemia"
+   }
+  ]
+ },
+ {
+  "id": "Q0239",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "فحص العقد اللمفية يتم بالجس (palpation) بلمس وضغط الأصابع على مناطق العقد (Wikipedia: Physical examination) فالخيار الثاني هو الأقرب؛ الخيار الثالث مفقود والنص مبتور.",
+  "refs": [
+   {
+    "title": "Wikipedia - Physical examination (inspection, palpation, percussion, auscultation)",
+    "url": "https://en.wikipedia.org/wiki/Physical_examination"
+   }
+  ]
+ },
+ {
+  "id": "Q0240",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": false,
+  "note_ar": "مصادر بيتا-كاروتين: الجزر والبطاطا الحلوة والسبانخ والمانجو (NIH ODS) ولا تُذكر البطاطس البيضاء؛ «السبانخ والمانجو» كلاهما غني به بينما «الجزر والبطاطس» نصفه فقط (إلا إن كانت حلوة)؛ والسؤال مبتور («both of these substances» ناقص) فلا أستطيع الجزم وأخالف علامة المصدر بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "NIH ODS - Vitamin A and carotenoids (beta-carotene sources: sweet potato, spinach, carrots, cantaloupe, mango; white potato not listed)",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+   }
+  ]
+ },
+ {
+  "id": "Q0241",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "في فحص البطن: الملاحظة أولًا ثم الإصغاء (auscultation) ثانيًا ثم الجس ثم القرع؛ الإصغاء قبل الجس لئلا تتغيّر أصوات الأمعاء.",
+  "refs": [
+   {
+    "title": "Wikipedia - Abdominal examination (inspection, auscultation, palpation, percussion; auscultation before palpation/percussion)",
+    "url": "https://en.wikipedia.org/wiki/Abdominal_examination"
+   }
+  ]
+ },
+ {
+  "id": "Q0242",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "حساسية لسعات الحشرات المفرطة تُسبب الصدمة التأقية (anaphylaxis) (MedlinePlus)؛ أما الصدمة السمية والإنتانية فسببها جرثومي فـ«كل ما سبق» خطأ.",
+  "refs": [
+   {
+    "title": "MedlinePlus - Anaphylaxis (common causes include insect bites/stings)",
+    "url": "https://medlineplus.gov/ency/article/000844.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0243",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "إرشادات CDC تجيز تنظيف الأرضيات بالمنظّف والماء أو بمطهّر مستشفيات مسجّل (EPA) أي منظّف-مطهّر؛ والمنهج التمريضي يذكر غالبًا «detergent germicide» للأسطح المتكررة، فاخترته بثقة منخفضة؛ علامة «الصابون والماء» ضعيفة ومتجاهَلة.",
+  "refs": [
+   {
+    "title": "CDC - Guidelines for Environmental Infection Control in Health-Care Facilities 2003 (floors: detergent and water or EPA-registered hospital disinfectant)",
+    "url": "https://www.cdc.gov/infectioncontrol/pdf/guidelines/environmental-guidelines-P.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0244",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العوامل الثلاثة الأخرى (ضعف منعكس السعال، سوء النظافة، كبت المناعة) ترفع قابلية العدوى بينما التغذية الكافية عامل واقٍ وليست عامل خطر فهي «غير المؤثرة سلبًا»؛ هذا استدلال تمريضي معياري ولم أستطع فتح مرجع منشور لهذه الجلسة، والنص مبتور وعلامة «ضعف السعال» ضعيفة ومتجاهَلة.",
+  "refs": []
+ },
+ {
+  "id": "Q0245",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العلامات الحيوية (الحرارة والنبض والتنفس وضغط الدم) مؤشرات أساسية لحالة الوظائف الحيوية القلبية الوعائية والتنفسية (Wikipedia: Vital signs) فالعبارة المقروءة صحيحة على الأرجح، لكن النص مبتور.",
+  "refs": [
+   {
+    "title": "Wikipedia - Vital signs (temperature, BP, pulse, respiratory rate: status of vital functions)",
+    "url": "https://en.wikipedia.org/wiki/Vital_signs"
+   }
+  ]
+ },
+ {
+  "id": "Q0246",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة مبتورة («arterial blood ......»)؛ معروف أن النوم يغيّر نمط التنفس والتهوية، لكن لا يمكن الحكم على تتمة الجملة (غازات الدم الشريانية؟) ولم أجد مرجعًا لها في هذه الجلسة.",
+  "refs": []
+ },
+ {
+  "id": "Q0247",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخياران 3 و4 مفقودان، وكلٌّ من اللاكتوز (أقل السكريات الغذائية تسويسًا عادةً) والزايليتول (كحول سكري غير مسوِّس cariogenic؛ Wikipedia) مرشّح معقول، فلا توجد إجابة وحيدة قابلة للدفاع عنها.",
+  "refs": [
+   {
+    "title": "Wikipedia - Xylitol (sugar alcohol; not cariogenic)",
+    "url": "https://en.wikipedia.org/wiki/Xylitol"
+   }
+  ]
+ },
+ {
+  "id": "Q0248",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نصائح المريض بعد تسليم طقم الأسنان تبدأ بالأطعمة اللينة وتقطيع الطعام لقطع صغيرة (NHS: الأطعمة الأطرى حتى التعوّد)، فـ«all above» مرجّحة، لكن الخيار الثالث مفقود ولا يمكن التأكد من صحته.",
+  "refs": [
+   {
+    "title": "NHS - Dentures (getting used to dentures: eat softer foods until comfortable)",
+    "url": "https://www.nhs.uk/conditions/dentures/"
+   }
+  ]
+ },
+ {
+  "id": "Q0249",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال مبتور (الخيار الوحيد «premature co…» مقطوع) فلا يمكن تحديد الجواب؛ وغالبًا يتعلق بالتلامس المبكر (premature contact) لكن لا يمكن الجزم.",
+  "refs": []
+ },
+ {
+  "id": "Q0250",
+  "verdict": "corrected",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": false,
+  "note_ar": "الامتصاص في الأمعاء الدقيقة يتم بالأسمزة (الماء) والانتشار (الدهون والفركتوز) والنقل النشط (الجلوكوز والأحماض الأمينية والصوديوم) فالإجابة «كل ما سبق» وليس النقل النشط وحده.",
+  "refs": [
+   {
+    "title": "Wikipedia - Absorption (small intestine) (osmosis, passive/facilitated diffusion, active transport)",
+    "url": "https://en.wikipedia.org/wiki/Absorption_(small_intestine)"
+   }
+  ]
+ }
+]

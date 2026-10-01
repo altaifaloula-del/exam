@@ -1,0 +1,907 @@
+[
+ {
+  "id": "Q0773",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "P.R.N mean:",
+  "q_ar": null,
+  "options": [
+   "As needed.",
+   "As necessary.",
+   "immediately.",
+   "None all above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0775",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Acute gastritis is often caused by the following except :",
+  "q_ar": null,
+  "options": [
+   "The person eats food that is irritating",
+   "Overuse of aspirin",
+   "Excessive alcohol intake",
+   "By the bacteria helicobacter pylori ( H pylori )"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0776",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Sterile tachnique is used whenever :",
+  "q_ar": null,
+  "options": [
+   "Strict isolation is required",
+   "Terminal disinfection is performed",
+   "Invasive procedures are performed",
+   "Protective isolation is necessary"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0777",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "The most common sleep alterations include the following except:",
+  "q_ar": null,
+  "options": [
+   "insomnia",
+   "narcolepsy",
+   "sleep apnea",
+   "rapid eye movement"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0778",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "......... are used to elevate body parts, relieve swelling, promote breathing, or help to maintain a therapeutic position.",
+  "q_ar": null,
+  "options": [
+   "Bed linen",
+   "Mattress",
+   "Pillows",
+   "Over-bed Table"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0781",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "The vaccination that cause permanent scar?",
+  "q_ar": null,
+  "options": [
+   "BCG",
+   "DPT:"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0782",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Which of the following infection of animals primarily can be transmitted through milk?",
+  "q_ar": null,
+  "options": [
+   "Tuberculosis",
+   "leptospirosis",
+   "dengue",
+   "plague"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0783",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "The preschool child sleeps approximately:",
+  "q_ar": null,
+  "options": [
+   "6 to 10 hours per day",
+   "12 to 14 hours per day",
+   "10 to 12 hours per day.",
+   "14 to 16 hours per day"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0789",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "مصطلح Tachypnea يعني",
+  "q_ar": null,
+  "options": [
+   "تسارع في التنفس",
+   "تسارع في النبض",
+   "بطيء في التنفس",
+   "اختفاء التنفس"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0790",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "يتم تقييم الجهاز التنفسي باستخدام الطرق التالية حسب الترتيب",
+  "q_ar": null,
+  "options": [
+   "النظر , الجس, القرع , التصنت",
+   "الجس , النظر, القرع , التصنت",
+   "التصنت , الجس , القرع , النظر",
+   "التصنت, الجس , القرع , النظر"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "duplicate_options"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0791",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند القيام بعملية الشفط للمريض فاقد الوعي يجب وضعة في الوضعية",
+  "q_ar": null,
+  "options": [
+   "نصف الجلوس semi fowlers",
+   "الوضع الجانبي lateral position",
+   "وضع الاستلقاء الظهري supone position",
+   "وضع الجلوس fowlers position"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0792",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند القيام بعملية شفط السوائل لمريض فاقد الوعي يجب وضعة في وضعية",
+  "q_ar": null,
+  "options": [
+   "نصف الجلوس semi fowlere",
+   "الوضع الجانبي lateral position",
+   "وضع الاستلقاء الظهري supine position",
+   "وضع الجلوس مع رفع راس السرير بزاوية 90 درجة"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0793",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "يجب عدم ابقاء انبوب الشفط عند اجراء الشفط للمريض",
+  "q_ar": null,
+  "options": [
+   "15 ثانية كل مره وان لا تستمر اكثر من 5 دقائق.",
+   "5 ثواني كل مره وان لا تستمر اكثر من 60 ثانية",
+   "15 دقيقة كل مره وان لا تستمر اكثر من 60 دقيقة",
+   "15 ثانية كل مره وان لا تستمر اكثر من 15 دقيقة"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0794",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "من الامور الواجب على الممرض مراقبتها لمريض عنده انبوب تغذية عن طريق الانف ما يلي:",
+  "q_ar": null,
+  "options": [
+   "التأكد من وجود الانبوب في المعدة",
+   "تحسس المريض من أي نوع من الطعام",
+   "التاكد من اصوات الامعاء للتاكد من نشاطها",
+   "جميع ما ذكر صحيح"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0795",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "كل الاجراءات التالية صحيحة للمريض بعد اعطائة تغذية عن طريق الانبوب الانف المعدي ما عدا",
+  "q_ar": null,
+  "options": [
+   "إعطاءه كمية من الماء بعد الانتهاء من التغذية لغسل الانبوب",
+   "اغلاق الانبوب قبل دخول الهواء الى المعدة",
+   "وضع المريض في وضعية نصف الجلوس او الوضع الجانبي مع رفع راس المدة 30 دقيقة",
+   "وضع المريض في وضعية الاستلقاء الظهري"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0796",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "أي من الادوية التالية تؤدي الحدوث تغير في لون البول",
+  "q_ar": null,
+  "options": [
+   "multivitamin",
+   "Diuretics drug",
+   "amitripine",
+   "multivitamins"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0797",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "30 ملغم تعادل",
+  "q_ar": null,
+  "options": [
+   "0.03 غم",
+   "0.3 غم",
+   "3 غم",
+   "0.003 غم"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0798",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "2.5 غرام تعادل",
+  "q_ar": null,
+  "options": [
+   "2500 ملغم",
+   "250 ملغم",
+   "25 ملغم",
+   "2.500 ملغم"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0799",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "درجة حموضة البول PH الطبيعي هي",
+  "q_ar": null,
+  "options": [
+   "4 - 8",
+   "7.35 - 8.35",
+   "* 1 - 10",
+   "* 2 - 6"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0800",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "من الاجراءات الواجب اتخاذها عند تركيب القثطار البولي ما يلي:",
+  "q_ar": null,
+  "options": [
+   "فحص البالون قبل تركيب القثطار",
+   "دفع القثطار مسافة 2.5 سم - 5 سم بعد خروج البول لاول مرة",
+   "ادخال السوائل لنفخ البالون ليس اكثر من الكمية المذكورة على الانبوب وذلك لتثبيتة",
+   "كل ماذكر صحيح"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0801",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "أي من الحالات التالية يكون اكثر عرضة لاصابة بتقرحات الفراش",
+  "q_ar": null,
+  "options": [
+   "المريض فاقد الوعي",
+   "مرضى العمليات الجراحية",
+   "مرضى غسيل الكلى",
+   "مرضى السكري"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0802",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "أي من الاجراءات التمريضية التالية تؤدي الى التقليل من حدوث التقرحات السريرية",
+  "q_ar": null,
+  "options": [
+   "تغير وضعية المريض كل ساعتين",
+   "تنظيف مناطق الضغط يوميا",
+   "تشجيع المريض على الحركة",
+   "عمل تمارين رياضية للمريض",
+   "كل ماذكر صحيح"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0803",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "الاختصار PRN يعني",
+  "q_ar": null,
+  "options": [
+   "عند اللزوم مرة واحدة فقط",
+   "مرة واحدة فقط",
+   "ثلاث مرات في اليوم",
+   "مرتين في اليوم"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0804",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "الاختصار tid يعني",
+  "q_ar": null,
+  "options": [
+   "ثلاث مرات في اليوم",
+   "مرتين في اليوم",
+   "مرة واحدة في اليوم",
+   "اربع مرات في اليوم"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0805",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "وصف الطبيب علاج ايتروميسن 500 ملغم والمتوفر في القسم هو 250 ملغم مذابة في 5 مل احسب كم مل تعطي المريض",
+  "q_ar": null,
+  "options": [
+   "10 مل",
+   "20 مل",
+   "5 مل",
+   "0.1 مل"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0806",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "sphygmomanometer هو",
+  "q_ar": null,
+  "options": [
+   "جهاز يستخدم لقياس ضغط الدم الشرياني",
+   "جهاز يستخدم لقياس نسبة السكر في الدم",
+   "جهاز يتستخدم لقياس المسافات",
+   "جهاز يستخدم فحص قوة النظر عند المرضى"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0807",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند دخول المريض الى القسم او ما يجب على الممرض القيام به هو",
+  "q_ar": null,
+  "options": [
+   "سؤال المريض عن تاريخة المرضي",
+   "على الممرض ان يقدم نفسة للمريض",
+   "تعريف المريض على القسم",
+   "اخذ العلامات الحيوية"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0808",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "معدل النبض الطبيعي للانسان البالغ السليم في الراحة هو",
+  "q_ar": null,
+  "options": [
+   "60 - 80 نبضة /دقيقة",
+   "100 - 120 نبضة / دقيقة",
+   "20 - 40 نبضة / دقيقة",
+   "10 - 20 نبضة / دقيقة"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0809",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "اثناء مرورك على المرضى وجدت مريض قد سقط عن السرير وفقد الوعى ما هو اول اجراء يجب عليك اتخاذه",
+  "q_ar": null,
+  "options": [
+   "فتح مجرى الهواء",
+   "طلب المساعدة",
+   "وضع المريض على السرير",
+   "كتابة تقرير لمسئول القسم"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0810",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "كثرة الاصابة بقروح الفراش في القسم تعني",
+  "q_ar": null,
+  "options": [
+   "المريض لا يعتمد على نفسة",
+   "وجود عدوى بكتيرية في القسم",
+   "سوء العناية التمريضية",
+   "جميع ماذكر صحيح"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0811",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "أي من العلامات التالية تشير الى وجود جفاف عند المريض",
+  "q_ar": null,
+  "options": [
+   "صعوبة التنفس",
+   "نقص كمية البول",
+   "احمرار الجلد",
+   "انخفاض في درجة الحرارة"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0812",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "توصف العملية التمريضية بانها",
+  "q_ar": null,
+  "options": [
+   "تفكير علمي منظم في تقديم العناية التمريضية",
+   "اتخاذ قرار في حالة المريض الصحية",
+   "تنفيذ الاجراءات التمريضية وتقيمها",
+   "جمع المعلومات عن المريض ووضع تشخيص تمريضيه له"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0813",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "معدل التنفس للانسان البالغ",
+  "q_ar": null,
+  "options": [
+   "16 - 20 نفس / دقيقة",
+   "30 - 40 نفس في الدقيقة",
+   "50 - 60 نفس في الدقيقة",
+   "5 - 10 نفس في الدقيقة"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0814",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "اكثر الطرق شيوعا ( استخداما ) عند قياس درجة الحرارة للمريض",
+  "q_ar": null,
+  "options": [
+   "الفم",
+   "الابط",
+   "الشرج",
+   "كل ما ذكر صحيح"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0815",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "اثناء اجراء عملية نقل الدم للمريض ظهر طفح جلدي عند المريض مع ارتفاع في درجة الحرارة ما هو اول اجراء يجب اتخاذه في مثل هذه الحالة",
+  "q_ar": null,
+  "options": [
+   "ايقاف نقل الدم فورا",
+   "استمرار نقل الم مع الاتصال مع الطبيب",
+   "اخبار الطبيب فورا",
+   "الطلب من المريض اخذ نفسا عميقا اثناء النقل"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0816",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "يبلغ عدد كريات الدم الحمراء",
+  "q_ar": null,
+  "options": [
+   "4-6 مليون",
+   "4 - 65 الالف",
+   "150000- 40000",
+   "13.5 -14.5"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0817",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "أي من الاماكن التالية يجب على المسعف محاولة جس النبض للتاكد من وجود نبض عند المصاب البلغ من عدمة",
+  "q_ar": null,
+  "options": [
+   "الشريان السباتي في الرقبة",
+   "الشريان العضدي بالذراع",
+   "الشريان الاربي ( الفخذي الحوضي(",
+   "الشريان الكعبري"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0818",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "أي من الحالات التالية يجب التوقف عن الاستمرار في تطبيق عملية الانعاش القلبي الرنوي",
+  "q_ar": null,
+  "options": [
+   "عندما يظن المسعف ان الضلوع قد كسرت",
+   "اذا كان المصاب يعاني من كسر في الرقبة",
+   "عندما يعلن مسعف اخر ( غير طبيب ) ان المريض قد مات",
+   "في حالة عودة النبض والتنفس للمصاب"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0819",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "ان معدل الضغطات الخارجية على الصدر والتنفس الاصطناعي لمصاب بالغ او طفل فوق سن الثامنة لمنقذ واحد هو",
+  "q_ar": null,
+  "options": [
+   "15/2 بالتوالي لمدة دقيقة اربع دورات ثم التوقف 5 ثواني للتاكد من عودة النبض ومؤشرات الدورة الدموية",
+   "15/1 بالتوالي لمدة دقيقة اربع دورات ثم التوقف 5 ثواني للتاكد من عودة النبض ومؤشرات الدورة الدموية",
+   "5/2 بالتوالي لمدة دقيقة اربع دورات ثم التوقف 5 ثواني للتاكد من عودة النبض ومؤشرات الدورة الدموية",
+   "5/1 بالتوالي لمدة دقيقة اربع دورات ثم التوقف 5 ثواني للتاكد من عودة النبض ومؤشرات الدورة الدموية"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0821",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "الدفعات البطنية او ( طريقة همليك ) هي",
+  "q_ar": null,
+  "options": [
+   "هي طريقة لفتح مجرى الهواء المغلق نتيجة وجود جسم غريب به",
+   "طريقة تساعد في جس النبض الصحيح",
+   "طريقة تستخدم للاعطاء التنفس الصناعي",
+   "كل ماذكر صحيح"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0822",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "من اهم وسائل العناية بمريض مصاب بالصرع",
+  "q_ar": null,
+  "options": [
+   "ابعاد المصاب عن أي اجهزة او مواد حادة",
+   "تجنب التدخل اثناء حدوث التشنجات والانتظار حتى نهاية الحالة",
+   "العناية براس ورقبة المصاب ومحاولة منع اصابتهما",
+   "كل ماذكر صحيح"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0823",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "من العوامل المساعدة في التسبب لحالات السكتة الدماغية STROK",
+  "q_ar": null,
+  "options": [
+   "ارتفاع ضغط الدم",
+   "امراض القلب والشرايين",
+   "مرض السكري",
+   "كل ماذكر صحيح"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0824",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "الموت السريري (الاكلينيكي ) هو",
+  "q_ar": null,
+  "options": [
+   "توقف القلب والتنفس وهوحالة موت مؤقته",
+   "موت خلايا الدماغ",
+   "لا يمكن للشخص من العودة الى الحالة الطبيعية",
+   "كل ماذكر صحيح"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0825",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "الشريان الوحيد في الجسم الذي يحمل الدم الغير مؤكسد هو",
+  "q_ar": null,
+  "options": [
+   "الشريان الرئوي",
+   "الشريان الفخذي",
+   "الشريان الكعبري",
+   "الشريان السباتي"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0826",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "من القدرات التي يجب ان يتمتع بها الممرض في مكان عمله",
+  "q_ar": null,
+  "options": [
+   "القيادة",
+   "التعليم",
+   "التغيير",
+   "جميع ماذكر صحيح"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0820",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "من اكثر طرق جمع المعلومات استعمالا وتتطلب من الممرض ان يتمتع بمهارات اتصال عالية",
+  "q_ar": null,
+  "options": [
+   "المقابلة",
+   "الفحص الجسماني",
+   "الملاحظة",
+   "الاستشارة"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0827",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "من التوجيهات التي يوجهها الممرض لمريض يعاني من الاسهال",
+  "q_ar": null,
+  "options": [
+   "الاكثار من الغذاء الغني بالالياف",
+   "اعطاء حقنة شرجية",
+   "الاكثار من السوائل",
+   "لا شيء مما ذكر"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0828",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "يتم عمل صورة اشعة للصدر لمريض يعاني من اضطرابات الجهاز الدوراني وذلك",
+  "q_ar": null,
+  "options": [
+   "لتحديد حجم القلب",
+   "لتحديد التروية الدموية للقلب",
+   "لمعرفة الشرايين التاجية المصابة",
+   "لفحص اصابات صممات القلب"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0833",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "من الاجراءات التمريضية لمريض يعاني من قصور القلب وضيق التفس",
+  "q_ar": null,
+  "options": [
+   "اعطاء مورفين",
+   "رفع السرير 35-45 درجة",
+   "زيادة السوائل عن طريق الوريد",
+   "جميع ما ذكر صحيح"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

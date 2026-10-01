@@ -1,0 +1,411 @@
+<title>مراجعة الأسئلة الطبية</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: one question per screen, thumb-reachable decision bar at the bottom, numbered map for jumping.
+   Tokens: paper/surface/ink neutrals tinted toward the teal brand; ok/fix/bad/note are status colours, separate from the brand. */
+:root{
+  --paper:#EBF0F0; --surface:#FFFFFF; --ink:#12262B; --muted:#57696E; --line:#D0DADB;
+  --brand:#0A6B72; --brand-ink:#FFFFFF;
+  --ok:#14734A; --ok-bg:#E2F3E9; --fix:#8F5400; --fix-bg:#FBEED4; --bad:#AE2A1E; --bad-bg:#FBE3E0; --note:#2B5A99; --note-bg:#E3ECF8;
+  --focus:#0A6B72;
+  --f:"IBM Plex Sans Arabic",Tahoma,"Segoe UI",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#0D1618; --surface:#152124; --ink:#E4EDEE; --muted:#8CA1A6; --line:#283A3E;
+  --brand:#55C2C9; --brand-ink:#06282B;
+  --ok:#5CCB92; --ok-bg:#12301F; --fix:#F0B45A; --fix-bg:#3A2A0C; --bad:#FF8F84; --bad-bg:#3E1714; --note:#8DB6F0; --note-bg:#15283F; --focus:#55C2C9; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#0D1618; --surface:#152124; --ink:#E4EDEE; --muted:#8CA1A6; --line:#283A3E;
+  --brand:#55C2C9; --brand-ink:#06282B;
+  --ok:#5CCB92; --ok-bg:#12301F; --fix:#F0B45A; --fix-bg:#3A2A0C; --bad:#FF8F84; --bad-bg:#3E1714; --note:#8DB6F0; --note-bg:#15283F; --focus:#55C2C9; color-scheme:dark}
+*{box-sizing:border-box}
+html{height:100%}
+body{margin:0;min-height:100%;background:var(--paper);color:var(--ink);font:400 16px/1.6 var(--f);-webkit-text-size-adjust:100%}
+button,input,textarea,select{font:inherit;color:inherit}
+button{cursor:pointer}
+:focus-visible{outline:3px solid var(--focus);outline-offset:2px;border-radius:6px}
+.app{max-width:760px;margin:0 auto;padding-inline:16px;display:flex;flex-direction:column;min-height:100vh}
+@supports (min-height:100dvh){.app{min-height:100dvh}}
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--paper);padding-block:12px 10px;display:grid;gap:10px;border-bottom:1px solid var(--line)}
+.row{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.spread{justify-content:space-between}
+h1{font-size:1.05rem;font-weight:600;margin:0;text-wrap:balance}
+.tabs{display:flex;gap:4px;background:var(--line);padding:3px;border-radius:10px}
+.tabs button{border:0;background:transparent;padding:6px 14px;border-radius:8px;font-weight:500;color:var(--muted)}
+.tabs button[aria-selected="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgb(0 0 0/.12)}
+.meter{height:8px;background:var(--line);border-radius:99px;overflow:hidden;display:flex}
+.meter i{display:block;height:100%}
+.meter .m-ok{background:var(--ok)} .meter .m-fix{background:var(--fix)} .meter .m-bad{background:var(--bad)} .meter .m-note{background:var(--note)}
+.prog{font-size:.85rem;color:var(--muted);font-variant-numeric:tabular-nums}
+main{flex:1;padding-block:16px 24px;display:grid;gap:14px;align-content:start}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px;display:grid;gap:14px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font-size:.78rem;font-weight:500;padding:2px 10px;border-radius:99px;border:1px solid var(--line);color:var(--muted);background:transparent;line-height:1.7}
+.chip.t{color:var(--fix);background:var(--fix-bg);border-color:transparent}
+.chip.c{color:var(--bad);background:var(--bad-bg);border-color:transparent}
+.chip.g{color:var(--note);background:var(--note-bg);border-color:transparent}
+.id{font-family:var(--mono);font-size:.8rem;color:var(--muted)}
+.stem{font-size:1.2rem;line-height:1.75;font-weight:500;margin:0;text-wrap:pretty}
+.stem-ar{margin:0;color:var(--muted)}
+.opts{display:grid;gap:8px}
+.opt{display:grid;grid-template-columns:32px 1fr auto;align-items:center;gap:12px;text-align:start;width:100%;padding:12px 14px;border:1.5px solid var(--line);border-radius:12px;background:var(--surface)}
+.opt:hover{border-color:var(--muted)}
+.opt .k{width:32px;height:32px;border-radius:8px;border:1.5px solid var(--line);display:grid;place-items:center;font-weight:600;font-size:.9rem;color:var(--muted)}
+.opt .tag{font-size:.75rem;font-weight:600;white-space:nowrap}
+.opt.prop{border-color:var(--ok);background:var(--ok-bg)}
+.opt.prop .k{border-color:var(--ok);color:var(--ok)}
+.opt.prop .tag{color:var(--ok)}
+.opt.ok-sel .k{background:var(--ok);color:var(--surface);border-color:var(--ok)}
+.opt.fix-sel{border-color:var(--fix);background:var(--fix-bg)}
+.opt.fix-sel .k{background:var(--fix);border-color:var(--fix);color:var(--surface)}
+.opt.fix-sel .tag{color:var(--fix)}
+.opt.struck{opacity:.75;text-decoration:line-through;text-decoration-thickness:1px}
+.hint{font-size:.85rem;color:var(--muted);margin:0}
+.why{margin:0;padding:12px 14px;border-radius:10px;background:var(--paper);font-size:.95rem;line-height:1.7}
+.why b{display:block;font-size:.78rem;color:var(--muted);font-weight:600;margin-bottom:2px}
+.refs{display:grid;gap:6px;padding:0;margin:0;list-style:none}
+.refs a{color:var(--brand);text-decoration-thickness:1px;text-underline-offset:3px;overflow-wrap:anywhere}
+.tier{font-size:.78rem;color:var(--muted)}
+details>summary{cursor:pointer;font-weight:500;color:var(--brand);padding-block:4px}
+textarea{width:100%;min-height:84px;border:1.5px solid var(--line);border-radius:10px;padding:10px 12px;background:var(--surface);resize:vertical}
+input[type=text]{width:100%;border:1.5px solid var(--line);border-radius:10px;padding:10px 12px;background:var(--surface)}
+label.lab{font-weight:500;font-size:.9rem;display:grid;gap:6px}
+.state{padding:10px 14px;border-radius:10px;font-weight:500;font-size:.95rem}
+.state.ok{background:var(--ok-bg);color:var(--ok)} .state.fix{background:var(--fix-bg);color:var(--fix)} .state.bad{background:var(--bad-bg);color:var(--bad)} .state.note{background:var(--note-bg);color:var(--note)}
+footer.bar{position:sticky;bottom:0;z-index:5;background:var(--paper);border-top:1px solid var(--line);padding:10px 0 calc(10px + env(safe-area-inset-bottom,0px));display:grid;gap:8px}
+.actions{display:grid;grid-template-columns:1fr 1fr 46px 46px;gap:8px}
+.actions .primary{grid-column:1/-1}
+.btn.ico{padding:0;min-width:46px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:8px 14px;border-radius:12px;border:1.5px solid var(--line);background:var(--surface);font-weight:600}
+.btn.primary{background:var(--ok);border-color:var(--ok);color:var(--surface)}
+.btn.brand{background:var(--brand);border-color:var(--brand);color:var(--brand-ink)}
+.btn.danger{color:var(--bad);border-color:var(--bad)}
+.btn[disabled]{opacity:.45;cursor:not-allowed}
+.btn.sm{min-height:38px;font-weight:500;padding:4px 12px}
+svg.i{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex:none}
+.map{display:grid;grid-template-columns:repeat(auto-fill,minmax(46px,1fr));gap:6px}
+.cell{min-height:40px;border-radius:8px;border:1.5px solid var(--line);background:var(--surface);font-family:var(--mono);font-size:.85rem;font-variant-numeric:tabular-nums}
+.cell.ok{background:var(--ok-bg);border-color:var(--ok);color:var(--ok)} .cell.fix{background:var(--fix-bg);border-color:var(--fix);color:var(--fix)} .cell.bad{background:var(--bad-bg);border-color:var(--bad);color:var(--bad)} .cell.note{background:var(--note-bg);border-color:var(--note);color:var(--note)}
+.cell.cur{outline:3px solid var(--focus);outline-offset:1px}
+.filters{display:grid;gap:10px}
+.filters .group{display:flex;flex-wrap:wrap;gap:6px}
+.pill{border:1.5px solid var(--line);background:var(--surface);border-radius:99px;padding:4px 14px;font-size:.88rem;font-weight:500}
+.pill[aria-pressed="true"]{background:var(--ink);color:var(--surface);border-color:var(--ink)}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;text-align:center}
+.stats div{background:var(--paper);border-radius:10px;padding:8px 4px;font-size:.8rem;color:var(--muted)}
+.stats b{display:block;font-size:1.25rem;color:var(--ink);font-variant-numeric:tabular-nums}
+pre.out{margin:0;max-height:220px;overflow:auto;background:var(--paper);border-radius:10px;padding:10px;font:400 .75rem/1.5 var(--mono);direction:ltr;text-align:left;white-space:pre-wrap;overflow-wrap:anywhere}
+.notice{padding:10px 14px;border-radius:10px;background:var(--note-bg);color:var(--note);font-size:.9rem}
+.notice.warn{background:var(--fix-bg);color:var(--fix)}
+.err{color:var(--bad);font-size:.88rem;margin:0}
+[dir=auto]{unicode-bidi:plaintext}
+@media (prefers-reduced-motion:no-preference){.card{animation:in .18s ease-out}@keyframes in{from{opacity:.4;transform:translateY(4px)}}}
+@media (min-width:600px){.actions{grid-template-columns:2fr 1fr 1fr 48px 48px}.actions .primary{grid-column:auto}}
+</style>
+<script type="application/json" id="bank-data">__DATA__</script>
+<div class="app" id="app" dir="rtl" lang="ar"></div>
+<script>
+(() => {
+'use strict';
+const DATA = JSON.parse(document.getElementById('bank-data').textContent);
+const ITEMS = DATA.items;
+const BY_ID = new Map(ITEMS.map((q) => [q.id, q]));
+const SPEC = { assistant: 'مساعد طبيب', nursing: 'تمريض', midwifery: 'قبالة', dental: 'أسنان' };
+const WHY = { tentative: 'إجابة غير مؤكدة', corrected: 'صُحّحت مقابل المصدر', general: 'مراجعها عامة فقط', override: 'عُدّلت يدويًا' };
+const WHY_CLASS = { tentative: 't', corrected: 'c', general: 'g', override: 'c' };
+const CONF = { high: 'ثقة عالية', medium: 'ثقة متوسطة', low: 'ثقة منخفضة' };
+const STORE_KEY = 'physician-review:' + DATA.version;
+const VERBS = { ok: 'وافق', fix: 'صحّح', bad: 'معيب', note: 'ملاحظة' };
+
+/* ---------- storage (every access guarded; falls back to memory) ---------- */
+let memory = null;
+let persistent = true;
+function loadState() {
+  try { const raw = localStorage.getItem(STORE_KEY); if (raw) return sanitize(JSON.parse(raw)); } catch { persistent = false; }
+  return sanitize(memory);
+}
+function saveState() {
+  memory = JSON.parse(JSON.stringify({ reviewer: S.reviewer, dec: S.dec }));
+  try { localStorage.setItem(STORE_KEY, JSON.stringify(memory)); } catch { persistent = false; }
+}
+function sanitize(x) {
+  const out = { reviewer: '', dec: {} };
+  if (!x || typeof x !== 'object') return out;
+  if (typeof x.reviewer === 'string') out.reviewer = x.reviewer.slice(0, 80);
+  if (x.dec && typeof x.dec === 'object') {
+    for (const [id, d] of Object.entries(x.dec)) {
+      const q = BY_ID.get(id);
+      if (!q || !d || typeof d !== 'object') continue;
+      const c = typeof d.c === 'string' ? d.c.slice(0, 600) : '';
+      const kind = ['ok', 'fix', 'bad', 'note'].includes(d.d) ? d.d : null;
+      if (!kind) continue;
+      if (kind === 'ok' && q.ans == null) continue;
+      if (kind === 'fix' && !(Number.isInteger(d.a) && d.a >= 0 && d.a < q.options.length && d.a !== q.ans)) continue;
+      out.dec[id] = kind === 'fix' ? { d: kind, a: d.a, c } : { d: kind, c };
+    }
+  }
+  return out;
+}
+
+/* ---------- tiny DOM helpers (text nodes only; no HTML parsing) ---------- */
+function h(tag, props, ...kids) {
+  const el = document.createElement(tag);
+  for (const [k, v] of Object.entries(props || {})) {
+    if (v == null || v === false) continue;
+    if (k === 'class') el.className = v;
+    else if (k === 'style') el.style.cssText = v;
+    else if (k.startsWith('on')) el.addEventListener(k.slice(2), v);
+    else el.setAttribute(k, v === true ? '' : String(v));
+  }
+  for (const kid of kids.flat(Infinity)) {
+    if (kid == null || kid === false) continue;
+    el.append(kid.nodeType ? kid : document.createTextNode(String(kid)));
+  }
+  return el;
+}
+const SVG_NS = 'http://www.w3.org/2000/svg';
+function icon(d) {
+  const s = document.createElementNS(SVG_NS, 'svg');
+  s.setAttribute('class', 'i'); s.setAttribute('viewBox', '0 0 24 24'); s.setAttribute('aria-hidden', 'true');
+  for (const part of d) { const p = document.createElementNS(SVG_NS, 'path'); p.setAttribute('d', part); s.append(p); }
+  return s;
+}
+const ICON = {
+  check: ['M5 12.5l4.2 4.2L19 7'],
+  flag: ['M6 21V4', 'M6 5h11l-2 4 2 4H6'],
+  next: ['M15 5l-7 7 7 7'],
+  prev: ['M9 5l7 7-7 7'],
+  map: ['M4 4h6v6H4z', 'M14 4h6v6h-6z', 'M4 14h6v6H4z', 'M14 14h6v6h-6z'],
+};
+function safeUrl(u) { try { const x = new URL(u); return x.protocol === 'https:' ? x.href : null; } catch { return null; } }
+function optLabel(q, k) {
+  if (q.type === 'tf') return k === 0 ? 'ص' : 'خ';
+  const ar = ['أ', 'ب', 'ج', 'د', 'هـ', 'و'], en = ['A', 'B', 'C', 'D', 'E', 'F'];
+  return (q.lang === 'ar' ? ar : en)[k] || String(k + 1);
+}
+
+/* ---------- state ---------- */
+const S = Object.assign(loadState(), { view: 'review', spec: 'all', why: 'all', st: 'all', pos: 0, mapOpen: false, err: '', flash: '', msg: '' });
+let advanceTimer = null;
+
+function decided(id) { const d = S.dec[id]; return d && d.d !== 'note'; }
+function visible() {
+  return ITEMS.filter((q) =>
+    (S.spec === 'all' || q.spec === S.spec) &&
+    (S.why === 'all' || q.why.includes(S.why)) &&
+    (S.st === 'all' || (S.st === 'pending' ? !decided(q.id) : decided(q.id))));
+}
+function counts() {
+  const c = { ok: 0, fix: 0, bad: 0, note: 0 };
+  for (const q of ITEMS) { const d = S.dec[q.id]; if (d) c[d.d]++; }
+  return c;
+}
+function setDec(q, d, extra) {
+  const prevC = (S.dec[q.id] && S.dec[q.id].c) || '';
+  S.dec[q.id] = Object.assign({ d, c: prevC }, extra || {});
+  saveState();
+}
+function clearDec(q) { const c = (S.dec[q.id] && S.dec[q.id].c) || ''; if (c) S.dec[q.id] = { d: 'note', c }; else delete S.dec[q.id]; saveState(); }
+
+function go(delta) {
+  const list = visible(); if (!list.length) return;
+  S.pos = Math.min(Math.max(S.pos + delta, 0), list.length - 1); S.flash = ''; render(true);
+}
+function goNextPending() {
+  const list = visible();
+  for (let k = 1; k <= list.length; k++) {
+    const i = (S.pos + k) % list.length;
+    if (!decided(list[i].id)) { S.pos = i; S.flash = ''; render(true); return; }
+  }
+  S.flash = 'لا توجد أسئلة بلا قرار في هذه القائمة.'; render(false);
+}
+function afterDecision() {
+  clearTimeout(advanceTimer);
+  render(false);
+  advanceTimer = setTimeout(() => { goNextPending(); }, 450);
+}
+
+/* ---------- views ---------- */
+const app = document.getElementById('app');
+
+function header() {
+  const c = counts(); const done = c.ok + c.fix + c.bad; const total = ITEMS.length;
+  const pct = (n) => (n / total * 100).toFixed(2) + '%';
+  return h('header', { class: 'top' },
+    h('div', { class: 'row spread' },
+      h('h1', null, 'مراجعة الأسئلة الطبية'),
+      h('div', { class: 'tabs', role: 'tablist', 'aria-label': 'العرض' },
+        h('button', { type: 'button', role: 'tab', 'aria-selected': S.view === 'review' ? 'true' : 'false', onclick: () => { S.view = 'review'; S.msg = ''; render(true); } }, 'مراجعة'),
+        h('button', { type: 'button', role: 'tab', 'aria-selected': S.view === 'export' ? 'true' : 'false', onclick: () => { S.view = 'export'; S.msg = ''; render(true); } }, 'التسليم'))),
+    h('div', { class: 'meter', role: 'img', 'aria-label': `تمت مراجعة ${done} من ${total}` },
+      h('i', { class: 'm-ok', style: `width:${pct(c.ok)}` }), h('i', { class: 'm-fix', style: `width:${pct(c.fix)}` }), h('i', { class: 'm-bad', style: `width:${pct(c.bad)}` })),
+    h('div', { class: 'prog' }, `${done} من ${total} بقرار · وافقتَ على ${c.ok} · صحّحتَ ${c.fix} · عيّبتَ ${c.bad}`));
+}
+
+function pills(label, key, options) {
+  return h('div', { class: 'group', role: 'group', 'aria-label': label },
+    options.map(([val, text]) => h('button', { type: 'button', class: 'pill', 'aria-pressed': S[key] === val ? 'true' : 'false', onclick: () => { S[key] = val; S.pos = 0; render(true); } }, text)));
+}
+
+function mapPanel(list) {
+  return h('section', { class: 'card', 'aria-label': 'خريطة الأسئلة' },
+    h('div', { class: 'filters' },
+      pills('القسم', 'spec', [['all', 'كل الأقسام'], ...Object.entries(SPEC)]),
+      pills('سبب الإحالة', 'why', [['all', 'كل الأسباب'], ...Object.entries(WHY)]),
+      pills('الحالة', 'st', [['all', 'الكل'], ['pending', 'بلا قرار'], ['done', 'بقرار']])),
+    h('div', { class: 'map' }, list.map((q, i) => {
+      const d = S.dec[q.id]; const cls = d ? d.d : '';
+      return h('button', { type: 'button', class: `cell ${cls} ${i === S.pos ? 'cur' : ''}`, 'aria-label': `السؤال ${i + 1}${d ? ' — ' + VERBS[d.d] : ''}`, onclick: () => { S.pos = i; S.mapOpen = false; S.flash = ''; render(true); } }, i + 1);
+    })));
+}
+
+function optionsEl(q, d) {
+  const propIdx = q.ans;
+  return h('div', { class: 'opts', role: 'group', 'aria-label': 'الخيارات' }, q.options.map((o, k) => {
+    const isProp = k === propIdx;
+    const fixSel = d && d.d === 'fix' && d.a === k;
+    const okSel = d && d.d === 'ok' && isProp;
+    const struck = d && d.d === 'fix' && isProp;
+    const cls = ['opt', isProp && !struck ? 'prop' : '', okSel ? 'ok-sel' : '', fixSel ? 'fix-sel' : '', struck ? 'struck' : ''].join(' ');
+    const tag = fixSel ? 'إجابة الطبيب' : okSel ? 'وافقتَ عليها' : isProp ? (q.status === 'tentative' ? 'المقترحة (غير مؤكدة)' : 'المقترحة') : '';
+    return h('button', { type: 'button', class: cls, 'aria-pressed': (fixSel || okSel) ? 'true' : 'false',
+      onclick: () => { if (k === propIdx) setDec(q, 'ok'); else setDec(q, 'fix', { a: k }); afterDecision(); } },
+      h('span', { class: 'k', 'aria-hidden': 'true' }, optLabel(q, k)),
+      h('span', { dir: 'auto' }, o),
+      h('span', { class: 'tag' }, tag));
+  }));
+}
+
+function stateLine(q, d) {
+  if (!d) return null;
+  if (d.d === 'ok') return h('div', { class: 'state ok', role: 'status' }, 'قرارك: موافق على الإجابة المقترحة.');
+  if (d.d === 'fix') return h('div', { class: 'state fix', role: 'status' }, `قرارك: الإجابة الصحيحة هي (${optLabel(q, d.a)}) ${q.options[d.a]}`);
+  if (d.d === 'bad') return h('div', { class: 'state bad', role: 'status' }, 'قرارك: السؤال معيب ولا يصلح للنشر.');
+  return h('div', { class: 'state note', role: 'status' }, 'ملاحظة فقط، بلا قرار.');
+}
+
+function reviewView() {
+  const list = visible();
+  const main = h('main');
+  main.append(h('div', { class: 'row spread' },
+    h('button', { type: 'button', class: 'btn sm', 'aria-expanded': S.mapOpen ? 'true' : 'false', onclick: () => { S.mapOpen = !S.mapOpen; render(false); } }, icon(ICON.map), `الخريطة والفلاتر (${list.length})`),
+    h('span', { class: 'prog' }, list.length ? `${S.pos + 1} / ${list.length}` : '')));
+  if (S.mapOpen) main.append(mapPanel(list));
+  if (S.flash) main.append(h('div', { class: 'notice', role: 'status' }, S.flash));
+  if (!persistent) main.append(h('div', { class: 'notice warn' }, 'المتصفح لا يسمح بالحفظ التلقائي: لن يبقى تقدّمك بعد إغلاق الصفحة. اذهب إلى «التسليم» وصدّر قراراتك قبل الإغلاق.'));
+  if (!list.length) { main.append(h('div', { class: 'card' }, h('p', null, 'لا توجد أسئلة تطابق هذه الفلاتر.'))); return [main, null]; }
+  if (S.pos >= list.length) S.pos = list.length - 1;
+  const q = list[S.pos]; const d = S.dec[q.id];
+
+  const refs = q.refs.map((r) => { const u = safeUrl(r.u); return u ? h('li', null, h('a', { href: u, target: '_blank', rel: 'noopener noreferrer' }, r.t || u)) : null; });
+  main.append(h('article', { class: 'card', 'aria-label': 'السؤال' },
+    h('div', { class: 'row spread' },
+      h('div', { class: 'chips' }, h('span', { class: 'chip' }, SPEC[q.spec]), q.why.map((w) => h('span', { class: `chip ${WHY_CLASS[w]}` }, WHY[w])), h('span', { class: 'chip' }, CONF[q.conf])),
+      h('span', { class: 'id' }, q.id)),
+    h('p', { class: 'stem', dir: 'auto', tabindex: '-1', id: 'stem' }, q.q),
+    q.qar && q.qar !== q.q ? h('p', { class: 'stem-ar', dir: 'auto' }, q.qar) : null,
+    optionsEl(q, d),
+    h('p', { class: 'hint' }, q.ans == null ? 'لا توجد إجابة مقترحة. اضغط على الخيار الصحيح.' : 'اضغط على الخيار الصحيح: المقترحة تعني موافقة، وأي خيار آخر يعني تصحيحًا.'),
+    stateLine(q, d),
+    h('p', { class: 'why', dir: 'auto' }, h('b', null, 'مسوّغ الإجابة المقترحة (نتاج بحث آلي)'), q.note || '—'),
+    q.src_disagrees ? h('p', { class: 'hint' }, 'المصدر الأصلي علّم إجابة مختلفة عن المقترحة.') : null,
+    h('div', null, h('span', { class: 'tier' }, q.tier === 'strong' ? 'المراجع: جهات موثوقة' : q.tier === 'general' ? 'المراجع: عامة فقط (ويكيبيديا / مواقع تعليمية)' : 'بلا مراجع'),
+      refs.filter(Boolean).length ? h('ul', { class: 'refs' }, refs) : null),
+    h('details', { open: !!(d && d.c) ? 'true' : null }, h('summary', null, 'ملاحظتي على السؤال (اختياري)'),
+      h('textarea', { id: 'note-' + q.id, maxlength: 600, 'aria-label': 'ملاحظة', dir: 'auto',
+        oninput: (e) => { const v = e.target.value.slice(0, 600); const cur = S.dec[q.id]; if (cur) { cur.c = v; if (cur.d === 'note' && !v) delete S.dec[q.id]; } else if (v) S.dec[q.id] = { d: 'note', c: v }; saveState(); } }, (d && d.c) || ''))));
+
+  const bar = h('footer', { class: 'bar' },
+    h('div', { class: 'actions' },
+      h('button', { type: 'button', class: 'btn primary', disabled: q.ans == null, onclick: () => { setDec(q, 'ok'); afterDecision(); } }, icon(ICON.check), 'أوافق على المقترحة'),
+      h('button', { type: 'button', class: 'btn danger', onclick: () => { setDec(q, 'bad'); afterDecision(); } }, icon(ICON.flag), 'معيب'),
+      h('button', { type: 'button', class: 'btn', onclick: () => { clearTimeout(advanceTimer); if (d && d.d !== 'note') clearDec(q); goNextPending(); } }, 'تخطّي'),
+      h('button', { type: 'button', class: 'btn ico', 'aria-label': 'السؤال السابق', disabled: S.pos === 0, onclick: () => { clearTimeout(advanceTimer); go(-1); } }, icon(ICON.prev)),
+      h('button', { type: 'button', class: 'btn ico', 'aria-label': 'السؤال التالي', disabled: S.pos >= list.length - 1, onclick: () => { clearTimeout(advanceTimer); go(1); } }, icon(ICON.next))));
+  return [main, bar];
+}
+
+function buildExport() {
+  const decisions = {};
+  for (const [id, d] of Object.entries(S.dec)) {
+    const q = BY_ID.get(id); if (!q) continue;
+    const row = { d: d.d === 'bad' ? 'invalid' : d.d, h: q.hash };
+    if (d.d === 'fix') row.a = d.a;
+    if (d.c) row.c = d.c;
+    decisions[id] = row;
+  }
+  return { schema: 'physician-review/1', bankVersion: DATA.version, reviewer: { name: S.reviewer.trim() }, exportedAt: new Date().toISOString(), decisions };
+}
+
+function exportView() {
+  const c = counts(); const payload = buildExport(); const text = JSON.stringify(payload, null, 1);
+  const n = Object.keys(payload.decisions).length;
+  const nameInput = h('input', { type: 'text', id: 'reviewer', maxlength: 80, autocomplete: 'name', value: S.reviewer, 'aria-describedby': 'nm-hint',
+    oninput: (e) => { S.reviewer = e.target.value.slice(0, 80); S.err = ''; saveState(); } });
+  const status = h('p', { class: 'hint', role: 'status', id: 'exp-status' }, S.msg);
+  const need = () => { if (!S.reviewer.trim()) { S.err = 'اكتب اسمك أولًا لتُنسب المراجعة إليك.'; render(false); return false; } if (!n) { S.err = 'لا توجد قرارات لتصديرها بعد.'; render(false); return false; } return true; };
+  const body = () => JSON.stringify(buildExport(), null, 1);
+  const say = (t) => { S.msg = t; status.textContent = t; };
+  async function save() {
+    if (!need()) return;
+    const data = body(); const filename = `physician-review-${new Date().toISOString().slice(0, 10)}.json`;
+    try {
+      const dl = window.claude && window.claude.use ? await window.claude.use('downloads') : null;
+      if (dl) { await dl.save({ filename, data }); say('تم عرض الحفظ عليك. أرسل الملف إلى من كلّفك بالمراجعة.'); return; }
+    } catch (e) { if (e && e.code === 'declined') { say('ألغيتَ الحفظ.'); return; } }
+    try {
+      const url = URL.createObjectURL(new Blob([data], { type: 'application/json' }));
+      const a = h('a', { href: url, download: filename }); document.body.append(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(url), 4000);
+      say('بدأ تنزيل الملف. إن لم ينزل فاستعمل «نسخ النص».');
+    } catch { say('تعذّر الحفظ كملف. استعمل «نسخ النص» وأرسله كما هو.'); }
+  }
+  async function copy() {
+    if (!need()) return;
+    try { await navigator.clipboard.writeText(body()); say('نُسخ النص. الصقه في رسالة وأرسله.'); }
+    catch { const pre = document.getElementById('out'); const r = document.createRange(); r.selectNodeContents(pre); const sel = getSelection(); sel.removeAllRanges(); sel.addRange(r); say('حدّدتُ النص أدناه؛ انسخه بيدك (ضغطة مطوّلة ثم نسخ).'); }
+  }
+  function openFile(ev) {
+    const f = ev.target.files && ev.target.files[0]; if (!f) return;
+    if (f.size > 4e6) { say('الملف كبير جدًا.'); return; }
+    const r = new FileReader();
+    r.onload = () => {
+      try {
+        const j = JSON.parse(String(r.result));
+        if (!j || j.schema !== 'physician-review/1' || typeof j.decisions !== 'object') throw new Error('schema');
+        if (j.bankVersion !== DATA.version) { say('هذا الملف من إصدار آخر من الأسئلة ولا يمكن دمجه.'); return; }
+        let added = 0;
+        const incoming = sanitize({ reviewer: '', dec: Object.fromEntries(Object.entries(j.decisions).map(([id, d]) => [id, { d: d.d === 'invalid' ? 'bad' : d.d, a: d.a, c: d.c }])) });
+        for (const [id, d] of Object.entries(incoming.dec)) if (!S.dec[id]) { S.dec[id] = d; added++; }
+        if (!S.reviewer && j.reviewer && typeof j.reviewer.name === 'string') S.reviewer = j.reviewer.name.slice(0, 80);
+        saveState(); S.msg = `أُضيف ${added} قرارًا من الملف (ما سبق أن قرّرتَه هنا لم يُستبدل).`; render(false);
+      } catch { say('الملف ليس قرارات مراجعة صالحة.'); }
+    };
+    r.readAsText(f);
+  }
+  const main = h('main', null,
+    h('section', { class: 'card' },
+      h('div', { class: 'stats' }, h('div', null, h('b', null, c.ok), 'موافقة'), h('div', null, h('b', null, c.fix), 'تصحيح'), h('div', null, h('b', null, c.bad), 'معيبة'), h('div', null, h('b', null, ITEMS.length - c.ok - c.fix - c.bad), 'بلا قرار')),
+      h('label', { class: 'lab', for: 'reviewer' }, 'اسمك وصفتك (يُسجَّل مع القرارات)', nameInput, h('span', { class: 'hint', id: 'nm-hint' }, 'مثال: د. فلان، طبيب باطنة')),
+      S.err ? h('p', { class: 'err', role: 'alert' }, S.err) : null,
+      h('div', { class: 'actions', style: 'grid-template-columns:1fr 1fr' },
+        h('button', { type: 'button', class: 'btn brand', onclick: save }, 'حفظ القرارات كملف'),
+        h('button', { type: 'button', class: 'btn', onclick: copy }, 'نسخ النص')),
+      status,
+      h('div', { class: 'notice' }, 'يمكنك التصدير في أي وقت وإكمال المراجعة لاحقًا؛ كل تصدير يحوي كل قراراتك حتى تلك اللحظة.'),
+      h('details', null, h('summary', null, 'معاينة النص الذي سيُرسل'), h('pre', { class: 'out', id: 'out' }, text)),
+      h('label', { class: 'lab', for: 'openf' }, 'متابعة من ملف قرارات سابق', h('input', { type: 'file', id: 'openf', accept: 'application/json,.json', onchange: openFile }))));
+  return [main, null];
+}
+
+function render(focusStem) {
+  const keepScroll = !focusStem;
+  const y = window.scrollY;
+  const [main, bar] = S.view === 'review' ? reviewView() : exportView();
+  app.replaceChildren(header(), main, ...(bar ? [bar] : []));
+  if (keepScroll) window.scrollTo(0, y);
+  if (focusStem) { window.scrollTo(0, 0); const el = document.getElementById('stem'); if (el) el.focus({ preventScroll: true }); }
+}
+render(false);
+})();
+</script>

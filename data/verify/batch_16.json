@@ -1,0 +1,890 @@
+[
+ {
+  "id": "Q0691",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "blood pressure = Systole _diastole. 150 _96 = 54",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0684",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "In the first trimester of pregnancy the vaccination to avoid :-",
+  "q_ar": null,
+  "options": [
+   "Rubella.",
+   "Polio",
+   "Measles.",
+   "Small pox."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0692",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "The first symptom of mitral stenosis is difficulty breathing.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0693",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "External fixation is used in open fractures with tissue damage.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0694",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Sprains are treated by elevating the affected limb, applying ice and pressure.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0695",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Soaps that contain antibacterial are more commonly used and more effective for disinfection.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0696",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "When someone is choking, you should perform the Heimlich maneuver the right away.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0697",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Nerve cell and fibers act as a motor unit.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0698",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Capillary bleeding is slow and oozing.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0700",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "increase or enlargement muscles occurs as hypertrophy resulting increase numbers fibers",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0702",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "sterilization describes a process that Destroys or eliminates all forms of microorganisms except sport",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0701",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "The pancreatic enzymes are released in inactive forms and transported to the Duodenum, where they are activated",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0703",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "when doctor examination client consider Subjective data.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0704",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Soap is used to clean departments critical and emergency frequently.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0705",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "The vein is characterized by being slow.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0706",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "In case of electrical burns, use lye solution.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0683",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which clinical intervention is the highest in priority for a client at risk for falls in a hospital setting :",
+  "q_ar": null,
+  "options": [
+   "Review prescribed medications.",
+   "Keep all of the side rails up.",
+   "complete the \"get up and go test.",
+   "Place the bed in the lowest position."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0709",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Vitals to report for a 38-year-old (Temp 37.5°C, RR 30 b/min):",
+  "q_ar": null,
+  "options": [
+   "RR only",
+   "Temp only",
+   "Temp + RR (Temp range: 36.5°C – 37.3°C)",
+   "Pulse + Temp"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0710",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A person has a head injury, is conscious and can identify family, but cannot speak. The injury likely occurred in the:",
+  "q_ar": null,
+  "options": [
+   "Frontal lobe",
+   "Occipital lobe",
+   "Temporal lobe",
+   "Parietal lobe"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0712",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When the scene suggests a victim suffered an electrical shock, the first action should be to:",
+  "q_ar": null,
+  "options": [
+   "Cover all burns with a dry, loose dressing",
+   "Ask a bystander to help move the victim",
+   "Place the victim on their side with the head down",
+   "Make sure the electrical power is turned off"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0713",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Your check of the scene suggests that a victim has suffered an electrical shock. The first thing to do is:",
+  "q_ar": null,
+  "options": [
+   "Cover all burns with a dry loose dressing",
+   "Ask a bystander to help you move the victim",
+   "Place the victim on one side with the head down",
+   "Make sure the power is turned off"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0715",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The primary nursing goal in treating myocardial infarction (MI) is to:",
+  "q_ar": null,
+  "options": [
+   "Prevent blood loss",
+   "Decrease blood pressure",
+   "Relieve pain"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0716",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Cause of pain in patients with myocardial infarction is:",
+  "q_ar": null,
+  "options": [
+   "Cardiac cell death",
+   "Decrease cardiac output"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0717",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which finding is the best indication that fluid replacement for a client with hypovolemic shock is adequate?",
+  "q_ar": null,
+  "options": [
+   "Urine output greater than 30 ml/hr",
+   "Respiratory rate of 21 breaths/minute",
+   "Diastolic blood pressure greater than 90 mmHg"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0719",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Patient is suspected of having hepatitis. Which diagnostic test result will assist in confirming this diagnosis?",
+  "q_ar": null,
+  "options": [
+   "High level of hemoglobin",
+   "High level of serum bilirubin",
+   "High blood platelet count",
+   "Low erythrocyte sedimentation rate"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0720",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "... testing because:",
+  "q_ar": null,
+  "options": [
+   "More accurate",
+   "It is easy to perform",
+   "Can be done by the client",
+   "It is not influenced by drug"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0721",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When testing a patient for diabetes, why is a blood glucose test preferred over a urine glucose test?",
+  "q_ar": null,
+  "options": [
+   "Because it is faster",
+   "Because it is more accurate",
+   "Because it is less invasive",
+   "Because it is easier to perform"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0722",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Food sources rich in Vitamin E and carotene include:",
+  "q_ar": null,
+  "options": [
+   "Fish and fruit",
+   "Oranges and grapefruit",
+   "Carrots and potatoes"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0723",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The nurse should instruct the patient about the symptoms of Digitalis toxicity:",
+  "q_ar": null,
+  "options": [
+   "Rash in back and chest",
+   "Visual disturbances and light spots",
+   "Anxiety and discomfort",
+   "Weight loss"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0726",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Substance abuse is defined as:",
+  "q_ar": null,
+  "options": [
+   "A compulsive need for pleasure",
+   "Behavior involved in maintaining addiction",
+   "Withdrawal symptoms in the absence of the substance",
+   "The harmful overuse and dependence on a substance"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0904",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "The Causes of anemia include The Following Except one:",
+  "q_ar": null,
+  "options": [
+   "Inadequate amount of Iron in The diet",
+   "… Folic acid",
+   "… of vitamin E",
+   "Iron deficiancy That lost during menstral Peroid"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0912",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "The Causes of anemia during Pregnancy including except one:",
+  "q_ar": null,
+  "options": [
+   "Indaquate amount of vit B6 in The diet",
+   "Indaquate amount of Iron in The diet",
+   "… Folic acid",
+   "… Lost during menstrual Peroid"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0743",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "neurogenic shock most cause of surgery",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0897",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "A client has a pressure ulcer with a shallow. partial skin thickness, eroded necrotic areas. The physician assistant would treat the area with which dressing:",
+  "q_ar": null,
+  "options": [
+   "Alginate",
+   "Dry gauze",
+   "Hydrocolloid",
+   "No dressing is indicated"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Dry gauze",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0898",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Patient with heart rate 88 and respiratory rate 30 and temperature 37.7 whichh abnormal:",
+  "q_ar": null,
+  "options": [
+   "Pulse rate",
+   "respiratory and pulse",
+   "respiratory and temperatur",
+   "Temperature"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0916",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Patient care with seizures includes the following:",
+  "q_ar": null,
+  "options": [
+   "Place the patient on the floor.",
+   "Remove objects that may harm the patient.",
+   "Protect the airway an open.",
+   "All of above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0892",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "A first degree burn... :",
+  "q_ar": null,
+  "options": [
+   "Is red and blistered.",
+   "Involves only the top layer of skin.",
+   "Destroys all layers of skin.",
+   "is the most serious of burns"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0902",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "A first degree burn:",
+  "q_ar": null,
+  "options": [
+   "Is red and blistered",
+   "Involves only The top layer of skin",
+   "Destory all layers of skin",
+   "it is The most Serious of burns"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0920",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Pressure ulcers can be prevented through a variety of measures except:",
+  "q_ar": null,
+  "options": [
+   "Hygiene and skin care",
+   "Positioning.",
+   "The use of support surface therapy",
+   "The use of friction"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "The use of friction",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0765",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "The communicable diseases include the following except one:",
+  "q_ar": null,
+  "options": [
+   "Syphilis",
+   "Duodenal ulcer",
+   "Hepatitis",
+   "HIV"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0744",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Palpation is a vital part of physical examination",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0929",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Diagnostic tests are used to confirm the data obtained by history and physical examination ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0780",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": ".......... are intentional wounds that were created by entry into the alimentary, respiratory, genitourinary, or oropharyngeal tract under controlled conditions",
+  "q_ar": null,
+  "options": [
+   "Clean wounds",
+   "Clean-contaminated wounds",
+   "Contaminated wounds",
+   "Dirty and infected wounds"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0731",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "الممرض يفحص مكان العملية بعد (التهابات في الجههاز التنفسي) في حالة عن امرئه استئصال انومونيا ماهوا أو اجراء تمريضي dressing الممرض لاحض دم فاتح في ١٢. ساعه",
+  "q_ar": null,
+  "options": [
+   "تغيير الضماده",
+   "تسجيل كميه التصريف والوقت",
+   "أخبار الصبيب",
+   "........"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0732",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "للحفاض على صحه جيده يجب أن تكون كمية السوائل الداخله والسوائل الخارجه كا الاتي",
+  "q_ar": null,
+  "options": [
+   "fluid intake should approximately equal fluid output.",
+   "السوائل اداخله أكثر من الخارجه",
+   "السوائل الخارجه أكثر من السوائل الداخله"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "fluid intake should approximately equal fluid output.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0733",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Sources Vitamin D is found in :",
+  "q_ar": null,
+  "options": [
+   "Liver",
+   "egg's Yellow",
+   "Liver oils",
+   "cheese"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "egg's Yellow",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0734",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "The nurse positions the client sitting upright during palpation of which area?",
+  "q_ar": null,
+  "options": [
+   "Abdomen",
+   "Genitals",
+   "Breast",
+   "Head and neck"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Head and neck",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0735",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Which is the most effective clinical action for preventing and controlling the spread of infection?",
+  "q_ar": null,
+  "options": [
+   "Thorough hand hygiene",
+   "Wearing gloves and masks when providing direct client care",
+   "Implementing appropriate isolation precautions",
+   "Administering broad-spectrum prophylactic antibiotics"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Thorough hand hygiene",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0736",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "the assignment the nurse should that is first?",
+  "q_ar": null,
+  "options": [
+   "appendicitis",
+   "pneumonia",
+   "nephrophebitis",
+   "......."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

@@ -1,0 +1,606 @@
+[
+ {
+  "id": "Q0555",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "كلما زاد عمر الحمل عند الولادة المبكرة زادت فرص البقاء؛ الخدّج المتأخرون (٣٤–٣٦ أسبوعاً) بقاؤهم قريب من ١٠٠٪ مقابل ٨٠–٩٠٪ عند ٢٨ أسبوعاً، فالأنسب بين الخيارات ٣٦ أسبوعاً (المرجع الأول موقع صحي عام، والثاني دراسة BMJ تُظهر ارتفاع البقاء مع عمر الحمل).",
+  "refs": [
+   {
+    "title": "Healthline - Premature Baby Survival Rates",
+    "url": "https://www.healthline.com/health/baby/premature-baby-survival-rate"
+   },
+   {
+    "title": "BMJ 1999 - Prediction of survival for preterm births by weight and gestational age (PMC)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC28258/"
+   }
+  ]
+ },
+ {
+  "id": "Q0556",
+  "verdict": "corrected",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": false,
+  "note_ar": "الصحيح أن رأس الوليد كبير نسبةً إلى جسمه (≈ربع طول الجسم)؛ أما البطن فيكون مستديراً بارزاً لا صغيراً ومندثراً، ومحيط الصدر أصغر من محيط الرأس بنحو ٢ سم، ووزن الذكر أعلى قليلاً من الأنثى (٣٫٣٤ مقابل ٣٫٢٦ كغ) فخيار «الأنثى أكبر» خاطئ وعلامة المصدر غير صحيحة.",
+  "refs": [
+   {
+    "title": "OpenStax Maternal-Newborn Nursing - Physical Assessment of the Newborn",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Maternal-Newborn_Nursing_(OpenStax)/23:_Newborn_Assessment/23.02:_Physical_Assessment_of_the_Newborn"
+   },
+   {
+    "title": "Wikipedia - Infant (newborn proportions)",
+    "url": "https://en.wikipedia.org/wiki/Infant"
+   },
+   {
+    "title": "ScienceInsights - How Big Are Newborns (boys vs girls birth weight)",
+    "url": "https://scienceinsights.org/how-big-are-newborns-weight-length-normal-ranges/"
+   }
+  ]
+ },
+ {
+  "id": "Q0557",
+  "verdict": "corrected",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": false,
+  "note_ar": "الحمل العنقودي (الرحى العدَرية) ينشأ من تكاثر شاذ لنسيج المشيمة (الأرومة الغاذية) ويُعدّ ورماً حميداً (سابقاً للخباثة)، وليس ورماً في جدار الرحم؛ غزو العضلة الرحمية يحدث فقط في الرحى الغازية/المرض الأرومي الغاذي المستمر.",
+  "refs": [
+   {
+    "title": "StatPearls - Hydatidiform Mole (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK459155/"
+   }
+  ]
+ },
+ {
+  "id": "Q0558",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "التهاب قناة فالوب (PID) وتلف/تضيّق القناة عاملان مثبتان للحمل الهاجر بينما الإجهاض السابق لا يُعدّ عامل خطر في StatPearls وMedscape؛ فخيار «جميع ما ذكر» غير مدعوم، لكن الخيارين ب وج كلاهما صحيح فالسؤال معيب، وأُبقيت علامة المصدر (ج) بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "StatPearls - Ectopic Pregnancy (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK539860/"
+   },
+   {
+    "title": "Medscape - Ectopic Pregnancy: Etiology",
+    "url": "https://emedicine.medscape.com/article/2041923-overview"
+   },
+   {
+    "title": "MSD/Merck Manual Professional - Ectopic Pregnancy",
+    "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/early-pregnancy-disorders/ectopic-pregnancy"
+   }
+  ]
+ },
+ {
+  "id": "Q0559",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الإجهاض المفقود (Missed abortion) هو موت الجنين واحتباسه في الرحم مع بقاء عنق الرحم مغلقاً وعدم خروج محتويات الحمل لأيام أو أسابيع (٤–٨ أسابيع في الكتب العربية)، بخلاف الحتمي (عنق متّسع) والناقص (خروج جزئي) والمهدد (جنين حي).",
+  "refs": [
+   {
+    "title": "Williams Obstetrics 24e - Abortion (DoctorLib)",
+    "url": "https://doctorlib.org/gynecology/williams-obstetrics/18.html"
+   },
+   {
+    "title": "MSD/Merck Manual Professional - Spontaneous Abortion",
+    "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/early-pregnancy-disorders/spontaneous-abortion"
+   }
+  ]
+ },
+ {
+  "id": "Q0560",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "التعريف الأشهر (WHO/CDC/NCHS كما في Williams، وMerck) أن الإجهاض إنهاء الحمل قبل ٢٠ أسبوعاً أو وزن الجنين <٥٠٠ غ؛ توجد تعريفات أخرى (٢٢–٢٤ أسبوعاً في المملكة المتحدة، و٢٨ أسبوعاً في مراجع قديمة) فالثقة متوسطة والإجابة وفق تعريف ٢٠ أسبوعاً.",
+  "refs": [
+   {
+    "title": "Williams Obstetrics 24e - Abortion (DoctorLib)",
+    "url": "https://doctorlib.org/gynecology/williams-obstetrics/18.html"
+   },
+   {
+    "title": "MSD/Merck Manual Professional - Spontaneous Abortion",
+    "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/early-pregnancy-disorders/spontaneous-abortion"
+   },
+   {
+    "title": "Wikipedia - Definitions of abortion",
+    "url": "https://en.wikipedia.org/wiki/Definitions_of_abortion"
+   }
+  ]
+ },
+ {
+  "id": "Q0410",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "اختبار الحركة (Mobility) يقيّم حركة السن داخل السنخ وهو ما تدعمه المراجع (وتُجرى أيضاً ضمن فحص اللبّ لكنها لا تدل على عدوى لبّية)، إلا أن الخيار الثالث مبتور والخيار د قد يكون صحيحاً جزئياً فلا يمكن الجزم.",
+  "refs": [
+   {
+    "title": "Advancements in Methods of Classification and Measurement Used to Assess Tooth Mobility (PMC)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10779763/"
+   },
+   {
+    "title": "Univ. of Toronto Faculty of Dentistry - Diagnosis in Endodontics",
+    "url": "https://patients.dentistry.utoronto.ca/diagnosis-in-endodontics"
+   }
+  ]
+ },
+ {
+  "id": "Q0411",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "قطع الذروة (Apicoectomy) إزالة جراحية لذروة الجذر تُجرى للأسنان المعالَجة لبّياً عند فشل المعالجة أو استمرار الالتهاب حول الذروة (البندان ١ و٤ مؤكدان)، أما البندان ٢ (عدم انغلاق ذروي كامل) و٣ (الكسور) فمعقولان سريرياً لكن لم أجد مرجعاً صريحاً لهما؛ رُجّح «الكل» بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Wikipedia - Apicoectomy (root end surgery)",
+    "url": "https://en.wikipedia.org/wiki/Apicoectomy"
+   },
+   {
+    "title": "AAE - Endodontic Surgery (apicoectomy)",
+    "url": "https://www.aae.org/patients/root-canal-treatment/endodontic-surgery/"
+   }
+  ]
+ },
+ {
+  "id": "Q0412",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "الجزء الثاني خاطئ لأن المينا أشد مقاومة للنخر من العاج (معدنة أعلى)، والجزء الأول صحيح جزئياً إذ تحمي الترميمات المؤقتة الأنبوبات العاجية المكشوفة من غزو البكتيريا؛ لذا (الأول صحيح والثاني خاطئ) منطقي، لكن لم أحصل على مرجع صريح لمقارنة المينا بالعاج.",
+  "refs": [
+   {
+    "title": "Wikipedia - Crown (dentistry)",
+    "url": "https://en.wikipedia.org/wiki/Crown_(dentistry)"
+   }
+  ]
+ },
+ {
+  "id": "Q0413",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "نخر الجذر سريع التقدم (≈٢٫٥ ضعف المينا) ويصيب كبار السن مع انحسار اللثة وهو آفة واسعة ضحلة وحدودها غير واضحة، فعبارة «حدود واضحة» هي الأقرب للاستثناء؛ لكن وصف «V-shaped» غير مؤكد في المراجع المتاحة فالثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Wikipedia - Tooth decay (root caries)",
+    "url": "https://en.wikipedia.org/wiki/Tooth_decay"
+   },
+   {
+    "title": "Root Caries: An Aging Problem (ISPUB)",
+    "url": "https://ispub.com/IJDS/5/1/5636"
+   }
+  ]
+ },
+ {
+  "id": "Q0414",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "تتميّز الأسنان اللبنية بحجرة لبّية أكبر وقرون لبّية أقرب للسطح، ونقاط تلامس عريضة ومسطحة في الأضراس، ومينا أرق (نحو نصف سماكة الدائمة)، فالإجابة «كل ما سبق».",
+  "refs": [
+   {
+    "title": "Univ. of Baghdad College of Dentistry - Differences between primary and permanent teeth (lecture)",
+    "url": "https://codental.uobaghdad.edu.iq/wp-content/uploads/sites/14/2018/11/lec.7-and-8-4th.pdf"
+   },
+   {
+    "title": "Denpedia - Anatomy of Primary Teeth and Its Relevance to Cavity Design",
+    "url": "https://denpedia.com/anatomy-of-primary-teeth-and-its-relevance-to-cavity-design/"
+   }
+  ]
+ },
+ {
+  "id": "Q0415",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "منطقة التبادل/النقل (Transfer zone) في طب الأسنان بأربع أيدٍ تقع تحت ذقن المريض وفوق صدره بعدة بوصات، والخياران أ (تحت العنق) وج (فوق الذقن = الوجه) غير منطقيين تشريحياً؛ لم أستطع جلب مرجع منشور لتعذّر البحث فالثقة منخفضة.",
+  "refs": []
+ },
+ {
+  "id": "Q0416",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "استئصال اللبّ (Pulpectomy) هو إزالة اللبّ كاملاً من الحجرة والقنوات (فيصبح السن غير حيّ) بخلاف بتر اللبّ Pulpotomy الذي يزيل الجزء التاجي فقط؛ علماً أن الخيارين أ وج متطابقان فالمحتوى صحيح لكن الفهرس ملتبس.",
+  "refs": [
+   {
+    "title": "Wikipedia - Pulpectomy / Pulpotomy",
+    "url": "https://en.wikipedia.org/wiki/Pulpectomy"
+   }
+  ]
+ },
+ {
+  "id": "Q0417",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "التعليم التقليدي أن مينا الأسنان اللبنية تحتاج تخريشاً أطول/أشد لوجود طبقة لا موشورية أسمك، وبعض الدراسات الحديثة تجد نتائج مماثلة للدائمة؛ لم أجد مرجعاً مسترجعاً يحسم ذلك فالثقة منخفضة والإجابة تتبع علامة المصدر.",
+  "refs": []
+ },
+ {
+  "id": "Q0418",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "دقة الطبعة للحواف تحت اللثة تتطلب إزاحة لثوية مناسبة لتتمكن المادة خفيفة القوام من تسجيل حد التحضير (Wikipedia)؛ أما «مادة كارهة للماء» فليست تحسّناً (السيليكون الكاره يحتاج تحكماً ممتازاً بالرطوبة) وصياغة «low viscosity» مبتورة، فأُرجّح ج بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Wikipedia - Dental impression",
+    "url": "https://en.wikipedia.org/wiki/Dental_impression"
+   }
+  ]
+ },
+ {
+  "id": "Q0419",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الحرف المائل (Oblique ridge) في الأضراس العلوية يتكوّن من اتحاد حرف الحدبة الأنسية اللسانية (المتجه للوحشي) والحرف المثلثي للحدبة الوحشية الشدقية، أي من الأنسي-اللساني إلى الوحشي-الشدقي؛ الخياران ب ود متطابقان.",
+  "refs": [
+   {
+    "title": "Wikipedia - Dental anatomy (oblique ridge)",
+    "url": "https://en.wikipedia.org/wiki/Dental_anatomy"
+   }
+  ]
+ },
+ {
+  "id": "Q0420",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "ورنيش الكافيتي (Copal varnish) يسدّ الأنبوبات العاجية ويتبخر مذيبه بسرعة ويُستعمل قبل التلصيق بالزنك فوسفات أو تحت الأملغم، ولا يُستعمل تحت الراتنج المركب أو الزجاجي الأيونومر (يتعارض مع الالتصاق/التصلب)، فالاستثناء هو الخيار ج؛ المراجع تدعم الخيارات الثلاثة الصحيحة.",
+  "refs": [
+   {
+    "title": "Wikipedia - Dental amalgam (cavity varnish)",
+    "url": "https://en.wikipedia.org/wiki/Dental_amalgam"
+   },
+   {
+    "title": "Wikipedia - Dental cement",
+    "url": "https://en.wikipedia.org/wiki/Dental_cement"
+   }
+  ]
+ },
+ {
+  "id": "Q0421",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "في الأطفال يقع الثقب الفكي السفلي أخفض (تحت مستوى السطح الإطباقي) منه عند البالغين لذا تُعطى الحقنة أخفض وأكثر للخلف حسب المراجع التعليمية (Malamed)؛ لم أستطع جلب مرجع منشور لتعذّر البحث فالثقة منخفضة.",
+  "refs": []
+ },
+ {
+  "id": "Q0422",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "CDC: تُغطّى الإبر بتقنية «اليد الواحدة/المغرفة» أو بأداة ميكانيكية لحمل الغطاء ولا تُستخدم اليدان؛ خيار «Recapping device» مقبول أيضاً لدى CDC لكن الإجابة النمطية للسؤال هي أ فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "CDC MMWR 2003 - Guidelines for Infection Control in Dental Health-Care Settings",
+    "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5217a1.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0423",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "قاعدة التجليخ الانتقائي في الأطقم الكاملة ألا تُجلَّخ الحدبات الحاملة (الشدقية العلوية/اللسانية السفلية) في الإطباق المركزي حفاظاً على البعد العمودي، بل تُجلَّخ الحفر والحواف، فالاستثناء هو ج؛ المرجع المسترجع يدعم فقط مبدأ الإطباق المتوازن (الخيار أ) ولم أجد نصاً صريحاً للقاعدة فالثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Wikipedia - Occlusion (dentistry)",
+    "url": "https://en.wikipedia.org/wiki/Occlusion_(dentistry)"
+   }
+  ]
+ },
+ {
+  "id": "Q0424",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الأوتاد غير المعدنية (ألياف زجاجية) أقرب لخواص السن البصرية وأجمل تحت الترميمات الخزفية، بينما الوتد المعدني يُظهر لوناً معدنياً ووتد ألياف الكربون داكن اللون، فأجمل الخيارات هو وتد الألياف الزجاجية.",
+  "refs": [
+   {
+    "title": "Wikipedia - Post and core",
+    "url": "https://en.wikipedia.org/wiki/Post_and_core"
+   }
+  ]
+ },
+ {
+  "id": "Q0425",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "الجذر الحنكي (Palatal) في الرحى العلوية الأولى هو الأكبر والأطول والأكثر استقامة وبقناة واحدة واسعة فيُفضَّل لوضع الوتد (مرجع مسترجع يؤكد أنه ذو قناة واحدة واسعة فقط)؛ لكن لم أجد نصاً صريحاً للتفضيل، كما أن «Lingual» في الأضراس العلوية هو نفسه الحنكي فالسؤال ملتبس.",
+  "refs": [
+   {
+    "title": "Wikipedia - Maxillary first molar",
+    "url": "https://en.wikipedia.org/wiki/Maxillary_first_molar"
+   }
+  ]
+ },
+ {
+  "id": "Q0426",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "إطالة التاج تُجرى لكشف بنية سنية كافية لتحسين الاحتفاظ وللتجميل ولتصحيح انتهاك العرض البيولوجي، وليست مقتصرة على اللثة السليمة فقط، فالاستثناء هو د.",
+  "refs": [
+   {
+    "title": "Wikipedia - Crown lengthening",
+    "url": "https://en.wikipedia.org/wiki/Crown_lengthening"
+   }
+  ]
+ },
+ {
+  "id": "Q0427",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "خيوط الإبينفرين تعطي إرقاءً جيداً وتراجعاً للثة وضرراً عكوساً، لكنها تُمتصّ جهازياً وقد تسبب تسرّع القلب وارتفاع الضغط (ممنوعة في مرضى القلب) فالاستثناء «لا تأثير جهازي»؛ المرجع المسترجع يؤكد دور الإبينفرين في الإرقاء فقط ولم أجد نصاً للتأثير الجهازي فالثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Wikipedia - Gingival retraction",
+    "url": "https://en.wikipedia.org/wiki/Gingival_retraction"
+   }
+  ]
+ },
+ {
+  "id": "Q0428",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "يقلّ تعرّض المشغّل بالوقوف خلف حاجز/درع واقٍ كافٍ (رصاصي) أو الابتعاد أثناء التعريض، ولا تصلح الحواجز الخشبية أو القابلة للطي ولا الشاشة المقوّية (Intensifying screen) وهي جزء من الفيلم لا للحماية.",
+  "refs": [
+   {
+    "title": "Wikipedia - Dental radiography",
+    "url": "https://en.wikipedia.org/wiki/Dental_radiography"
+   }
+  ]
+ },
+ {
+  "id": "Q0429",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "غياب تسجيل العضّة (Bite registration) سبب معروف لخلل الإطباق في الترميم، بينما الطبعة الصحيحة واستعمال الألجينات للفك المقابل إجراءان طبيعيان؛ أما الطبعة بصينية جزئية/ربعية فقد تُنتج أخطاءً أيضاً فالسؤال غير محكم، ولم أجد مرجعاً مسترجعاً فالثقة منخفضة.",
+  "refs": []
+ },
+ {
+  "id": "Q0430",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الوقاية المجتمعية تعني تدابير تشمل السكان كتفلور مياه الشرب (CDC: «حجر الزاوية» للوقاية من النخر على مستوى المجتمع)، أما الفرشاة والخيط فوسائل فردية/منزلية، فالعبارة خاطئة.",
+  "refs": [
+   {
+    "title": "CDC - Community Water Fluoridation",
+    "url": "https://www.cdc.gov/fluoridation/about/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0431",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الترميم المؤقت يحفظ الإطباق والتلامس ويحمي الأنبوبات العاجية ويؤدي دوراً تشخيصياً في تخطيط التغييرات الإطباقية والجمالية واللثوية، أي هو «مخطط» (blueprint) للترميم النهائي؛ المرجع المسترجع يدعم الوظائف لا حرفية التعبير.",
+  "refs": [
+   {
+    "title": "Wikipedia - Crown (dentistry)",
+    "url": "https://en.wikipedia.org/wiki/Crown_(dentistry)"
+   }
+  ]
+ },
+ {
+  "id": "Q0432",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "التخريش الصحيح للمينا قبل الراتنج يكون بحمض الفوسفوريك بتركيز ٣٠–٥٠٪ (المعتاد ٣٧٪) لمدة نحو ١٥–٣٠ ثانية، فتركيز ١٥٪ خارج النطاق والعبارة خاطئة؛ المرجع المسترجع يذكر التركيز ولا يذكر الزمن.",
+  "refs": [
+   {
+    "title": "Wikipedia - Dental composite (enamel etching)",
+    "url": "https://en.wikipedia.org/wiki/Dental_composite"
+   }
+  ]
+ },
+ {
+  "id": "Q0433",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "التاج المعدني الخزفي (PFM) يستمد قوته من البنية المعدنية وهو تقليدياً أقوى من تاج «الخزف الكامل» (الفلدسباري)، لكن الزركونيا الكاملة أقوى من PFM فالإجابة تتوقف على معنى «all porcelain»؛ المرجع المسترجع لا يحسم فالثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Wikipedia - Crown (dentistry)",
+    "url": "https://en.wikipedia.org/wiki/Crown_(dentistry)"
+   }
+  ]
+ },
+ {
+  "id": "Q0434",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "التهاب اللبّ العكوس يُعالَج بإزالة المهيّج (النخر) وترميم السن فيعود اللبّ سليماً، أما المعالجة اللبّية الجذرية أو القلع فللالتهاب غير العكوس، فالعبارة خاطئة.",
+  "refs": [
+   {
+    "title": "Wikipedia - Pulpitis",
+    "url": "https://en.wikipedia.org/wiki/Pulpitis"
+   }
+  ]
+ },
+ {
+  "id": "Q0435",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة صحيحة بالمعنى العام: الأدوات اليدوية (مسابر، كاشطات، مجارف...) تُستعمل بالإمساك باليد دون قبضة (Handpiece) وتُصنَّف منفصلة عنها؛ المرجع المسترجع يذكرها كفئة منفصلة فقط دون تعريف صريح للتسمية فالثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Wikipedia - Dental instruments",
+    "url": "https://en.wikipedia.org/wiki/Dental_instruments"
+   }
+  ]
+ },
+ {
+  "id": "Q0436",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الأسمنتات السنية متعددة وتُصنَّف بحسب خواصها وحالة الاستعمال: للتلصيق (Luting) وكقواعد/بطانات (Bases/Liners) وكمواد ترميمية (غالباً مؤقتة)، فالعبارة صحيحة.",
+  "refs": [
+   {
+    "title": "Wikipedia - Dental cement",
+    "url": "https://en.wikipedia.org/wiki/Dental_cement"
+   }
+  ]
+ },
+ {
+  "id": "Q0437",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "المبدأ المعتمد في مراجع المواد السنية أن تُنزع الطبعة المطاطية (Elastomeric) بحركة سريعة حادة (snap) لتقليل التشوه الدائم والتمزق، لا ببطء، فالعبارة خاطئة؛ لم أستطع جلب مرجع منشور لتعذّر البحث فالثقة منخفضة.",
+  "refs": []
+ },
+ {
+  "id": "Q0438",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "نعومة سطح الترميم تقلل تراكم اللويحة والتهاب اللثة وأمراض النسج الداعمة وتآكل السن المقابل، والعبارة متفقة مع المعروف في الترميمات الثابتة؛ لم أجد مرجعاً مسترجعاً فالثقة منخفضة.",
+  "refs": []
+ },
+ {
+  "id": "Q0439",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "يجب إزالة كل الإسمنت المؤقت من السن والترميم قبل التلصيق النهائي (Insertion) ليستقر الصب كاملاً ولا يمنع الإسمنت الزائد الجلوس؛ معلومة بديهية في الترميمات الثابتة لكن دون مرجع مسترجع فالثقة منخفضة.",
+  "refs": []
+ },
+ {
+  "id": "Q0440",
+  "verdict": "corrected",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": false,
+  "note_ar": "التبييض المنزلي مناسب أساساً للتلوّن الخفيف إلى المتوسط، أما التلوّن الشديد/العميق (كالتتراسايكلين) فيستجيب ببطء وقد يتطلب تبييضاً مطوّلاً أو بدائل كالقشور/التيجان، فعبارة «مؤشَّر في التلوّن الشديد» غير صحيحة؛ المرجع المتاح عام (ويكيبيديا) فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Wikipedia - Tooth bleaching",
+    "url": "https://en.wikipedia.org/wiki/Tooth_bleaching"
+   }
+  ]
+ },
+ {
+  "id": "Q0441",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخيار الثاني مشوّه (عليه ملاحظة بأن صيغة السؤال غير واضحة) والثالث فارغ والسؤال عن «تسلسل خطة المعالجة» غير مكتمل فلا جواب دفاعياً وحيداً.",
+  "refs": []
+ },
+ {
+  "id": "Q0442",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "انخفاض مقاومة الانضغاط من عيوب هيدروكسيد الكالسيوم (المتصلّب لا يتحمل ضغط التكثيف ولا يلتصق بالنسج) وليس من مزاياه (مضاد للبكتيريا، pH مرتفع يحفّز العاج الترميمي)، فهو الاستثناء؛ ثلاثة خيارات مبتورة فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Wikipedia - Pulp capping (calcium hydroxide)",
+    "url": "https://en.wikipedia.org/wiki/Pulp_capping"
+   }
+  ]
+ },
+ {
+  "id": "Q0443",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "في تصميم الترميمات الثابتة يُفضَّل أن يكون السطح الملاصق مستوياً أو محدباً بلطف دون تقعّر يحتبس الطعام واللويحة، فخيار «محدب أو مسطح» الأقرب، أما «لا يكون مسطحاً أبداً» فيتعارض مع ذلك؛ لم أجد مرجعاً مسترجعاً فالثقة منخفضة.",
+  "refs": []
+ },
+ {
+  "id": "Q0444",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "استمرار نجاح علاج اللثة يعتمد على برنامج الصيانة الدورية (periodontal maintenance) وضبط اللويحة المنزلي؛ مرجعنا يؤكد أن الاستقرار يعتمد بصورة رئيسية على النظافة المنزلية ومتابعة دورية كل ٣ أشهر، وليس على الأدوية أو مهارة المشغّل وحدها.",
+  "refs": [
+   {
+    "title": "Wikipedia - Periodontitis (periodontal maintenance)",
+    "url": "https://en.wikipedia.org/wiki/Periodontitis"
+   }
+  ]
+ },
+ {
+  "id": "Q0445",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "إزاحة اللثة بالخيط تهدف لكشف حد التحضير وتمكين المادة خفيفة القوام من تسجيله بدقة (وكذلك للجمال عند الحواف تحت اللثة)، أما «الاحتفاظ الجيد» فليس غرضاً مباشراً للخيط؛ غير أن الحواف تحت اللثة قد تُختار أحياناً للاحتفاظ فالسؤال غير قاطع والثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Wikipedia - Dental impression",
+    "url": "https://en.wikipedia.org/wiki/Dental_impression"
+   }
+  ]
+ },
+ {
+  "id": "Q0446",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "عند نطق حرف F/V (مثل fifty) تلامس الحواف القاطعة للثنايا العلوية الحد الرطب-الجاف للشفة السفلى (أصوات شفوية سنية) فالخيار ج هو المنطقي؛ غير أن ثلاثة خيارات مبتورة ولم أجد مرجعاً مسترجعاً فالثقة منخفضة.",
+  "refs": []
+ }
+]

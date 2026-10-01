@@ -1,0 +1,721 @@
+[
+ {
+  "id": "Q0306",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "الوسيلتان (الواقي الذكري وحبوب منع الحمل) تمنعان الحمل؛ والحبوب أعلى فعالية بالاستخدام المعتاد (فشل ≈9% مقابل ≈14–18% للواقي في Endotext) بينما يتميّز الواقي بالحماية من العدوى المنقولة جنسياً؛ الصياغة مشوّهة («saft») فلا يتضح المعيار («آمن» أم «أكثر فعالية»)، والأرجح حبوب منع الحمل بثقة منخفضة (تتفق مع علامة المصدر).",
+  "refs": [
+   {
+    "title": "Contraception - Endotext (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK279148/"
+   }
+  ]
+ },
+ {
+  "id": "Q0084",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "خلايا بيتا في جزر لانغرهانس (البنكرياس) تُفرز الإنسولين (OpenStax)؛ والخيار الأول «lungerhans» ليس هرموناً بل تتمة اسم الجزر في نص السؤال («Island of Langerhans») انتقلت خطأً إلى الخيارات، فالإجابة هي الإنسولين.",
+  "refs": [
+   {
+    "title": "17.9 The Endocrine Pancreas - Anatomy and Physiology 2e (OpenStax)",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-9-the-endocrine-pancreas"
+   }
+  ]
+ },
+ {
+  "id": "Q0087",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال مشوّه («bleeding from the cerebro vascular accident. Brain») والخيارات أسماء شرايين فروة الرأس والفخذ (صدغي/قذالي/فخذي/جداري) ولا يمكن استنتاج المطلوب منها (نقطة ضغط لإيقاف النزف؟ موضع نبض؟) كما لا علاقة واضحة لها بنزف السكتة الدماغية؛ لا إجابة قابلة للدفاع (علامة المصدر: الشريان الصدغي).",
+  "refs": []
+ },
+ {
+  "id": "Q0241",
+  "verdict": "corrected",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": false,
+  "note_ar": "تسلسل فحص البطن: المشاهدة ثم الإصغاء (auscultation) ثم القرع ثم الجس، ويُقدَّم الإصغاء على الجس والقرع كي لا تتغير أصوات الأمعاء (StatPearls)، فالتقنية الثانية هي الإصغاء (الخيار 2)؛ العلامتان الجديدتان (الجس/المشاهدة) تخالفان ذلك وتعكسان على الأرجح الترتيب العام IPPA لبقية الجسم لا ترتيب البطن.",
+  "refs": [
+   {
+    "title": "Abdominal Examination - StatPearls",
+    "url": "https://www.statpearls.com/point-of-care/17014"
+   }
+  ]
+ },
+ {
+  "id": "Q0239",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "جس العقد اللمفية يكون بوسادات إصبعين إلى ثلاثة بضغط خفيف وحركة دائرية مع مقارنة الجانبين، فالخيار «ضغط/لمس بالأصابع» هو الوحيد الذي يصف تقنية الجس؛ الخيار الثالث غير مقروء («??») ويُرجَّح أنه «يمكن أن يتم بواسطة العميل» كما في النسخة الكاملة (Q0682) وهو لا يصف تقنية. ثقة متوسطة لعمومية الصياغة.",
+  "refs": [
+   {
+    "title": "10.7 Inspection and Palpation of the Lymph Nodes (nursing physical assessment open textbook)",
+    "url": "https://cod.pressbooks.pub/nursingphysicalassessment/chapter/inspection-and-palpation-of-the-lymph-nodes/"
+   },
+   {
+    "title": "Techniques of Physical Assessment: NCLEX-RN (registerednursing.org)",
+    "url": "https://www.registerednursing.org/nclex/techniques-physical-assessment/"
+   }
+  ]
+ },
+ {
+  "id": "Q0356",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "يظهر خيار واحد فقط («Flat pressure by four finger between neck») فلا يمكن المفاضلة؛ كما أنه لا يطابق وصف المرجع لجس العقد (وسادات 2–3 أصابع بحركة دائرية وضغط خفيف)، والنسخة الكاملة من السؤال (Q0239/Q0682) تجعل الجواب «ضغط/لمس بالأصابع»، فيبقى غير قابل للحسم.",
+  "refs": [
+   {
+    "title": "10.7 Inspection and Palpation of the Lymph Nodes (nursing physical assessment open textbook)",
+    "url": "https://cod.pressbooks.pub/nursingphysicalassessment/chapter/inspection-and-palpation-of-the-lymph-nodes/"
+   }
+  ]
+ },
+ {
+  "id": "Q0682",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "من الخيارات الأربعة الوحيد الذي يصف تقنية جس العقد اللمفية هو «ضغط أو لمس بالأصابع» (وسادات 2–3 أصابع بضغط خفيف وحركة دائرية)؛ أما «لمس الرقبة والرأس والظهر» فمواضع لا تقنية (ولا عقد بالظهر) و«يمكن أن يتم بواسطة العميل» و«لا يتأثر بالدواء» عبارتان غير وصفيتين. ثقة متوسطة لأن صياغة السؤال عامة.",
+  "refs": [
+   {
+    "title": "10.7 Inspection and Palpation of the Lymph Nodes (nursing physical assessment open textbook)",
+    "url": "https://cod.pressbooks.pub/nursingphysicalassessment/chapter/inspection-and-palpation-of-the-lymph-nodes/"
+   },
+   {
+    "title": "Techniques of Physical Assessment: NCLEX-RN (registerednursing.org)",
+    "url": "https://www.registerednursing.org/nclex/techniques-physical-assessment/"
+   }
+  ]
+ },
+ {
+  "id": "Q0096",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "فحص سكر الدم أدق من فحص سكر البول (URMC: فحص البول أسهل لكنه أقل دقة) فالجواب «More accurate»؛ أما خيارات نقص/فرط البوتاسيوم والصوديوم فاضطرابات شوارد لا تجيب عن «لأن…» ويبدو أنها اختلطت من سؤال آخر، فهذا هو الخيار المتسق الوحيد.",
+  "refs": [
+   {
+    "title": "Glucose (Urine) - URMC Health Encyclopedia",
+    "url": "https://www.urmc.rochester.edu/encyclopedia/content?ContentTypeID=167&ContentID=glucose_urine"
+   }
+  ]
+ },
+ {
+  "id": "Q0224",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "العبارة مبتورة عند «examination of the pa…» (غالباً: فحص جسم المريض)؛ وتقنيات التقييم الجسدي (المشاهدة والجس والقرع والإصغاء) هي وسائل فحص جسم المريض فالأرجح «صح»، لكن لا يمكن الحكم على الجزء المقطوع.",
+  "refs": [
+   {
+    "title": "Techniques of Physical Assessment: NCLEX-RN (registerednursing.org)",
+    "url": "https://www.registerednursing.org/nclex/techniques-physical-assessment/"
+   }
+  ]
+ },
+ {
+  "id": "Q0102",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخياران Theophylline وEpinephrine HCl دواءان لا نوعا حقنة شرجية، وبين الخيارين الباقيين (الزيتية الاحتباسية، وحقنة الجريان العكسي) لا يوجد الخيار المتوقع لتحضير تنظير القولون (حقنة شرجية تنظيفية عالية/كبيرة الحجم) غالباً؛ فلا إجابة صحيحة بين الخيارات المعروضة ويبدو أنها اختلطت بسؤال آخر.",
+  "refs": []
+ },
+ {
+  "id": "Q0311",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال مبتور والخيارات معطوبة («post intake meal» و«low bed» و«??»)؛ المعروف في ارتجاع المريء تجنّب الاستلقاء بعد الوجبة (NIDDK: تناول الوجبات قبل الاستلقاء/النوم بثلاث ساعات على الأقل)، ولا يمكن مطابقة ذلك مع خيار سليم، وعلامة المصدر على «low bed» غير مدعومة بمرجع.",
+  "refs": [
+   {
+    "title": "Eating, Diet, & Nutrition for GER & GERD - NIDDK",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults/eating-diet-nutrition"
+   }
+  ]
+ },
+ {
+  "id": "Q0220",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "اللون الأزرق على الشفتين هو الزرقة cyanosis: تلوّن أزرق للجلد والأغشية المخاطية بسبب نقص الأكسجين في الدم، ومن أسبابها أمراض القلب والالتهاب الرئوي الشديد (MedlinePlus)؛ أما hypoxia وhypoxemia فهما الحالة/القياس الكامن لا العلامة الظاهرة، وdyspnea ضيق النفَس. ثقة متوسطة لأن النص مبتور جزئياً.",
+  "refs": [
+   {
+    "title": "Blue discoloration of the skin - MedlinePlus Medical Encyclopedia",
+    "url": "https://medlineplus.gov/ency/article/003215.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0232",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "التيتانوس (Tdap/Td) يُوصى به أثناء الحمل (CDC) بينما الحصبة الألمانية لقاح حيّ مضعّف ممنوع؛ لكن لقاح التهاب الكبد B يجوز إعطاؤه في بعض الحالات وخيار «rubies» غير واضح (ربما rabies/rubeola) والنص مبتور، فالأرجح التيتانوس بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Pink Book Ch. 2: General Best Practice Guidance for Immunization (Vaccines in Pregnancy) - CDC",
+    "url": "https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-2-general-best-practice-guidance.html"
+   },
+   {
+    "title": "Vaccine Safety for Moms-To-Be - CDC",
+    "url": "https://www.cdc.gov/vaccines-pregnancy/moms-to-be/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0264",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "درجة الحرارة الإبطية 38°م تُعدّ حمّى (NHS: 38°م فأكثر)، ومعدل التنفس 30/د مرتفع (الطبيعي للبالغ 12–18/د حسب MedlinePlus)، فيُبلَّغ عن الحرارة والتنفس معاً (الخيار 3)؛ النبض غير معطى ولا يُبنى عليه. ثقة متوسطة لأن هذا النص كان مشوّهاً في نسخ سابقة (وأُهملت علامة الفاحص الضعيفة).",
+  "refs": [
+   {
+    "title": "High temperature (fever) in adults - NHS",
+    "url": "https://www.nhs.uk/conditions/fever-in-adults/"
+   },
+   {
+    "title": "Vital Signs - MedlinePlus Medical Encyclopedia",
+    "url": "https://medlineplus.gov/ency/article/002341.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0299",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "لا جواب وحيد دفاعي: يوصي CDC بلقاح Tdap (التيتانوس) في كل حمل ويجيز لقاح التهاب الكبد B في بعض الحالات، بينما اللقاحات الحية المضعفة (الحصبة الألمانية/MMR) ممنوعة؛ فخياران (التيتانوس والتهاب الكبد B) آمنان وخيار «rubies» غامض (ربما rabies/rubeola). علامة المصدر (التهاب الكبد B) صحيحة لكنها ليست الوحيدة.",
+  "refs": [
+   {
+    "title": "Pink Book Ch. 2: General Best Practice Guidance for Immunization (Vaccines in Pregnancy) - CDC",
+    "url": "https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-2-general-best-practice-guidance.html"
+   },
+   {
+    "title": "Vaccine Safety for Moms-To-Be - CDC",
+    "url": "https://www.cdc.gov/vaccines-pregnancy/moms-to-be/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0300",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "جميع الخيارات تعادل 30 مل/ساعة بالضبط (30/س، 60 في ساعتين، 90 في 3 ساعات، 120 في 4 ساعات) فلا يوجد خيار أدنى من الحد المقبول للإبلاغ، والسؤال متناقض داخلياً أو أرقامه مشوّهة؛ لا إجابة قابلة للدفاع (علامة المصدر: 90 في 3 ساعات).",
+  "refs": []
+ },
+ {
+  "id": "Q0301",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "«palates» تعني غالباً platelets (الصفائح)، لكن الخيارين «Definition of clot» و«definition of bleeding» مشوّهان (كلمة «تعريف» لا معنى لها هنا) والأقرب أنهما «تكوين الجلطة» و«ضبط/وقف النزف» وكلاهما وصف مقبول لوظيفة الصفائح (الإرقاء)، فلا يمكن الترجيح بينهما (علامة المصدر: الخيار 1).",
+  "refs": []
+ },
+ {
+  "id": "Q0303",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": false,
+  "note_ar": "التفاعل التحسسي (فرط الحساسية النمط الأول) يتوسطه IgE (StatPearls) لا IgG، فعلامة المصدر (IgG) غير مدعومة؛ ولا يوجد IgE بين الخيارات و«IgC» غير موجود أصلاً وغالباً خطأ نسخ/OCR لـ IgE، فالإجابة المرجّحة هي الخيار 3 بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Type I Hypersensitivity Reaction - StatPearls",
+    "url": "https://www.statpearls.com/point-of-care/30712"
+   }
+  ]
+ },
+ {
+  "id": "Q0304",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال مشوّه وغير مكتمل المعنى («The immunization Vaccination It is considered any of the following») ولا يتضح المطلوب؛ كل الخيارات (شلل الأطفال، DTP، الحصبة، التهاب الكبد B) لقاحات، فلا إجابة قابلة للدفاع (علامة المصدر: التهاب الكبد B).",
+  "refs": []
+ },
+ {
+  "id": "Q0314",
+  "verdict": "corrected",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": false,
+  "note_ar": "الـ AMA هو مغادرة المريض المستشفى قبل أن يوصي الطبيب المعالج بالخروج (تعريف المرجع: «a decision to leave the hospital before the treating physician recommends discharge») لا بعد إذن الطبيب بالخروج؛ فالعبارة خاطئة (الخيار 1) وعلامة المصدر (صح) مخالفة للمرجع.",
+  "refs": [
+   {
+    "title": "Leaving Against Medical Advice: Current Problems and Plausible Solutions (PMC)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11235152/"
+   }
+  ]
+ },
+ {
+  "id": "Q0316",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة بلا سياق (هل المقصود أثناء التخدير أم بعد الإفاقة منه؟)؛ التخدير العام حالة فقدان وعي مؤقتة لكن المرضى بعد التخدير الطويل يستعيدون وعيهم تدريجياً وتتوقف الصحة على الصياغة الأصلية في الكتاب، فلا يمكن إسنادها إلى مرجع محدد ولا إجابة قابلة للدفاع (علامة المصدر: صح).",
+  "refs": []
+ },
+ {
+  "id": "Q0317",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة مبتورة عند «detect li…»؛ المسح الثانوي (من الرأس إلى القدم) يكشف الإصابات/المشكلات التي لم تظهر في المسح الأولي بينما تُكشف المهدِّدة للحياة في المسح الأولي، وتحديد صح/خطأ يتوقف على الكلمة المحذوفة؛ فلا حسم (علامة المصدر: صح).",
+  "refs": []
+ },
+ {
+  "id": "Q0240",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": false,
+  "note_ar": "قائمة NIH ODS لمصادر بيتا-كاروتين تضم الجزر والبطاطا الحلوة والسبانخ والمانجو ولا تضم البطاطس البيضاء ولا البرتقال/الجريب فروت، فـ«السبانخ والمانجو» أوفق من «الجزر والبطاطس» (علامة المصدر) التي نصفها الثاني غير مدعوم إلا إن كانت حلوة؛ لكن السؤال مبتور («both of these substances» والمادة الثانية مجهولة) فالحسم ضعيف.",
+  "refs": [
+   {
+    "title": "Vitamin A and Carotenoids - Health Professional Fact Sheet (NIH ODS)",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+   }
+  ]
+ },
+ {
+  "id": "Q0266",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": false,
+  "note_ar": "في الوذمة الرئوية مع القصور القلبي تكون أولوية التدبير للمجرى الهوائي والتنفس والأكسجة ثم خفض الحمل القبلي والبعدي (Medscape)، فأرجّح «تحسين الحالة التنفسية» (الخيار 2) وتتفق معه إجابة الخبير في Brainly؛ لكن المراجع لا تنص صراحة على «الهدف الأول» وعلامة المصدر (زيادة النتاج القلبي) هدف علاجي مقبول، فالثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Cardiogenic Pulmonary Edema Treatment & Management - Medscape",
+    "url": "https://emedicine.medscape.com/article/157452-treatment"
+   },
+   {
+    "title": "Pulmonary Edema Nursing Guide and Care Plan - Nurse.com",
+    "url": "https://www.nurse.com/clinical-guides/congestive-heart-failure-and-pulmonary-edema/"
+   },
+   {
+    "title": "Brainly - major goal of nursing care for a client with heart failure and pulmonary edema (same question; answers conflict)",
+    "url": "https://brainly.com/question/30784716"
+   }
+  ]
+ },
+ {
+  "id": "Q0718",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "يظهر خيار واحد فقط («Improving respiratory status») فلا يمكن تقييم سؤال اختيار من متعدد؛ وهو يتوافق مع الترجيح في Q0266 (أولوية التنفس/ABC في الوذمة الرئوية) لكنه وحده لا يكفي للحسم.",
+  "refs": [
+   {
+    "title": "Cardiogenic Pulmonary Edema Treatment & Management - Medscape",
+    "url": "https://emedicine.medscape.com/article/157452-treatment"
+   }
+  ]
+ },
+ {
+  "id": "Q0267",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "النحافة (Underweight) ليست عامل خطر لسكري الحمل؛ فعوامل الخطر في StatPearls وCDC وMayo هي زيادة الوزن/السمنة ووجود قريب مصاب بالسكري ونحوها، أما عمر الأم المتقدّم فلم يرد في الصفحات المسترجَعة لكنه عامل خطر معروف في المناهج؛ فالاستثناء هو الخيار 1 (يتفق مع علامة المصدر). ثقة متوسطة لأن الغياب لا يُثبت بنص صريح.",
+  "refs": [
+   {
+    "title": "Gestational Diabetes - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK545196/"
+   },
+   {
+    "title": "Gestational Diabetes - CDC",
+    "url": "https://www.cdc.gov/diabetes/about/gestational-diabetes.html"
+   },
+   {
+    "title": "Gestational diabetes - Symptoms & causes - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/gestational-diabetes/symptoms-causes/syc-20355339"
+   }
+  ]
+ },
+ {
+  "id": "Q0278",
+  "verdict": "corrected",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": false,
+  "note_ar": "في الانسداد الجزئي (الخفيف) يستطيع المصاب السعال والكلام والتنفس؛ أما العجز عن الكلام أو السعال أو التنفس إطلاقاً فيدل على انسداد كامل/شديد (Cleveland Clinic وMayo Clinic)، فالعبارة خاطئة (الخيار 1) وعلامة المصدر (صح) مخالفة للمرجع.",
+  "refs": [
+   {
+    "title": "Choking First Aid and Prevention - Cleveland Clinic",
+    "url": "https://my.clevelandclinic.org/health/diseases/choking"
+   },
+   {
+    "title": "Choking: First aid - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/first-aid/first-aid-choking/basics/art-20056637"
+   }
+  ]
+ },
+ {
+  "id": "Q0307",
+  "verdict": "corrected",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": false,
+  "note_ar": "الخمول يُنقص (لا يزيد) معدل الاستقلاب (Teasell & Dittmer: decreased basal metabolic rate)، أما تيبّس المفاصل وركود الإفرازات التنفسية وانخفاض الضغط الانتصابي فهي من آثار عدم الحركة (NCBI Nursing Fundamentals)؛ فالاستثناء هو الخيار 2، وعلامة المصدر الجديدة (الخيار 3) خاطئة لأن انخفاض الضغط الانتصابي من آثار عدم الحركة لا استثناء.",
+  "refs": [
+   {
+    "title": "Complications of immobilization and bed rest. Part 2: Other complications (Teasell & Dittmer, PMC)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2379609"
+   },
+   {
+    "title": "Table 13.2a Effects of Immobility on Body Systems - Nursing Fundamentals (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK591828/table/ch13mobility.T.effects_of_immobility_on/"
+   },
+   {
+    "title": "Mobility and Immobility: NCLEX-RN (registerednursing.org)",
+    "url": "https://www.registerednursing.org/nclex/mobility-immobility/"
+   },
+   {
+    "title": "5.02 The Effects of Immobility - Nursing Fundamentals I (Brookside Press)",
+    "url": "https://brooksidepress.org/nursing_fundamentals_1/?page_id=430"
+   }
+  ]
+ },
+ {
+  "id": "Q0308",
+  "verdict": "corrected",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": false,
+  "note_ar": "اليرقان (اصفرار الصلبة والجلد) من الأعراض المميّزة لالتهاب الكبد الفيروسي مع البراز الشاحب الطيني والبول الداكن (MedlinePlus وCDC)؛ البراز القطراني علامة نزف هضمي علوي لا التهاب كبد، والإسهال المائي غير مدرج بين أعراض MedlinePlus، فعلامة المصدر (الخيار 1) غير مدعومة. ثقة متوسطة لأن السؤال مبتور والخيار «short» مقطوع (وأُهملت العلامة اليدوية).",
+  "refs": [
+   {
+    "title": "Hepatitis - MedlinePlus",
+    "url": "https://medlineplus.gov/hepatitis.html"
+   },
+   {
+    "title": "Clinical Overview of Hepatitis A - CDC",
+    "url": "https://www.cdc.gov/hepatitis-a/hcp/clinical-overview/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0362",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال مبتور والخيارات كلها عن الألم (تحمّل/شدة/موقع/طبيعة)؛ أولوية التقييم بعد العملية عادةً للمجرى الهوائي والتنفس والدورة قبل الألم، ولا يوجد ترتيب معتمد بين جوانب الألم الأربعة لتحديد «الأولوية» دون نص الكتاب؛ فلا جواب قابل للدفاع (علامة المصدر: الموقع).",
+  "refs": []
+ },
+ {
+  "id": "Q0711",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "المراجع المسترجَعة (Wikipedia/Brainscape) تصف التعقيم الجراحي بأنه إجراءات لإزالة الكائنات الدقيقة كلياً من منطقة أو أداة؛ والصياغة الشائعة في مناهج التمريض «إبادة الكائنات قبل دخولها الجسم» (مقابل التعقيم الطبي: بعد خروجها منه) تطابق الخيار 1، لكني لم أصل إلى نص موثوق يذكرها حرفياً والخيار 0 («من الأدوات») قريب من التعريف الأول، فالثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Asepsis - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Asepsis"
+   },
+   {
+    "title": "Asepsis flashcards (Brainscape)",
+    "url": "https://brainscape.com/flashcards/asepsis-17901835/packs/22578114"
+   }
+  ]
+ },
+ {
+  "id": "Q0309",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "تسلسل فحص البطن القياسي: المشاهدة ثم الإصغاء ثم القرع ثم الجس (StatPearls)؛ فالتقنية الثانية هي الإصغاء وهي غير موجودة بين الخيارات، والمشاهدة (علامة المصدر) هي الأولى لا الثانية، والقرع ثالث، و«Puncturing» ليس تقنية فحص؛ والنص مبتور، فلا إجابة قابلة للدفاع.",
+  "refs": [
+   {
+    "title": "Abdominal Examination - StatPearls",
+    "url": "https://www.statpearls.com/point-of-care/17014"
+   }
+  ]
+ },
+ {
+  "id": "Q0365",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "النبض المأبضي عميق ويصعب جسّه وغالباً لا يثير القلق إن وُجد النبضان الفخذي والقدمي الظهري (كتاب تقييم تمريضي مفتوح)، فالخطوة التالية المنطقية تقييم النبض القدمي (التروية البعيدة) وهو الخيار 0؛ غير أن فحص النبض الفخذي (الخيار 2) وارد أيضاً ولا مرجع يحسم الأسبقية بينهما صراحةً، أما قياس الضغط على الفخذ فغير مناسب.",
+  "refs": [
+   {
+    "title": "Inspection and Palpation of Feet and Legs (Toronto Metropolitan Univ. assessment open textbook)",
+    "url": "https://pressbooks.library.torontomu.ca/assessmentnursingmain/chapter/inspection-and-palpation-of-feet-and-legs/"
+   },
+   {
+    "title": "Peripheral Pulse - StatPearls",
+    "url": "https://www.statpearls.com/point-of-care/27016"
+   }
+  ]
+ },
+ {
+  "id": "Q0244",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "ضعف منعكس السعال وسوء النظافة وكبت المناعة ترفع القابلية للعدوى، أما التغذية الكافية فعامل واقٍ (سوء التغذية يُضعف المناعة ويزيد القابلية للعدوى — مراجعة Nutrients 2024) فهي الخيار الذي لا يزيد القابلية (الخيار 2، يتفق مع علامة المصدر)؛ ثقة متوسطة لأن صياغة «not affecting» ملتبسة والنص مبتور (وأُهملت العلامة اليدوية على الخيار 0).",
+  "refs": [
+   {
+    "title": "Effects of Malnutrition on the Immune System and Infection ... A Literature Review (Nutrients 2024)",
+    "url": "https://www.mdpi.com/2072-6643/16/1/1"
+   }
+  ]
+ },
+ {
+  "id": "Q0312",
+  "verdict": "corrected",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": false,
+  "note_ar": "العبارة تنسب لـ«الراحة» تعريف «النوم» (حالة تغيّر وعي مع قلة النشاط وتباطؤ وظائف الجسم): النوم حالة نشاط منخفض واستجابة أقل للمحيط (Harvard Sleep Medicine) بينما الراحة حالة هدوء واسترخاء بلا ضغط انفعالي أو قلق (Nursing Awareness)، فالعبارة بصيغتها خاطئة (الخيار 1) وعلامة المصدر الجديدة (صح) مخالفة؛ ثقة متوسطة لأن المراجع تعليمية والنص مبتور.",
+  "refs": [
+   {
+    "title": "What Is Sleep? - Harvard Division of Sleep Medicine",
+    "url": "https://sleep.hms.harvard.edu/education-training/public-education/sleep-and-health-education-program/sleep-health-education-47"
+   },
+   {
+    "title": "Rest and Sleep - Nursing Awareness",
+    "url": "https://www.nursingawareness.com/message.php?id=254"
+   }
+  ]
+ },
+ {
+  "id": "Q0227",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "حرفياً العبارة خاطئة لأن هدف الإنفاخ إحداث ارتفاع مرئي في الصدر (أي تهوية الرئتين) مع إعطاء كل نفَس خلال نحو ثانية وتجنّب التهوية المفرطة التي تسبب انتفاخ المعدة (AHA)؛ والأرجح أن النص محرّف (المقصود: تجنّب انتفاخ المعدة) فأبقيتُ علامة المصدر (صح) بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Part 7: Adult Basic Life Support - AHA CPR & ECC Guidelines",
+    "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+   }
+  ]
+ },
+ {
+  "id": "Q0245",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "العلامات الحيوية (الحرارة والنبض والتنفس وضغط الدم) هي التقييم الأولي للحالة الفيزيولوجية وتعطي بيانات أساسية عن وظيفتي القلب والجهاز التنفسي (StatPearls)، فالعبارة صحيحة؛ ثقة متوسطة لأن جزءاً من نصها مبتور (…).",
+  "refs": [
+   {
+    "title": "Vital Sign Assessment - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK553213/"
+   },
+   {
+    "title": "Vital Signs - MedlinePlus Medical Encyclopedia",
+    "url": "https://medlineplus.gov/ency/article/002341.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0323",
+  "verdict": "corrected",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": false,
+  "note_ar": "اللمس لجمع المعلومات عن الملمس والحرارة والاهتزاز والحجم والشكل هو تعريف الجس palpation، أما القرع percussion فهو النقر بالأصابع على سطح الجسم لإحداث أصوات تكشف البنى تحته؛ فالعبارة خاطئة (الخيار 1) وعلامة المصدر (صح، ملتبسة) مخالفة للمرجع؛ ثقة متوسطة لأن النص مبتور.",
+  "refs": [
+   {
+    "title": "Techniques of Physical Assessment - Guide to Health Assessment for Nurses (Pressbooks)",
+    "url": "https://pressbooks.pub/raquelbertiz1969/chapter/chapter-4-techniques-of-physical-assessment/"
+   },
+   {
+    "title": "Techniques of Physical Assessment: NCLEX-RN (registerednursing.org)",
+    "url": "https://www.registerednursing.org/nclex/techniques-physical-assessment/"
+   }
+  ]
+ },
+ {
+  "id": "Q0246",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "العبارة مبتورة عند «arterial blood …»؛ النوم يغيّر نمط التنفس (StatPearls: يصبح التنفس غير منتظم في نوم الحركات السريعة) والمعروف فسيولوجياً أنه يغيّر التهوية وغازات الدم أيضاً، لكني لم أصل إلى مرجع يذكر التهوية/الدم الشرياني صراحةً ولا يمكن الحكم على تتمة الجملة؛ فالأرجح «صح» بثقة منخفضة (تتفق مع علامة المصدر).",
+  "refs": [
+   {
+    "title": "Physiology, Sleep Stages - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK526132/"
+   }
+  ]
+ },
+ {
+  "id": "Q0346",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الناقل المزمن هو المستودع نفسه ولا يمكن عملياً القضاء عليه بتدخل تمريضي، فالمنطقي سدّ مخرج العامل المعدي من المستودع (نظافة اليدين وآداب السعال والعزل — NCBI Nursing Fundamentals: تدخلات بوابة الخروج) وهو ما يتفق مع علامة المصدر؛ ثقة متوسطة لأن المرجع يصف سلسلة العدوى عموماً ولا ينص على حالة الناقل المزمن.",
+  "refs": [
+   {
+    "title": "INFECTION - Nursing Fundamentals (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK610837/"
+   }
+  ]
+ },
+ {
+  "id": "Q0349",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "أمر Stat هو أمر لمرة واحدة يُنفَّذ فوراً/بأسرع وقت ممكن (OpenStax Clinical Nursing Skills: «a one-time order that is administered as urgently as possible»)، بخلاف الأمر الفردي/لمرة واحدة بوقت مجدول، والأمر الدائم، والأمر عند اللزوم PRN؛ فالإجابة «Stat order» (الخيار 3 بترتيب هذه النسخة، ويتفق مع علامة المصدر).",
+  "refs": [
+   {
+    "title": "11.1 Rights of Medication Administration - Clinical Nursing Skills (OpenStax)",
+    "url": "https://openstax.org/books/clinical-nursing-skills/pages/11-1-rights-of-medication-administration"
+   },
+   {
+    "title": "15.2 Basic Concepts of Administering Medications (WTCS Nursing Skills)",
+    "url": "https://wtcs.pressbooks.pub/nursingskills/chapter/15-2-basic-concepts-of-administering-medications/"
+   }
+  ]
+ },
+ {
+  "id": "Q0380",
+  "verdict": "corrected",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": false,
+  "note_ar": "التهاب الكبد A ينتقل بابتلاع طعام أو ماء ملوث (CDC)، وMedlinePlus يذكر أن A وE ينتقلان بالطعام/الماء الملوث ببراز المصاب بينما B وC وD ينتقلان بالدم (وB وD بسوائل الجسم) لا بالطعام؛ فالإجابة الخيار 0 وعلامة المصدر الجديدة (B) خاطئة.",
+  "refs": [
+   {
+    "title": "Clinical Overview of Hepatitis A - CDC",
+    "url": "https://www.cdc.gov/hepatitis-a/hcp/clinical-overview/index.html"
+   },
+   {
+    "title": "Hepatitis - MedlinePlus",
+    "url": "https://medlineplus.gov/hepatitis.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0730",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "بعد إصلاح الفتق الإربي يُنصح الرجل بوضع الصفن على منشفة مرفوعة لتقليل التورم (Drugs.com) وبالداعم الرياضي عند تورم الصفن مع الكمادات الباردة لا الحرارة (MedlinePlus)؛ فـ«رفع كيس الصفن» (الخيار 1) هو الصحيح، أما تقليل السوائل والحمية قليلة الألياف فمخالفتان لنصيحة MedlinePlus بالألياف والماء لتجنّب الإمساك، والحرارة على البطن غير موصى بها. ثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Inguinal hernia repair - discharge - MedlinePlus",
+    "url": "https://medlineplus.gov/ency/patientinstructions/000274.htm"
+   },
+   {
+    "title": "After an Inguinal Hernia Repair (Ambulatory Care) - Drugs.com",
+    "url": "https://www.drugs.com/cg/after-an-inguinal-hernia-repair-ambulatory-care.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0363",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "صياغة السؤال مشوّهة («purpose of using a pulse measuring places in the radial artery») وغير واضح إن كان المطلوب «كل ما يلي» أم استثناءً؛ خيار «تغيّر النبض مع تغيّر الوضع» (علامة المصدر) وخيار «اضطراب النظم» كلاهما معقول، و«الضحية فاقد الوعي» يُفحص نبضه السباتي لا الكعبري؛ فلا إجابة وحيدة قابلة للدفاع (انظر Q0708 لنسخة أوضح).",
+  "refs": [
+   {
+    "title": "Vital Signs: Pulse - Nurseslabs",
+    "url": "https://nurseslabs.com/vital-signs-pulse/"
+   }
+  ]
+ },
+ {
+  "id": "Q0708",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "مقارنة النبض الكعبري بالقمي (apical-radial) تكشف عجز النبض واضطراب النظم (Nurseslabs: النبض القمي مهم عند عدم انتظام النظم كالرجفان الأذيني، وعجز النبض يدل على اضطراب نظم أو نقص النتاج)، فالأنسب «كشف اضطرابات النظم» (الخيار 2)؛ وفاقد الوعي يُفحص نبضه السباتي (الطوارئ)، لكن خياري «تغيّر النبض مع الوضع» و«النبض عند الأطفال» قد يُعدّان من الأغراض في بعض المناهج، فالثقة منخفضة والمصدر تعليمي.",
+  "refs": [
+   {
+    "title": "Vital Signs: Pulse - Nurseslabs",
+    "url": "https://nurseslabs.com/vital-signs-pulse/"
+   }
+  ]
+ },
+ {
+  "id": "Q0243",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "يوصي CDC في مناطق رعاية المرضى باستخدام مطهّر/منظّف مسجّل لدى EPA (hospital disinfectant/detergent) للتنظيف العام للأسطح حين يُجهل نوع الملوِّثات، بينما يكفي المنظّف والماء في المناطق غير السريرية؛ فـ«detergent germicide» هو الأنسب للأرضيات والأسطح في المستشفى (الخيار 2، يتفق مع علامة المصدر). ثقة متوسطة لأن السؤال عام وقد يُقبل المنظّف وحده (وأُهملت علامة «الصابون والماء» الضعيفة).",
+  "refs": [
+   {
+    "title": "Part II. Recommendations for Environmental Infection Control in Health-Care Facilities - CDC",
+    "url": "https://cdc.gov/infection-control/hcp/environmental-control/recommendations.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0375",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "وصف المناطق المحروقة مشوّه («posterior . anterior right head») فلا يمكن تطبيق قاعدة التسعات بدقة؛ الصدر والبطن الأماميان ≈18% والعجان 1% مع جزء ثالث مجهول، وناتج 28% (علامة المصدر) يتحقق فقط إن كان الجزء المجهول 9% وهذا تخمين؛ فلا إجابة قابلة للدفاع.",
+  "refs": []
+ },
+ {
+  "id": "Q0382",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخياران «blood urea» و«BUN» متطابقان في المعنى، والخيار «low serum bilirubin» عكس الشاذ المتوقع (ارتفاع البيليروبين في أمراض الكبد)، و«low hemoglobin» ليس من اختبارات وظائف الكبد؛ فالسؤال والخيارات مشوّهة ولا يوجد خيار وحيد قابل للدفاع.",
+  "refs": []
+ },
+ {
+  "id": "Q0386",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال غير محدد («first diagnostic test» لأي حالة وفي أي سياق؟) والخياران «the doctor» و«Physician» متطابقان، فلا يوجد جواب وحيد قابل للدفاع.",
+  "refs": []
+ }
+]

@@ -1,0 +1,1309 @@
+[
+ {
+  "id": "Q0306",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following methods saft prevent pregnancy",
+  "q_ar": "أي من الوسائل التالية تمنع الحمل بأمان",
+  "options": [
+   "candim",
+   "oral contraceptives"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "oral contraceptives",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "الصياغة مشوّهة («saft») ولا يوجد معيار واضح: الواقي الذكري يمنع الحمل ويحمي من العدوى المنقولة جنسياً، والحبوب أكثر فعالية بالاستخدام المعتاد؛ كلاهما يمنع الحمل فلا إجابة واحدة قابلة للدفاع.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0084",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Hormone secret from Island of",
+  "q_ar": null,
+  "options": [
+   "lungerhans",
+   "insulin",
+   "thyroxin",
+   "GH"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "السؤال مبتور (لم يكتمل نص السؤال 'الهرمون الذي تفرزه جزر لانغرهانس...') وخيارات الإجابة فارغة، فلا يمكن الحسم.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0087",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "the. bleeding from the ceebro vyculor accident. Brain",
+  "q_ar": null,
+  "options": [
+   "Temporal after",
+   "occipital after",
+   "Femoral after",
+   "parietal after"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Temporal after",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "نص السؤال مشوّه/ناقص ('bleeding from the cerebro vascular accident ... Brain') والخيارات شرايين فروة الرأس/الفخذ لا تتّسق مع أي إجابة محددة لنزف سكتة دماغية؛ لا يوجد جواب وحيد مدعوم.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0241",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The second examination we use in the abdominal check is any of the following:",
+  "q_ar": null,
+  "options": [
+   "Palpation",
+   "inspection",
+   "Auscultation",
+   "percussion"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "conflict",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks a different answer than the one verified before",
+   "previous_verdict": "answered",
+   "previous_answer": 2,
+   "previous_note_ar": "في فحص البطن: الملاحظة أولًا ثم الإصغاء (auscultation) ثانيًا ثم الجس ثم القرع؛ الإصغاء قبل الجس لئلا تتغيّر أصوات الأمعاء.",
+   "new_source_marked_indexes": [
+    0,
+    1
+   ]
+  }
+ },
+ {
+  "id": "Q0239",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The medical's assistant lists Lymph Node's by Technique Palpation how it is done",
+  "q_ar": null,
+  "options": [
+   "Touch the neck and Head and back",
+   "Pressure or touch by fingers and between fingers",
+   "??"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Pressure or touch by fingers and between fingers",
+  "source_status": "agree",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "uncertain",
+   "previous_answer": 1,
+   "previous_note_ar": "فحص العقد اللمفية يتم بالجس (palpation) بلمس وضغط الأصابع على مناطق العقد (Wikipedia: Physical examination) فالخيار الثاني هو الأقرب؛ الخيار الثالث مفقود والنص مبتور.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0356",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The medical assistant lists lymph node by technique palpation who it is done:",
+  "q_ar": null,
+  "options": [
+   "Flat pressure by four finger between neck."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Flat pressure by four finger between neck.",
+  "source_status": "agree",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "الخيارات مبتورة (خيار واحد فقط ظاهر) فلا يمكن المفاضلة؛ والمتعارف أن العقد تُجَسّ بوسادات الأصابع بحركات دائرية لطيفة لا بضغط مسطّح.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0682",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The medical's assistant lists Lymph Node's by Technique Palpation how it is done",
+  "q_ar": null,
+  "options": [
+   "Touch the neck and Head and back.",
+   "Pressure or touch by fingers and between fingers.",
+   "Can be done by the client.",
+   "It is not influenced by drug."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0096",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Medical assistant should explain to male client with diabetic glucose is preferred to urine glucose testing because:",
+  "q_ar": null,
+  "options": [
+   "More accurate.",
+   "Hypokalemia.",
+   "Hyperkalemia.",
+   "Hyponatremia.",
+   "Hypernatremia."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "الخيارات مبتورة (يظهر خيار واحد فقط 'More accurate')؛ لا يمكن الحسم لأن بقية الخيارات مفقودة.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0224",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Techniques of physical assessment. is the examination of the pa ()",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "uncertain",
+   "previous_answer": 0,
+   "previous_note_ar": "العبارة مبتورة («examination of the pa…»)؛ تقنيات الفحص السريري (الملاحظة والجس والقرع والإصغاء) هي طرق فحص جسم المريض فالأرجح «صح»، لكن لا يمكن الجزم بالنص المقطوع.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0102",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A client is scheduled for a colonoscopy. The nurse will provide information to the client about which type of enema :",
+  "q_ar": null,
+  "options": [
+   "Oil retention.",
+   "Return flow.",
+   "Theophylline.",
+   "Epinephrine HCL."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "الخيارات معطوبة: Theophylline وEpinephrine HCL دواءان وليسا نوعي حقنة شرجية، ويبدو أنها اختلطت بسؤال آخر؛ الصيغة الأصلية المتداولة للسؤال خياراتها Oil retention / Return flow / High large volume / Low small volume والجواب فيها حقنة شرجية عالية كبيرة الحجم (تنظيفية) وهي غير موجودة هنا، فلا إجابة صحيحة بين الخيارات المعروضة.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0311",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A client has Gastroesophageal Reflux Disease (GERD). The fter every meal, the client should,",
+  "q_ar": null,
+  "options": [
+   "post intake meal",
+   "low bed",
+   "??"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "low bed",
+  "source_status": "single",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "السؤال مبتور والخيار «??» غير مقروء و«post intake meal» مشوّه؛ (المعروف أن مريض الارتجاع يبقى منتصباً 1–2 ساعة بعد الوجبة) لكن لا يمكن مطابقته مع خيار سليم.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0220",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A patient with a heart condition and pneumonia appeared on his lips, a blue - color. What does the have :",
+  "q_ar": null,
+  "options": [
+   "Cyanosis.",
+   "Hypoxia.",
+   "hypoxemia.",
+   "dyspnea"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "uncertain",
+   "previous_answer": 0,
+   "previous_note_ar": "ازرقاق الشفتين عند مريض قلب/التهاب رئوي = زرقة مركزية (cyanosis) وهي علامة ونقص التأكسج (hypoxemia) هو السبب؛ النص مبتور («plus color»/خيار رابع مفقود) فلا يمكن استبعاد خيار آخر.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0232",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "He following vaccine given in pregnant :",
+  "q_ar": null,
+  "options": [
+   "tetanus",
+   "rubies",
+   "rubella",
+   "Hepatitis B vaccine"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "uncertain",
+   "previous_answer": 0,
+   "previous_note_ar": "لقاح التيتانوس (Tdap/Td) يُعطى أثناء الحمل (CDC: جرعة Tdap في كل حمل)؛ لكن بقية الخيارات مفقودة (مبتورة) وقد يكون بينها لقاح آخر موصى به (كالإنفلونزا)، فلا يمكن الجزم بأنه الإجابة الوحيدة.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0264",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The morning vital signs of a 38-year-old patient are auxiliary temperature 38°C, and the respiratory rate is 30 breaths/min. Which findings should be reported?",
+  "q_ar": null,
+  "options": [
+   "Respiratory rate only",
+   "Temperature only",
+   "Pulse rate and temperature",
+   "Temperature and respiratory rate"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Respiratory rate only"
+   }
+  ],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "النص مشوّه: قيمتا الحرارة والنبض غير مقروءتين ('temperatur 88')؛ المؤكد فقط أن معدل التنفس 30/د مرتفع (الطبيعي 12-18 وفق MedlinePlus) ويُبلَّغ عنه، لكن الحسم بين الخيار 0 و3 يتوقف على قيمة الحرارة؛ علامة الفاحص الضعيفة أُهملت.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0299",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Of the vaccination used in pregnancy, which is considered safe :",
+  "q_ar": "من بين التطعيمات المستخدمة في الحمل، أي منها يعتبر آمناً:",
+  "options": [
+   "tetanus",
+   "rubies",
+   "rubella",
+   "Hepatitis B vaccine"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Hepatitis B vaccine",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "لا جواب وحيد دفاعي: CDC يوصي بـTdap (التيتانوس) ولقاح التهاب الكبد B آمن عند الحاجة واللقاح الميت للسعار مسموح عند التعرض، والمحظور فقط الحية المضعفة (الحصبة الألمانية MMR والحماق)؛ فالخيارات 0 و1 و3 كلها آمنة والنص فيه خطأ مطبعي (rubies).",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0300",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When installing Foleys Catheter and your doctor is informed about the patient and monitor urine out any of the following quantities that will inform Dr:",
+  "q_ar": "عند تثبيت قسطرة بوليه، إذا كان الدكتور مطلعًا على تبول المريض ورصده، أيًا من الكميات التالية سيبلغه الطبيب:",
+  "options": [
+   "urine loss 30/hr",
+   "urine loss 60 in 2hr",
+   "urine loss 90 in 3 hrs",
+   "urine loss 120 in 4 hrs"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "urine loss 90 in 3 hrs",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "كل الخيارات تساوي 30 مل/ساعة بالضبط (30/س، 60 في ساعتين، 90 في 3 ساعات، 120 في 4 ساعات) فلا يوجد خيار أقل من الحد المقبول، فالسؤال متناقض داخليًا؛ الحد الأدنى المعتمد للبالغ ~0.5 مل/كغ/ساعة (oliguria).",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0301",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The purpose of the palates is :",
+  "q_ar": null,
+  "options": [
+   "Definition of clot",
+   "definition of bleeding",
+   "determine of thrombosis"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "definition of bleeding",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "uncertain",
+   "previous_answer": 0,
+   "previous_note_ar": "الصياغة مشوّهة («palates» تعني غالباً platelets = الصفائح الدموية)، والخيار «Definition of clot» يُرجَّح أنه «Formation of clot»؛ وظيفة الصفائح تكوين السدادة/الجلطة لإيقاف النزف، وهو الخيار الوحيد المنسجم مع ذلك، لكن تشوّه النص يمنع الجزم.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0303",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Allergic reaction results are considered:",
+  "q_ar": null,
+  "options": [
+   "IGA",
+   "IgG",
+   "IgM",
+   "IgC"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "IgG",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "uncertain",
+   "previous_answer": 3,
+   "previous_note_ar": "التفاعل التحسسي (فرط الحساسية النمط الأول) تتوسطه الغلوبولين المناعي IgE؛ ولا يوجد IgE بين الخيارات، و«IgC» غير موجود أصلاً ويُرجَّح أنه خطأ نسخ لـ IgE، فالإجابة المحتملة هي الخيار 3 بثقة منخفضة.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0304",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The immunization Vaccination It is considered any of the following :",
+  "q_ar": "التحصين / اللقاح يعتبر أي من التالي:",
+  "options": [
+   "polio",
+   "DTP",
+   "measles",
+   "Hepatitis B"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Hepatitis B",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "السؤال مشوّه وغير مكتمل المعنى («الـ immunization Vaccination يُعتبر أياً من التالي») ولا يمكن تحديد المطلوب؛ كل الخيارات لقاحات.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0314",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Leaving against medical advice (AMA) is a term that applies to situations in which the client leaves after the physician authorizes the discharge",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks a different answer than the one verified before",
+   "previous_verdict": "answered",
+   "previous_answer": 1,
+   "previous_note_ar": "المغادرة ضد النصيحة الطبية (AMA) تعني أن المريض يغادر قبل أن يوصي الفريق الطبي بخروجه، لا بعد أن يأذن الطبيب بالخروج؛ فالعبارة خاطئة.",
+   "new_source_marked_indexes": [
+    0
+   ]
+  }
+ },
+ {
+  "id": "Q0316",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Patients who have experienced prolonged anesthesia usually are unconscious",
+  "q_ar": "هل المرضى الذين يعانون من التخدير المطول عادة في حالة فقدان الوعي؟",
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "العبارة بلا سياق كافٍ (المقصود غالباً فاقد الوعي أثناء/بعد التخدير المطوّل) ولم أجد مرجعاً يحسمها؛ لا إجابة قابلة للدفاع بدون نص الكتاب الأصلي.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0317",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "The secondary survey is a process carried out in order to detect li..... ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "العبارة مبتورة عند «detect li…»: المسح الثانوي (head-to-toe) يهدف لكشف الإصابات الأقل إلحاحاً/المغفَلة بعد تثبيت المسح الأولي، بينما المهدِّدة للحياة تُكشف في المسح الأولي؛ وتحديد الصح/الخطأ يتوقف على الكلمة المحذوفة.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0240",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Dr Mohammed tells a client that an increase intake of foods beta carotene are important for healthier skin the nurse teach sources of both of these substances are",
+  "q_ar": null,
+  "options": [
+   "fish and fruit jam",
+   "oranges and grapefruit",
+   "spinach and mangoes",
+   "carrots and potatoes"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "carrots and potatoes",
+  "source_status": "agree",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Carrots and potatoes"
+   }
+  ],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "uncertain",
+   "previous_answer": 2,
+   "previous_note_ar": "مصادر بيتا-كاروتين: الجزر والبطاطا الحلوة والسبانخ والمانجو (NIH ODS) ولا تُذكر البطاطس البيضاء؛ «السبانخ والمانجو» كلاهما غني به بينما «الجزر والبطاطس» نصفه فقط (إلا إن كانت حلوة)؛ والسؤال مبتور («both of these substances» ناقص) فلا أستطيع الجزم وأخالف علامة المصدر بثقة منخفضة.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0266",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "What would be the primary goal of therapy for a client with pulmonary edema and heart failure?",
+  "q_ar": null,
+  "options": [
+   "Enhance comfort",
+   "Increase cardiac output",
+   "Improve respiratory status",
+   "Decrease peripheral edema"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Increase cardiac output",
+  "source_status": "single",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "نص السؤال مشوّه ('pulmonary en... failure') فلا يُعرف هل المقصود فشل قلبي مع وذمة رئوية (الهدف: زيادة النتاج القلبي) أم فشل تنفسي (الهدف: تحسين الحالة التنفسية)؛ لا يمكن الحكم على علامة المصدر (زيادة النتاج القلبي).",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0718",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The goal of treating patient with pulmonary edema and heart failure:",
+  "q_ar": null,
+  "options": [
+   "Improving respiratory status"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0267",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The risk factors associated with gestational diabetes mellitus include all EXCEPT:",
+  "q_ar": null,
+  "options": [
+   "Overweight",
+   "Underweight",
+   "Family history of diabetes",
+   "Advanced maternal age"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Underweight",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "علامة المصدر (نحافة/Underweight) خاطئة: عوامل خطر سكري الحمل المذكورة في StatPearls هي زيادة الوزن/مؤشر الكتلة وقريب من الدرجة الأولى مصاب بالسكري، وليس نقص الوزن؛ لكن الخيار 3 غير مقروء (......) وقد يكون 'a & c' أو غيره، لذا لا يمكن تحديد رقم الإجابة.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0278",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Partial airway obstruction is indicated if the casualty cannot speak, breathe, or cough at all ( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks a different answer than the one verified before",
+   "previous_verdict": "answered",
+   "previous_answer": 1,
+   "previous_note_ar": "العبارة خاطئة: في الانسداد الجزئي/الخفيف يستطيع الشخص الكلام أو السعال أو التنفس، أما عدم القدرة على الكلام أو التنفس أو السعال إطلاقًا فيدل على انسداد كامل (شديد).",
+   "new_source_marked_indexes": [
+    0
+   ]
+  }
+ },
+ {
+  "id": "Q0307",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following are the effects of the immobility, except:",
+  "q_ar": null,
+  "options": [
+   "Stiffness and pain in the joints.",
+   "Pooling of respiratory secretions.",
+   "Increase metabolic",
+   "Orthostatic hypotension"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "conflict",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks a different answer than the one verified before",
+   "previous_verdict": "answered",
+   "previous_answer": 2,
+   "previous_note_ar": "الخمول/عدم الحركة يؤدي إلى نقص (لا زيادة) معدل الاستقلاب؛ أما تيبّس المفاصل وركود الإفرازات التنفسية وانخفاض الضغط الانتصابي فهي من آثاره. الاستثناء هو الخيار 2.",
+   "new_source_marked_indexes": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "Q0308",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following symptoms during the hepatitis virus",
+  "q_ar": null,
+  "options": [
+   "tarry stool",
+   "watery stool",
+   "yellow sclera",
+   "short"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "watery stool",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Yellow sclera"
+   }
+  ],
+  "RECHECK": {
+   "why": "a new source marks a different answer than the one verified before",
+   "previous_verdict": "answered",
+   "previous_answer": 2,
+   "previous_note_ar": "اليرقان (اصفرار الصلبة والجلد) من العلامات المميزة لالتهاب الكبد الفيروسي؛ البراز القطراني يدل على نزف هضمي علوي لا التهاب كبد. السؤال مبتور لكن الخيار 2 هو الأنسب. (تُجاهلت علامة الفاحص اليدوية).",
+   "new_source_marked_indexes": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "Q0362",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When a client has arrived at the nursing unit from surgery, the priority assessment is:",
+  "q_ar": null,
+  "options": [
+   "Pain tolerance",
+   "Pain intensity",
+   "Location of pain",
+   "Character of pain"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Location of pain",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "السؤال مبتور (الخيارات كلها عن الألم فقط) والأولوية بعد العملية عادةً للمجرى الهوائي/التنفس/الدورة؛ وبين خيارات الألم المتاحة لا يوجد ترتيب أولوية معتمد بين الموقع والشدة والتحمّل.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0711",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Surgical asepsis means:",
+  "q_ar": null,
+  "options": [
+   "Destroying bacteria from articles",
+   "Destroying bacteria before entering the body",
+   "Removing bacteria in contact with the patient",
+   "Wear gloves and mask face"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0309",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The second techniques used to examine the abdomen of a",
+  "q_ar": "التقنيات الثانية المستخدمة لفحص البطن للمريض هي:",
+  "options": [
+   "Inspection.",
+   "Percussion.",
+   "Puncturing"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Inspection.",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "نص السؤال مبتور («of a …») وترتيب فحص البطن القياسي: المشاهدة ثم الإصغاء (auscultation) ثم القرع ثم الجس؛ فالتقنية الثانية هي الإصغاء وهي غير موجودة بين الخيارات (بينما الترتيب العام للأعضاء الأخرى يجعل الجس ثانياً) فلا إجابة قابلة للدفاع.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0365",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "If unable to locate the client papliteal pulse during a routine e.x nurse do next:",
+  "q_ar": null,
+  "options": [
+   "check for a pedal pulse.",
+   "Take the client blood pressure on that thigh.",
+   "check for a femoral.",
+   "Ask another nurse."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "conflict",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "uncertain",
+   "previous_answer": 0,
+   "previous_note_ar": "النبض المأبضي عميق وقد يصعب جسّه حتى عند الأصحاء (Wikipedia)، والتصرّف التمريضي المعتاد التالي فحص النبض القدمي (الأخمصي/ظهر القدم) لتقييم التروية الطرفية؛ لم أجد مرجعًا يحسم الترتيب صراحةً وبديل فحص الفخذي وارد أيضًا.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0244",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following factors is not affecting susceptibility to infections",
+  "q_ar": null,
+  "options": [
+   "Weakened cough reflex",
+   "Poor hygiene practices",
+   "Adequate nutrition",
+   "Suppressed immune system"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Adequate nutrition",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Weakened cough reflex"
+   }
+  ],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "uncertain",
+   "previous_answer": 2,
+   "previous_note_ar": "العوامل الثلاثة الأخرى (ضعف منعكس السعال، سوء النظافة، كبت المناعة) ترفع قابلية العدوى بينما التغذية الكافية عامل واقٍ وليست عامل خطر فهي «غير المؤثرة سلبًا»؛ هذا استدلال تمريضي معياري ولم أستطع فتح مرجع منشور لهذه الجلسة، والنص مبتور وعلامة «ضعف السعال» ضعيفة ومتجاهَلة.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0312",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Rest refers to a state of altered consciousness during which an indication physical activity and a general slowing of the body's physiological ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "conflict",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks a different answer than the one verified before",
+   "previous_verdict": "answered",
+   "previous_answer": 1,
+   "previous_note_ar": "الجملة تنسب لـ«الراحة» تعريف «النوم» (حالة تغيّر الوعي مع قلة النشاط)؛ الراحة هي حالة نشاط منخفض بلا ضغط جسدي/انفعالي، فالعبارة خاطئة. النص مبتور في آخره والمصدر تعليمي ضعيف نسبياً.",
+   "new_source_marked_indexes": [
+    0
+   ]
+  }
+ },
+ {
+  "id": "Q0227",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Rescue breaths should be delivered slowly to avoid inflation of the lung( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "uncertain",
+   "previous_answer": 1,
+   "previous_note_ar": "حرفيًا العبارة خاطئة: هدف الإنفاخ إحداث ارتفاع مرئي في الصدر (أي نفخ الرئتين) مع إعطاء كل نفَس في نحو ثانية وتجنّب فرط التهوية (AHA)؛ والمعروف أن البطء يمنع انتفاخ المعدة، والنص غالبًا مبتور/محرّف (lung بدل stomach) فالحسم ضعيف.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0245",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Vital signs are fundamental to physical assessment to establish ... respiratory integrity ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "uncertain",
+   "previous_answer": 0,
+   "previous_note_ar": "العلامات الحيوية (الحرارة والنبض والتنفس وضغط الدم) مؤشرات أساسية لحالة الوظائف الحيوية القلبية الوعائية والتنفسية (Wikipedia: Vital signs) فالعبارة المقروءة صحيحة على الأرجح، لكن النص مبتور.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0323",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Percussion is the technique of using touch to gather information vibrations, and shape ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "False"
+   }
+  ],
+  "RECHECK": {
+   "why": "a new source marks a different answer than the one verified before",
+   "previous_verdict": "answered",
+   "previous_answer": 1,
+   "previous_note_ar": "الوصف المذكور (استخدام اللمس لجمع المعلومات) هو تعريف الجس palpation، أما القرع percussion فهو النقر على سطح الجسم لإحداث أصوات؛ فالعبارة خاطئة. (تُجاهلت علامة الفاحص اليدوية).",
+   "new_source_marked_indexes": [
+    0
+   ]
+  }
+ },
+ {
+  "id": "Q0246",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Sleep alters breathing patterns, ventilation & arterial blood .......( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "العبارة مبتورة («arterial blood ......»)؛ معروف أن النوم يغيّر نمط التنفس والتهوية، لكن لا يمكن الحكم على تتمة الجملة (غازات الدم الشريانية؟) ولم أجد مرجعًا لها في هذه الجلسة.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0346",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The client is a chronic carrier of infection to prevent the spread of the infection to other clients or health care providers the nurse emphasizes interventions that do which of the following:",
+  "q_ar": null,
+  "options": [
+   "Eliminate the reservoir.",
+   "Block the portal of exit from the reservoir.",
+   "Block the portal of entery in to the host.",
+   "Decrease the susceptibility of the host."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Block the portal of exit from the reservoir.",
+  "source_status": "agree",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "uncertain",
+   "previous_answer": 1,
+   "previous_note_ar": "الناقل المزمن هو المستودع نفسه ولا يمكن عملياً القضاء عليه بتدخل تمريضي، فالمنطقي سدّ مخرج العامل المعدي (النظافة، الحواجز، العزل) وهو ما يتفق مع علامة المصدر، لكن المرجع المسترجَع يصف سلسلة العدوى عموماً ولا ينص على هذه الحالة.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0349",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Giving the patient medication immediately and only once is:",
+  "q_ar": null,
+  "options": [
+   "Single order.",
+   "Standing order.",
+   "As needed order.",
+   "Stat order."
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Stat order.",
+  "source_status": "agree",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "confirmed",
+   "previous_answer": 1,
+   "previous_note_ar": "أمر «Stat» (من statim = فوراً) هو أمر يُنفَّذ فوراً ولمرة واحدة، بخلاف الأمر الفردي المجدول والأمر عند اللزوم (PRN). المراجع المسترجَعة تثبت «فوراً» فقط وعبارة «مرة واحدة» من المنهج التمريضي المعتاد.",
+   "new_source_marked_indexes": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "Q0380",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Patient with hepatitis he say eat Contaminated food what type hepatitis:",
+  "q_ar": null,
+  "options": [
+   "hepatitis A",
+   "hepatitis B",
+   "hepatitis C",
+   "All of the above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "conflict",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks a different answer than the one verified before",
+   "previous_verdict": "confirmed",
+   "previous_answer": 0,
+   "previous_note_ar": "التهاب الكبد A ينتقل بالطريق البرازي-الفموي عبر الطعام والشراب الملوث (CDC)؛ وB وC ينتقلان بالدم/السوائل لا بالطعام.",
+   "new_source_marked_indexes": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "Q0730",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The medical assistant is instructing the male client who has reduced postoperative inguinal hernia swelling following the procedure. What should the nurse instruct?",
+  "q_ar": null,
+  "options": [
+   "Limit oral fluid",
+   "Elevate the scrotum",
+   "Remain on a low-fiber diet",
+   "Apply heat to the abdomen"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0363",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Of the purpose of using apulse measuring places in the radial artery, any of the following;",
+  "q_ar": null,
+  "options": [
+   "dysrhythima.",
+   "pulse change when the position is changed.",
+   "unconscious victim."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "pulse change when the position is changed.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "صياغة السؤال مشوَّهة («purpose of using a pulse measuring places in the radial artery») ولا يوجد خيار وحيد مدعوم؛ النبض الكعبري يُستخدم للقياس الروتيني، والضحية فاقد الوعي يُفحص نبضه السباتي لا الكعبري.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0708",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Purposes of measuring pulse in the radial artery and apical include:",
+  "q_ar": null,
+  "options": [
+   "Pulse changes with position",
+   "Unconscious victim",
+   "Detecting dysrhythmias",
+   "Pulse check in children"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0243",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The hospital floors and surfaces are cleaned frequently with:",
+  "q_ar": null,
+  "options": [
+   "Detergent",
+   "Soap and water",
+   "A detergent germicide"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "A detergent germicide",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Soap and water"
+   }
+  ],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "uncertain",
+   "previous_answer": 2,
+   "previous_note_ar": "إرشادات CDC تجيز تنظيف الأرضيات بالمنظّف والماء أو بمطهّر مستشفيات مسجّل (EPA) أي منظّف-مطهّر؛ والمنهج التمريضي يذكر غالبًا «detergent germicide» للأسطح المتكررة، فاخترته بثقة منخفضة؛ علامة «الصابون والماء» ضعيفة ومتجاهَلة.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0375",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A patient has burns on the chest & abdominal & perineum and posterior . anterior right head. the appropriate percentage of his body that has been involved is:",
+  "q_ar": null,
+  "options": [
+   "18%",
+   "28%",
+   "36%",
+   "45%"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "28%",
+  "source_status": "single",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "نص السؤال مشوَّه (وصف الأجزاء الأخيرة المحروقة «posterior . anterior right head» غير مفهوم)، والنتيجة بقاعدة التسعات تتوقف على تحديد الجزء؛ (صدر وبطن 18% + عجان 1% + عضو 9% = 28% لو كان المقصود ذلك) لكنه تخمين.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0382",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Abnormal in liver test:",
+  "q_ar": null,
+  "options": [
+   "low hemoglobin",
+   "low serum bilirubin",
+   "blood urea",
+   "BUN"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "السؤال والخيارات مشوَّهة: الشاذ في وظائف الكبد هو ارتفاع البيليروبين وإنزيمات الكبد (لا انخفاضه)، وخيارا «blood urea» و«BUN» متطابقان ولا يوجد خيار واحد مدعوم.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0386",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "who does the first diagnostic test",
+  "q_ar": null,
+  "options": [
+   "the nurse",
+   "the doctor",
+   "laboratory",
+   "Physician"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "السؤال غير محدد («first diagnostic test») والخياران 1 و3 (doctor/Physician) متطابقان، ولا يوجد جواب وحيد مدعوم.",
+   "new_source_marked_indexes": []
+  }
+ }
+]

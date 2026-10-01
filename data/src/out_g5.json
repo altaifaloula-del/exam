@@ -1,0 +1,1178 @@
+[
+ {
+  "src": "f04",
+  "page": 1,
+  "no": null,
+  "lang": "en",
+  "q": "In treating open fractures wound:",
+  "q_ar": null,
+  "options": [
+   "stop the bleeding",
+   "remove the object",
+   "clean the wound"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f04",
+  "page": 1,
+  "no": null,
+  "lang": "en",
+  "q": "Patient contact, hand washing should last at least:",
+  "q_ar": null,
+  "options": [
+   "1 minute",
+   "15-30 seconds",
+   "5 minut"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f04",
+  "page": 1,
+  "no": null,
+  "lang": "en",
+  "q": "The cause common of anemia pregnancy women:",
+  "q_ar": null,
+  "options": [
+   "deficiency vit 12",
+   "deficiency folic acid",
+   "deficiency iron"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f04",
+  "page": 1,
+  "no": null,
+  "lang": "en",
+  "q": "All of the following disease common except:",
+  "q_ar": null,
+  "options": [
+   "Poliomyelitis",
+   "hepatitis",
+   "duodenal ulcer",
+   "AIDS"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f04",
+  "page": 1,
+  "no": null,
+  "lang": "en",
+  "q": "The hormone that secreted of Langerhans:",
+  "q_ar": null,
+  "options": [
+   "",
+   "",
+   ""
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f04",
+  "page": 1,
+  "no": null,
+  "lang": "en",
+  "q": "The burns of second degree all of the following except one:",
+  "q_ar": null,
+  "options": [
+   "Painful",
+   "Blister",
+   "Swelling",
+   "Cure through 2-3 days"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f04",
+  "page": 2,
+  "no": null,
+  "lang": "en",
+  "q": "The bleeding from the cerebro vascular accident ... Brain",
+  "q_ar": null,
+  "options": [
+   "Temporal artery",
+   "Occipital artery",
+   "Femoral artery",
+   "Parietal artery"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f04",
+  "page": 2,
+  "no": null,
+  "lang": "en",
+  "q": "The dressing is applied to the wound for the following reason:",
+  "q_ar": null,
+  "options": [
+   "To absorb drainage",
+   "To splint or immobilize the wound",
+   "Protect the wound from bacteria contaminated",
+   "all of above"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f04",
+  "page": 2,
+  "no": null,
+  "lang": "en",
+  "q": "The health history is considered to be a part of the:",
+  "q_ar": null,
+  "options": [
+   "Physical examination",
+   "Sings date",
+   "subjective",
+   "objective"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f04",
+  "page": 2,
+  "no": null,
+  "lang": "en",
+  "q": "Patient about to undergo abdominal inspection, position:",
+  "q_ar": null,
+  "options": [
+   "supine",
+   "Trendelenburg",
+   "Prone",
+   "sidely"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f04",
+  "page": 3,
+  "no": null,
+  "lang": "en",
+  "q": "The nurse prepares to administer buccal medication:",
+  "q_ar": null,
+  "options": [
+   "on the client's skin",
+   "conjunctiva",
+   "between the client's cheek"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f04",
+  "page": 3,
+  "no": null,
+  "lang": "en",
+  "q": "Blood pushes from the heart to lung:",
+  "q_ar": null,
+  "options": [
+   "arteria Right",
+   "Left arteria",
+   "Right ventricul",
+   "Left ventricul"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f04",
+  "page": 3,
+  "no": null,
+  "lang": "en",
+  "q": "What is the things between bone ulna and radius",
+  "q_ar": null,
+  "options": [
+   "",
+   "",
+   "?",
+   "???"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f04",
+  "page": 3,
+  "no": null,
+  "lang": "en",
+  "q": "With measured blood pressure and cave small how impatience and result",
+  "q_ar": null,
+  "options": [
+   "depression",
+   "normal",
+   "hard to reach",
+   "??"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f04",
+  "page": 3,
+  "no": null,
+  "lang": "en",
+  "q": "With arrival client to emergency room he bleeding extra special in the blood is contagious",
+  "q_ar": null,
+  "options": [
+   "when he's hands before conducing",
+   "wear gloves with gaon",
+   "hand wash after conducing",
+   "hand sterilizing"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f04",
+  "page": 4,
+  "no": null,
+  "lang": "en",
+  "q": "What is primary examination use in abdominal check",
+  "q_ar": null,
+  "options": [
+   "Palpation",
+   "Percussion",
+   "Inspection",
+   "auscultation"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f04",
+  "page": 4,
+  "no": null,
+  "lang": "en",
+  "q": "Which of the following should the medical assistant teach digoxin of toxicity?",
+  "q_ar": null,
+  "options": [
+   "increased appetite",
+   "skin rash over the chest and back",
+   "Elevated blood pressure",
+   "visual disturbance"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f04",
+  "page": 4,
+  "no": null,
+  "lang": "en",
+  "q": "A client has Gastroesophageal Reflux disease (GERD). The after every meal, the client should:",
+  "q_ar": null,
+  "options": [
+   "Rest prior eat",
+   "rest after eat",
+   "Positivist in eat",
+   "?"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f04",
+  "page": 4,
+  "no": null,
+  "lang": "en",
+  "q": "The bleeding from the head can be prevented by pressure point on:",
+  "q_ar": null,
+  "options": [
+   "Femoral artery",
+   "Facial artery",
+   "Temporal artery",
+   "Radial artery"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 2,
+  "no": 1,
+  "lang": "en",
+  "q": "Of the vaccination used in pregnancy, which is considered safe :",
+  "q_ar": null,
+  "options": [
+   "tetanus",
+   "rubies",
+   "rubella",
+   "Hepatitis B vaccine"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 2,
+  "no": 2,
+  "lang": "en",
+  "q": "patient with hepatitis he say eat contaminated food what type hepatitis",
+  "q_ar": null,
+  "options": [
+   "hepatitis A",
+   "hepatitis B",
+   "hepatitis c",
+   "all of the above"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 2,
+  "no": 3,
+  "lang": "en",
+  "q": "The medical's assistant examines the forehead sinus any of the following places is done ::",
+  "q_ar": null,
+  "options": [
+   "frontal",
+   "Zygomatic",
+   "Maxilla",
+   "temporary"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 2,
+  "no": 4,
+  "lang": "en",
+  "q": "The medical's assistant lists Lymph Node's by Technique Palpation how it is done",
+  "q_ar": null,
+  "options": [
+   "Touch the neck and Head and back",
+   "Pressure or touch by fingers and between fingers",
+   "??"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f15",
+  "page": 2,
+  "no": 5,
+  "lang": "en",
+  "q": "Dr Mohammed tells a client that an increase intake of foods beta carotene are important for healthier skin the nurse teach sources of both of these substances are",
+  "q_ar": null,
+  "options": [
+   "fish and fruit jam",
+   "oranges and grapefruit",
+   "spinach and mangoes",
+   "carrots and potatoes"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 2,
+  "no": 6,
+  "lang": "en",
+  "q": "The medical's assistant lists Lymph Node's by Technique Palpation how it is done",
+  "q_ar": null,
+  "options": [
+   "Touch the neck and Head and back",
+   "Pressure or touch by fingers and between fingers",
+   "??"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f15",
+  "page": 2,
+  "no": 7,
+  "lang": "en",
+  "q": "When installing Foleys Catheter and your doctor is informed about the patient and monitor urine out any of the following quantities that will inform Dr::",
+  "q_ar": null,
+  "options": [
+   "urine loss 30/hr",
+   "urine loss 60 in 2hr",
+   "urine loss 90 in 3 hrs",
+   "urine loss 120 in 4 hrs"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 3,
+  "no": 8,
+  "lang": "en",
+  "q": "The second examination we use in the abdominal check is any of the following:",
+  "q_ar": null,
+  "options": [
+   "Palpation",
+   "inspection",
+   "Auscultation",
+   "percussion"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 3,
+  "no": 9,
+  "lang": "en",
+  "q": "A patient has burns on the chest and abdominal and perineum and posterior & anterior right hand, the appropriate percentage of his body that has been involved is :",
+  "q_ar": null,
+  "options": [
+   "36%",
+   "18%",
+   "28%",
+   "45%"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 3,
+  "no": 10,
+  "lang": "en",
+  "q": "The purpose of the palates is :",
+  "q_ar": null,
+  "options": [
+   "Definition of clot",
+   "definition of bleeding",
+   "determine of thrombosis"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 3,
+  "no": 11,
+  "lang": "en",
+  "q": "A patient male 3 complains of watery diarrhea It looks like a rice watery What is the cause ::",
+  "q_ar": null,
+  "options": [
+   "Guardia",
+   "cholera",
+   "dysentery",
+   "Ameba"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 3,
+  "no": 12,
+  "lang": "en",
+  "q": "Allergic reaction results are considered:",
+  "q_ar": null,
+  "options": [
+   "IGA",
+   "IgG",
+   "IgM",
+   "IgC"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 3,
+  "no": 13,
+  "lang": "en",
+  "q": "The immunization Vaccination It is considered any of the following :",
+  "q_ar": null,
+  "options": [
+   "polio",
+   "DTP",
+   "measles",
+   "Hepatitis B"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 3,
+  "no": 14,
+  "lang": "en",
+  "q": "Nada is admitted to the hospital due to metabolic acidosis caused by diabetic ketoacidosis DKA the nurse prepares which of the following medications as an initial treatment for this problem :",
+  "q_ar": null,
+  "options": [
+   "Potassium",
+   "Sodrum bicarbonate",
+   "Regular insulin",
+   "Calcium gluconate"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 4,
+  "no": 15,
+  "lang": "en",
+  "q": "Which of the following methods saft prevent pregnancy",
+  "q_ar": null,
+  "options": [
+   "candim",
+   "oral contraceptives"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 4,
+  "no": 16,
+  "lang": "en",
+  "q": "All of the following are the effects of the immobility, except:",
+  "q_ar": null,
+  "options": [
+   "Stiffness and pain in the joints.",
+   "Pooling of respiratory secretions.",
+   "Increase metabolic",
+   "Orthostatic hypotension"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 4,
+  "no": 17,
+  "lang": "en",
+  "q": "Some people are very allergic to insect bites and sting this condition",
+  "q_ar": null,
+  "options": [
+   "toxic shock syndrome",
+   "septic shock",
+   "Anaphylactic shock",
+   "all of the above"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 4,
+  "no": 18,
+  "lang": "en",
+  "q": "The medical assistant is instructing the male client who has reduce postoperative swelling following the procedure. What should",
+  "q_ar": null,
+  "options": [
+   "Limit oral fluid",
+   "the scrotum",
+   "Remain in a low-fibe..........",
+   "Apply heat to the abdomen"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f15",
+  "page": 4,
+  "no": 19,
+  "lang": "en",
+  "q": "Which of the following symptoms during the hepatitis virus",
+  "q_ar": null,
+  "options": [
+   "tarry stool",
+   "watery stool",
+   "yellow sclera",
+   "short"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 4,
+  "no": 20,
+  "lang": "en",
+  "q": "The second techniques used to examine the abdomen of a",
+  "q_ar": null,
+  "options": [
+   "Inspection.",
+   "Percussion.",
+   "Puncturing",
+   "Palpation"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 4,
+  "no": 21,
+  "lang": "en",
+  "q": "The hospital floors and surfaces are cleaned frequently with:",
+  "q_ar": null,
+  "options": [
+   "Detergent",
+   "Soap and water",
+   "A detergent germicide"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 4,
+  "no": 22,
+  "lang": "en",
+  "q": "If unable to locate the client's popliteal pulse during a routine ex nurse do next?",
+  "q_ar": null,
+  "options": [
+   "Check for a pedal pulse.",
+   "Take the client's blood pressure on that thigh.",
+   "Check for a femoral",
+   "Ask another nurse"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 5,
+  "no": 23,
+  "lang": "en",
+  "q": "Which of the following antituberculosis drugs can damage on liver",
+  "q_ar": null,
+  "options": [
+   "Ethambutol hydrochloride (myambutol)",
+   "Paraoaminosalicylic acid (PAS)",
+   "Streptomycin",
+   "Isoniazid"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 5,
+  "no": 24,
+  "lang": "en",
+  "q": "Which of the following factors is not affecting susceptibility to infections",
+  "q_ar": null,
+  "options": [
+   "Weakened cough reflex",
+   "Poor hygiene practices",
+   "Adequate nutrition",
+   "Suppressed immune system"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 5,
+  "no": 25,
+  "lang": "en",
+  "q": "An infected patient has chills and begin shivering, the best nursing intervention is to",
+  "q_ar": null,
+  "options": [
+   "Apply iced alcohol sponges",
+   "provide increased cool liquids",
+   "provide additional body bed clothes",
+   "provide increased ventilation"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 5,
+  "no": 26,
+  "lang": "en",
+  "q": "which the following clinical procedure always requires urinary surgical asepsis:",
+  "q_ar": null,
+  "options": [
+   "vaginal installation of conjugated estrogen",
+   "urinary cauterization",
+   "nasogastric tube insertion",
+   "colostomy irrigation"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 5,
+  "no": 27,
+  "lang": "en",
+  "q": "A client has Gastroesophageal Reflux Disease (GERD). The fter every meal, the client should,",
+  "q_ar": null,
+  "options": [
+   "post intake meal",
+   "low bed",
+   "??"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 1,
+  "lang": "en",
+  "q": "[Q2 True/False] Rest refers to a state of altered consciousness during which an indication physical activity and a general slowing of the body's physiological (  )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 2,
+  "lang": "en",
+  "q": "[Q2 True/False] chemical defense mechanisms include enzymes such as lysozyme (  )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 3,
+  "lang": "en",
+  "q": "[Q2 True/False] Rescue breaths should be delivered slowly to avoid inflation of the lung (  )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 4,
+  "lang": "en",
+  "q": "[Q2 True/False] Vital signs are fundamental to physical assessment to establish ... respiratory integrity (  )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 5,
+  "lang": "en",
+  "q": "[Q2 True/False] Loneliness occurs when a client can interact with family and friends",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 6,
+  "lang": "en",
+  "q": "[Q2 True/False] Leaving against medical advice (AMA) is a term that applies to situations in which the client leaves after the physician authorizes the discharge",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 7,
+  "lang": "en",
+  "q": "[Q2 True/False] Invasion of personal space produces discomfort, anxiety, and the fight-or-flight response",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 8,
+  "lang": "en",
+  "q": "[Q2 True/False] Patients who have experienced prolonged anesthesia usually are unconscious (  )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 9,
+  "lang": "en",
+  "q": "[Q2 True/False] The secondary survey is a process carried out in order to detect li..... (  )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 10,
+  "lang": "en",
+  "q": "[Q2 True/False] The recovery position is vital in maintaining support of the airway (  )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 11,
+  "lang": "en",
+  "q": "[Q2 True/False] The health provider uses the sense of touch when performing pa (  )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 12,
+  "lang": "en",
+  "q": "[Q2 True/False] Once all admission data are collected, develops an initial plan for client's care as soon as possible (  )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 13,
+  "lang": "en",
+  "q": "[Q2 True/False] Techniques of physical assessment. is the examination of the pa (  )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 14,
+  "lang": "en",
+  "q": "[Q2 True/False] Sleep is characterized by cycles of change in progress from ligh (  )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 15,
+  "lang": "en",
+  "q": "[Q2 True/False] Pharmacology is the study of the effects of drugs on living orga",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 16,
+  "lang": "en",
+  "q": "[Q2 True/False] Percussion is the technique of using touch to gather information vibrations, and shape (  )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 17,
+  "lang": "en",
+  "q": "[Q2 True/False] Percussion hammer is an Instrument with rubber head used to test sensory system (  )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 18,
+  "lang": "en",
+  "q": "[Q2 True/False] Partial airway obstruction is indicated if the casualty cannot sp (  )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 19,
+  "lang": "en",
+  "q": "[Q2 True/False] Parasomnia means sleep alterations resulting from an activation inappropriate times during the sleep-wake cycle (  )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f15",
+  "page": 6,
+  "no": 20,
+  "lang": "en",
+  "q": "[Q2 True/False] Sleep alters breathing patterns, ventilation & arterial blood .......(  )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ }
+]

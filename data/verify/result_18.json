@@ -1,0 +1,843 @@
+[
+ {
+  "id": "Q0773",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "PRN اختصار pro re nata أي «عند الحاجة»؛ الخياران As needed وAs necessary مترادفان وكلاهما صحيح، والخيار الأخير مشوّه («None all above») وimmediately تعني STAT، فلا إجابة وحيدة قاطعة؛ الأرجح As needed.",
+  "refs": [
+   {
+    "title": "List of medical abbreviations: Latin abbreviations (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/List_of_medical_abbreviations:_Latin_abbreviations"
+   },
+   {
+    "title": "Top 150 Prescription Abbreviations & Medical Meanings (Drugs.com)",
+    "url": "https://www.drugs.com/article/prescription-abbreviations.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0775",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص كتاب Brunner يعدّد أسباب التهاب المعدة الحاد بالطعام المهيّج والإفراط في الأسبرين/NSAIDs والكحول، وينسب H. pylori إلى الالتهاب المزمن، فالاستثناء المقصود هو H. pylori؛ لكن Mayo Clinic تعدّها سببًا شائعًا للالتهاب أيضًا، فالحسم قائم على منهج الكتاب المقرر لا على الطب الحديث.",
+  "refs": [
+   {
+    "title": "Assessment of Patients Knowledge about Gastritis (Mosul Nursing Journal; quotes Brunner & Suddarth text)",
+    "url": "https://radab.uomosul.edu.iq/index.php/mjn/article/download/46298/46036/46341"
+   },
+   {
+    "title": "Gastritis - Symptoms and causes (Mayo Clinic)",
+    "url": "https://www.mayoclinic.org/diseases-conditions/gastritis/symptoms-causes/syc-20355807"
+   }
+  ]
+ },
+ {
+  "id": "Q0776",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "التقنية المعقمة (surgical asepsis) تُستخدم في الإجراءات الغازية مثل القسطرة البولية وتركيب الخطوط الوريدية المركزية وأنابيب الصدر والجراحة، لا في العزل الصارم أو التطهير النهائي.",
+  "refs": [
+   {
+    "title": "10.2 Asepsis and PPE - Fundamentals of Nursing (OpenStax)",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/10-2-asepsis-and-ppe"
+   },
+   {
+    "title": "10.3 Sterile Technique - Fundamentals of Nursing (OpenStax)",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/10-3-sterile-technique"
+   }
+  ]
+ },
+ {
+  "id": "Q0777",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "REM (حركة العين السريعة) مرحلة طبيعية من النوم وليست اضطرابًا؛ أما الأرق والخدار (narcolepsy) وانقطاع النفس النومي فاضطرابات نوم شائعة.",
+  "refs": [
+   {
+    "title": "Common Sleep Disorders in Adults: Diagnosis and Management (AAFP, 2022)",
+    "url": "https://www.aafp.org/pubs/afp/issues/2022/0400/p397.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0778",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الوسائد تُستخدم لرفع الأطراف ودعم الوضعية العلاجية (ولتجبير البطن أثناء السعال/التنفس العميق)، أما الأغطية والمرتبة وطاولة السرير فلا تؤدي هذه الوظائف؛ لم أعثر على نص حرفي يطابق الصياغة فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "9.4 Positioning in Bed - Clinical Nursing Skills (OpenStax)",
+    "url": "https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed"
+   },
+   {
+    "title": "2.08 Position Support Devices - Basic Patient Care Procedures",
+    "url": "https://brooksidepress.org/basic_patient_care/?page_id=208"
+   }
+  ]
+ },
+ {
+  "id": "Q0781",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "لقاح BCG يترك ندبة صغيرة مسطّحة دائمة في موضع الحقن بعد التئام القرحة، أما DPT فلا يرتبط بندبة مميزة؛ ملاحظة: الخيارات مقتطعة (خياران فقط) فالإجابة مبنية على المتاح.",
+  "refs": [
+   {
+    "title": "BCG vaccine for tuberculosis (TB) (NHS)",
+    "url": "https://www.nhs.uk/vaccinations/bcg-vaccine-for-tuberculosis-tb/"
+   }
+  ]
+ },
+ {
+  "id": "Q0782",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "السل البقري (M. bovis) ينتقل للإنسان غالبًا عبر الحليب ومنتجاته غير المبسترة من الأبقار المصابة؛ بينما الليبتوسبيرا تنتقل ببول الحيوانات/المياه الملوثة والضنك بالبعوض والطاعون بالبراغيث.",
+  "refs": [
+   {
+    "title": "Human Tuberculosis Caused by Mycobacterium bovis - New York City, 2001-2004 (CDC MMWR)",
+    "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5424a4.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0783",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "توصيات CDC لسن 3–5 سنوات هي 10–13 ساعة يوميًا (مع القيلولة) فخيار 10–12 أقرب؛ لكن بعض كتب التمريض تذكر نحو 12 ساعة (وخيار 12–14 ساعة يطابق الطفل الدارج)، والقيمة 12 تقع في الخيارين فلا حسم قاطع.",
+  "refs": [
+   {
+    "title": "About Sleep: recommended sleep duration by age (CDC)",
+    "url": "https://www.cdc.gov/sleep/about/index.html"
+   },
+   {
+    "title": "How Much Sleep Do Babies and Kids Need? (Sleep Foundation)",
+    "url": "https://www.sleepfoundation.org/children-and-sleep/how-much-sleep-do-kids-need"
+   }
+  ]
+ },
+ {
+  "id": "Q0789",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "Tachypnea تعني التنفس السريع (معدل تنفس الكبار أكثر من 20 نفسًا/دقيقة)، وليس تسارع النبض (tachycardia) ولا بطأ التنفس (bradypnea).",
+  "refs": [
+   {
+    "title": "Tachypnea - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/n/statpearls/article-29855/"
+   }
+  ]
+ },
+ {
+  "id": "Q0790",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الترتيب المعياري لفحص الصدر: المعاينة (inspection) ثم الجس ثم القرع ثم التسمّع (الاستثناء هو البطن)؛ الخياران 2 و3 متطابقان وكلاهما يبدآن بالتسمّع وهو خطأ.",
+  "refs": [
+   {
+    "title": "Chapter 4: Techniques of Physical Assessment (Pressbooks)",
+    "url": "https://pressbooks.pub/raquelbertiz1969/chapter/chapter-4-techniques-of-physical-assessment/"
+   },
+   {
+    "title": "Respiratory examination (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Respiratory_examination"
+   }
+  ]
+ },
+ {
+  "id": "Q0791",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "المريض فاقد الوعي يُوضع في الوضع الجانبي (lateral) مواجهًا للممرض أثناء الشفط لتصريف الإفرازات، بينما يُوضع الواعي في وضع نصف الجلوس (semi-Fowler).",
+  "refs": [
+   {
+    "title": "22.4 Oropharyngeal and Nasopharyngeal Suctioning Checklist (Open RN / WTCS Nursing Skills)",
+    "url": "https://wtcs.pressbooks.pub/nursingskills/chapter/22-4-oropharyngeal-and-nasopharyngeal-suctioning-checklist-and-sample-documentation/"
+   },
+   {
+    "title": "5.8 Oral Suctioning - Clinical Procedures for Safer Patient Care (BCcampus)",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/5-7-oral-suctioning/"
+   },
+   {
+    "title": "Performing Suctioning (Nurseslabs)",
+    "url": "https://nurseslabs.com/performing-suctioning/"
+   }
+  ]
+ },
+ {
+  "id": "Q0792",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "المريض فاقد الوعي يُوضع في الوضع الجانبي (lateral) مواجهًا للممرض أثناء الشفط، بينما يُوضع الواعي في وضع نصف الجلوس؛ السؤال مكرّر تقريبًا لـ Q0791.",
+  "refs": [
+   {
+    "title": "22.4 Oropharyngeal and Nasopharyngeal Suctioning Checklist (Open RN / WTCS Nursing Skills)",
+    "url": "https://wtcs.pressbooks.pub/nursingskills/chapter/22-4-oropharyngeal-and-nasopharyngeal-suctioning-checklist-and-sample-documentation/"
+   },
+   {
+    "title": "5.8 Oral Suctioning - Clinical Procedures for Safer Patient Care (BCcampus)",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/5-7-oral-suctioning/"
+   },
+   {
+    "title": "Performing Suctioning (Nurseslabs)",
+    "url": "https://nurseslabs.com/performing-suctioning/"
+   }
+  ]
+ },
+ {
+  "id": "Q0793",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "مدة كل تمريرة شفط 10–15 ثانية كحد أقصى مع راحة 30 ثانية–دقيقة بين التمريرات؛ الخيار الأول هو الوحيد المتسق مع ذلك، أما سقف الـ5 دقائق للمدة الكلية فلم أجد نصًا صريحًا يؤكده في المراجع المسترجَعة فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "22.4 Oropharyngeal and Nasopharyngeal Suctioning Checklist (Open RN / WTCS Nursing Skills)",
+    "url": "https://wtcs.pressbooks.pub/nursingskills/chapter/22-4-oropharyngeal-and-nasopharyngeal-suctioning-checklist-and-sample-documentation/"
+   },
+   {
+    "title": "5.8 Oral Suctioning - Clinical Procedures for Safer Patient Care (BCcampus)",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/5-7-oral-suctioning/"
+   },
+   {
+    "title": "Performing Suctioning (Nurseslabs)",
+    "url": "https://nurseslabs.com/performing-suctioning/"
+   }
+  ]
+ },
+ {
+  "id": "Q0794",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "مراقبة مريض التغذية الأنفية المعدية تشمل التأكد من موضع الأنبوب (شفط السائل المعدي واختبار pH) والتحسس الغذائي وتسمّع أصوات الأمعاء لتقييم تحمّل التغذية، فجميعها صحيحة.",
+  "refs": [
+   {
+    "title": "Your Guide to Nasogastric Tube Feeding (Frimley Health NHS Foundation Trust)",
+    "url": "https://www.fhft.nhs.uk/patients-and-visitors/patient-information-library/your-guide-ng-tube-feeding"
+   },
+   {
+    "title": "NG Tube-Bolus Feed (East Carolina University College of Nursing)",
+    "url": "https://nursing.ecu.edu/cils/ng-tube-bolus-feed/"
+   }
+  ]
+ },
+ {
+  "id": "Q0795",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "بعد التغذية الأنفية المعدية يُبقى المريض منتصبًا/نصف جالس 30–60 دقيقة ويُتجنّب الاستلقاء المسطّح خوف الارتجاع والاستنشاق، ويُغسل الأنبوب بالماء ويُغلق؛ لذا الاستلقاء الظهري هو الخطأ (الاستثناء).",
+  "refs": [
+   {
+    "title": "Your Guide to Nasogastric Tube Feeding (Frimley Health NHS Foundation Trust)",
+    "url": "https://www.fhft.nhs.uk/patients-and-visitors/patient-information-library/your-guide-ng-tube-feeding"
+   },
+   {
+    "title": "NG Tube-Bolus Feed (East Carolina University College of Nursing)",
+    "url": "https://nursing.ecu.edu/cils/ng-tube-bolus-feed/"
+   }
+  ]
+ },
+ {
+  "id": "Q0796",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخياران 0 و3 متطابقان (multivitamin/multivitamins) وكذلك amitriptyline وبعض الأدوية الأخرى قد تغيّر لون البول، فلا إجابة وحيدة قابلة للدفاع؛ المراجع تؤكد أن فيتامينات B المركبة تغيّر لون البول لكن التكرار يمنع تحديد الفهرس.",
+  "refs": [
+   {
+    "title": "Urine - abnormal color (MedlinePlus)",
+    "url": "https://medlineplus.gov/ency/article/003139.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0797",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "1 غرام = 1000 ملغم، إذن 30 ملغم = 0.03 غم.",
+  "refs": [
+   {
+    "title": "Chapter 5 Math Calculations - Nursing Skills (NCBI Bookshelf, Open RN)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK596732/"
+   },
+   {
+    "title": "2.4 Dosage Calculations - Pharmacology for Nurses (OpenStax)",
+    "url": "https://openstax.org/books/pharmacology/pages/2-4-dosage-calculations"
+   }
+  ]
+ },
+ {
+  "id": "Q0798",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "1 غرام = 1000 ملغم، إذن 2.5 غرام = 2500 ملغم.",
+  "refs": [
+   {
+    "title": "Chapter 5 Math Calculations - Nursing Skills (NCBI Bookshelf, Open RN)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK596732/"
+   },
+   {
+    "title": "2.4 Dosage Calculations - Pharmacology for Nurses (OpenStax)",
+    "url": "https://openstax.org/books/pharmacology/pages/2-4-dosage-calculations"
+   }
+  ]
+ },
+ {
+  "id": "Q0799",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الرقم الهيدروجيني الطبيعي للبول 4.6–8.0 (يقرّب غالبًا 4.5–8) فالخيار 4–8 هو الأقرب؛ الخيارات الأخرى خارج النطاق الفيزيولوجي.",
+  "refs": [
+   {
+    "title": "Urine pH test (MedlinePlus)",
+    "url": "https://medlineplus.gov/ency/article/003583.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0800",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "تركيب القثطار البولي يتضمن فحص البالون قبل الإدخال (ممارسة معيارية لم أجد نصًا يذكرها صراحة في المراجع المسترجَعة)، ودفع القثطار 2.5–5 سم إضافية بعد ظهور البول، ونفخ البالون بالحجم المحدد من المصنّع فقط؛ فجميعها صحيحة.",
+  "refs": [
+   {
+    "title": "Foley Catheter Insertion - Female (East Carolina University College of Nursing)",
+    "url": "https://nursing.ecu.edu/cils/foley-catheter-insertion-female/"
+   },
+   {
+    "title": "Indwelling urinary catheter insertion 2: procedure for adults (Oxford Health NHS FT)",
+    "url": "https://www.oxfordhealth.nhs.uk/wp-content/uploads/sites/24/2023/08/230327-Indwelling-urinary-catheter-insertion-2-procedure-for-adults.pdf"
+   },
+   {
+    "title": "Indwelling urinary catheter insertion and ongoing care (Royal Children's Hospital Melbourne)",
+    "url": "https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Indwelling_urinary_catheter_insertion_and_ongoing_care/"
+   }
+  ]
+ },
+ {
+  "id": "Q0801",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الأكثر عرضة لقرحات الفراش هم من لا يستطيعون الحركة أو تغيير وضعهم، والمريض فاقد الوعي أشدّهم عجزًا عن الحركة وإحساسًا بالضغط؛ مرضى الجراحة والسكري عوامل خطر أيضًا لكنها أقل مباشرة.",
+  "refs": [
+   {
+    "title": "Pressure injury prevention and management (Royal Children's Hospital Melbourne)",
+    "url": "https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/pressure_injury_prevention_and_management/"
+   },
+   {
+    "title": "Pressure Injuries (ATrain Education)",
+    "url": "https://www.atrainceu.com/content/3-pressure-injuries"
+   },
+   {
+    "title": "Pressure ulcers (NHS)",
+    "url": "https://www.nhs.uk/conditions/pressure-ulcers/"
+   }
+  ]
+ },
+ {
+  "id": "Q0802",
+  "verdict": "answered",
+  "answer": 4,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الوقاية من قرحات الفراش تشمل تغيير الوضع بانتظام (كل ساعتين للعاجز عن الحركة) وتنظيف الجلد وفحصه يوميًا وتشجيع الحركة والنشاط؛ فكل الإجراءات المذكورة صحيحة.",
+  "refs": [
+   {
+    "title": "Pressure injury prevention and management (Royal Children's Hospital Melbourne)",
+    "url": "https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/pressure_injury_prevention_and_management/"
+   },
+   {
+    "title": "Pressure ulcers (NHS)",
+    "url": "https://www.nhs.uk/conditions/pressure-ulcers/"
+   },
+   {
+    "title": "Pressure Injuries (ATrain Education)",
+    "url": "https://www.atrainceu.com/content/3-pressure-injuries"
+   }
+  ]
+ },
+ {
+  "id": "Q0803",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "PRN تعني «عند الحاجة» (as needed)؛ الخيار الأول هو الوحيد الذي يتضمن «عند اللزوم» رغم أن عبارة «مرة واحدة فقط» فيه غير دقيقة، أما بقية الخيارات فتمثّل once وtid وbid.",
+  "refs": [
+   {
+    "title": "List of medical abbreviations: Latin abbreviations (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/List_of_medical_abbreviations:_Latin_abbreviations"
+   },
+   {
+    "title": "Top 150 Prescription Abbreviations & Medical Meanings (Drugs.com)",
+    "url": "https://www.drugs.com/article/prescription-abbreviations.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0804",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "tid اختصار ter in die أي ثلاث مرات في اليوم (bid مرتان، qid أربع مرات).",
+  "refs": [
+   {
+    "title": "List of medical abbreviations: Latin abbreviations (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/List_of_medical_abbreviations:_Latin_abbreviations"
+   },
+   {
+    "title": "Top 150 Prescription Abbreviations & Medical Meanings (Drugs.com)",
+    "url": "https://www.drugs.com/article/prescription-abbreviations.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0805",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الحجم = (المطلوب 500 ملغم ÷ المتوفر 250 ملغم) × 5 مل = 10 مل، وفق قاعدة D/H × Q.",
+  "refs": [
+   {
+    "title": "2.4 Dosage Calculations - Pharmacology for Nurses (OpenStax)",
+    "url": "https://openstax.org/books/pharmacology/pages/2-4-dosage-calculations"
+   },
+   {
+    "title": "Chapter 5 Math Calculations - Nursing Skills (NCBI Bookshelf, Open RN)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK596732/"
+   }
+  ]
+ },
+ {
+  "id": "Q0806",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "sphygmomanometer هو جهاز قياس ضغط الدم الشرياني (كفة قابلة للنفخ ومقياس ضغط).",
+  "refs": [
+   {
+    "title": "Sphygmomanometer (EBSCO Research Starters)",
+    "url": "https://www.ebsco.com/research-starters/health-and-medicine/sphygmomanometer/"
+   }
+  ]
+ },
+ {
+  "id": "Q0807",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الصياغة غير واضحة (على الأرجح «أول ما يجب»)، وكل الخيارات من إجراءات استقبال المريض؛ أرجّح أن الخطوة الأولى هي أن يعرّف الممرض بنفسه للمريض، لكن لم أصل إلى مرجع مباشر يحدد الترتيب فلا حسم.",
+  "refs": []
+ },
+ {
+  "id": "Q0808",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "معدل النبض الطبيعي للبالغ في الراحة 60–100 نبضة/دقيقة (وتذكر كتب التمريض غالبًا 60–80)؛ خيار 60–80 هو الوحيد ضمن النطاق الطبيعي والبقية خارجه.",
+  "refs": [
+   {
+    "title": "All About Heart Rate (Pulse) (American Heart Association)",
+    "url": "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse"
+   },
+   {
+    "title": "Vital signs (MedlinePlus)",
+    "url": "https://medlineplus.gov/ency/article/002341.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0809",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "في تسلسل الإنعاش الأساسي (AHA) بعد التأكد من سلامة المكان وفحص الاستجابة تأتي مباشرة طلب المساعدة وتفعيل الاستجابة الطارئة، ثم فحص التنفس والنبض؛ فطلب المساعدة أول الخيارات المعروضة (وليس نقل المريض أو كتابة التقرير)، وقد تعدّه بعض الأسئلة المحلية ABC فيبدأ بالمجرى الهوائي.",
+  "refs": [
+   {
+    "title": "Adult Basic Life Support Algorithm for Healthcare Providers - text description (AHA)",
+    "url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/Algorithms/Text-Descriptions/AlgorithmBLS_Adult_LngDscrp_200702_Ed.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0810",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "قرحات الفراش من الحالات التي يمكن الوقاية منها وتُعدّ مؤشرًا على جودة الرعاية التمريضية، فكثرتها في القسم تدل على سوء العناية التمريضية؛ اعتماد المريض على غيره عامل خطر فردي لا تفسير لكثرتها، وليست العدوى البكتيرية سببها.",
+  "refs": [
+   {
+    "title": "Pressure ulcer (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Pressure_ulcer"
+   },
+   {
+    "title": "Pressure ulcers (NHS)",
+    "url": "https://www.nhs.uk/conditions/pressure-ulcers/"
+   },
+   {
+    "title": "Pressure injury prevention and management (Royal Children's Hospital Melbourne)",
+    "url": "https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/pressure_injury_prevention_and_management/"
+   }
+  ]
+ },
+ {
+  "id": "Q0811",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "من علامات الجفاف قلة التبول (التبول أقل من المعتاد مع بول داكن)، أما صعوبة التنفس واحمرار الجلد وانخفاض الحرارة فليست من علاماته المميزة.",
+  "refs": [
+   {
+    "title": "Dehydration (NHS)",
+    "url": "https://www.nhs.uk/conditions/dehydration/"
+   }
+  ]
+ },
+ {
+  "id": "Q0812",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "العملية التمريضية منهج منظّم قائم على التفكير العلمي والنقدي في تقديم الرعاية (تقييم، تشخيص، تخطيط، تنفيذ، تقييم)؛ بقية الخيارات تصف خطوات جزئية منها فقط.",
+  "refs": [
+   {
+    "title": "Nursing Process - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK499937/"
+   }
+  ]
+ },
+ {
+  "id": "Q0813",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "معدل التنفس الطبيعي للبالغ نحو 12–20 نفسًا/دقيقة، وخيار 16–20 هو الوحيد ضمن هذا النطاق والبقية خارجه.",
+  "refs": [
+   {
+    "title": "Vital signs (MedlinePlus)",
+    "url": "https://medlineplus.gov/ency/article/002341.htm"
+   },
+   {
+    "title": "Tachypnea - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/n/statpearls/article-29855/"
+   }
+  ]
+ },
+ {
+  "id": "Q0814",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الفم (القياس الفموي) هو الأكثر شيوعًا واستخدامًا للبالغين المتعاونين في كتب التمريض، بينما الإبط أقل دقة والمستقيم للرضّع/الحالات الخاصة؛ في بعض البيئات يُستخدم الإبط كثيرًا فقد تختلف الممارسة المحلية.",
+  "refs": [
+   {
+    "title": "9.6 Temperature (BCcampus Health Care Assistant)",
+    "url": "https://opentextbc.ca/hcalabtheoryandpractice/chapter/temperature/"
+   },
+   {
+    "title": "Vital Signs: Temperature Assessment (Nurseslabs)",
+    "url": "https://nurseslabs.com/vital-signs-assessing-body-temperature/"
+   }
+  ]
+ },
+ {
+  "id": "Q0815",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "عند الاشتباه بتفاعل نقل الدم (طفح مع حمّى) أول إجراء هو إيقاف نقل الدم فورًا مع إبقاء الوريد مفتوحًا بمحلول ملحي ثم إبلاغ الطبيب؛ الاستمرار في النقل خطر.",
+  "refs": [
+   {
+    "title": "Identification and Management of Adverse Transfusion Reactions NLBCP-036 (Newfoundland & Labrador Blood Services)",
+    "url": "https://www.gov.nl.ca/hcs/files/bloodservices-pdf-manage-adverse-events.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0816",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "عدد كريات الدم الحمراء الطبيعي نحو 4–6 مليون/ميكرولتر (رجال 4.2–5.7 ونساء 3.8–5.1)؛ الخيارات الأخرى لا تمثل تعداد الحمراء.",
+  "refs": [
+   {
+    "title": "RBC count (MedlinePlus)",
+    "url": "https://medlineplus.gov/ency/article/003644.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0817",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "يفحص مقدّم الرعاية الصحية نبض الشريان السباتي (carotid) في الرقبة لدى البالغ فاقد الاستجابة (بحد أقصى 10 ثوانٍ).",
+  "refs": [
+   {
+    "title": "CPR Techniques and Sequence - Red Cross Guidelines Database",
+    "url": "https://guidelines.redcross.org/guidelines-database/cpr-techniques-and-sequence/"
+   },
+   {
+    "title": "Adult Basic and Advanced Life Support (AHA CPR & ECC Guidelines)",
+    "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-and-advanced-life-support"
+   }
+  ]
+ },
+ {
+  "id": "Q0818",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "يُوقف الإنعاش عند عودة الدورة الدموية التلقائية (عودة النبض والتنفس)؛ كسر الأضلاع شائع أثناء الإنعاش ولا يوجب التوقف، ولا يُعتدّ بإعلان الوفاة من مسعف غير طبيب.",
+  "refs": [
+   {
+    "title": "CPR Techniques and Sequence - Red Cross Guidelines Database",
+    "url": "https://guidelines.redcross.org/guidelines-database/cpr-techniques-and-sequence/"
+   },
+   {
+    "title": "Adult Basic Life Support Algorithm for Healthcare Providers - text description (AHA)",
+    "url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/Algorithms/Text-Descriptions/AlgorithmBLS_Adult_LngDscrp_200702_Ed.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0819",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الإجابة وفق إرشادات AHA القديمة (1992–2000): نسبة 15:2 لمنقذ واحد مع إعادة تقييم النبض بعد أربع دورات؛ وقد استُبدلت منذ 2005 بالنسبة 30:2 (الحالية)، ولم أسترجع النص الحرفي لتعريف «البالغ فوق 8 سنوات» ولا لتفصيل الدورات الأربع.",
+  "refs": [
+   {
+    "title": "Lockey & Nolan, BMJ 2001 editorial on Guidelines 2000 CPR (PMC)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1121373"
+   },
+   {
+    "title": "Single rescuer CPR: Can anyone perform to the Guidelines 2000 recommendations? (Resuscitation)",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0300957206001055"
+   },
+   {
+    "title": "The changes in cardiopulmonary resuscitation guidelines: from 2000 to the present (PMC)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6944876/"
+   },
+   {
+    "title": "Adult Basic Life Support Algorithm for Healthcare Providers - text description (AHA)",
+    "url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/Algorithms/Text-Descriptions/AlgorithmBLS_Adult_LngDscrp_200702_Ed.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0821",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الدفعات البطنية (مناورة هايمليك) تقنية إسعافية لتفريج انسداد المجرى الهوائي بجسم غريب (الاختناق) عند المصاب الواعي، وليست لجس النبض أو التنفس الصناعي.",
+  "refs": [
+   {
+    "title": "Abdominal thrusts (MedlinePlus)",
+    "url": "https://medlineplus.gov/ency/article/000047.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0822",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الإسعاف الأولي للصرع: إبعاد الأشياء الخطرة/الحادة، وعدم تقييد المصاب أو الإدخال في فمه، ووضع وسادة ناعمة تحت الرأس وحمايته، وملازمته حتى تنتهي النوبة؛ فكل الخيارات صحيحة.",
+  "refs": [
+   {
+    "title": "First Aid for Seizures (CDC)",
+    "url": "https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0823",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "ارتفاع ضغط الدم وأمراض القلب والسكري كلها من عوامل خطر السكتة الدماغية وفق CDC.",
+  "refs": [
+   {
+    "title": "Stroke Risk Factors (CDC)",
+    "url": "https://www.cdc.gov/stroke/risk-factors/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0824",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الموت السريري توقف الدورة الدموية والتنفس وهو حالة قابلة للانعكاس نظريًا بالإنعاش، أما موت خلايا الدماغ فهو الموت البيولوجي غير الرجعي؛ المرجع المتاح عام (ويكيبيديا) فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Clinical death (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Clinical_death"
+   }
+  ]
+ },
+ {
+  "id": "Q0825",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الشريان الرئوي ينقل الدم قليل الأكسجين من البطين الأيمن إلى الرئتين، وهو الشريان الوحيد بين الخيارات الذي يحمل دمًا غير مؤكسد (بقية الشرايين تحمل دمًا مؤكسدًا).",
+  "refs": [
+   {
+    "title": "Heart: blood flow (NHLBI, NIH)",
+    "url": "https://www.nhlbi.nih.gov/health/heart/blood-flow"
+   },
+   {
+    "title": "Pulmonary artery (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Pulmonary_artery"
+   }
+  ]
+ },
+ {
+  "id": "Q0826",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "تشمل أدوار الممرض التعليم (educator) والقيادة والمشاركة في قيادة التغيير وفق تقرير NASEM عن مستقبل التمريض؛ لم أجد مرجعًا واحدًا يجمع الأدوار الثلاثة بنصها، وهي مدرجة عادةً في كتب التمريض (قائد/معلّم/عامل تغيير).",
+  "refs": [
+   {
+    "title": "The Future of Nursing: Leading Change, Advancing Health (NASEM/IOM, NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK209880/"
+   },
+   {
+    "title": "1.3 Nursing as a Profession - Fundamentals of Nursing (OpenStax)",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/1-3-nursing-as-a-profession"
+   }
+  ]
+ },
+ {
+  "id": "Q0820",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "المقابلة (interview) هي الطريقة الأكثر استخدامًا لجمع بيانات التاريخ المرضي وتتطلب مهارات تواصل عالية (إصغاء فعّال وتعاطف وبناء علاقة)؛ الفحص الجسماني والملاحظة طريقتان أخريان لجمع البيانات.",
+  "refs": [
+   {
+    "title": "The Medical Interview - Clinical Methods (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK349/"
+   },
+   {
+    "title": "Nursing assessment (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Nursing_assessment"
+   }
+  ]
+ },
+ {
+  "id": "Q0827",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "في الإسهال يُنصح بالإكثار من السوائل (ماء ومحاليل الإماهة الفموية) للوقاية من الجفاف؛ الحقنة الشرجية مفرّغة ولا مكان لها في علاج الإسهال، ولا تنص صفحة NIDDK على الإكثار من الألياف.",
+  "refs": [
+   {
+    "title": "Treatment for Diarrhea (NIDDK, NIH)",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/diarrhea/treatment"
+   }
+  ]
+ },
+ {
+  "id": "Q0828",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "أشعة الصدر البسيطة تكشف حجم القلب وشكله وموضعه (تضخم القلب) وعلامات الفشل القلبي؛ أما تروية القلب والشرايين التاجية والصمامات فتُقيَّم بفحوص أخرى (نووي/قثطرة/إيكو).",
+  "refs": [
+   {
+    "title": "Chest x-ray (MedlinePlus)",
+    "url": "https://medlineplus.gov/ency/article/003804.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0833",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "رفع الرأس لوضع فاولر (نحو 30–45 درجة فأكثر) إجراء تمريضي معياري لتخفيف ضيق النفس، أما زيادة السوائل الوريدية فمضرّة في فشل القلب (العلاج يركّز على إزالة السوائل وتقليل الملح) فخيار «جميع ما ذكر» مرفوض؛ المورفين قد يُستخدم طبيًّا في الوذمة الرئوية الحادة فقد يقصده واضع السؤال، وغياب نص تمريضي صريح يجعل الحسم منخفض الثقة.",
+  "refs": [
+   {
+    "title": "Fowler's position (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Fowler%27s_position"
+   },
+   {
+    "title": "Heart Failure: treatment (NHLBI, NIH)",
+    "url": "https://www.nhlbi.nih.gov/health/heart-failure/treatment"
+   },
+   {
+    "title": "Pulmonary Edema - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK557611/"
+   }
+  ]
+ }
+]

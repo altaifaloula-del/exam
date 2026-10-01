@@ -1,0 +1,20 @@
+{
+  "name": "mazawala-exam-bank",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static exam-prep site (review + timed mock exam) for Yemeni allied-health licensing banks.",
+  "scripts": {
+    "lint": "eslint site tests scripts",
+    "test": "node --test tests/*.test.mjs",
+    "scan": "node scripts/scan.mjs",
+    "check": "npm run lint && npm test && npm run scan",
+    "test:e2e": "node tests/e2e/smoke.mjs && node tests/e2e/review.mjs"
+  },
+  "devDependencies": {
+    "@eslint/js": "9.17.0",
+    "eslint": "9.17.0",
+    "jsdom": "25.0.1",
+    "playwright-core": "^1.56.1"
+  }
+}

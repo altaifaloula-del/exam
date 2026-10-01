@@ -1,0 +1,806 @@
+[
+ {
+  "id": "Q0602",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "المرحلة المكثفة لعلاج السل الرئوي (2HRZE) تتضمن الأيزونيازيد والإيثامبيوتول (مع ريفامبيسين وبيرازيناميد)؛ الخيار الأول هو الوحيد الذي يحوي أدوية سل من الخط الأول، أما بقية الخيارات (بنسلين/ستربتومايسين، تتراسيكلين، بيريدوكسين) فليست علاج السل القياسي.",
+  "refs": [
+   {
+    "title": "WHO consolidated guidelines on tuberculosis: Drug-susceptible TB treatment (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK613096/"
+   }
+  ]
+ },
+ {
+  "id": "Q0603",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "عينة البلغم للسل تؤخذ عند الاستيقاظ صباحًا قبل الأكل والشرب بعد تنظيف الأسنان وغسل الفم بالماء، مع السعال العميق وعدم جمع اللعاب؛ وليس قبل النوم ولا بعد الطعام.",
+  "refs": [
+   {
+    "title": "Instructions for Collecting Sputum for TB - Minnesota Department of Health",
+    "url": "https://www.health.state.mn.us/diseases/tb/basics/factsheets/sputum.html"
+   },
+   {
+    "title": "Sputum Analysis - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK563195/"
+   }
+  ]
+ },
+ {
+  "id": "Q0604",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "بالحذف: الأكسجين في COPD منخفض التدفق (1–2 لتر/د وليس 10 لترات) ويُشجَّع شرب السوائل ولا تُقيَّد، ولا حاجة لعزل تنفسي؛ فيبقى الراحة وحفظ الطاقة وتقليل الجهد كمكوّن أساسي في الخطة. المرجع تمريضي تعليمي فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "COPD Nursing Care Plan: Diagnoses, Interventions & Rationales (RNspeak)",
+    "url": "https://rnspeak.com/copd-nursing-care-plan/"
+   }
+  ]
+ },
+ {
+  "id": "Q0605",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "مريض السل الرئوي المشتبه به أو المؤكد يُوضع فورًا في غرفة عزل هوائي (Airborne) قبل أي إجراء تمريضي آخر.",
+  "refs": [
+   {
+    "title": "CDC: Guidelines for Preventing the Transmission of Mycobacterium tuberculosis in Health-Care Settings, 2005",
+    "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5417a1.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0606",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "تغطية العينين في انفصال الشبكية تهدف إلى تقليل حركة العينين لأن الحركة تزيد الشدّ الزجاجي وتفاقم الانفصال (التغطية الثنائية تقلل حركة العين).",
+  "refs": [
+   {
+    "title": "Bilateral patching in retinal detachment: fluid mechanics and retinal settling (PubMed)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21666245/"
+   },
+   {
+    "title": "Retinal Detachment Nursing Care Plan (Simple Nursing)",
+    "url": "https://simplenursing.com/retinal-detachment-nursing-care-plan/"
+   }
+  ]
+ },
+ {
+  "id": "Q0607",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "يُوضع المريض في وضعية ترندلنبرغ (رأس منخفض 10–30 درجة) أثناء إدخال القسطرة الوريدية المركزية لرفع الضغط الوريدي المركزي وتقليل خطر الصمة الهوائية.",
+  "refs": [
+   {
+    "title": "Reducing Risk of Air Embolism Associated with Central Venous Access Devices (Pennsylvania Patient Safety Authority)",
+    "url": "https://patientsafety.pa.gov/ADVISORIES/Pages/201206_58.aspx"
+   }
+  ]
+ },
+ {
+  "id": "Q0608",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "السيميتيدين (تاغاميت) حاصر لمستقبلات H2 يثبّط إفراز حمض المعدة من الخلايا الجدارية، ويُستعمل في قرحة المعدة/الاثني عشر ومنع النزف الهضمي العلوي.",
+  "refs": [
+   {
+    "title": "Cimetidine - StatPearls",
+    "url": "https://www.statpearls.com/point-of-care/42966"
+   }
+  ]
+ },
+ {
+  "id": "Q0609",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "العلامات الحيوية بعد الجراحة تُقاس كل 15 دقيقة على الأقل حتى استقرار الحالة (ثم تُباعد). المراجع تمريضية تعليمية فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Care of Postoperative Patients (Nurse Key)",
+    "url": "https://nursekey.com/care-of-postoperative-patients/"
+   },
+   {
+    "title": "PACU Nursing Priorities: The First Hour After Surgery (RN-Nurse)",
+    "url": "https://rn-nurse.com/pacu-nursing-priorities-first-hour/"
+   }
+  ]
+ },
+ {
+  "id": "Q0610",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "كلام المريضة عن رغبتها بالإنجاب بعد استئصال الرحم يدل على سوء فهم للعملية (موافقة مستنيرة غير صحيحة)؛ على الممرض تعليق الدواء المهدّئ وإبلاغ الممرضة المسؤولة والطبيب لتوضيح الأمر قبل المتابعة. المرجع تمريضي تعليمي.",
+  "refs": [
+   {
+    "title": "Preoperative Phase - Perioperative Nursing (Nurseslabs)",
+    "url": "https://nurseslabs.com/preoperative-phase/"
+   }
+  ]
+ },
+ {
+  "id": "Q0611",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "أول أولوية عند استلام المريض بعد الجراحة هي تقييم مجرى الهواء والتنفس والعلامات الحيوية (ABC) قبل تقييم الجرح أو البول أو الحالة النفسية. (السؤال فيه خطأ نسخ بسيط لا يغيّر الحكم.)",
+  "refs": [
+   {
+    "title": "Care of Postoperative Patients (Nurse Key)",
+    "url": "https://nursekey.com/care-of-postoperative-patients/"
+   },
+   {
+    "title": "PACU Nursing Priorities: The First Hour After Surgery (RN-Nurse)",
+    "url": "https://rn-nurse.com/pacu-nursing-priorities-first-hour/"
+   }
+  ]
+ },
+ {
+  "id": "Q0612",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "فصيلة AB موجب هي المستقبِل العام لكريات الدم الحمراء: يمكن أن يتلقى كريات من A وB وAB وO (حسب توافق Rh).",
+  "refs": [
+   {
+    "title": "Blood Types (American Red Cross)",
+    "url": "https://www.redcrossblood.org/donate-blood/blood-types.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0613",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "الخيارات كلها ضعيفة: قياس الحرارة شرجيًا ممنوع عند نقص العدلات، والعلامات الحيوية كل 8 ساعات قليلة جدًا، وتجنّب الفواكه والخضار الطازجة محصور بغير المغسولة/غير المطبوخة. مراقبة النزف (تقيّؤ دموي) من أثر نقص الصفيحات والتهاب الغشاء المخاطي أقرب خيار مراقبة، لكن لا مرجع يحدد هذا الخيار بدقة.",
+  "refs": [
+   {
+    "title": "Care of the Patient with Cancer - Medical-Surgical Nursing (OpenStax)",
+    "url": "https://openstax.org/books/medical-surgical-nursing/pages/31-3-care-of-the-patient-with-cancer"
+   },
+   {
+    "title": "Neutropenia Treatment & Management (Medscape)",
+    "url": "https://emedicine.medscape.com/article/204821-treatment"
+   }
+  ]
+ },
+ {
+  "id": "Q0614",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "السؤال عام: الآثار الشائعة للعلاج الإشعاعي هي الإرهاق والتهاب الجلد الموضعي، أما هبوط الدم (عدوى ونزف) فنادر ويزيد مع العلاج الكيماوي المرافق أو تشعيع مناطق النخاع الكبيرة. لا خيار صحيح تمامًا؛ الخيار المعلَّم هو الأقرب تمريضيًا بالحذف (الحساسية والحمى ليسا أثرًا نموذجيًا) بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Radiation Therapy Side Effects (American Cancer Society)",
+    "url": "https://www.cancer.org/cancer/treatment-types/radiation/effects-on-different-parts-of-body.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0615",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "من عوامل خطر فقر الدم الخبيث وجود تاريخ عائلي للمرض (استعداد وراثي/مناعة ذاتية)؛ أما النزف الحاد والإنتانات فتسبب أنواعًا أخرى من فقر الدم.",
+  "refs": [
+   {
+    "title": "Anemia, Pernicious (NORD)",
+    "url": "https://rarediseases.org/rare-diseases/anemia-pernicious/"
+   },
+   {
+    "title": "What are the Risk Factors for Pernicious Anemia (Hematology Oncology Associates of CNY)",
+    "url": "https://www.hoacny.com/patient-resources/blood-disorders/what-pernicious-anemia/what-are-risk-factors-pernicious-anemia"
+   }
+  ]
+ },
+ {
+  "id": "Q0616",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "عند خروج أنبوب الصدر يُغطّى الموضع فورًا بضماد معقّم (يُلصق من ثلاث جهات لتفادي استرواح الصدر الضاغط) ثم يُبلَّغ الطبيب؛ إعادة إدخال الأنبوب ممنوعة على الممرض. المراجع تمريضية تعليمية فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Managing chest tubes: Air leaks and unplanned tube removal (American Nurse)",
+    "url": "https://www.myamericannurse.com/managing-chest-tubes-air-leaks-unplanned-tube-removal/"
+   },
+   {
+    "title": "Nursing Responsibilities for Clients With Chest Tube Drainage Systems (WTCS Nursing Advanced Skills)",
+    "url": "https://wtcs.pressbooks.pub/nursingadvancedskills/chapter/6-3-nursing-responsibilities-for-clients-with-chest-tube-drainage-systems/"
+   },
+   {
+    "title": "Chest Tubes NCLEX Review (RegisteredNurseRN)",
+    "url": "https://www.registerednursern.com/chest-tubes-nclex-review/"
+   }
+  ]
+ },
+ {
+  "id": "Q0617",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "علاج السل الرئوي الحساس للأدوية 6 أشهر على الأقل (2HRZE/4HR) وقد يطول حتى 9–12 شهرًا حسب الحالة؛ الخيار الثالث هو الأنسب (هناك نظم قصيرة 4 أشهر لحالات محددة فقط).",
+  "refs": [
+   {
+    "title": "WHO consolidated guidelines on tuberculosis: Drug-susceptible TB treatment (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK613096/"
+   }
+  ]
+ },
+ {
+  "id": "Q0618",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "التشخيص الجازم للسل يعتمد على فحص البلغم (مسحة/PCR/زرع، والزرع هو المعيار الذهبي)؛ صورة الصدر توحي ولا تؤكد، واختبار الجلد يدل على التعرض لا المرض.",
+  "refs": [
+   {
+    "title": "Clinical Overview of Tuberculosis Disease (CDC)",
+    "url": "https://www.cdc.gov/tb/hcp/clinical-overview/index.html"
+   },
+   {
+    "title": "Tuberculosis fact sheet (WHO)",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis"
+   }
+  ]
+ },
+ {
+  "id": "Q0619",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "بقية الخيارات (الاستلقاء الظهري أو الجانبي ساعتين أو الراحة دون حركة) تقلل توسّع الرئة؛ بعد نزع الأنبوب يُشجَّع المريض على الجلوس/الوضع شبه المعتدل والتنفس العميق والسعال مع مراقبة الحالة التنفسية. المراجع لا تنص حرفيًا على التعليمة فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Assisting With Chest Tube Removal (WTCS Nursing Advanced Skills)",
+    "url": "https://wtcs.pressbooks.pub/nursingadvancedskills/chapter/6-8-assisting-with-chest-tube-removal/"
+   },
+   {
+    "title": "Managing chest tubes: Air leaks and unplanned tube removal (American Nurse)",
+    "url": "https://www.myamericannurse.com/managing-chest-tubes-air-leaks-unplanned-tube-removal/"
+   }
+  ]
+ },
+ {
+  "id": "Q0620",
+  "verdict": "corrected",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": false,
+  "note_ar": "المراجع تنص على تغطية الموضع فورًا بضماد/شاش معقّم (يفضّل مشمّع بالفازلين ويُلصق من 3 جهات) ثم إبلاغ الطبيب؛ القماش النظيف مقبول فقط كحل اضطراري إن لم يتوفر معقّم. لذا الأنسب الخيار الثاني (شاش معقّم) وليس القماش النظيف. ثقة متوسطة لأن نصّ السؤال يجعل الخيارين تغطية أولية.",
+  "refs": [
+   {
+    "title": "Managing chest tubes: Air leaks and unplanned tube removal (American Nurse)",
+    "url": "https://www.myamericannurse.com/managing-chest-tubes-air-leaks-unplanned-tube-removal/"
+   },
+   {
+    "title": "Nursing Responsibilities for Clients With Chest Tube Drainage Systems (WTCS Nursing Advanced Skills)",
+    "url": "https://wtcs.pressbooks.pub/nursingadvancedskills/chapter/6-3-nursing-responsibilities-for-clients-with-chest-tube-drainage-systems/"
+   },
+   {
+    "title": "Chest Tubes NCLEX Review (RegisteredNurseRN)",
+    "url": "https://www.registerednursern.com/chest-tubes-nclex-review/"
+   }
+  ]
+ },
+ {
+  "id": "Q0621",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الإصابة الناريّة في الصدر غالبًا تسبب استرواحًا/تدمّيًا صدريًا والعلاج الأولي هو التفريغ بأنبوب صدري (tube thoracostomy)، لذا يُجهَّز طقم الأنبوب الصدري فورًا؛ غرفة العمليات والأشعة تأتي لاحقًا وليس الرغامى (Tracheostomy).",
+  "refs": [
+   {
+    "title": "Hemothorax Treatment & Management (Medscape)",
+    "url": "https://emedicine.medscape.com/article/2047916-treatment"
+   }
+  ]
+ },
+ {
+  "id": "Q0622",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "أولوية الرعاية بعد استئصال الحنجرة هي الحفاظ على سالكية الطريق الهوائي (فغرة الرغامى خالية من الإفرازات والسدادات المخاطية التي قد تسبب انسدادًا مهددًا للحياة)، ثم تأتي الاتصال والدعم النفسي.",
+  "refs": [
+   {
+    "title": "Nursing Process: The Patient Undergoing Laryngectomy (Brunner & Suddarth excerpt, BrainKart)",
+    "url": "https://www.brainkart.com/article/Nursing-Process--The-Patient-Undergoing-Laryngectomy_31826/"
+   },
+   {
+    "title": "Post Laryngectomy Stoma Care (Physiopedia)",
+    "url": "https://www.physio-pedia.com/Post_Laryngectomy_Stoma_Care"
+   }
+  ]
+ },
+ {
+  "id": "Q0623",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "لا مرجع يحدد الخيار الأدق: الهدف هو التأكد من كفاية التهوية، وأفضل وسيلة تقييم عملية هي فحص الرئتين بالسماعة مع مراقبة التنفس المستمر؛ الأكسجين وحده لا يثبت كفاية التهوية، وتقييم كل ساعتين متباعد جدًا. الإجابة مرجّحة بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Care of Postoperative Patients (Nurse Key)",
+    "url": "https://nursekey.com/care-of-postoperative-patients/"
+   }
+  ]
+ },
+ {
+  "id": "Q0624",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "بعد تنظير القصبات يُخدَّر البلعوم ويضعف منعكس البلع/التهوع مؤقتًا، لذا يُمنع الطعام والشراب حتى عودته منعًا للاختناق والاستنشاق. (السؤال كتب laryngectomy خطأً والمقصود bronchoscopy.)",
+  "refs": [
+   {
+    "title": "Bronchoscopy (Johns Hopkins Medicine)",
+    "url": "https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/bronchoscopy"
+   }
+  ]
+ },
+ {
+  "id": "Q0625",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الأجبان والشوكولاتة والخبز الكامل (القمح) غنية بالفوسفور ويُحدّ منها في حصى الفوسفات، أما التفاح فمنخفض الفوسفور. لا مرجع يحدد حمية حصى الفوسفات بالنص فالحكم بالحذف وبثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Phosphorus and Your CKD Diet (National Kidney Foundation)",
+    "url": "https://www.kidney.org/kidney-topics/phosphorus-and-your-ckd-diet"
+   },
+   {
+    "title": "Eating, Diet, & Nutrition for Kidney Stones (NIDDK)",
+    "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/kidney-stones/eating-diet-nutrition"
+   }
+  ]
+ },
+ {
+  "id": "Q0626",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "كريات الدم البيضاء 3000 أقل من الطبيعي (4500–11000) أي قلة كريات بيض وضعف مناعة، بينما الصفيحات والكريات الحمراء طبيعية؛ فالأولوية التمريضية منع العدوى.",
+  "refs": [
+   {
+    "title": "WBC count (UCSF Health)",
+    "url": "https://www.ucsfhealth.org/care/medical-tests/wbc-count"
+   }
+  ]
+ },
+ {
+  "id": "Q0627",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "كالسيوم 6.2 ملغ/دل نقص كالسيوم شديد (أقل من 7) قد يسبب تشنجًا وصرعًا واضطراب نظم؛ يأخذ الممرض العلامات الحيوية ويقيّم المريض ويبلغ الطبيب فورًا لإعطاء الكالسيوم الوريدي. (افتراض الوحدة ملغ/دل.)",
+  "refs": [
+   {
+    "title": "Hypocalcemia (MSD Manual Professional Edition)",
+    "url": "https://www.msdmanuals.com/professional/endocrine-and-metabolic-disorders/electrolyte-disorders/hypocalcemia"
+   }
+  ]
+ },
+ {
+  "id": "Q0628",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "أهم مضاعفات الجبس الضغط على الأعصاب والأوعية (متلازمة الحيز): التنميل والوخز من علامات الإصابة العصبية الوعائية المبكرة. ثقة متوسطة لأن أهم علامة عند بعض المراجع هي الألم غير المتناسب وهو غير وارد في الخيارات.",
+  "refs": [
+   {
+    "title": "Neurovascular observations (Royal Children's Hospital Melbourne clinical guideline)",
+    "url": "https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Neurovascular_observations/"
+   }
+  ]
+ },
+ {
+  "id": "Q0629",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "بعد جراحة العمود الفقري يُقيَّم الحالة العصبية والدورة الدموية والإحساس والحركة في الأطراف السفلية للكشف المبكر عن ضغط أو نزف على الحبل الشوكي.",
+  "refs": [
+   {
+    "title": "Laminectomy (Disc Surgery) Nursing Care Plans (Nurseslabs)",
+    "url": "https://nurseslabs.com/laminectomy-disc-surgery-nursing-care-plans/"
+   }
+  ]
+ },
+ {
+  "id": "Q0630",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الخثار الوريدي العميق والصمة الرئوية من أهم وأشيع المضاعفات بعد استبدال مفصل الورك (35–84% دون وقاية)؛ أما عدوى الجرح العميقة فحوالي 1%. ثقة متوسطة لأن النزف والعدوى من المضاعفات المتوقعة أيضًا.",
+  "refs": [
+   {
+    "title": "Prevention of early complications following total hip replacement (SICOT-J)",
+    "url": "https://www.sicot-j.org/articles/sicotj/full_html/2021/01/sicotj210046/sicotj210046.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0631",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "بعد نزع الجبس يتورم الطرف لذا يُنصح برفعه وتخفيف النشاط؛ والتنظيف يكون بلطف دون فرك. المرجع لطب الأطفال لكنه يطبّق عمليًا على الحالة فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Care Following Cast Removal (Rady Children's Health)",
+    "url": "https://www.rchsd.org/programs-services/orthopedics-scoliosis/patient-and-parent-education/care-following-cast-removal/"
+   }
+  ]
+ },
+ {
+  "id": "Q0632",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "النزف أشيع مضاعفات ما بعد عمليات البروستات (استئصال عبر الإحليل TURP وغيره) ويُراقَب بلون البول في السقاية المستمرة والعلامات الحيوية؛ العدوى وانحباس البول (بالجلطات) ممكنان لكنهما أقل أولوية. ثقة متوسطة لأن السؤال لا يحدد نوع العملية.",
+  "refs": [
+   {
+    "title": "TURP: when do we perform surgery and potential complications (American Nurse)",
+    "url": "https://www.myamericannurse.com/turp-transurethral-resection-of-the-prostate/"
+   },
+   {
+    "title": "Transurethral resection of the prostate (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Transurethral_resection_of_the_prostate"
+   }
+  ]
+ },
+ {
+  "id": "Q0633",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": false,
+  "note_ar": "المراجع لا تدعم النزف كأخطر مضاعفات الفشل الكلوي الحاد: الإنتان/العدوى هو السبب الأشيع للوفاة (AMBOSS وStatPearls)، كما تُعدّ فرط بوتاسيوم الدم والوذمة الرئوية الأخطر فوريًا (Merck) وهما غير واردين بين الخيارات. أرجّح الإنتانات بثقة منخفضة والمراجع التمريضية قد تختلف.",
+  "refs": [
+   {
+    "title": "Acute kidney injury (AMBOSS)",
+    "url": "https://www.amboss.com/us/knowledge/acute-kidney-injury"
+   },
+   {
+    "title": "Acute Kidney Injury / Acute Renal Failure - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK441896/"
+   },
+   {
+    "title": "Acute Kidney Injury (Merck Manual Professional Edition)",
+    "url": "https://www.merckmanuals.com/professional/nephrology/acute-kidney-injury/acute-kidney-injury-aki"
+   }
+  ]
+ },
+ {
+  "id": "Q0634",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "الكتب التمريضية التقليدية تقول إن عصير التوت البري يحمّض البول، لكن المراجع الحديثة (NCCIH) تُرجع الفائدة إلى منع التصاق البكتيريا بجدار المثانة وليس تحميض البول، وهو للوقاية لا علاج عدوى قائمة. أُبقي الخيار الأول لأنه إجابة المقرر التقليدية بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Cranberry (NCCIH, NIH)",
+    "url": "https://www.nccih.nih.gov/health/cranberry"
+   }
+  ]
+ },
+ {
+  "id": "Q0635",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الخيارات الثلاثة الأخرى خاطئة فسيولوجيًا (التهاب القولون القرحي يزيد حركة الأمعاء ويسبب إسهالًا ونقص سوائل لا زيادة امتصاص)، بينما الإرهاق وعدم تحمّل النشاط تشخيص تمريضي مُدرج لهذا المرض. ثقة متوسطة (الحكم بالحذف).",
+  "refs": [
+   {
+    "title": "Inflammatory Bowel Disease Nursing Care Plans (Nurseslabs)",
+    "url": "https://nurseslabs.com/inflammatory-bowel-disease-nursing-care-plans/"
+   }
+  ]
+ },
+ {
+  "id": "Q0636",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "حمى 39 مع تصلب الرقبة وألم عند تمديد الركبة/القدم (علامة كيرنيغ) هي الثلاثية السريرية للتهاب السحايا.",
+  "refs": [
+   {
+    "title": "Josef Brudzinski and Vladimir Mikhailovich Kernig: Signs for Diagnosing Meningitis (Clinical Medicine & Research)",
+    "url": "https://www.clinmedres.org/content/8/1/13"
+   },
+   {
+    "title": "Meningitis symptoms (NHS)",
+    "url": "https://www.nhs.uk/conditions/meningitis/symptoms/"
+   },
+   {
+    "title": "Meningitis (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Meningitis"
+   }
+  ]
+ },
+ {
+  "id": "Q0637",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "بعد استئصال البواسير يُنصح بزيادة الألياف والسوائل والملينات لتجنب الإمساك والجهد أثناء التبرز؛ تقليل السوائل خطأ.",
+  "refs": [
+   {
+    "title": "Hemorrhoidectomy: What to Expect at Home (MyHealth Alberta)",
+    "url": "https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=ud1119"
+   }
+  ]
+ },
+ {
+  "id": "Q0638",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "CDC توصي بالمحافظة على النظام المغلق وتفريغ الكيس بانتظام وعدم فصل الوصلات؛ وهذا يستبعد انتظار امتلائه تمامًا وتغييره كل 4 ساعات (فصل متكرر)، كما أن تقييد السوائل غير مطلوب. كيس كبير ليلًا متسق مع ذلك لكن لا نص حرفيًا عليه فثقة منخفضة.",
+  "refs": [
+   {
+    "title": "CDC Guideline for Prevention of Catheter-associated Urinary Tract Infections",
+    "url": "https://www.cdc.gov/infection-control/media/pdfs/Guideline-CAUTI-H.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0639",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": false,
+  "note_ar": "المدة غير محدودة بدقة في المراجع: AMBOSS يذكر طور قلة البول 1–3 أسابيع وويكيبيديا تذكر تعافي ATN خلال 7–21 يومًا، لذلك أسبوعان أقرب من 3–7 أيام، لكن الكتب التمريضية تختلف في الرقم (السؤال فيه خطأ نسخ أيضًا). ثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Acute kidney injury (AMBOSS)",
+    "url": "https://www.amboss.com/us/knowledge/acute-kidney-injury"
+   },
+   {
+    "title": "Acute tubular necrosis (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Acute_tubular_necrosis"
+   },
+   {
+    "title": "Acute Kidney Injury (Merck Manual Professional Edition)",
+    "url": "https://www.merckmanuals.com/professional/nephrology/acute-kidney-injury/acute-kidney-injury-aki"
+   }
+  ]
+ },
+ {
+  "id": "Q0640",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "عند غياب البول في الكيس تُفحص أولًا سالكية القثطار: ثنيات في الأنبوب أو ضغط أو رفع الكيس فوق المثانة (CDC: إبقاء القثطار وأنبوب التجميع دون التواء)، قبل إبلاغ الطبيب أو تغيير القثطار.",
+  "refs": [
+   {
+    "title": "CDC Guideline for Prevention of Catheter-associated Urinary Tract Infections",
+    "url": "https://www.cdc.gov/infection-control/media/pdfs/Guideline-CAUTI-H.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0641",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "لم أجد مرجعًا يحدد أول ما يُقيَّم بعد زراعة الكلى؛ تمريضيًا الأولوية لمراقبة البول وتوازن السوائل والشوارد لأن أداء الطعم وخطر الإنتان والرفض يلحقان لاحقًا، وStatPearls يذكر قلة البول المفاجئة علامة على خلل الطعم. ثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Kidney Transplantation - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK567755/"
+   }
+  ]
+ },
+ {
+  "id": "Q0642",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "خطر سرطان البروستات يزيد مع العمر ويكون أعلى عند الرجال السود (CDC)؛ فالرجل الأسود عمره 55 هو الأعلى خطرًا بين الخيارات.",
+  "refs": [
+   {
+    "title": "Prostate Cancer Risk Factors (CDC)",
+    "url": "https://www.cdc.gov/prostate-cancer/risk-factors/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0643",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "بول المريض الفعلي = إجمالي السائل المطروح − سائل السقاية المُدخل = 2900 − 2400 = 500 مل. حساب مباشر؛ لم أجد صفحة تنص على الصيغة فثقة متوسطة (الرابط للسياق فقط ولا يذكر الحساب).",
+  "refs": [
+   {
+    "title": "Transurethral resection of the prostate (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Transurethral_resection_of_the_prostate"
+   }
+  ]
+ },
+ {
+  "id": "Q0447",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الوسط المهبلي الطبيعي حمضي (pH حوالي 3.8–4.5) بفعل العصيات اللبنية، وارتفاعه فوق 4.5 مؤشر على التهاب المهبل الجرثومي. (الخياران الرابع 'قلوي' والثاني 'أساسي' متماثلان.)",
+  "refs": [
+   {
+    "title": "Bacterial Vaginosis - STI Treatment Guidelines (CDC)",
+    "url": "https://www.cdc.gov/std/treatment-guidelines/bv.htm"
+   },
+   {
+    "title": "Vaginal flora (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Vaginal_flora"
+   }
+  ]
+ },
+ {
+  "id": "Q0448",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الحبل السري يحوي شريانين ووريدًا واحدًا، لكن الخيارين الأول والثاني متطابقان في المعنى (شريانان + وريد) فكلاهما صحيح ولا يوجد خيار وحيد قابل للدفاع؛ يلزم تصحيح صياغة السؤال (علامة duplicate_options). الخيار المعلَّم (الأول) صحيح علميًا لكن الثاني كذلك.",
+  "refs": [
+   {
+    "title": "Umbilical cord (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Umbilical_cord"
+   }
+  ]
+ },
+ {
+  "id": "Q0449",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "المشيمة تنتج الإستروجين والبروجسترون وHCG وHPL (لاكتوجين المشيمة)، أما الفيبرينوجين فيصنعه الكبد.",
+  "refs": [
+   {
+    "title": "Placenta (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Placenta"
+   },
+   {
+    "title": "Fibrinogen (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Fibrinogen"
+   }
+  ]
+ },
+ {
+  "id": "Q0450",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "بطانة الرحم أثناء الحمل تتحول إلى الغشاء الساقط (Decidua) الذي يشكّل الجزء الأمومي من المشيمة ويُطرح بعد الولادة.",
+  "refs": [
+   {
+    "title": "Decidua (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Decidua"
+   }
+  ]
+ },
+ {
+  "id": "Q0451",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "السؤال غامض: تشريحيًا العنق هو الجزء السفلي من الرحم (Cervix)، بينما 'القطعة السفلية من الرحم' (Lower uterine segment) في الحمل تتكوّن من البرزخ (الخيار الرابع) حسب كتب التوليد. لم أجد مرجعًا يحسم صياغة السؤال؛ أُبقي الخيار الأول (العنق) مطابقًا لعلامة المصدر بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Cervix (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Cervix"
+   },
+   {
+    "title": "Uterus (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Uterus"
+   },
+   {
+    "title": "Anatomy of the uterus - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470297/"
+   }
+  ]
+ },
+ {
+  "id": "Q0452",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "السائل الأمنيوسي يحوي بروتينات وبول الجنين ويُشتق أصلًا من بلازما الأم، والبكتيريا فيه حالة مرضية (التهاب المشيمة والسلى) وليست من مكوناته الطبيعية؛ فالاستثناء هو البكتيريا. ثقة متوسطة لأن المراجع لا تنص صراحة على تعقّمه.",
+  "refs": [
+   {
+    "title": "Amniotic fluid (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Amniotic_fluid"
+   },
+   {
+    "title": "Chorioamnionitis (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Chorioamnionitis"
+   }
+  ]
+ },
+ {
+  "id": "Q0453",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "Multigravida هي المرأة التي حملت أكثر من مرة (مرتين فأكثر)، وليست من لديها طفلان (هذه multipara) ولا مجرد إجهاضين. الخيار الثاني ('حامل للمرة الثانية أو اللاحقة') قريب في المعنى لكن صياغته مشوّشة؛ فالثالث الأدق.",
+  "refs": [
+   {
+    "title": "Gravidity and parity (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Gravidity_and_parity"
+   }
+  ]
+ },
+ {
+  "id": "Q0454",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "Primigravida هي المرأة الحامل للمرة الأولى؛ أما multipara فهي من ولدت أكثر من مرة وgrand multipara من ولدت 5 مرات فأكثر وmultigravida حملت أكثر من مرة.",
+  "refs": [
+   {
+    "title": "Gravidity and parity (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Gravidity_and_parity"
+   }
+  ]
+ }
+]

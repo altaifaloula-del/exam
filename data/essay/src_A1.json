@@ -1,0 +1,355 @@
+[
+ {
+  "spec": "assistant",
+  "topic": 1,
+  "q": "اشرح مسار الدم عبر القلب والرئتين: أي حجرة تستقبل الدم المؤكسج القادم من الرئتين، وأي حجرة تضخ الدم نحو الرئتين، وماذا يضخ الجانب الأيسر من القلب؟",
+  "model": "يعود الدم قليل الأكسجين من الجسم عبر الوريدين الأجوفين العلوي والسفلي (vena cava) إلى الأذين الأيمن (right atrium)، ثم ينتقل إلى البطين الأيمن (right ventricle) الذي يضخه عبر الصمام الرئوي إلى الشريان الرئوي (pulmonary artery) نحو الرئتين. في الرئتين يمتلئ الدم بالأكسجين، ثم تحمله الأوردة الرئوية (pulmonary veins) إلى الأذين الأيسر (left atrium)، وهو الحجرة التي تستقبل الدم المؤكسج القادم من الرئتين. بعد ذلك ينتقل إلى البطين الأيسر (left ventricle) الذي يضخه عبر الأبهر (aorta) إلى بقية الجسم. إذن الجانب الأيمن من القلب يضخ الدم عبر الرئتين، والجانب الأيسر يضخه إلى الجسم، فالقول إن الجانب الأيسر يضخ الدم عبر الرئتين خطأ.",
+  "points": [
+   "الدم المؤكسج القادم من الرئتين عبر الأوردة الرئوية (pulmonary veins) يصل إلى الأذين الأيسر (left atrium).",
+   "البطين الأيمن (right ventricle) يضخ الدم غير المؤكسج عبر الصمام الرئوي إلى الشريان الرئوي نحو الرئتين.",
+   "البطين الأيسر (left ventricle) يضخ الدم المؤكسج عبر الأبهر (aorta) إلى بقية الجسم.",
+   "الجانب الأيمن من القلب هو الذي يضخ الدم عبر الرئتين، وليس الجانب الأيسر.",
+   "الدم قليل الأكسجين يدخل الأذين الأيمن (right atrium) عبر الوريدين الأجوفين العلوي والسفلي (vena cava)."
+  ],
+  "refs": [
+   {
+    "title": "Heart: Anatomy, Function & Structure - Cleveland Clinic",
+    "url": "https://my.clevelandclinic.org/health/body/21704-heart"
+   },
+   {
+    "title": "Wikipedia - Heart (right heart to lungs, left heart to body)",
+    "url": "https://en.wikipedia.org/wiki/Heart"
+   }
+  ],
+  "from": [
+   "Q0011",
+   "Q0090",
+   "Q0295"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 1,
+  "q": "اذكر وظائف العضلات الهيكلية (skeletal muscle)، وعرّف الوحدة الحركية (motor unit)، ثم وضّح الفرق بين تضخم العضلة (hypertrophy) وفرط التنسج (hyperplasia).",
+  "model": "من الوظائف الرئيسية للعضلات الهيكلية: الحركة (movement)، والحفاظ على وضعية الجسم (posture)، وإنتاج الحرارة (heat production)، إذ يستهلك الانقباض العضلي طاقة وينتج حرارة كناتج ثانوي للاستقلاب، ويستفيد الجسم من ذلك في الارتعاش عند التعرض للبرد. أما الوحدة الحركية (motor unit) فهي عصبون حركي واحد مع جميع الألياف العضلية التي يعصّبها. وتضخم العضلة (hypertrophy) هو زيادة في حجم وقطر الألياف العضلية الموجودة، كما يحدث مع زيادة الحمل أو التمرين، وليس زيادة في عددها. أما زيادة عدد الألياف فتسمى فرط التنسج (hyperplasia).",
+  "points": [
+   "وظائف العضلات الهيكلية: الحركة (movement) والحفاظ على وضعية الجسم (posture) وإنتاج الحرارة (heat production).",
+   "الانقباض العضلي يستهلك طاقة وينتج حرارة كناتج ثانوي للاستقلاب، ويُستفاد منها في الارتعاش عند البرد.",
+   "الوحدة الحركية (motor unit) هي عصبون حركي واحد مع جميع الألياف العضلية التي يعصّبها.",
+   "تضخم العضلة (hypertrophy) هو زيادة حجم (قطر) الألياف العضلية الموجودة، كما في زيادة الحمل أو التمرين.",
+   "زيادة عدد الألياف العضلية تسمى فرط التنسج (hyperplasia)، وليست hypertrophy."
+  ],
+  "refs": [
+   {
+    "title": "Muscular System Homeostasis - CCCOnline Biology pressbook",
+    "url": "https://pressbooks.ccconline.org/bio106/chapter/muscular-system-homeostasis/"
+   },
+   {
+    "title": "Medicine LibreTexts (Boundless A&P) - Overview of Motor Integration (motor unit)",
+    "url": "https://med.libretexts.org/Bookshelves/Anatomy_and_Physiology/Anatomy_and_Physiology_(Boundless)/12:_Peripheral_Nervous_System/12.8:_Motor_Activity/12.8B:_Overview_of_Motor_Integration"
+   },
+   {
+    "title": "NIH NTP Nonneoplastic Lesion Atlas - Skeletal muscle hypertrophy",
+    "url": "https://ntp.niehs.nih.gov/atlas/nnl/musculoskeletal-system/skeletal-muscle/Hypertrophy"
+   }
+  ],
+  "from": [
+   "Q0027",
+   "Q0697",
+   "Q0700"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 2,
+  "q": "عدّد تقنيات الفحص الجسدي (physical assessment) الأربع، واشرح كل تقنية باختصار مع مثال لكل من المعاينة والجس والإصغاء، وما التقنية التي يبدأ بها الفاحص؟ وهل الوخز أو البزل (puncturing) منها؟ وهل تُستعمل مطرقة الانعكاسات لفحص الحس؟",
+  "model": "تقنيات الفحص الجسدي الأربع هي: المعاينة (inspection) وتعتمد على النظر لملاحظة الشكل واللون والمظهر العام؛ والجس (palpation) وهو استخدام حاسة اللمس باليدين والأصابع بضغط خفيف أو عميق، ومنه جس العقد اللمفية (lymph nodes) بوسادات الأصابع؛ والقرع (percussion) وهو النقر بالأصابع على سطح الجسم لإحداث أصوات تكشف البنى الكامنة تحته؛ والإصغاء (auscultation) وهو الاستماع لأصوات الجسم بالسماعة كأصوات الرئتين والقلب والأمعاء، ويُستخدم لتقييم حركة الهواء في القصيبات الهوائية. ويبدأ الفحص بالمعاينة. أما الوخز أو البزل (puncturing) فليس من هذه التقنيات، ومطرقة الانعكاسات تُستعمل لإثارة المنعكسات الوترية لا لفحص الحس.",
+  "points": [
+   "المعاينة (inspection) هي أول تقنية يبدأ بها الفحص، وتعتمد على النظر لملاحظة الشكل واللون.",
+   "الجس (palpation) هو استخدام حاسة اللمس باليدين والأصابع بضغط خفيف أو عميق.",
+   "جس العقد اللمفية (lymph nodes) يتم بالضغط أو اللمس بوسادات الأصابع.",
+   "القرع (percussion) هو النقر بالأصابع على سطح الجسم لإحداث أصوات تكشف البنى الكامنة تحته.",
+   "الإصغاء (auscultation) هو الاستماع لأصوات الجسم بالسماعة، ويُقيَّم به مثلًا حركة الهواء في القصيبات.",
+   "الوخز أو البزل (puncturing) ليس من تقنيات الفحص الجسدي الأربع.",
+   "مطرقة الانعكاسات (percussion hammer) تثير المنعكسات الوترية العميقة ولا تُستعمل لفحص الحس."
+  ],
+  "refs": [
+   {
+    "title": "Physical examination - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Physical_examination"
+   },
+   {
+    "title": "Techniques of Physical Assessment - Guide to Health Assessment for Nurses (Pressbooks)",
+    "url": "https://pressbooks.pub/raquelbertiz1969/chapter/chapter-4-techniques-of-physical-assessment/"
+   },
+   {
+    "title": "10.7 Inspection and Palpation of the Lymph Nodes (nursing physical assessment open textbook)",
+    "url": "https://cod.pressbooks.pub/nursingphysicalassessment/chapter/inspection-and-palpation-of-the-lymph-nodes/"
+   },
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Physiology, Deep Tendon Reflexes",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK562238/"
+   }
+  ],
+  "from": [
+   "Q0001",
+   "Q0098",
+   "Q0124",
+   "Q0144",
+   "Q0323",
+   "Q0407",
+   "Q0409",
+   "Q0682"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 2,
+  "q": "ستفحص بطن مريض (abdominal assessment): ما الوضعية المناسبة له، وما التقنية الأولى والثانية في الفحص، ولماذا، وكيف تبدأ جس البطن وأين تجس المنطقة المؤلمة؟",
+  "model": "يُفحص البطن والمريض مستلقٍ على ظهره (supine) مرتاحًا وذراعاه بجانبيه، مع دعم الرأس والركبتين بوسادة صغيرة لإرخاء جدار البطن. تكون المعاينة (inspection) هي التقنية الأولى، ثم الإصغاء (auscultation) هو الثانية، ويُقدَّم على القرع والجس لأن القرع والجس قد يغيّران أصوات الأمعاء فتعطي نتائج مضللة. وعند الجس (palpation) نبدأ بجس خفيف سطحي ثم ننتقل إلى الجس العميق، وتُجسّ المنطقة المؤلمة أخيرًا فنبدأ بعيدًا عنها ولا نبدأ بأشد المناطق ألمًا.",
+  "points": [
+   "الوضعية المناسبة لفحص البطن هي الاستلقاء على الظهر (supine) مع دعم الرأس والركبتين بوسادة صغيرة.",
+   "التقنية الأولى في فحص البطن هي المعاينة (inspection).",
+   "التقنية الثانية هي الإصغاء (auscultation)، ويسبق القرع والجس.",
+   "سبب تقديم الإصغاء: القرع والجس قد يغيّران أصوات الأمعاء.",
+   "يبدأ جس البطن (palpation) بجس خفيف سطحي ثم ينتقل إلى الجس العميق.",
+   "تُجسّ المنطقة المؤلمة أو الأكثر ألمًا أخيرًا وليس أولًا."
+  ],
+  "refs": [
+   {
+    "title": "StatPearls: Abdominal Examination (patient should lie comfortably in a supine position)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK459220/"
+   },
+   {
+    "title": "Physical Assessment of the Abdomen - Clinical Nursing Skills (OpenStax)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/27:_Assessment_of_the_Abdomen/27.02:_Physical_Assessment"
+   }
+  ],
+  "from": [
+   "Q0088",
+   "Q0103",
+   "Q0241",
+   "Q0286"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 2,
+  "q": "قارن بين البيانات الذاتية (subjective data) والموضوعية (objective data) في التقييم التمريضي مع مثال، وأين يقع التاريخ الصحي والفحص الجسدي، وما أغراض الفحص الجسدي؟",
+  "model": "البيانات الذاتية (subjective) هي ما يذكره المريض أو مقدّم الرعاية بكلماته، كالأعراض والشعور بالدوار أو الغثيان، وتُجمع بالمقابلة؛ ولذلك يُعدّ التاريخ الصحي (health history) بيانات ذاتية. أما البيانات الموضوعية (objective) فهي موجودات قابلة للقياس والملاحظة يتحقق منها الفاحص، مثل العلامات الحيوية والوزن والطول، وتشمل ما يجمعه الفاحص بالمعاينة والجس والإصغاء. فالفحص الجسدي ينتج بيانات موضوعية لا ذاتية. ومن أغراض الفحص الجسدي جمع البيانات القاعدية (baseline data) وتأكيد البيانات التي جُمعت في القصة الصحية أو نفيها.",
+  "points": [
+   "البيانات الذاتية (subjective) هي أقوال المريض أو مقدّم الرعاية كالأعراض والشعور، مثل قوله إنه يشعر بدوار.",
+   "التاريخ الصحي (health history) يُجمع بالمقابلة وهو بيانات ذاتية.",
+   "البيانات الموضوعية (objective) موجودات قابلة للقياس والملاحظة، كالعلامات الحيوية والوزن والطول.",
+   "نتائج الفحص الجسدي (المعاينة والجس والإصغاء والقياسات) بيانات موضوعية وليست ذاتية.",
+   "من أغراض الفحص الجسدي جمع البيانات القاعدية (baseline data).",
+   "من أغراضه أيضًا تأكيد بيانات القصة الصحية (أو نفيها)."
+  ],
+  "refs": [
+   {
+    "title": "StatPearls (NCBI Bookshelf) NBK499937 - subjective vs objective data in nursing assessment",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK499937/"
+   },
+   {
+    "title": "OpenStax Fundamentals of Nursing - 12.3 Collection of Assessment Data (subjective vs objective)",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/12-3-collection-of-assessment-data"
+   },
+   {
+    "title": "Health Assessment and Physical Examination - NurseKey (Potter & Perry)",
+    "url": "https://nursekey.com/health-assessment-and-physical-examination/"
+   }
+  ],
+  "from": [
+   "Q0086",
+   "Q0376",
+   "Q0703",
+   "Q0370",
+   "Q0106"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 2,
+  "q": "مريض عمره 38 سنة: نبضه 88 في الدقيقة، وتنفسه 30 في الدقيقة، وحرارته الإبطية 38 درجة مئوية. حلّل كل علامة حيوية، وسمِّ الشاذ منها، وماذا تُبلّغ؟ وما المدة الأدق لقياس النبض؟",
+  "model": "النبض 88 في الدقيقة ضمن المعدل الطبيعي للبالغ في الراحة (60–100)، فلا يُعدّ تسرّع قلب (tachycardia) الذي يبدأ فوق 100 نبضة في الدقيقة. أما معدل التنفس 30 في الدقيقة فأعلى من الطبيعي للبالغ (12–20) ويسمى تسرّع التنفس (tachypnea)، وهو مصطلح يخص التنفس لا النبض. والحرارة الإبطية 38 درجة مئوية تُعدّ حمّى (fever) وهي فوق المجال الطبيعي (نحو 36.5–37.5). لذلك تُبلّغ عن الحرارة ومعدل التنفس معًا. وللحصول على نبض دقيق يُعدّ النبض 60 ثانية كاملة، خصوصًا إذا كان غير منتظم.",
+  "points": [
+   "النبض 88 في الدقيقة طبيعي للبالغ (60–100) ولا يُبلَّغ عنه كشاذ.",
+   "تسرّع القلب (tachycardia) هو معدل نبض أعلى من الطبيعي، أي فوق 100 نبضة في الدقيقة عند البالغ.",
+   "معدل التنفس 30 في الدقيقة أعلى من الطبيعي للبالغ (12–20) ويسمى تسرّع التنفس (tachypnea).",
+   "الحرارة الإبطية 38 درجة مئوية تُعدّ حمّى (fever)، أي فوق المجال الطبيعي (نحو 36.5–37.5).",
+   "الشاذ الواجب إبلاغه هنا هو الحرارة ومعدل التنفس معًا.",
+   "الأدق قياس النبض لمدة 60 ثانية كاملة، خصوصًا عند عدم انتظامه."
+  ],
+  "refs": [
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Vital Sign Assessment",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK553213/"
+   },
+   {
+    "title": "High temperature (fever) in adults - NHS",
+    "url": "https://www.nhs.uk/conditions/fever-in-adults/"
+   },
+   {
+    "title": "How to take your pulse - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/how-to-take-pulse/art-20482581"
+   }
+  ],
+  "from": [
+   "Q0648",
+   "Q0264",
+   "Q0132",
+   "Q0100",
+   "Q0120",
+   "Q0131"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 3,
+  "q": "مريض بفقر دم يتلقى نقل دم. ما الفحوصات الواجبة قبل النقل؟ وإذا ظهر عليه بول دموي أثناء النقل فما نوع التفاعل المرجح وما الإجراءات التمريضية الفورية؟",
+  "model": "قبل نقل الدم يلزم تحديد فصيلة الدم (ABO/Rh typing) والمطابقة المصلية (crossmatching) مع فحص الأجسام المضادة، ولا تغني عنهما صورة الدم الكاملة (CBC) أو الأملاح أو زمن النزف والتخثر. ظهور بول أحمر أو دموي بعد النقل يدل على تفاعل انحلال الدم الحاد (hemolytic reaction) وليس التأق (anaphylaxis) الذي يظهر بحكة وطفح وضيق نفس. الإجراء الأول هو إيقاف النقل فورًا، ثم إبقاء الوريد مفتوحًا بمحلول ملحي عبر أنبوب جديد وإخطار الطبيب، ثم مراقبة العلامات الحيوية بدقة وتوثيق الأعراض والتوقيت والإجراءات. وليس إعطاء خافض الحرارة أو التوثيق هو الخطوة الأولى.",
+  "points": [
+   "قبل نقل الدم يلزم تحديد فصيلة الدم (ABO/Rh) والمطابقة المصلية (crossmatching) مع فحص الأجسام المضادة.",
+   "صورة الدم الكاملة (CBC) والأملاح وزمن النزف والتخثر لا تغني عن تحديد الفصيلة والمطابقة.",
+   "البول الأحمر أو الدموي بعد النقل علامة على تفاعل انحلال الدم الحاد (hemolytic reaction).",
+   "التفاعل التحسسي يظهر بحكة وطفح وضيق نفس وقد يتطور إلى تأق (anaphylaxis)، ويختلف عن الانحلالي.",
+   "أول إجراء تمريضي عند الاشتباه بتفاعل هو إيقاف النقل فورًا.",
+   "بعد الإيقاف: إبقاء الوريد مفتوحًا بمحلول ملحي عبر أنبوب جديد وإخطار الطبيب.",
+   "ثم مراقبة العلامات الحيوية بدقة وتوثيق الأعراض والتوقيت والإجراءات، وخافض الحرارة ليس الخطوة الأولى."
+  ],
+  "refs": [
+   {
+    "title": "Pretransfusion Testing - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK585033/"
+   },
+   {
+    "title": "OpenStax Clinical Nursing Skills 13.4: Blood Transfusions (LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/13%3A_Intravenous_Administration/13.04%3A_Blood_Transfusions"
+   },
+   {
+    "title": "Hemolytic Transfusion Reaction - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK448158/"
+   }
+  ],
+  "from": [
+   "Q0004",
+   "Q0033",
+   "Q0034",
+   "Q0036"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 3,
+  "q": "ما العوامل التي تؤثر في الأكسجة (oxygenation)؟ وكيف تعزّزها تمريضيًا؟ وما العلامة التي تظهر حول الشفتين عند نقص الأكسجين في الدم؟",
+  "model": "تعتمد الأكسجة (oxygenation) على وصول أكسجين كافٍ إلى الأنسجة، ويتحدد ذلك بالنتاج القلبي ومحتوى الأكسجين في الدم. تنقل كريات الدم الحمراء (RBCs) الأكسجين بالهيموغلوبين من الرئتين إلى الأنسجة، وتساعد في إعادة ثاني أكسيد الكربون إلى الرئتين. ومن العوامل المعيقة فقر الدم (anemia) لنقص سعة نقل الأكسجين، وتصلب الشرايين (atherosclerosis) لتقييده التروية، وفشل القلب (heart failure) لانخفاض النتاج القلبي. ولتعزيز الأكسجة: فتح مجرى الهواء (airway)، ووضع المريض جالسًا أو بوضع فاولر (Fowler) لتوسيع الصدر، وتعليمه تقنيات التنفس كالشفتين المزمومتين، وإعطاء الأكسجين. ويظهر نقص الأكسجين في الدم زرقة (cyanosis) حول الشفتين.",
+  "points": [
+   "فقر الدم (anemia) يعيق الأكسجة لأنه يقلل قدرة الدم على نقل الأكسجين.",
+   "تصلب الشرايين (atherosclerosis) يعيق الأكسجة بتقييد التروية، وفشل القلب (heart failure) بخفض النتاج القلبي.",
+   "كريات الدم الحمراء (RBCs) تنقل الأكسجين من الرئتين إلى الأنسجة وتساعد في إعادة ثاني أكسيد الكربون إلى الرئتين.",
+   "وضعية الجلوس أو فاولر (Fowler) تعزّز الأكسجة بتوسيع الصدر.",
+   "من طرق تعزيز الأكسجة أيضًا فتح مجرى الهواء وتقنيات التنفس (كالشفتين المزمومتين) وإعطاء الأكسجين.",
+   "اللون الأزرق حول الشفتين يسمى زرقة (cyanosis) وهو علامة على نقص الأكسجين في الدم."
+  ],
+  "refs": [
+   {
+    "title": "StatPearls: Physiology, Oxygen Transport (DO2 = CO x CaO2; anemia, restricted blood supply)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK538336/"
+   },
+   {
+    "title": "Biology LibreTexts - 14.3 Red Blood Cells: Oxygen Transport and Hemoglobin",
+    "url": "https://bio.libretexts.org/Workbench/Human_Physiology:_A_Students_Open_Path_to_Understanding_the_Body/14:_Blood/14.03:_Red_Blood_Cells-_Oxygen_Transport_and_Hemoglobin"
+   },
+   {
+    "title": "Wikipedia - Fowler's position (promotes oxygenation via maximum chest expansion)",
+    "url": "https://en.wikipedia.org/wiki/Fowler%27s_position"
+   },
+   {
+    "title": "American Lung Association - Breathing Exercises",
+    "url": "https://www.lung.org/lung-health-diseases/wellness/breathing-exercises"
+   },
+   {
+    "title": "Blue discoloration of the skin - MedlinePlus Medical Encyclopedia",
+    "url": "https://medlineplus.gov/ency/article/003215.htm"
+   }
+  ],
+  "from": [
+   "Q0062",
+   "Q0173",
+   "Q0252",
+   "Q0220"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 3,
+  "q": "عدّد عوامل الخطر المؤثرة في القلب والشريان التاجي (coronary artery disease)، وصنّفها إلى قابلة وغير قابلة للتعديل، وبيّن موقع النشاط البدني والراحة منها.",
+  "model": "عوامل خطر أمراض القلب والشريان التاجي نوعان. القابلة للتعديل: ارتفاع ضغط الدم (hypertension)، وفرط دهون الدم (hyperlipidemia) وهو ثاني أكثر العوامل شيوعًا، والسمنة (obesity)، والتدخين (cigarette smoking)، والسكري (diabetes)، والخمول البدني (physical inactivity). وغير القابلة للتعديل: التقدم في العمر والجنس والعرق والتاريخ العائلي لمرض قلبي مبكر. أما النشاط البدني فعامل وقائي وليس مسببًا، والضار هو الخمول؛ والراحة في ذاتها ليست عامل خطر. والتحكم في العوامل القابلة للتعديل يخفض الخطر بدرجة ملموسة.",
+  "points": [
+   "ارتفاع ضغط الدم (hypertension) عامل خطر قابل للتعديل لأمراض القلب.",
+   "السمنة (obesity) عامل خطر لأمراض القلب.",
+   "فرط دهون الدم (hyperlipidemia) عامل خطر رئيس، وهو ثاني أكثر العوامل شيوعًا.",
+   "التدخين (cigarette smoking) والسكري (diabetes) من عوامل الخطر القابلة للتعديل.",
+   "من العوامل غير القابلة للتعديل: العمر والجنس والعرق والتاريخ العائلي لمرض قلبي مبكر.",
+   "النشاط البدني وقائي، والضار هو الخمول (physical inactivity)؛ والراحة ليست عامل خطر."
+  ],
+  "refs": [
+   {
+    "title": "Risk Factors for Coronary Artery Disease (Archived) - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK554410/"
+   }
+  ],
+  "from": [
+   "Q0002",
+   "Q0020",
+   "Q0030"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 3,
+  "q": "قارن بين فقر الدم الخبيث (pernicious anemia) وفقر دم الخلايا المنجلية (sickle cell disease) من حيث سبب فقر الدم، ثم ما أشد العلامات إثارة لقلق الممرض عند مريض بفقر دم شديد؟",
+  "model": "فقر الدم الخبيث (pernicious anemia) سببه نقص العامل الداخلي (intrinsic factor)؛ إذ تمنع أجسام مضادة ذاتية ارتباط فيتامين B12 بالعامل الداخلي أو تدمّر الخلايا الجدارية في المعدة، فيتعذر امتصاص B12. فالمشكلة في الامتصاص لا في نقص التناول. أما فقر دم المنجلية (sickle cell) فانحلالي: الكريات المنجلية هشة تعيش نحو 10–20 يومًا بدل 90–120 فتتكسر مبكرًا ولا يعوضها الجسم بالسرعة الكافية، وليست آليته مناعة ذاتية. وعند مريض فقر الدم الشديد فأكثر العلامات إثارة للقلق ضيق النفس أثناء الراحة (dyspnea at rest) لأنه يدل على نقص أكسجة الأنسجة وبداية فشل تعويضي أو قلبي، بخلاف القهم وألم العظام وتضخم الكبد.",
+  "points": [
+   "فقر الدم الخبيث ينتج عن نقص العامل الداخلي (intrinsic factor) وليس عن نقص تناول الكوبالامين (B12).",
+   "أجسام مضادة ذاتية تمنع ارتباط B12 بالعامل الداخلي أو تدمّر الخلايا الجدارية، فيتعذر امتصاص B12.",
+   "فقر دم المنجلية انحلالي: الكريات المنجلية هشة وتتكسر مبكرًا.",
+   "عمر الكريات المنجلية نحو 10–20 يومًا مقابل 90–120 يومًا للكريات الطبيعية.",
+   "آلية فقر دم المنجلية ليست تدميرًا مناعيًا ذاتيًا أو متماثلًا (autoimmune/isoimmune).",
+   "أشد العلامات قلقًا في فقر الدم الشديد ضيق النفس أثناء الراحة (dyspnea at rest) لدلالته على نقص أكسجة الأنسجة وبداية فشل تعويضي/قلبي."
+  ],
+  "refs": [
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Anemia",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK499994/"
+   },
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Pernicious Anemia",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK540989/"
+   },
+   {
+    "title": "NHLBI (NIH) - Sickle Cell Disease: Causes",
+    "url": "https://www.nhlbi.nih.gov/health/sickle-cell-disease/causes"
+   },
+   {
+    "title": "Health Alterations (WTCS Pressbooks) - 3.8 Sickle Cell Disease",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/3-8-sickle-cell-disease/"
+   }
+  ],
+  "from": [
+   "Q0656",
+   "Q0657",
+   "Q0658"
+  ],
+  "fetched": []
+ }
+]

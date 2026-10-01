@@ -1,0 +1,57 @@
+{
+  "_doc": "Manual corrections applied after verification. Each entry replaces fields of one question id. Every override must carry a reason.",
+  "Q0375": {
+    "q": "A patient has burns on the chest and abdomen and perineum and the right arm (anterior and posterior). The appropriate percentage of his body involved is:",
+    "options": [
+      "18%",
+      "28%",
+      "36%",
+      "45%"
+    ],
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "note_ar": "قاعدة التسعات للبالغ: الجذع الأمامي (صدر+بطن) 18% + العجان 1% + الذراع كاملة (أمام وخلف) 9% = 28%. الصياغة في المصدر 'right hand/head' تشوّه طباعي؛ النسخ النظيفة من ملفات أخرى تقول 'right hand' ويقصد بها الطرف العلوي. التفسير مفترض، لذا الثقة متوسطة.",
+    "refs": [
+      {
+        "title": "Rule of nines — adult: head 9%, each arm 9%, anterior trunk 18%, perineum 1% (Medical Dictionary)",
+        "url": "https://medical-dictionary.thefreedictionary.com/rule+of+nines"
+      },
+      {
+        "title": "Rule of Nines - Burn Surface Area Calculator",
+        "url": "https://onlinemedicaltools.com/tools/rule-of-nines"
+      }
+    ],
+    "reason": "canonical text came from a garbled variant ('right head'); clean variants in f10/f15/f07/f08 agree on the same scenario; answer by arithmetic from cited percentages"
+  },
+  "Q0263": {
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "note_ar": "صدر+بطن = الجذع الأمامي 18%، واليد/الذراع أمام وخلف 9% فالمجموع 27% ≈ 28%. علامة المصدر (نقطة حمراء في f11) على 28% أيضًا. الافتراض: 'hand' تعني الطرف العلوي كاملًا كما في أسئلة القاعدة المعتادة؛ لو قُصدت الكف فقط (1%) فلا يطابق أي خيار، لذا الثقة متوسطة.",
+    "refs": [
+      {
+        "title": "Rule of nines — adult: head 9%, each arm 9%, anterior trunk 18%, perineum 1% (Medical Dictionary)",
+        "url": "https://medical-dictionary.thefreedictionary.com/rule+of+nines"
+      },
+      {
+        "title": "Rule of Nines - Burn Surface Area Calculator",
+        "url": "https://onlinemedicaltools.com/tools/rule-of-nines"
+      }
+    ],
+    "reason": "stem is complete in f11; arithmetic 18+9=27 nearest option 28%, agrees with f11 source mark"
+  },
+  "Q0843": {
+    "verdict": "uncertain",
+    "answer": 2,
+    "confidence": "low",
+    "note_ar": "نزّلتُه إلى غير مؤكد: الخيارات المنقولة (36/37/38 أسبوعًا) لا تتضمن 40 أسبوعًا وهو الجواب المعتاد لمدة الحمل الطبيعية، فالأرجح أن الخيارات مبتورة في المصدر؛ 38 أسبوعًا هو الأقرب لمدة الحمل من الإخصاب (266 يومًا) فقط. مدة الحمل من الانغراس/الإخصاب 266 يومًا (≈38 أسبوعًا)، وتُحسب 280 يومًا (40 أسبوعًا) من أول يوم لآخر دورة؛ ولا يتضمن السؤال 40 أسبوعًا، فأقرب خيار للمدة الفعلية هو 38 أسبوعًا. أما 37 أسبوعًا فهو بداية «الحمل المبكر المكتمل» لا المدة الطبيعية. الصياغة ملتبسة (لم يحدد مبدأ العدّ).",
+    "refs": [
+      {
+        "title": "Physiology, Pregnancy - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK559304/"
+      }
+    ],
+    "reason": "correct textbook answer (40 weeks / 280 days) is not among the visible options, so the options are probably truncated; an answer by nearest-option is not a verified answer"
+  }
+}

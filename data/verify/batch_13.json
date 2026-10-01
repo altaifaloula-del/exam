@@ -1,0 +1,821 @@
+[
+ {
+  "id": "Q0555",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أفضل عمر للجنين اذا تمت ولادته بأن يتمتع بفرصه اكبر للحياة قبل الانتهاء الطبيعي للحمل هو:-",
+  "q_ar": null,
+  "options": [
+   "٢٨ اسبوع",
+   "٣٦ اسبوع",
+   "٢٦ اسبوع",
+   "٣٢ اسبوع"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "٣٦ اسبوع",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0556",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "من خصائص الوليد التشريحية:-",
+  "q_ar": null,
+  "options": [
+   "يكون رأسه كبيرا بالنسبة لجسمه",
+   "يكون البطن صغيرا ومندثر",
+   "يكون صدره كبيرا بالنسبة لباقي جسمه",
+   "وزن الوليد الأنثى اكبر قليلا من وزن الوليد الذكر"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "وزن الوليد الأنثى اكبر قليلا من وزن الوليد الذكر",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0557",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "الحمل العنقودي هو نوع من الأورام الحميدة التي تصيب:-",
+  "q_ar": null,
+  "options": [
+   "الجنين نفسه",
+   "المشيمة",
+   "جدار الرحم",
+   "قناة فالوب"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "جدار الرحم",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0558",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "الحمل الهاجر هو غرس البويضة الملقحة خارج التجويف الرحمي من أسبابه",
+  "q_ar": null,
+  "options": [
+   "الاجهاض المتكرر",
+   "التهاب قناة فالوب",
+   "تضيق قناة فالوب",
+   "جميع ما ذكر"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "تضيق قناة فالوب",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0559",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "عندما يحتبس الجنين الميت في الرحم مدة ٤ – ٨ أسابيع هذا نوع من أنواع الإجهاض وهو:-",
+  "q_ar": null,
+  "options": [
+   "الاجهاض الحتمي",
+   "الاجهاض الناقص",
+   "الاجهاض المفقود",
+   "الاجهاض المهدد"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0560",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "يعرف الاجهاض بأنه نزول محتويات الرحم قبل ان يصبح الجنين قابلا للحياة أي قبل عمر:-",
+  "q_ar": null,
+  "options": [
+   "١٦ اسبوع",
+   "٢٠ اسبوع",
+   "٢٤ اسبوع",
+   "٢٨ اسبوع"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0410",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "tooth mobility test is ?",
+  "q_ar": null,
+  "options": [
+   "Evaluate tooth movement within new position",
+   "Evaluate tooth movement within socket",
+   "......",
+   "Should use in endodontic tests"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Evaluate tooth movement within socket",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0411",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "apexectomy is ? 1. Surgical removal of apex of root 2. performed in incomplete apical seal 3. performed in treatment fracture teeth 4. performed in endodontically teeth",
+  "q_ar": null,
+  "options": [
+   "1,2,3",
+   "1,2,4",
+   "1,4",
+   "All"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0412",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "provisional restoration used to protect teeth from caries because enamel less resistance to caries from dentin ?",
+  "q_ar": null,
+  "options": [
+   "Frist statement is flase,2nd true",
+   "Frist statement is true, 2nd is flase",
+   "Both are true",
+   "Both are false"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Frist statement is true, 2nd is flase",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0413",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "root careis properties (all correct except ) :",
+  "q_ar": null,
+  "options": [
+   "rapidly very progression",
+   "v shaped in cross section",
+   "Well define margins",
+   "found in old patient because gingival recession"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Well define margins",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0414",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "different deciduous teeth from permanent teeth ?",
+  "q_ar": null,
+  "options": [
+   "Large pulp champers and pulpal horn near to external surface",
+   "Broad and flat contact",
+   "Less thickness of enamel",
+   "All of above"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "All of above",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0415",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "exchange zone is the zone in which instrument and dental material are exchanged between the clinician and dental assistance ?",
+  "q_ar": null,
+  "options": [
+   "Below patient's neck and several inch above the patient's chest",
+   "Below patient's chin and several inch above the patient's chest",
+   "Above patient's chin and several inch above the patient's chest",
+   "None"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Below patient's chin and several inch above the patient's chest",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0416",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "pulpectomy is ?",
+  "q_ar": null,
+  "options": [
+   "Complete removal of pulp with no longer vital teeth",
+   "Partial removal of pulp with remaining non vital teeth",
+   "Complete removal of pulp with no longer vital teeth",
+   "Partial removal of pulp with remaining vital teeth"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Complete removal of pulp with no longer vital teeth",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark",
+   "duplicate_options"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0417",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "etching of primary teeth ?",
+  "q_ar": null,
+  "options": [
+   "Equal with permanent teeth",
+   "Less than permanent teeth",
+   "More than permanent teeth",
+   "Dependent on concentration"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "More than permanent teeth",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0418",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "when you want take / increase accurate of impression?",
+  "q_ar": null,
+  "options": [
+   "should be added hydrophobic material",
+   "You should low viscosity",
+   "Proper gingival retract",
+   "All of above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0419",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "extension of oblique ridge ?",
+  "q_ar": null,
+  "options": [
+   "mesiobuccal to distolingual",
+   "Distobuccal to distolingual",
+   "Mesiolingual to distobuccal",
+   "Distobuccal to distolingual"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Mesiolingual to distobuccal",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark",
+   "duplicate_options"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0420",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "cavity varnish ( copalite) all true except ?",
+  "q_ar": null,
+  "options": [
+   "Use prior cementation restoration",
+   "Sealing dental tubules",
+   "Used under resin and glass ionomer",
+   "Rabidly vaporized"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Used under resin and glass ionomer",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0421",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "when we want to give inferior alveolar block for child you have to take attention which mandibular foramen?",
+  "q_ar": null,
+  "options": [
+   "At level of occlusal plane",
+   "Above the level of occlusal plane",
+   "Below the level of occlusal plane",
+   "Not of the above"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Below the level of occlusal plane",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0422",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "when recapping needle of anesthesia, you should use technique?",
+  "q_ar": null,
+  "options": [
+   "One hand scoop technique",
+   "Two hand technique",
+   "Recapping device",
+   "no one of above"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "One hand scoop technique",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0423",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "when selective grinding in complete denture all are true (except)?",
+  "q_ar": null,
+  "options": [
+   "Multiple grinding and uniformly occlusion in in bilateral balance from centric to eccentric",
+   "Grinding in fossa and margin of supporting cusp",
+   "Grinding in supporting cusp in lateral and centric movement",
+   "No one"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Grinding in supporting cusp in lateral and centric movement",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0424",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "more esthetic post ?",
+  "q_ar": null,
+  "options": [
+   "Glass fiber post",
+   "Casting post",
+   "fabricated post",
+   "Carbon post"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Glass fiber post",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0425",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "the prefer root for placement post in upper first molar?",
+  "q_ar": null,
+  "options": [
+   "Buccal root",
+   "Distal root",
+   "Palatal root",
+   "Lingual root"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Palatal root",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0426",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "crown lengthening technique : (all are correct except) ?",
+  "q_ar": null,
+  "options": [
+   "Exposes enough tooth structure to improve retention of the new restoration",
+   "Improve esthetics",
+   "Correct violation of biological width",
+   "Used on healthy gingiva only."
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Used on healthy gingiva only.",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0427",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "Epinephrine gingival retraction agent provides : (all are correct except)?",
+  "q_ar": null,
+  "options": [
+   "Good gingival retraction",
+   "Good hemostasis",
+   "No irreversible damage to gingiva",
+   "No systemic effect"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "No systemic effect",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0428",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "when doing radiograph operator stand?",
+  "q_ar": null,
+  "options": [
+   "Behind lead line barriers",
+   "Behind wood barriers",
+   "Behind folding barriers",
+   "Intensing screen"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Behind lead line barriers",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0429",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "cause of sever occlusal discrepancy in restoration?",
+  "q_ar": null,
+  "options": [
+   "impression with partial or quadrant tray",
+   "Proper impression",
+   "No record bite registration",
+   "Take opposite side with alginate impression"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "No record bite registration",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0430",
+  "specialty": "dental",
+  "type": "tf",
+  "q": "dental floss an brush example of community prevention in dentistry.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "False",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0431",
+  "specialty": "dental",
+  "type": "tf",
+  "q": "provisional restoration should be blueprint to final restoration?",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0432",
+  "specialty": "dental",
+  "type": "tf",
+  "q": "etch teeth 15 second with 15% phosphoric acid",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "False",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0433",
+  "specialty": "dental",
+  "type": "tf",
+  "q": "porcelain fused to metal less strength than all porcelain",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "False",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0434",
+  "specialty": "dental",
+  "type": "tf",
+  "q": "reversible pulpitis. Initial treatment with invasively R.C.T",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "False",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0435",
+  "specialty": "dental",
+  "type": "tf",
+  "q": "hand instrument named because Dentist used it with his hand with out use handpiece",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0436",
+  "specialty": "dental",
+  "type": "tf",
+  "q": "there are a lot of cement that used in dentistry according characteristic in each case that use as restoration , luting and bases.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0437",
+  "specialty": "dental",
+  "type": "tf",
+  "q": "slowly removal of elastomeric impression result in less tear and deformation",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "False",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0438",
+  "specialty": "dental",
+  "type": "tf",
+  "q": "surface smoothness of restoration is essential to avoid complicate such as plaque accumulation. Gingivitis. Periodontitis and wear of antagonist teeth",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0439",
+  "specialty": "dental",
+  "type": "tf",
+  "q": "remove all temporary cement during insertion permit casting to seating",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0440",
+  "specialty": "dental",
+  "type": "tf",
+  "q": "home bleaching is indicated in sever or deep discoloration",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0441",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "strategy of treatment plane sequence except ?",
+  "q_ar": null,
+  "options": [
+   "Examination and problem identification",
+   "Reveal the need for adjustment to create future disease (printed note: صيغة السؤال غير واضحة)",
+   "...........................",
+   "None"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0442",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "caoh advantage (all correct except )?",
+  "q_ar": null,
+  "options": [
+   "...........................",
+   "...........................",
+   "...........................",
+   "Low compressive strength"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Low compressive strength",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0443",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "proximal surface of restoration to prevent food accumulation is?",
+  "q_ar": null,
+  "options": [
+   "Should be flat",
+   "Convex or flat",
+   "Convex or concave never flat",
+   "Non important"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0444",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "the important factor in success of periodontal treatment ?",
+  "q_ar": null,
+  "options": [
+   "Periodontal maintenance",
+   "Skill of operator",
+   "Drugs",
+   "All of above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0445",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "retraction cord ( tissue management ), all correct except :",
+  "q_ar": null,
+  "options": [
+   "To appear above and below finishing line",
+   "To easy visible",
+   "To good retention",
+   "Esthetic demand"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "To good retention",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0446",
+  "specialty": "dental",
+  "type": "mcq",
+  "q": "patient that have denture when say fifty word , lower lip touch with ?",
+  "q_ar": null,
+  "options": [
+   "...........................",
+   "...........................",
+   "With incisal edge of upper centrals",
+   "..........................."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "With incisal edge of upper centrals",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

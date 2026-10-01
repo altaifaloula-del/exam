@@ -1,0 +1,907 @@
+[
+ {
+  "id": "Q0505",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "علامة إيجابية لبدء المرحلة الثانية من المخاض هي: -",
+  "q_ar": null,
+  "options": [
+   "عدم الإحساس بعنق الرحم",
+   "ولادة الرأس",
+   "ولادة المشيمة",
+   "ولادة الطفل"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "عدم الإحساس بعنق الرحم",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0506",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "السبب الجوهري لقسم سيزيرن هو: -",
+  "q_ar": null,
+  "options": [
+   "عدم التناسق في الرأس والحوض",
+   "من النوع الاختياري casein",
+   "مولود بحجم كبير",
+   "الأم المصابة بداء السكري"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "عدم التناسق في الرأس والحوض",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0507",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أفضل وقت لإدخال اللولب هو: -",
+  "q_ar": null,
+  "options": [
+   "بعد الحيض",
+   "بعد الولادة",
+   "قبل الحيض",
+   "في أي وقت"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "بعد الحيض",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0508",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "إذا كان الدورة الشهرية للأم منتظمة لمدة ٢٨ يوماً ، فإن وقت الإباضة: -",
+  "q_ar": null,
+  "options": [
+   "يوم 18",
+   "يوم 14",
+   "يوم 12",
+   "يوم 20"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "يوم 14",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0509",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "تتم زراعة البويضة الملقحة في: -",
+  "q_ar": null,
+  "options": [
+   "الساقط القاعدي",
+   "الساقط المحافظي",
+   "بطانة الرحم",
+   "الأهداب"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0510",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "الإجهاض التلقائي يحدث: -",
+  "q_ar": null,
+  "options": [
+   "قبل 16 أسبوعًا",
+   "بعد 20 أسبوعًا",
+   "عند 32 أسبوعًا",
+   "في أي وقت"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "قبل 16 أسبوعًا",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0511",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "الرعاية التمريضية للمرأة الحامل عند ارتفاع ضغط الدم: -",
+  "q_ar": null,
+  "options": [
+   "تشجيع المرأة علي الجلوس والنوم في وضعية الاستلقاء الجانبي.",
+   "زيادة النشاط وفقاً لتحملها",
+   "إعطاء حمية سوائل متساوية التوتر",
+   "إعطاء حمية غذائية غنية بالبروتين"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "تشجيع المرأة علي الجلوس والنوم في وضعية الاستلقاء الجانبي.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0512",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "من الرعاية التمريضية أثناء المخاض مع تقلص الرحم غير الكافي باستثناء: -",
+  "q_ar": null,
+  "options": [
+   "إعطاء الأوكسيتوسين",
+   "إعطاء إرخاء العضلات",
+   "الراحة بالسرير",
+   "كل ما سبق"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "إعطاء إرخاء العضلات",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0513",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أفضل وقت لإعطاء الميثيرجين methergin هو: -",
+  "q_ar": null,
+  "options": [
+   "أثناء ولادة الطفل",
+   "أثناء مخاض المشيمة",
+   "بعد ولادة المشيمة",
+   "بعد ولادة الطفل"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "بعد ولادة المشيمة",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0514",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "علامة رئيسية لسرطان بطانة الرحم هي: -",
+  "q_ar": null,
+  "options": [
+   "نزيف الرحم غير الطبيعي",
+   "الحيض غير المنتظم",
+   "انقطاع الطمث",
+   "تقلص مؤلم"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "نزيف الرحم غير الطبيعي",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0515",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "مصطلح الامحاء effacement يعني: -",
+  "q_ar": null,
+  "options": [
+   "تليين واتساع عنق الرحم",
+   "إظهار الجزء",
+   "إظهار",
+   "استرخاء الرحم"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "تليين واتساع عنق الرحم",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0516",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أكثر المشاكل شيوعاً أثناء الحمل: -",
+  "q_ar": null,
+  "options": [
+   "فقر الدم الناجم عن نقص الحديد",
+   "ارتفاع ضغط الدمسي",
+   "السكري",
+   "تسمم الحمل"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "فقر الدم الناجم عن نقص الحديد",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0517",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "رعاية المرأة الحامل المصابة بالإمساك كلها عدا: -",
+  "q_ar": null,
+  "options": [
+   "أخذ كمية جيدة من الكربوهيدرات",
+   "خذ كمية جيدة من السوائل",
+   "أخذ ملين وملين للبراز بدون وصفة",
+   "كل ما سبق"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "أخذ ملين وملين للبراز بدون وصفة",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0518",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "الرعاية التمريضية الحامل كلها ماعدا: -",
+  "q_ar": null,
+  "options": [
+   "الراحة والنوم خاصة بعد الظهر",
+   "تناول حمية غذائية جيدة",
+   "تشجيع النشاط الذي يعتمد على الحس السليم بالتوازن",
+   "تجنب الأعمال الشاقة التي تستغرق وقتاً طويلاً والتعب"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "تشجيع النشاط الذي يعتمد على الحس السليم بالتوازن",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0519",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أسباب نزيف الدم بعد الولادة كلها ما عدا: -",
+  "q_ar": null,
+  "options": [
+   "عدم الحركة",
+   "الجزء المحتجز من المشيمة",
+   "وهن الرحم",
+   "الورم الليفي"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "عدم الحركة",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0520",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "كلها موانع الحث على الولادة باستثناء:",
+  "q_ar": null,
+  "options": [
+   "وضعية غير طبيعية للجنين",
+   "طول فترة الولادة",
+   "مساعدة متوسع كاملة",
+   "انقباض الرحم التدريجي المنتظم"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "طول فترة الولادة",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0521",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "واحدة مما يلي من علامة الحمل المحتملة: -",
+  "q_ar": null,
+  "options": [
+   "تقلصات Braxton hick's",
+   "تطبيق حركة الجنين بواسطة مقدم الرعاية الصحية",
+   "الم الثدي",
+   "صوت قلب الجنين"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "تقلصات Braxton hick's",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0522",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "كلها من خصائص السائل الأمنيوسي باستثناء: -",
+  "q_ar": null,
+  "options": [
+   "يتكون من ٩٨٪ من الماء",
+   "يتكون ١-٢٪ من مواد عضوية وصلبة غير عضوية",
+   "الكمية أقل من ٥٠٠ مل",
+   "يمنع التصاق السلى."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "الكمية أقل من ٥٠٠ مل",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0523",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "كيف تعمل حبوب منع الحمل الفموية :-",
+  "q_ar": null,
+  "options": [
+   "قمع الإباضة",
+   "انسداد البوق",
+   "تدمير أو تجميد الحيوانات المنوية",
+   "تثبط هجرة الحيوانات المنوية في الأعضاء التناسلية الأنثوية العليا"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "قمع الإباضة",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0524",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "من صفات الإجهاض الفائت عدا: -",
+  "q_ar": null,
+  "options": [
+   "يشير ارتفاع قاع الرحم إلى عدم وجود زيادة في حجم الجنين",
+   "موت الجنين في الرحم",
+   "الانحدار في نمو الرحم",
+   "تغيرات تنكسيه في بطانة الرحم"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "يشير ارتفاع قاع الرحم إلى عدم وجود زيادة في حجم الجنين",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0525",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "ما بعد الولادة الاضطراب الأكثر شيوعا هو: -",
+  "q_ar": null,
+  "options": [
+   "الإزرقاق بعد الولادة",
+   "الذهان",
+   "الاكتئاب",
+   "العدوى"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "الإزرقاق بعد الولادة",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0526",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "الطبقة الوظيفية للرحم هي: -",
+  "q_ar": null,
+  "options": [
+   "بطانة الرحم",
+   "عضلة الرحم",
+   "الظهارة الرحمية",
+   "الغشاء الساقط (غشاء الرحم الداخلي)"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0527",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "كلها علامة على انفصال المشيمة ماعدا: -",
+  "q_ar": null,
+  "options": [
+   "تدفق مفاجئ للدم",
+   "قصر في الحبل السري",
+   "رحم كروي وثابت",
+   "ارتفاع الرحم في البطن"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "قصر في الحبل السري",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0528",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "من علامات نزول المشيمة عدا: -",
+  "q_ar": null,
+  "options": [
+   "ألم، إفرازات مهبلية بنية داكنة",
+   "رحم رقيق غير رقيق ذو نغمة طبيعية",
+   "رحم كروي مع قاع مرتفع",
+   "كل ما سبق"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "ألم، إفرازات مهبلية بنية داكنة",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0529",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أي من التأثيرات الجانبية التالية على الممرض ان يتوقعها عند المرضى الذين يتناولون علاج atropine sulfate",
+  "q_ar": null,
+  "options": [
+   "جفاف في الفم",
+   "زيادة إفراز اللعاب",
+   "ارتفاع معدل النبض",
+   "انخفاض درجة الحرارة"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "جفاف في الفم",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0530",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "كل الأعراض الآتية يجب أن نحذر منها الحامل ما عدا-:",
+  "q_ar": null,
+  "options": [
+   "الصداع الحاد أو المستمر",
+   "آلام البطن المستمرة",
+   "زيادة عدد مرات التبول",
+   "تورم اليدين أو الوجه"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "زيادة عدد مرات التبول",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0531",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "هناك تغيرات كثيرة تطرأ على الأم أثناء فترة الحمل من التغيرات التي تحدث على القلب-:",
+  "q_ar": null,
+  "options": [
+   "لا يحدث أي تغيير",
+   "ينقص معدل النبض",
+   "يزداد معدل النبض",
+   "يقل حجم القلب"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "يزداد معدل النبض",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0532",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "من مضاعفات الولادة-:",
+  "q_ar": null,
+  "options": [
+   "النزيف بعد الولادة",
+   "احتباس المشيمة",
+   "انقلاب الرحم",
+   "جميع ما ذكر"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "جميع ما ذكر",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0533",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "تسمع دقات قلب الجنين بوضوح عند عمر-:",
+  "q_ar": null,
+  "options": [
+   "٨ اسابيع",
+   "١٢ اسبوع",
+   "١٦ اسبوع",
+   "٢٠ اسبوع"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "١٢ اسبوع",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0534",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "يكتمل نمو المشيمة والحبل السري على عمر",
+  "q_ar": null,
+  "options": [
+   "٨ اسابيع",
+   "١٢ اسبوع",
+   "١٦ اسبوع",
+   "٢٠ أسبوع"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0535",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أي من الفئات التالية يجب عدم إعطائها Barbiturates:",
+  "q_ar": null,
+  "options": [
+   "الأطفال اقل من ٥ سنوات",
+   "المرأة الحامل",
+   "المرأة المرضع",
+   "البالغين الذين يعانون من القرحة النازفة"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "المرأة الحامل",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0536",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أي من الفئات التالية يجب عدم إعطائها دواء (ergotamine tartrate)",
+  "q_ar": null,
+  "options": [
+   "مرضى السكري",
+   "مرضى الربو",
+   "النساء الحوامل",
+   "مرضى مدمنى الكحول ."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "النساء الحوامل",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0537",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "تحقن التحصينات بواسطة الحقن :",
+  "q_ar": null,
+  "options": [
+   "تحت الجلد",
+   "بالجلد .",
+   "بالعضل.",
+   "بالوريد"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "تحت الجلد",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0538",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أكثر مراحل العمر عرضة للوفاة الإصابة بالأنقلونزا :",
+  "q_ar": null,
+  "options": [
+   "حديثي الولادة.",
+   "من سنتين الى اثني عشر سنة .",
+   "من ٤٠ الى ٦٥ .",
+   "أكثر من ٦٥ سنة."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0539",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أي من المعاملات التالية بعد خروج الجنين يؤكد على انفصال المشيمة:-",
+  "q_ar": null,
+  "options": [
+   "تكور شكل الرحم.",
+   "ارتفاع مفاجئ بقاع الرحم .",
+   "اندفاع الدم فجأة للخارج.",
+   "جميع المعاملات السابقة."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0540",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "لمنع حدوث التهاب الوريد الخثاري ، ينبغي إرشاد الأم في مرحلة مابعد الولادة باتباع أي من الإجراءات التالية :-",
+  "q_ar": null,
+  "options": [
+   "ارتداء الجوارب المطاطية.",
+   "التحرك المبكر .",
+   "العلاج بمضادات التجلط.",
+   "أداء التمرينات."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "العلاج بمضادات التجلط.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0541",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "كلما ينمو الطفل في السن التغيرات التي تطرأ على سرعة التنفس وضربات القلب :-",
+  "q_ar": null,
+  "options": [
+   "بالزيادة في المعدل.",
+   "بالنقص في المعدل",
+   "بالثبات على المعدل.",
+   "بالاستقرار على معدل الشخص البالغ."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "بالنقص في المعدل",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0542",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "السبب الأساسي لتوقف قلب الأطفال هو :-",
+  "q_ar": null,
+  "options": [
+   "توقف التنفس.",
+   "امراض الأوعية القلبية",
+   "الصعق الكهربائي.",
+   "الغرق.",
+   "التسمم"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "امراض الأوعية القلبية",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0543",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "الاجهاض عبارة عن :-",
+  "q_ar": null,
+  "options": [
+   "خروج الدم او المخاط.",
+   "اسقاط الجنين والمشيمة قبل ٢٨ اسبوع من الحمل .",
+   "بروز راس الجنين.",
+   "بداية الطلق ."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "اسقاط الجنين والمشيمة قبل ٢٨ اسبوع من الحمل .",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0544",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "يبدأ المولود بالتنفس تلقائياً بعد تنظيف المجاري التنفسية خلال ......",
+  "q_ar": null,
+  "options": [
+   "دقيقة واحدة.",
+   "٣٠ ثانية .",
+   "٣ دقائق .",
+   "٩٠ ثانية ."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0545",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "عند انفجار جيب المياه أثناء الوضع وقبل مجيء رأس الجنين ، ينبغي على الممرضة تقييم حالة الأم فيما يتعلق وحدوث :-",
+  "q_ar": null,
+  "options": [
+   "النزيف.",
+   "الألم .",
+   "تدلي الحبل السري.",
+   "همود الرحم."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0546",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "كل ما يلي يعتبر من الإجراءات المتبعة للعناية بالحبل السري ما عدا :-",
+  "q_ar": null,
+  "options": [
+   "استخدام مشابك معقمة.",
+   "الانتظار حتى توقف النبضات القوية بالحبل السري .",
+   "في حال استمرار النزف بعد قص الحبل السري ، يجب تعديل وضع المشابك وضبطها .",
+   "عدم ربط الحبل السري للمولود الذي لا يتنفس تلقائياً"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0547",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "عدم تقويم المولود ( بمقياس أبجر ) وجد أن جذعه وردي اللون وأطرافه زرقاء وتنفسه بطئ ، ويكثر عند التنبيه ، ولديه بعض العطف في أطرافه السفلية ، ومعدل النبض ١١٠ / الدقيقة . كم يكون مقياس أبجر :-",
+  "q_ar": null,
+  "options": [
+   "٥ .",
+   "٦ .",
+   "٤ .",
+   "٨ ."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0548",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أثناء الولادة وبعد خروج رأس الجنين ، وجدت الحبل السري ملتف حول رقبة الجنين فماذا تفعل :-",
+  "q_ar": null,
+  "options": [
+   "الانتظار حتى توقف النبضات القوية بالحبل السري ثم نضع مشبكين ونقص الحبل السري.",
+   "محاولة إزالة الحبل السري من حول الرقبة وذلك بوضع أصبعين تحت الحبل السري خلف رقبة الجنين ومحاولة إزاحة الحبل السري إلى الأمام، وفي حال الفشل يجب وضع مشبكين فورا وقص الحبل السري.",
+   "يجب استخدام مشابك معقمة لربط الحبل السري.",
+   "أ ، ب .",
+   "ب ، ج معاً ."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0549",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "كل ما يلي يعتبر صحيحاً فيما يتعلق بتدلي الحبل السري ما عدا :-",
+  "q_ar": null,
+  "options": [
+   "نقل الأم الى المستشفى مع رفع أردافها .",
+   "اعطاء تركيز عالي من الأكسجين .",
+   "تغطية الحبل السري بضماد معقم مبلل .",
+   "ربط الحبل السري وقصه ."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0550",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أثناء الولادة وبمجرد خروج رأس الجنين يجب على المسعف اجراء شفط الافرازات :-",
+  "q_ar": null,
+  "options": [
+   "من الفم أولاً .",
+   "من الأنف أولاً.",
+   "من الفم والأنف باستخدام جهاز الشفط الكهربائي.",
+   "باستخدام بصيلة الشفط .",
+   "أ ، د معاً ."
+  ],
+  "source_marked_answer_index": 4,
+  "source_marked_answer_text": "أ ، د معاً .",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0551",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "يسمى النزف بين الدورة الشهرية",
+  "q_ar": null,
+  "options": [
+   "النزيف الرحمي",
+   "عسر الطمث",
+   "غزارة الطمث",
+   "انقطاع الطمث"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "النزيف الرحمي",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0552",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أفضل ما يمكن عمله للاستشارة الوراثية هو في: -",
+  "q_ar": null,
+  "options": [
+   "الثلث الأول",
+   "الثلث الثاني",
+   "الثلث الثالث",
+   "في أي وقت"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "الثلث الثاني",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0553",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "يبلغ محيط رأس الطفل عند الولادة:-",
+  "q_ar": null,
+  "options": [
+   "٣٠ سم",
+   "٣٥سم",
+   "٤٠سم",
+   "٥٠ سم"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "٣٥سم",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0554",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "من أكثر الأمراض المؤدية إلى ولادات أطفال ذو أوزان قليلة:-",
+  "q_ar": null,
+  "options": [
+   "سوء التغذية",
+   "مرض مقدمة الارتجاج",
+   "عدم ممارسة الأم للرياضة",
+   "لا شيء مما ذكر"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "سوء التغذية",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

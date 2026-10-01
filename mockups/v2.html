@@ -1,0 +1,629 @@
+<title>نماذج واجهة بنك المزاولة</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=Noto+Kufi+Arabic:wght@500;700;800&family=Noto+Naskh+Arabic:wght@400;500;600&family=Readex+Pro:wght@400;500;600&display=swap">
+<style>
+/* Layout: a short spec sheet first, then one live stage that swaps between three complete identities.
+   The page shell follows the viewer's theme; each identity inside the stage is a fixed, self-contained design. */
+:root{
+  --bg:#EEF1F0; --fg:#14232A; --muted:#55686E; --line:#CFD9DA; --card:#FFFFFF;
+  --accent:#0A6B72; --accent-ink:#FFFFFF; --warn:#8F5400; --warn-bg:#FBEED4; --ok:#14734A; --ok-bg:#E2F3E9;
+  --f:"IBM Plex Sans Arabic",Tahoma,"Segoe UI",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0D1618; --fg:#E4EDEE; --muted:#8DA1A6; --line:#283A3E; --card:#152124; --accent:#55C2C9; --accent-ink:#06282B;
+  --warn:#F0B45A; --warn-bg:#3A2A0C; --ok:#5CCB92; --ok-bg:#12301F; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0D1618; --fg:#E4EDEE; --muted:#8DA1A6; --line:#283A3E; --card:#152124; --accent:#55C2C9; --accent-ink:#06282B;
+  --warn:#F0B45A; --warn-bg:#3A2A0C; --ok:#5CCB92; --ok-bg:#12301F; color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:400 16px/1.75 var(--f)}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px;border-radius:6px}
+.page{max-width:1120px;margin:0 auto;padding-inline:16px;padding-block:28px 64px;display:grid;gap:40px}
+h1{font-size:clamp(1.6rem,4vw,2.3rem);line-height:1.3;margin:0;text-wrap:balance}
+h2{font-size:1.35rem;margin:0 0 12px;text-wrap:balance}
+h3{font-size:1.05rem;margin:0 0 6px}
+p{margin:0}
+.lead{color:var(--muted);max-width:68ch}
+.sheet{display:grid;gap:22px}
+.cols{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr))}
+.box{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;display:grid;gap:10px;align-content:start;min-width:0}
+.box ul{margin:0;padding-inline-start:20px;display:grid;gap:8px}
+.box li{min-width:0;overflow-wrap:anywhere}
+.tag{display:inline-block;font-size:.76rem;font-weight:600;padding:0 8px;border-radius:99px;background:var(--warn-bg);color:var(--warn);margin-inline-start:6px;white-space:nowrap}
+.ask li b{color:var(--accent)}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+/* ---- stage controls ---- */
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+.tabs{display:flex;flex-wrap:wrap;gap:6px}
+.tab{border:1.5px solid var(--line);background:var(--card);border-radius:10px;padding:8px 16px;font-weight:600}
+.tab[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.small{font-size:.88rem;color:var(--muted)}
+.ctl{border:1.5px solid var(--line);background:var(--card);border-radius:10px;padding:6px 12px;font-size:.88rem}
+.stage{display:grid;gap:12px;justify-items:center}
+.stage .frame{width:100%;max-width:1100px}
+.stage.phone .frame{max-width:390px}
+.demo{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+/* ================= the three identities ================= */
+.frame{container-type:inline-size;border-radius:18px;overflow:hidden;border:1px solid var(--line);min-height:640px;position:relative;
+  background:var(--m-bg);color:var(--m-ink);font-family:var(--m-fb);line-height:1.6}
+.frame *{box-sizing:border-box}
+.frame button{color:inherit}
+.frame :focus-visible{outline:3px solid var(--m-sig);outline-offset:2px}
+.frame svg.i{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:var(--m-sw,1.75);stroke-linecap:round;stroke-linejoin:round;flex:none}
+.m{display:grid;gap:18px;padding:18px;align-content:start;min-height:640px}
+.m-top{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.m-top>.m-row{justify-content:flex-end;min-width:0}
+.m-brand{display:flex;align-items:center;gap:10px;white-space:nowrap;font-family:var(--m-fh);font-weight:700;font-size:1.15rem}
+.m-h{font-family:var(--m-fh);font-weight:800;font-size:1.7rem;line-height:1.25;margin:0;text-wrap:balance}
+.m-sub{color:var(--m-muted);font-size:.95rem}
+.m-btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:46px;padding:8px 18px;border:2px solid var(--m-line);background:var(--m-surface);border-radius:var(--m-r);font-weight:600}
+.m-btn.prim{background:var(--m-prim);border-color:var(--m-prim);color:var(--m-prim-ink)}
+.m-btn.danger{border-color:var(--m-bad);color:var(--m-bad)}
+.m-btn.sm{min-height:38px;padding:4px 12px;font-size:.9rem}
+.m-btn[disabled]{opacity:.45;cursor:not-allowed}
+.m-seg{display:flex;gap:6px;flex-wrap:wrap}
+.m-chip{border:2px solid var(--m-line);background:var(--m-surface);border-radius:99px;padding:4px 14px;font-weight:500;font-size:.92rem}
+.m-chip[aria-pressed="true"],.m-chip[aria-selected="true"]{background:var(--m-prim);border-color:var(--m-prim);color:var(--m-prim-ink)}
+.m-chip[disabled]{opacity:.4;cursor:not-allowed}
+.m-toast{position:absolute;inset-inline:16px;bottom:16px;z-index:4;padding:12px 16px;border-radius:var(--m-r);background:var(--m-sig);color:var(--m-sig-ink);font-weight:600;display:flex;gap:10px;align-items:center}
+.m-panel{background:var(--m-surface);border:2px solid var(--m-line);border-radius:var(--m-r);padding:16px;display:grid;gap:12px;min-width:0}
+.m-lab{font-weight:600;font-size:.9rem;color:var(--m-muted)}
+.m-row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.m-row.sp{justify-content:space-between}
+.m-models{display:grid;gap:8px;max-height:420px;overflow:auto;padding:2px}
+.m-model{display:grid;grid-template-columns:1fr auto;gap:2px 12px;align-items:center;text-align:start;padding:10px 14px;border:2px solid var(--m-line);background:var(--m-surface);border-radius:var(--m-r);width:100%}
+.m-model[aria-pressed="true"]{border-color:var(--m-prim);box-shadow:0 0 0 2px var(--m-prim)}
+.m-model .n{font-weight:600}
+.m-model .s{color:var(--m-muted);font-size:.85rem}
+.m-model .t{font-family:var(--m-mono);font-variant-numeric:tabular-nums;text-align:end;font-weight:600}
+.m-rules{margin:0;padding-inline-start:20px;display:grid;gap:8px}
+.m-check{display:flex;gap:10px;align-items:center}
+.m-check input{width:20px;height:20px;accent-color:var(--m-prim)}
+/* exam */
+.ex{display:grid;gap:14px;grid-template-columns:minmax(0,1fr)}
+@container (min-width:760px){.ex{grid-template-columns:minmax(0,1fr) 300px}.ex .side{position:sticky;top:12px;align-self:start}}
+.side{display:grid;gap:12px}
+.ex-main{display:grid;gap:14px;min-width:0;align-content:start}
+.timer{display:grid;gap:2px;justify-items:center;padding:12px;border-radius:var(--m-r)}
+.timer .lbl{font-size:.8rem;opacity:.85}
+.timer .val{font-family:var(--m-mono);font-weight:600;font-size:2.6rem;line-height:1.1;font-variant-numeric:tabular-nums;letter-spacing:.02em;direction:ltr}
+.timer.low .val{color:var(--m-bad)}
+.qcard{background:var(--m-surface);border:2px solid var(--m-line);border-radius:var(--m-r);padding:18px;display:grid;gap:14px;min-width:0}
+.qmeta{display:flex;justify-content:space-between;gap:8px;color:var(--m-muted);font-size:.88rem}
+.qtext{font-size:1.2rem;line-height:1.8;font-weight:500;margin:0}
+.qsub{color:var(--m-muted);margin:0}
+.opts{display:grid;gap:8px}
+.opt{display:grid;grid-template-columns:34px 1fr;gap:12px;align-items:center;text-align:start;width:100%;padding:10px 12px;border:2px solid var(--m-line);background:var(--m-surface);border-radius:var(--m-r)}
+.opt .k{width:34px;height:34px;display:grid;place-items:center;font-weight:700}
+.opt[aria-pressed="true"]{border-color:var(--m-prim)}
+.foot{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.foot>:nth-child(2){grid-column:1/-1;order:3}
+@container (min-width:560px){.foot{display:flex;justify-content:space-between}.foot>:nth-child(2){order:0}}
+.map{display:grid;grid-template-columns:repeat(auto-fill,minmax(40px,1fr));gap:6px}
+.cell{min-height:36px;border:2px solid var(--m-line);background:var(--m-surface);border-radius:calc(var(--m-r) - 4px);font-family:var(--m-mono);font-size:.82rem;font-variant-numeric:tabular-nums}
+.cell.done{background:var(--m-prim);border-color:var(--m-prim);color:var(--m-prim-ink)}
+.cell.flag{border-color:var(--m-sig);box-shadow:inset 0 0 0 2px var(--m-sig)}
+.cell.cur{outline:3px solid var(--m-sig);outline-offset:1px}
+.sections{display:flex;gap:6px;flex-wrap:wrap}
+.es textarea{width:100%;min-height:130px;border:2px solid var(--m-line);border-radius:var(--m-r);padding:12px;background:var(--m-surface);color:inherit;font:inherit;resize:vertical}
+.pts{display:grid;gap:8px;margin:0;padding:0;list-style:none}
+.pts label{display:flex;gap:10px;align-items:flex-start;padding:8px 10px;border-radius:calc(var(--m-r) - 2px);border:2px solid var(--m-line)}
+.pts input{width:20px;height:20px;margin-top:3px;accent-color:var(--m-prim);flex:none}
+.pts label.on{border-color:var(--m-prim)}
+.badge{display:inline-block;font-size:.78rem;font-weight:600;padding:0 10px;border-radius:99px;background:var(--m-sig);color:var(--m-sig-ink)}
+.review{position:absolute;inset:0;z-index:5;background:rgb(0 0 0/.55);display:grid;place-items:center;padding:16px}
+.review .m-panel{max-width:520px;width:100%;max-height:90%;overflow:auto}
+.stats3{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;text-align:center}
+.stats3 div{padding:8px;border-radius:calc(var(--m-r) - 2px);background:var(--m-bg);font-size:.82rem;color:var(--m-muted)}
+.stats3 b{display:block;font-size:1.4rem;color:var(--m-ink);font-family:var(--m-mono)}
+[dir=auto]{unicode-bidi:plaintext}
+
+/* ---------- A: لوحة الإرشاد (hospital wayfinding) ---------- */
+.sk-a{--m-bg:#EDF1F5;--m-surface:#FFFFFF;--m-ink:#0D2B4D;--m-muted:#4F6279;--m-line:#C3CFDC;--m-prim:#0D2B4D;--m-prim-ink:#FFFFFF;--m-sig:#FFC629;--m-sig-ink:#0D2B4D;--m-bad:#B3261E;
+  --m-r:12px;--m-sw:2.2;--m-fh:"Noto Kufi Arabic","IBM Plex Sans Arabic",sans-serif;--m-fb:"IBM Plex Sans Arabic",Tahoma,sans-serif;--m-mono:"IBM Plex Mono",monospace;
+  --ca:#1C8A5A;--cn:#0E7FA8;--cm:#B5397F;--cd:#D9741A;--ce:#0D2B4D}
+.sk-a .m{padding:0;gap:0}
+.sk-a .a-top{background:var(--m-prim);color:#fff;padding:14px 18px;display:flex;justify-content:space-between;align-items:center;border-bottom:6px solid var(--m-sig);gap:10px}
+.sk-a .a-top .m-brand{color:#fff}
+.sk-a .a-top .m-btn{background:transparent;border-color:rgb(255 255 255/.65);color:#fff}
+.sk-a .a-top .m-sub{color:#D7E1EE}
+.sk-a .a-top .logo{width:38px;height:38px;border-radius:10px;background:var(--m-sig);color:var(--m-prim);display:grid;place-items:center}
+.sk-a .a-body{padding:20px 18px 24px;display:grid;gap:22px}
+.sk-a .signs{display:grid;gap:12px}
+@container (min-width:700px){.sk-a .signs{grid-template-columns:1fr 1fr}.sk-a .sign:last-child{grid-column:1/-1}}
+.sk-a .sign{display:grid;grid-template-columns:84px 1fr 52px;align-items:stretch;border:2px solid var(--m-ink);background:var(--m-surface);border-radius:16px;overflow:hidden;text-align:start;min-height:88px;padding:0;width:100%}
+.sk-a .sign .pg{display:grid;place-items:center;color:#fff;background:var(--c)}
+.sk-a .sign .pg svg{width:40px;height:40px}
+.sk-a .sign .tx{padding:12px 14px;display:grid;align-content:center;gap:0;min-width:0}
+.sk-a .sign .tx b{font-family:var(--m-fh);font-weight:800;font-size:1.25rem}
+.sk-a .sign .tx span{color:var(--m-muted);font-size:.9rem}
+.sk-a .sign .ar{display:grid;place-items:center;background:var(--m-sig);color:var(--m-ink)}
+.sk-a .sign:hover .ar svg{transform:translateX(-3px)}
+.sk-a .tools{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+@container (min-width:700px){.sk-a .tools{grid-template-columns:repeat(7,1fr)}}
+.sk-a .tool{background:var(--m-prim);color:#fff;border:0;border-radius:16px;padding:14px 6px;display:grid;justify-items:center;gap:8px;min-height:104px;align-content:center;text-align:center}
+.sk-a .tool svg{width:32px;height:32px}
+.sk-a .tool span{font-family:var(--m-fh);font-weight:700;font-size:.78rem;line-height:1.3}
+.sk-a .tool:hover{background:#15406F}
+.sk-a .m-h{font-size:1.55rem}
+.sk-a .sec-h{display:flex;align-items:center;gap:10px;font-family:var(--m-fh);font-weight:800;font-size:1.05rem}
+.sk-a .sec-h i{width:10px;height:26px;background:var(--m-sig);border-radius:3px;display:block}
+.sk-a .timer{background:var(--m-prim);color:#fff}
+.sk-a .timer .val{color:var(--m-sig)}
+.sk-a .timer.low{background:var(--m-bad)}
+.sk-a .timer.low .val{color:#fff}
+.sk-a .opt .k{background:var(--m-line);color:var(--m-ink);border-radius:8px;font-family:var(--m-fh)}
+.sk-a .opt[aria-pressed="true"]{background:var(--m-prim);color:#fff}
+.sk-a .opt[aria-pressed="true"] .k{background:var(--m-sig);color:var(--m-prim)}
+.sk-a .m-btn.prim{box-shadow:0 4px 0 #061830}
+.sk-a .qmeta b{font-family:var(--m-fh);color:var(--m-ink)}
+.sk-a .a-page{padding:18px;display:grid;gap:16px}
+
+/* ---------- B: ورقة الامتحان (paper exam booklet) ---------- */
+.sk-b{--m-bg:#EEF1F7;--m-surface:#FFFFFF;--m-ink:#1A2A5C;--m-muted:#58648C;--m-line:#C3CBDF;--m-prim:#1A2A5C;--m-prim-ink:#FFFFFF;--m-sig:#C93A2E;--m-sig-ink:#FFFFFF;--m-bad:#C93A2E;--m-hl:#FFE27A;
+  --m-r:4px;--m-sw:1.5;--m-fh:"Amiri","Noto Naskh Arabic",serif;--m-fb:"IBM Plex Sans Arabic",Tahoma,sans-serif;--m-mono:"IBM Plex Mono",monospace;--m-fq:"Noto Naskh Arabic","Amiri",serif}
+.sk-b{background-image:linear-gradient(#DDE3F0 1px,transparent 1px);background-size:100% 32px}
+.sk-b .m-h{font-family:var(--m-fh);font-weight:700;font-size:2rem}
+.sk-b .m-brand{font-family:var(--m-fh);font-size:1.4rem}
+.sk-b .m-panel,.sk-b .qcard,.sk-b .m-model,.sk-b .opt,.sk-b .cell,.sk-b .m-btn,.sk-b .m-chip{border-width:1.5px}
+.sk-b .b-stamp{border:2px solid var(--m-sig);color:var(--m-sig);border-radius:4px;padding:2px 10px;font-weight:700;font-size:.82rem;transform:rotate(-3deg);display:inline-block}
+.sk-b .cards{display:grid;gap:14px}
+@container (min-width:700px){.sk-b .cards{grid-template-columns:1fr 1fr}}
+.sk-b .card-s{background:var(--m-surface);border:1.5px solid var(--m-ink);border-radius:4px;padding:16px;display:grid;gap:10px;text-align:start;position:relative;width:100%}
+.sk-b .card-s .hd{display:flex;gap:12px;align-items:center}
+.sk-b .card-s .hd svg{width:40px;height:40px;color:var(--m-ink)}
+.sk-b .card-s b{font-family:var(--m-fh);font-size:1.6rem;font-weight:700;line-height:1.2}
+.sk-b .bubbles{display:flex;gap:6px;direction:ltr;justify-content:flex-end}
+.sk-b .bubbles i{width:16px;height:16px;border-radius:50%;border:1.5px solid var(--m-ink);display:block}
+.sk-b .bubbles i.f{background:var(--m-ink)}
+.sk-b .card-s:hover{background:#FBFCFF;box-shadow:3px 3px 0 var(--m-ink)}
+.sk-b .toc{list-style:none;margin:0;padding:0;display:grid;gap:4px}
+.sk-b .toc button{display:flex;align-items:center;gap:10px;width:100%;background:transparent;border:0;border-bottom:1.5px solid var(--m-line);padding:10px 2px;text-align:start}
+.sk-b .toc .dots{flex:1;border-bottom:2px dotted var(--m-line);align-self:flex-end;margin-bottom:8px;min-width:20px}
+.sk-b .toc .v{font-family:var(--m-mono);font-size:.85rem;color:var(--m-muted)}
+.sk-b .toc button:hover{background:rgb(255 226 122/.35)}
+.sk-b .toc b{font-weight:600}
+.sk-b .timer{background:var(--m-surface);border:1.5px solid var(--m-ink);position:relative}
+.sk-b .timer .val{color:var(--m-ink)}
+.sk-b .timer::after{content:"";position:absolute;inset-inline:12px;bottom:10px;height:10px;background:var(--m-hl);z-index:0;opacity:.7;border-radius:2px}
+.sk-b .timer .val{position:relative;z-index:1}
+.sk-b .timer.low .val{color:var(--m-sig)}
+.sk-b .qtext{font-family:var(--m-fq);font-size:1.3rem;line-height:1.95}
+.sk-b .qcard{border-color:var(--m-ink)}
+.sk-b .ex-main .qcard{border-inline-start:6px solid var(--m-sig)}
+.sk-b .opt{grid-template-columns:36px 1fr;border-color:transparent;background:transparent;padding-inline:4px}
+.sk-b .opt .k{border:1.5px solid var(--m-ink);border-radius:50%;font-size:.85rem;font-family:var(--m-mono)}
+.sk-b .opt[aria-pressed="true"]{background:rgb(255 226 122/.4);border-color:transparent}
+.sk-b .opt[aria-pressed="true"] .k{background:var(--m-ink);color:#fff}
+.sk-b .cell{border-radius:50%;min-height:40px;border-color:var(--m-ink)}
+.sk-b .cell.done{background:var(--m-ink);color:#fff}
+.sk-b .m-btn.prim{box-shadow:3px 3px 0 var(--m-sig)}
+.sk-b .m-toast{background:var(--m-hl);color:var(--m-ink);border:1.5px solid var(--m-ink)}
+.sk-b .badge{background:var(--m-hl);color:var(--m-ink);border:1.5px solid var(--m-ink)}
+
+/* ---------- C: شاشة المراقبة (bedside monitor) ---------- */
+.sk-c{--m-bg:#050E11;--m-surface:#0B1A1F;--m-ink:#D9EEF0;--m-muted:#7394A0;--m-line:#1D373F;--m-prim:#4CE39A;--m-prim-ink:#03140C;--m-sig:#FFB84A;--m-sig-ink:#1B1100;--m-bad:#FF6B5E;
+  --m-r:10px;--m-sw:1.4;--m-fh:"Readex Pro","IBM Plex Sans Arabic",sans-serif;--m-fb:"Readex Pro","IBM Plex Sans Arabic",Tahoma,sans-serif;--m-mono:"IBM Plex Mono",monospace;
+  --ca:#4CE39A;--cn:#5CD6F0;--cm:#FF86B5;--cd:#FFC14D;--ce:#D9EEF0}
+.sk-c .m-h{font-weight:600;font-size:1.5rem}
+.sk-c .m-panel,.sk-c .qcard,.sk-c .m-model,.sk-c .opt,.sk-c .cell,.sk-c .m-btn,.sk-c .m-chip{border-width:1px}
+.sk-c .m-btn.prim{box-shadow:0 0 18px rgb(76 227 154/.35)}
+.sk-c .dash{display:grid;gap:10px}
+@container (min-width:700px){.sk-c .dash{grid-template-columns:repeat(4,1fr)}.sk-c .dash .wide{grid-column:1/-1}}
+.sk-c .win{border:1px solid var(--m-line);background:var(--m-surface);border-radius:var(--m-r);padding:12px 14px 6px;display:grid;gap:2px;text-align:start;position:relative;overflow:hidden;width:100%;color:var(--c)}
+.sk-c .win .lb{display:flex;justify-content:space-between;align-items:center;color:var(--m-muted);font-size:.85rem}
+.sk-c .win .lb svg{color:var(--c);width:22px;height:22px}
+.sk-c .win .big{font-family:var(--m-mono);font-weight:600;font-size:3.1rem;line-height:1.05;color:var(--c);font-variant-numeric:tabular-nums}
+.sk-c .win .un{color:var(--m-muted);font-size:.8rem;display:flex;gap:10px;flex-wrap:wrap}
+.sk-c .win svg.tr{width:100%;height:34px;margin-top:4px;fill:none;stroke:var(--c);stroke-width:1.6;stroke-linejoin:round;stroke-linecap:round;opacity:.85}
+.sk-c .dash2{display:grid;gap:10px}
+@container (min-width:700px){.sk-c .dash2{grid-template-columns:1fr 1fr}}
+.sk-c .dash2 .win{padding-bottom:12px}
+.sk-c .win:hover{border-color:var(--c);box-shadow:0 0 22px -6px var(--c)}
+.sk-c .keys{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+@container (min-width:700px){.sk-c .keys{grid-template-columns:repeat(7,1fr)}}
+.sk-c .key{border:1px solid var(--m-line);background:linear-gradient(#10252C,#0B1A1F);border-radius:10px;padding:10px 4px;display:grid;justify-items:center;gap:6px;font-size:.78rem;min-height:84px;align-content:center;text-align:center;color:var(--m-ink)}
+.sk-c .key svg{width:26px;height:26px;color:var(--m-prim)}
+.sk-c .key:hover{border-color:var(--m-prim)}
+.sk-c .timer{background:var(--m-surface);border:1px solid var(--m-line)}
+.sk-c .timer .val{color:var(--m-prim);font-size:3.4rem;text-shadow:0 0 18px rgb(76 227 154/.45)}
+.sk-c .timer.low .val{color:var(--m-bad);text-shadow:0 0 18px rgb(255 107 94/.5)}
+.sk-c .trace{height:26px;width:100%;fill:none;stroke:var(--m-prim);stroke-width:1.5;opacity:.8}
+.sk-c .opt .k{border:1px solid var(--cn);color:var(--cn);border-radius:8px;font-family:var(--m-mono)}
+.sk-c .opt[aria-pressed="true"]{background:rgb(76 227 154/.12);border-color:var(--m-prim)}
+.sk-c .opt[aria-pressed="true"] .k{background:var(--m-prim);border-color:var(--m-prim);color:var(--m-prim-ink)}
+.sk-c .m-toast{box-shadow:0 0 20px rgb(255 184 74/.4)}
+.sk-c .cell.done{color:var(--m-prim-ink)}
+.sk-c .m-h,.sk-c .m-brand{letter-spacing:0}
+.sk-c .review{background:rgb(0 0 0/.7)}
+/* phone: timer first and compact, then the question, then the map (wide frames keep the side column) */
+.ex .side{display:contents}
+.ex .side .timer{order:-1}
+.ex .side .qcard,.ex .side>.m-btn{order:1}
+@container (min-width:760px){.ex .side{display:grid}}
+@container (max-width:759px){.frame .timer{padding:8px 12px}.frame .timer .val{font-size:2.1rem}.frame .timer .trace{display:none}.sk-b .timer::after{bottom:8px}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+
+<main class="page">
+  <header class="sheet">
+    <h1>المرحلة الثانية: اختبارات محوسبة بمؤقّت، وواجهة جديدة بالأيقونات</h1>
+    <p class="lead">هذه ورقة الاتفاق وثلاثة نماذج حيّة للواجهة. لن أكتب كودًا قبل موافقتك على الورقة واختيارك نموذجًا. كل الأرقام والأسئلة داخل النماذج من بنكك الفعلي (781 سؤالًا: 620 محقَّق و161 غير مؤكد).</p>
+  </header>
+
+  <section class="sheet" aria-labelledby="spec-h">
+    <h2 id="spec-h">ورقة الاتفاق</h2>
+    <div class="cols">
+      <div class="box"><h3>ما سأبنيه</h3><ul>
+        <li><b>نماذج امتحانات جاهزة:</b> 27 نموذجًا، لكل ورقة وقسم فيها 15 سؤالًا محقَّقًا فأكثر (بعد دمج النسخ المتطابقة). تضم المحقَّق فقط. المدة = عدد الأسئلة × 1.2 دقيقة، مقرّبة إلى 5 دقائق.<span class="tag">افتراض: 1.2 دقيقة للسؤال</span></li>
+        <li><b>اختبار مخصّص:</b> تختار القسم وعدد الأسئلة (10 إلى 100 بحدّ المتوفر) والمدة.</li>
+        <li><b>اختبار حسب الموضوع:</b> تصنيف الأسئلة إلى 13 موضوعًا ثابتًا ثم اختيار موضوع أو أكثر.</li>
+        <li><b>بيئة أقرب للامتحان الرسمي:</b> شاشة تعليمات، ملء الشاشة اختياريًا، تنبيه عند بقاء 10 و5 و1 دقيقة، شاشة مراجعة قبل التسليم، وتسليم تلقائي عند انتهاء الوقت.</li>
+        <li><b>أسئلة مقالية:</b> أكتبها من مواد البنك بإجابة نموذجية من نقاط ومراجع، وتُعلَّم «مسوّدة آلية». تدخل الاختبار قسمًا مستقلًا بمؤقّته ودرجته، وتُصحَّح ذاتيًا بقائمة نقاط.</li>
+        <li><b>واجهة بهوية جديدة:</b> شبكة بلاطات بأيقونات للأقسام والأدوات (النماذج أدناه).</li>
+        <li><b>مراجعة الطبيب:</b> الصفحة والمستورد جاهزان. بعد عودة القرارات أطبّقها على البنك وأضيف علامة «راجعه طبيب».</li>
+      </ul></div>
+      <div class="box"><h3>ما لا أريده</h3><ul>
+        <li>لا حسابات ولا قاعدة بيانات ولا إرسال لبيانات المستخدمين. النتائج تبقى في متصفح كل شخص.</li>
+        <li>لا أسئلة «غير مؤكد» في أي اختبار أو درجة.</li>
+        <li>لا درجة نجاح رسمية مخترعة، ولا درجة مجمّعة تخلط الاختيار من متعدد بالمقالي.</li>
+        <li>لا تغيير في إجابات البنك إلا بقرار طبيب.</li>
+        <li>لا مكتبة أيقونات ولا إطار عمل. الأيقونات SVG مرسومة داخل الصفحة. الخطوط من Google Fonts فقط، كما هو الحال الآن.</li>
+        <li>لا مقالية بلا إجابة نموذجية ومراجع، ولا مقالية تُعرض كأنها راجعها طبيب قبل أن يراجعها.</li>
+      </ul></div>
+    </div>
+    <div class="cols">
+      <div class="box"><h3>كيف أعرف أنه اكتمل</h3><ul>
+        <li>كل نموذج يضم 15 سؤالًا محقَّقًا أو أكثر ولا يضم سؤالًا غير محقَّق (اختبار آلي على كل النماذج).</li>
+        <li>مدة كل نموذج = ceil(عدد الأسئلة × 1.2 ÷ 5) × 5 دقيقة (اختبار آلي).</li>
+        <li>المؤقّت: لكل قسم مؤقّته، والتسليم التلقائي عند الصفر (وعند صفر القسم الأول ينتقل إلى المقالي)، والتنبيهات عند 10 و5 و1 دقيقة، ومتابعة الوقت الفعلي بعد إعادة تحميل الصفحة (اختبارات في Chrome فعلي بساعة مُتحكَّم بها).</li>
+        <li>شاشة المراجعة تعرض عدد غير المجاب والمعلَّم وتنقلك إلى السؤال بنقرة واحدة.</li>
+        <li>الواجهة: لا تمرير أفقي عند 360 و768 و1280 بكسل، كل أيقونة لها اسم نصي، تباين النص 4.5:1 فأكثر، تشغيل كامل بلوحة المفاتيح، ولا أخطاء في Console.</li>
+        <li>المقالي: كل سؤال له 3 نقاط على الأقل، ولكل نقطة مرجع https، ودرجته = النقاط المعلَّمة ÷ مجموعها.</li>
+        <li>الانحدار: 33 اختبار وحدة و14 سيناريو e2e الحالية تبقى خضراء، ومحتوى bank.json لا يتغير إلا بقرارات الطبيب، وCI أخضر.</li>
+      </ul></div>
+      <div class="box ask"><h3>قرارات تحتاج موافقتك</h3><ul>
+        <li><b>زمن النموذج:</b> 1.2 دقيقة للسؤال (من 50 سؤالًا في 60 دقيقة). النموذج الأكبر (97 سؤالًا) يصير 120 دقيقة. هل تضع سقفًا، مثلًا 90 دقيقة؟</li>
+        <li><b>ترتيب القسمين:</b> أوصي بالتتابع: ينتهي الاختيار من متعدد ثم يبدأ مؤقّت المقالي ولا رجوع (كما في المحاكاة أدناه). البديل: قسمان حران بمؤقّتين يعمل أحدهما حين تكون فيه. أيهما؟</li>
+        <li><b>الرجوع إلى سؤال سابق:</b> مسموح دائمًا في اقتراحي. هل تريد منعه في النماذج؟</li>
+        <li><b>المقالي:</b> كم سؤالًا أكتب؟ أقترح 120 (مساعد طبيب 40، تمريض 40، قبالة 25، أسنان 15)، كلها بنقاط ومراجع وتدخل مراجعة الطبيب.</li>
+        <li><b>لغة المقالي:</b> الأسئلة بالعربية مع المصطلحات الإنجليزية بين قوسين. هل هذا مناسب؟</li>
+        <li><b>النسخ المتطابقة:</b> أسئلتها المحقَّقة واحدة تمامًا، وهي: «صنعاء (مترجم)» مع 1 نسخة متطابقة (42 سؤالًا) و«صنعاء 16/3/2023» مع 2 نسخة متطابقة (26 سؤالًا). أدمج كل مجموعة في نموذج واحد بدل تكراره. موافق؟</li>
+        <li><b>الدليل الشامل:</b> «الدليل العربي الشامل» ليس ورقة امتحان سابقة بل دليل، وفيه كل أسئلة القبالة (84) والأسنان (15). أعرضه نموذجًا عادةً أم أُبقيه للمراجعة والاختبار المخصّص فقط؟</li>
+        <li><b>تسمية النماذج:</b> ملف «تمريض إب وصنعاء» مختلط، فيظهر نموذجان منه (مساعد طبيب وتمريض). أسمّي كل نموذج باسم الورقة والقسم معًا. موافق؟</li>
+        <li><b>أسماء المواضيع الـ13:</b> أعرضها للموافقة قبل تصنيف الأسئلة.</li>
+      </ul></div>
+    </div>
+  </section>
+
+  <section class="sheet" aria-labelledby="mock-h">
+    <h2 id="mock-h">ثلاث هويات، اختر واحدة</h2>
+    <p class="lead">كل هوية كاملة: رئيسية بشبكة أيقونات، إعداد الاختبار، التعليمات، الاختبار بمؤقّت حقيقي، والقسم المقالي. جرّب الضغط على البلاطات.</p>
+    <div class="bar">
+      <div class="tabs" role="group" aria-label="الهوية" id="skin-tabs"></div>
+      <div class="tabs" role="group" aria-label="عرض"><button type="button" class="ctl" id="w-fluid" aria-pressed="true">عرض الحاسوب</button><button type="button" class="ctl" id="w-phone" aria-pressed="false">عرض الجوال</button></div>
+    </div>
+    <p class="small" id="skin-desc"></p>
+    <div class="stage" id="stage"><div class="frame" id="frame"></div></div>
+    <div class="demo"><span class="small">تجربة المؤقّت:</span><button type="button" class="ctl" id="t-10">قدّم الوقت إلى 10 دقائق</button><button type="button" class="ctl" id="t-1">إلى دقيقة واحدة</button><button type="button" class="ctl" id="t-0">إلى صفر (تسليم تلقائي)</button><button type="button" class="ctl" id="home-btn">العودة إلى الرئيسية</button></div>
+  </section>
+</main>
+<script type="application/json" id="samples">[{"id": "Q0752", "lang": "en", "type": "mcq", "q": "The enzyme pepsin digests which dietary component?", "q_ar": null, "options": ["Protein", "Carbohydrate", "Fat", "vitamins"]}, {"id": "Q0855", "lang": "ar", "type": "mcq", "q": "كمية البول الطبيعية لشخص وزنة 60 Kg خلال 24 ساعة", "q_ar": null, "options": ["600 مل", "500 مل", "1500 مل"]}, {"id": "Q0071", "lang": "en", "type": "mcq", "q": "After several hrours of MgS04 administration to Jamila, she should be observed for clinical manifestations", "q_ar": null, "options": ["Hypercalcemia", "hypermagensmia", "hypoglycemia", "Hypokalmia kalemia"]}, {"id": "Q0817", "lang": "ar", "type": "mcq", "q": "أي من الاماكن التالية يجب على المسعف محاولة جس النبض للتاكد من وجود نبض عند المصاب البلغ من عدمة", "q_ar": null, "options": ["الشريان السباتي في الرقبة", "الشريان العضدي بالذراع", "الشريان الاربي ( الفخذي الحوضي(", "الشريان الكعبري"]}, {"id": "Q0759", "lang": "en", "type": "mcq", "q": "Which among the following is an example of an isotonic intravenous solution?", "q_ar": null, "options": ["Dextrose normal saline", "10% Dextrose", "0.45% NaCl", "Ringer's Lactate"]}, {"id": "Q0680", "lang": "en", "type": "tf", "q": "A person with a higher than normal heart rate is called tachycardia", "q_ar": null, "options": ["True", "False"]}, {"id": "Q0859", "lang": "ar", "type": "mcq", "q": "مصطلح dementia يعني :-", "q_ar": null, "options": ["فقدان الوعي", "فقدان الوظائف العقليه", "فقدان الوظائف الحيويه"]}, {"id": "Q0870", "lang": "ar", "type": "mcq", "q": "اثناء تنظيف جرح مفتوح يجب اتباع الاتي:", "q_ar": null, "options": ["وضع ضغط متواصل على الجرح", "يشطف الجرح كاملا بدفع ماء قوي", "تنظيف الجرح من الداخل بمادة مطهره", "ابدأ من المنطقه الاكثر نظافه باتجاه المنطقه الاكثر تلوث"]}]</script>
+<script>
+(() => {
+'use strict';
+const SAMPLES = JSON.parse(document.getElementById('samples').textContent);
+const MODELS = [{"spec": "assistant", "name": "مساعد طبيب (104 أسئلة)", "src": "مساعد طبيب", "n": 97, "min": 120, "guide": false, "same": ["مساعد طبيب (104 أسئلة)"]}, {"spec": "assistant", "name": "H-Doctor ج12 (1/2/2024 و29/2/2024)", "src": "مساعد طبيب", "n": 51, "min": 65, "guide": false, "same": ["H-Doctor ج12 (1/2/2024 و29/2/2024)"]}, {"spec": "assistant", "name": "صنعاء 27/5/2024", "src": "مساعد طبيب", "n": 51, "min": 65, "guide": false, "same": ["صنعاء 27/5/2024"]}, {"spec": "assistant", "name": "صنعاء 1/2/2024 (ملزمة)", "src": "مساعد طبيب", "n": 47, "min": 60, "guide": false, "same": ["صنعاء 1/2/2024 (ملزمة)"]}, {"spec": "assistant", "name": "صنعاء (مترجم)", "src": "نسخ متطابقة: مساعد طبيب إنجليزي محلول", "n": 42, "min": 55, "guide": false, "same": ["صنعاء (مترجم)", "مساعد طبيب إنجليزي محلول"]}, {"spec": "assistant", "name": "ملزمة الفرحان 2026", "src": "مساعد طبيب", "n": 35, "min": 45, "guide": false, "same": ["ملزمة الفرحان 2026"]}, {"spec": "assistant", "name": "نموذج 2 — 23/11/2023", "src": "مساعد طبيب", "n": 32, "min": 40, "guide": false, "same": ["نموذج 2 — 23/11/2023"]}, {"spec": "assistant", "name": "إب 23/11/2023", "src": "مساعد طبيب", "n": 31, "min": 40, "guide": false, "same": ["إب 23/11/2023"]}, {"spec": "assistant", "name": "صنعاء 24/10/2024", "src": "مساعد طبيب", "n": 31, "min": 40, "guide": false, "same": ["صنعاء 24/10/2024"]}, {"spec": "assistant", "name": "إب 29/2/2024", "src": "مساعد طبيب", "n": 27, "min": 35, "guide": false, "same": ["إب 29/2/2024"]}, {"spec": "assistant", "name": "صنعاء 16/3/2023", "src": "نسخ متطابقة: صنعاء 16/3/2023 (حيكان)، صنعاء 16/3/2023 (مترجم)", "n": 26, "min": 35, "guide": false, "same": ["صنعاء 16/3/2023", "صنعاء 16/3/2023 (حيكان)", "صنعاء 16/3/2023 (مترجم)"]}, {"spec": "assistant", "name": "إب 29/12/2022", "src": "مساعد طبيب", "n": 24, "min": 30, "guide": false, "same": ["إب 29/12/2022"]}, {"spec": "assistant", "name": "صنعاء 30/6/2022 (نسخة ثانية)", "src": "مساعد طبيب", "n": 22, "min": 30, "guide": false, "same": ["صنعاء 30/6/2022 (نسخة ثانية)"]}, {"spec": "assistant", "name": "صنعاء 24/3/2022", "src": "مساعد طبيب", "n": 21, "min": 30, "guide": false, "same": ["صنعاء 24/3/2022"]}, {"spec": "assistant", "name": "تمريض إب وصنعاء 29/12/2022", "src": "مساعد طبيب", "n": 20, "min": 25, "guide": false, "same": ["تمريض إب وصنعاء 29/12/2022"]}, {"spec": "assistant", "name": "صنعاء 23/11/2023 (نسخة ثانية)", "src": "مساعد طبيب", "n": 20, "min": 25, "guide": false, "same": ["صنعاء 23/11/2023 (نسخة ثانية)"]}, {"spec": "assistant", "name": "صنعاء 30/6/2022", "src": "مساعد طبيب", "n": 20, "min": 25, "guide": false, "same": ["صنعاء 30/6/2022"]}, {"spec": "assistant", "name": "صنعاء 23/11/2023", "src": "مساعد طبيب", "n": 17, "min": 25, "guide": false, "same": ["صنعاء 23/11/2023"]}, {"spec": "assistant", "name": "صنعاء 1/2/2024", "src": "مساعد طبيب", "n": 15, "min": 20, "guide": false, "same": ["صنعاء 1/2/2024"]}, {"spec": "nursing", "name": "أسئلة تمريض بالعربية", "src": "تمريض", "n": 76, "min": 95, "guide": false, "same": ["أسئلة تمريض بالعربية"]}, {"spec": "nursing", "name": "الدليل العربي الشامل", "src": "دليل دراسي وليس ورقة امتحان", "n": 35, "min": 45, "guide": true, "same": ["الدليل العربي الشامل"]}, {"spec": "nursing", "name": "تمريض إب وصنعاء 29/12/2022", "src": "تمريض", "n": 33, "min": 40, "guide": false, "same": ["تمريض إب وصنعاء 29/12/2022"]}, {"spec": "nursing", "name": "تمريض حيكان ج10 (16/3/2023)", "src": "تمريض", "n": 24, "min": 30, "guide": false, "same": ["تمريض حيكان ج10 (16/3/2023)"]}, {"spec": "nursing", "name": "تمريض بكالوريوس 7/9/2023", "src": "تمريض", "n": 22, "min": 30, "guide": false, "same": ["تمريض بكالوريوس 7/9/2023"]}, {"spec": "nursing", "name": "تمريض دبلوم 9/2023", "src": "تمريض", "n": 15, "min": 20, "guide": false, "same": ["تمريض دبلوم 9/2023"]}, {"spec": "midwifery", "name": "الدليل العربي الشامل", "src": "دليل دراسي وليس ورقة امتحان", "n": 84, "min": 105, "guide": true, "same": ["الدليل العربي الشامل"]}, {"spec": "dental", "name": "الدليل العربي الشامل", "src": "دليل دراسي وليس ورقة امتحان", "n": 15, "min": 20, "guide": true, "same": ["الدليل العربي الشامل"]}];
+const SPEC = [
+  { k: 'assistant', n: 'مساعد طبيب', v: 317, t: 65, icon: 'assistant', c: 'a' },
+  { k: 'nursing', n: 'تمريض', v: 204, t: 51, icon: 'nursing', c: 'n' },
+  { k: 'midwifery', n: 'قبالة', v: 84, t: 27, icon: 'midwifery', c: 'm' },
+  { k: 'dental', n: 'أسنان', v: 15, t: 18, icon: 'dental', c: 'd' },
+];
+const TOPICS = ['الفحص السريري والتقييم', 'العلامات الحيوية', 'مكافحة العدوى والتعقيم', 'الإسعافات والإنعاش', 'الحروق والجروح', 'الأدوية وإعطاؤها', 'التشريح والفسيولوجيا', 'الباطنة (قلب وصدر وهضم وكلى)', 'السكري والغدد والتغذية', 'الأمراض المعدية والتحصين', 'النساء والتوليد والطفل', 'العظام والأعصاب والنفسية', 'الأسنان والفم'];
+const ESSAYS = [
+  { q: 'عرّف العلامات الحيوية، واذكر القيم الطبيعية لها عند البالغ.', pts: ['العلامات الحيوية قياسات تعكس وظائف الجسم الأساسية: الحرارة والنبض والتنفس وضغط الدم، ويضاف إليها غالبًا تشبّع الأكسجين.', 'النبض الطبيعي عند البالغ 60 إلى 100 نبضة في الدقيقة.', 'التنفس الطبيعي 12 إلى 20 نفسًا في الدقيقة.', 'ضغط الدم الطبيعي أقل من 120/80 ملم زئبق.', 'الحرارة الطبيعية نحو 36.5 إلى 37.5 °م.', 'تشبّع الأكسجين الطبيعي 95% فأكثر.'], ref: 'StatPearls: Vital Signs (NCBI)' },
+  { q: 'اذكر أربعة من عوامل خطر قرح الفراش، مع إجراء وقائي لكل عامل.', pts: ['قلّة الحركة: تغيير وضع المريض بانتظام، تقليديًا كل ساعتين بحسب حالة الجلد والفراش.', 'الرطوبة من البول أو العرق: تنظيف الجلد وتجفيفه بسرعة.', 'سوء التغذية: دعم غذائي يكفي من البروتين والسعرات.', 'الاحتكاك والقص: رفع المريض بدل سحبه، وتجنّب رفع الرأس فوق 30° إلا للحاجة.', 'فقد الإحساس: فحص الجلد يوميًا خاصة فوق النتوءات العظمية.'], ref: 'StatPearls: Pressure Ulcer (NCBI)' },
+];
+const ICONS = {
+  assistant: ['M6 3v6a4 4 0 0 0 8 0V3', 'M4.5 3H7.5', 'M12.5 3h3', 'M10 13v2a5 5 0 0 0 10 0v-1.5', 'M20 11.5a2 2 0 1 0 0 4a2 2 0 0 0 0-4z'],
+  nursing: ['M9 3h6', 'M12 3v2.2', 'M7.5 5.5h9a1.5 1.5 0 0 1 1.5 1.5v6.8a6 6 0 0 1-12 0V7a1.5 1.5 0 0 1 1.5-1.5z', 'M12 9.2v4.6', 'M9.7 11.5h4.6', 'M12 20v1.5'],
+  midwifery: ['M12 3.2a6.6 6.6 0 1 0 0 13.2a6.6 6.6 0 0 0 0-13.2z', 'M10.6 3.4c.2-1.2 1.4-1.6 2.3-1', 'M9.4 10.4h.01', 'M14.6 10.4h.01', 'M9.8 13.2c1.3 1.1 3.1 1.1 4.4 0', 'M5.5 21c.8-2.6 3.2-3.8 6.5-3.8s5.7 1.2 6.5 3.8'],
+  dental: ['M7.5 3.5c-2.4 0-4 1.8-4 4.2 0 1.8.7 3 1.2 4.8.6 2.2.6 5 1.9 7.6.6 1.2 2 1 2.4-.4.4-1.6.8-3.4 2-3.4s1.6 1.8 2 3.4c.4 1.4 1.8 1.6 2.4.4 1.3-2.6 1.3-5.4 1.9-7.6.5-1.8 1.2-3 1.2-4.8 0-2.4-1.6-4.2-4-4.2-1.7 0-2.5 1-4.5 1s-2.8-1-4.5-1z'],
+  all: ['M12 3l8.5 4.5L12 12 3.5 7.5z', 'M3.5 12L12 16.5 20.5 12', 'M3.5 16.5L12 21l8.5-4.5'],
+  review: ['M12 6.2C10.4 5 8.3 4.5 5 4.5v13c3.3 0 5.4.5 7 1.7 1.6-1.2 3.7-1.7 7-1.7v-13c-3.3 0-5.4.5-7 1.7z', 'M12 6.2v13'],
+  exam: ['M12 6.5a7.5 7.5 0 1 0 0 15a7.5 7.5 0 0 0 0-15z', 'M12 10v4l2.6 1.6', 'M9.5 2.5h5', 'M12 2.5v4', 'M18.4 5.3l1.4 1.4'],
+  custom: ['M4 7h9', 'M17 7h3', 'M13 5v4', 'M17 5v4', 'M4 17h3', 'M11 17h9', 'M7 15v4', 'M11 15v4', 'M4 12h16'],
+  models: ['M3.5 6.5a1.5 1.5 0 0 1 1.5-1.5h4l2 2.2h8a1.5 1.5 0 0 1 1.5 1.5v9.8a1.5 1.5 0 0 1-1.5 1.5H5a1.5 1.5 0 0 1-1.5-1.5z', 'M9 14.2l2.2 2.2L15.6 12'],
+  topic: ['M4 9h16', 'M4 15h16', 'M9.5 3.5l-1.6 17', 'M16 3.5l-1.6 17'],
+  essay: ['M6 3.5h8l4 4V11', 'M6 3.5v17h6', 'M9 11h6', 'M9 14.5h3', 'M15 20.5l.6-2.6 4.2-4.2a1.5 1.5 0 0 1 2.1 2.1l-4.2 4.2z'],
+  mistakes: ['M4.5 12a7.5 7.5 0 1 1 2.3 5.4', 'M4 18v-4.6h4.6', 'M9.8 9.8l4.4 4.4', 'M14.2 9.8l-4.4 4.4'],
+  stats: ['M4 20V4', 'M4 20h16', 'M8 16v-4', 'M12.5 16V8', 'M17 16v-7'],
+  shield: ['M12 3l7 2.8v5.4c0 4.3-2.8 7.6-7 9.8-4.2-2.2-7-5.5-7-9.8V5.8z', 'M8.8 12l2.2 2.2 4.2-4.4'],
+  flag: ['M6 21V4', 'M6 5h11l-2 4 2 4H6'],
+  check: ['M5 12.5l4.2 4.2L19 7'],
+  expand: ['M4 9V4h5', 'M20 9V4h-5', 'M4 15v5h5', 'M20 15v5h-5'],
+  back: ['M9 5l7 7-7 7'],
+  fwd: ['M15 5l-7 7 7 7'],
+  bell: ['M6 16.5V11a6 6 0 0 1 12 0v5.5l1.5 2h-15z', 'M10 21h4'],
+};
+const NS = 'http://www.w3.org/2000/svg';
+function ico(name, label) {
+  const s = document.createElementNS(NS, 'svg');
+  s.setAttribute('class', 'i'); s.setAttribute('viewBox', '0 0 24 24');
+  if (label) { s.setAttribute('role', 'img'); s.setAttribute('aria-label', label); } else s.setAttribute('aria-hidden', 'true');
+  for (const d of ICONS[name]) { const p = document.createElementNS(NS, 'path'); p.setAttribute('d', d); s.append(p); }
+  return s;
+}
+function h(tag, props, ...kids) {
+  const el = document.createElement(tag);
+  for (const [k, v] of Object.entries(props || {})) {
+    if (v == null || v === false) continue;
+    if (k === 'class') el.className = v;
+    else if (k === 'style') el.style.cssText = v;
+    else if (k.startsWith('on')) el.addEventListener(k.slice(2), v);
+    else el.setAttribute(k, v === true ? '' : String(v));
+  }
+  for (const kid of kids.flat(Infinity)) { if (kid == null || kid === false) continue; el.append(kid.nodeType ? kid : document.createTextNode(String(kid))); }
+  return el;
+}
+const fmt = (s) => `${String(Math.floor(s / 60)).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}`;
+const ar = (n) => String(n);
+const LETTERS_AR = ['أ', 'ب', 'ج', 'د'], LETTERS_EN = ['A', 'B', 'C', 'D'];
+
+const SKINS = [
+  { k: 'a', n: 'لوحة الإرشاد', d: 'لافتات المستشفى: لون لكل قسم، رمز كبير، وسهم أصفر. الأوضح للمستخدم الجديد، ومناسب للجوال.' },
+  { k: 'b', n: 'ورقة الامتحان', d: 'كراسة الامتحان الورقية: خطوط، دوائر تظليل، وهامش أحمر. الأقرب لما اعتاده الطالب يوم الامتحان.' },
+  { k: 'c', n: 'شاشة المراقبة', d: 'شاشة مراقبة المريض: أرقام كبيرة بألوان مؤشرات الحياة. الأجرأ بصريًا، وداكنة للمذاكرة الليلية.' },
+];
+
+/* ---------- state ---------- */
+const S = { skin: 'a', view: 'home', tab: 'models', spec: 'assistant', model: 2, count: 50, mins: 'auto', essay: false, topics: new Set(['العلامات الحيوية']),
+  sec: 'mcq', q: 18, answers: { 0: 1, 1: 0, 2: 2, 3: 1, 4: 0, 5: 3, 6: 1, 7: 0, 8: 2, 9: 1, 10: 0, 11: 1, 12: 3, 13: 2, 14: 0, 15: 1, 16: 2, 17: 0 },
+  flags: new Set([4, 9, 21]), secs: 3600, esecs: 1200, total: 3600, alerted: new Set(), toast: '', review: false, submitted: false, eAns: ['', ''], eShow: [false, false], eTick: [new Set(), new Set()], eq: 0, full: false };
+let tick = null;
+
+function plan() {
+  const model = MODELS.filter((m) => S.spec === 'all' || m.spec === S.spec)[S.model] || MODELS[0];
+  let n, mins, label;
+  if (S.tab === 'models') { n = model.n; mins = model.min; label = model.name; }
+  else { const avail = S.spec === 'dental' ? 15 : S.spec === 'assistant' ? 317 : S.spec === 'nursing' ? 204 : S.spec === 'midwifery' ? 84 : 620; n = Math.min(S.count, avail); mins = S.mins === 'auto' ? Math.ceil(n * 1.2 / 5) * 5 : S.mins; label = S.tab === 'topic' ? `موضوع: ${[...S.topics].join('، ') || 'لم تختر'}` : 'اختبار مخصّص'; }
+  return { n, mins, label, essayN: S.essay ? 3 : 0, essayMin: S.essay ? 20 : 0 };
+}
+
+/* ---------- shared pieces ---------- */
+function topbar(skin, right) {
+  const brand = h('div', { class: 'm-brand' }, skin === 'a' ? h('span', { class: 'logo' }, ico('shield')) : ico('shield'), 'بنك المزاولة');
+  if (skin === 'a') return h('div', { class: 'a-top' }, brand, right || null);
+  return h('div', { class: 'm-top' }, brand, right || null);
+}
+function homeBtn() { return h('button', { type: 'button', class: 'm-btn sm', onclick: () => go('home') }, 'الرئيسية'); }
+function go(view) { S.view = view; S.toast = ''; S.review = false; if (view !== 'exam') stop(); render(); }
+function say(t) { flash(t, 2600); }
+function pickSpec(k) { S.spec = k; S.model = 0; S.tab = 'models'; go('setup'); }
+function tool(k) {
+  if (k === 'models') { S.tab = 'models'; go('setup'); }
+  else if (k === 'custom') { S.tab = 'custom'; go('setup'); }
+  else if (k === 'topic') { S.tab = 'topic'; go('setup'); }
+  else if (k === 'essay') { S.tab = 'custom'; S.essay = true; go('setup'); }
+  else say('هذه الأداة كما في الموقع الحالي، لا تتغير إلا هيئتها.');
+}
+const TOOLS = [
+  { k: 'models', n: 'نماذج امتحانات', icon: 'models' }, { k: 'custom', n: 'اختبار مخصّص', icon: 'custom' }, { k: 'topic', n: 'حسب الموضوع', icon: 'topic' },
+  { k: 'essay', n: 'أسئلة مقالية', icon: 'essay' }, { k: 'review', n: 'مراجعة', icon: 'review' }, { k: 'mistakes', n: 'أخطائي', icon: 'mistakes' }, { k: 'stats', n: 'نتائجي', icon: 'stats' },
+];
+const WAVE = { a: 'M0 18 L18 18 L24 18 L30 6 L36 30 L42 14 L48 18 L90 18 L96 18 L102 10 L108 26 L114 18 L160 18', n: 'M0 18 C20 6 30 6 40 18 S60 30 80 18 S110 6 130 18 S150 26 160 18', m: 'M0 20 L30 20 L36 8 L42 28 L48 20 L80 20 L86 14 L92 24 L98 20 L160 20', d: 'M0 22 L25 22 L32 10 L39 22 L70 22 L76 12 L83 22 L120 22 L127 6 L134 26 L141 22 L160 22' };
+
+/* ---------- HOME per identity ---------- */
+function homeA() {
+  const signs = [...SPEC, { k: 'all', n: 'كل الأقسام', v: 620, t: 161, icon: 'all', c: 'e' }].map((s) => h('button', { type: 'button', class: 'sign', style: `--c:var(--c${s.c})`, onclick: () => pickSpec(s.k === 'all' ? 'assistant' : s.k) },
+    h('span', { class: 'pg' }, ico(s.icon)), h('span', { class: 'tx' }, h('b', null, s.n), h('span', null, `${s.v} سؤالًا محقَّقًا · ${s.t} غير مؤكد`)), h('span', { class: 'ar' }, ico('fwd'))));
+  return h('div', { class: 'm' }, topbar('a'),
+    h('div', { class: 'a-body' },
+      h('div', null, h('h2', { class: 'm-h' }, 'إلى أين تتجه اليوم؟'), h('p', { class: 'm-sub' }, 'اختر قسمك ثم نوع الاختبار.')),
+      h('div', { class: 'signs' }, signs),
+      h('div', null, h('div', { class: 'sec-h' }, h('i'), 'الأدوات'), h('div', { class: 'tools', style: 'margin-top:12px' }, TOOLS.map((t) => h('button', { type: 'button', class: 'tool', onclick: () => tool(t.k) }, ico(t.icon), h('span', null, t.n)))))));
+}
+function homeB() {
+  const cards = [...SPEC].map((s) => {
+    const filled = Math.round(s.v / (s.v + s.t) * 10);
+    return h('button', { type: 'button', class: 'card-s', onclick: () => pickSpec(s.k) },
+      h('div', { class: 'hd' }, ico(s.icon), h('div', null, h('b', null, s.n), h('div', { class: 'm-sub' }, `${s.v} محقَّقًا من ${s.v + s.t}`))),
+      h('div', { class: 'bubbles', role: 'img', 'aria-label': `${filled} من 10 محقَّقة` }, Array.from({ length: 10 }, (_, i) => h('i', { class: i < filled ? 'f' : '' }))));
+  });
+  return h('div', { class: 'm' }, topbar('b', h('span', { class: 'b-stamp' }, 'محقَّق بمراجع')),
+    h('div', null, h('h2', { class: 'm-h' }, 'اختر ورقتك'), h('p', { class: 'm-sub' }, 'كل دائرة مظلَّلة تعني عُشر الأسئلة المحقَّقة بمراجع في القسم.')),
+    h('div', { class: 'cards' }, cards),
+    h('ul', { class: 'toc' }, TOOLS.map((t) => h('li', null, h('button', { type: 'button', onclick: () => tool(t.k) }, ico(t.icon), h('b', null, t.n), h('span', { class: 'dots', 'aria-hidden': 'true' }), h('span', { class: 'v' }, t.k === 'models' ? MODELS.length + ' نموذجًا' : t.k === 'topic' ? '13 موضوعًا' : t.k === 'essay' ? 'مسوّدة' : ''))))));
+}
+function homeC() {
+  const wins = SPEC.map((s) => h('button', { type: 'button', class: 'win', style: `--c:var(--c${s.c})`, onclick: () => pickSpec(s.k) },
+    h('span', { class: 'lb' }, h('span', null, s.n), ico(s.icon)), h('span', { class: 'big' }, s.v), h('span', { class: 'un' }, h('span', null, 'محقَّق'), h('span', null, `${s.t} غير مؤكد`)),
+    (() => { const svg = document.createElementNS(NS, 'svg'); svg.setAttribute('class', 'tr'); svg.setAttribute('viewBox', '0 0 160 36'); svg.setAttribute('preserveAspectRatio', 'none'); svg.setAttribute('aria-hidden', 'true'); const p = document.createElementNS(NS, 'path'); p.setAttribute('d', WAVE[s.c]); svg.append(p); return svg; })()));
+  return h('div', { class: 'm' }, topbar('c', h('span', { class: 'm-sub' }, 'المحقَّق: 620 من 781')),
+    h('div', null, h('h2', { class: 'm-h' }, 'اختر القسم'), h('p', { class: 'm-sub' }, 'الرقم الكبير هو عدد الأسئلة المحقَّقة التي يمكن أن تدخل اختبارك.')),
+    h('div', { class: 'dash' }, wins),
+    h('div', { class: 'dash2' }, [['models', 'نماذج امتحانات جاهزة', String(MODELS.length), 'من أوراق سابقة، بمؤقّت', 'a'], ['topic', 'اختبار حسب الموضوع', '13', 'موضوعًا مقترحًا، بانتظار موافقتك', 'n']].map(([k, n, big, un, c]) =>
+      h('button', { type: 'button', class: 'win', style: `--c:var(--c${c})`, onclick: () => tool(k) }, h('span', { class: 'lb' }, h('span', null, n), ico(k === 'models' ? 'models' : 'topic')), h('span', { class: 'big' }, big), h('span', { class: 'un' }, h('span', null, un))))),
+    h('div', { class: 'keys', role: 'group', 'aria-label': 'الأدوات' }, TOOLS.map((t) => h('button', { type: 'button', class: 'key', onclick: () => tool(t.k) }, ico(t.icon), h('span', null, t.n)))));
+}
+
+/* ---------- SETUP ---------- */
+function setupView() {
+  const p = plan();
+  const tabs = [['models', 'نماذج جاهزة'], ['custom', 'مخصّص'], ['topic', 'حسب الموضوع']];
+  const specChips = h('div', { class: 'm-seg', role: 'group', 'aria-label': 'القسم' }, [...SPEC.map((s) => [s.k, s.n])].map(([k, n]) => h('button', { type: 'button', class: 'm-chip', 'aria-pressed': S.spec === k ? 'true' : 'false', onclick: () => { S.spec = k; S.model = 0; render(); } }, n)));
+  let body;
+  if (S.tab === 'models') {
+    const list = MODELS.filter((m) => m.spec === S.spec);
+    body = h('div', { class: 'm-models', role: 'group', 'aria-label': 'النماذج' }, list.map((m, i) => h('button', { type: 'button', class: 'm-model', 'aria-pressed': S.model === i ? 'true' : 'false', onclick: () => { S.model = i; render(); } },
+      h('span', { class: 'n' }, m.name), h('span', { class: 't' }, `${m.n} سؤالًا`), h('span', { class: 's' }, m.src), h('span', { class: 't' }, `${m.min} د`))));
+  } else {
+    const avail = S.spec === 'dental' ? 15 : S.spec === 'assistant' ? 317 : S.spec === 'nursing' ? 204 : 84;
+    body = h('div', { class: 'm-panel' },
+      h('div', null, h('div', { class: 'm-lab' }, `عدد الأسئلة (المتوفر ${avail})`), h('div', { class: 'm-seg', style: 'margin-top:6px' }, [10, 25, 50, 75, 100].map((c) => h('button', { type: 'button', class: 'm-chip', disabled: c > avail, 'aria-pressed': S.count === c ? 'true' : 'false', onclick: () => { S.count = c; render(); } }, c)))),
+      h('div', null, h('div', { class: 'm-lab' }, 'المدة'), h('div', { class: 'm-seg', style: 'margin-top:6px' }, [['auto', 'تلقائية (1.2 د للسؤال)'], [30, '30 د'], [60, '60 د'], [90, '90 د'], [120, '120 د']].map(([v, l]) => h('button', { type: 'button', class: 'm-chip', 'aria-pressed': S.mins === v ? 'true' : 'false', onclick: () => { S.mins = v; render(); } }, l)))),
+      S.tab === 'topic' ? h('div', null, h('div', { class: 'm-lab' }, 'المواضيع (اختر واحدًا أو أكثر)'), h('div', { class: 'm-seg', style: 'margin-top:6px' }, TOPICS.map((t) => h('button', { type: 'button', class: 'm-chip', 'aria-pressed': S.topics.has(t) ? 'true' : 'false', onclick: () => { S.topics.has(t) ? S.topics.delete(t) : S.topics.add(t); render(); } }, t))), h('p', { class: 'm-sub', style: 'margin-top:6px' }, 'أعداد كل موضوع تظهر بعد تصنيف الأسئلة.')) : null,
+      h('label', { class: 'm-check' }, h('input', { type: 'checkbox', id: 'essay-on', checked: S.essay ? 'true' : null, onchange: (e) => { S.essay = e.target.checked; render(); } }), 'أضف قسمًا مقاليًا (3 أسئلة، 20 دقيقة، تصحيح ذاتي)'));
+  }
+  const summary = `${p.label}: ${p.n} سؤالًا في ${p.mins} دقيقة${p.essayN ? ` + ${p.essayN} مقالية في ${p.essayMin} دقيقة` : ''}`;
+  return h('div', { class: S.skin === 'a' ? 'a-page' : 'm' },
+    S.skin === 'a' ? topbar('a', homeBtn()) : topbar(S.skin, homeBtn()),
+    h('h2', { class: 'm-h' }, 'ابدأ اختبارًا'),
+    h('div', { class: 'm-seg', role: 'tablist', 'aria-label': 'نوع الاختبار' }, tabs.map(([k, n]) => h('button', { type: 'button', role: 'tab', class: 'm-chip', 'aria-selected': S.tab === k ? 'true' : 'false', onclick: () => { S.tab = k; render(); } }, n))),
+    specChips, body,
+    h('div', { class: 'm-row sp' }, h('span', { class: 'm-sub', 'aria-live': 'polite' }, summary), h('button', { type: 'button', class: 'm-btn prim', onclick: () => go('instr') }, 'التالي: التعليمات')));
+}
+
+function instrView() {
+  const p = plan();
+  return h('div', { class: S.skin === 'a' ? 'a-page' : 'm' }, topbar(S.skin, homeBtn()),
+    h('h2', { class: 'm-h' }, 'تعليمات قبل البدء'),
+    h('div', { class: 'm-panel' },
+      h('div', null, h('b', null, 'القسم الأول: اختيار من متعدد'), h('div', { class: 'm-sub' }, `${p.n} سؤالًا · ${p.mins} دقيقة`)),
+      p.essayN ? h('div', null, h('b', null, 'القسم الثاني: مقالي'), h('div', { class: 'm-sub' }, `${p.essayN} أسئلة · ${p.essayMin} دقيقة · تصحيح ذاتي بقائمة نقاط`)) : null,
+      h('ul', { class: 'm-rules' },
+        h('li', null, 'المؤقّت يعمل بالساعة الفعلية، ويستمر لو أغلقت الصفحة.'),
+        h('li', null, 'تنبيه عند بقاء 10 و5 و1 دقيقة.'),
+        h('li', null, 'لا تظهر الإجابات الصحيحة إلا بعد التسليم.'),
+        h('li', null, 'يمكنك الرجوع إلى أي سؤال وتعليمه للمراجعة.'),
+        h('li', null, 'عند انتهاء الوقت يُسلَّم الاختبار تلقائيًا بما أجبت عنه.'),
+        h('li', null, 'الأسئلة المحقَّقة فقط؛ لا توجد درجة نجاح رسمية.')),
+      h('label', { class: 'm-check' }, h('input', { type: 'checkbox', id: 'full', checked: S.full ? 'true' : null, onchange: (e) => { S.full = e.target.checked; } }), h('span', { class: 'm-row' }, ico('expand'), 'ملء الشاشة أثناء الاختبار (اختياري)'))),
+    h('div', { class: 'm-row sp' }, h('button', { type: 'button', class: 'm-btn', onclick: () => go('setup') }, 'رجوع'),
+      h('button', { type: 'button', class: 'm-btn prim', onclick: () => start() }, ico('exam'), 'ابدأ الاختبار')));
+}
+
+/* ---------- EXAM ---------- */
+function clock() { return S.sec === 'essay' ? 'esecs' : 'secs'; }
+function start() { const p = plan(); S.total = p.mins * 60; S.secs = S.total; S.esecs = p.essayMin * 60; S.alerted = new Set(); S.sec = 'mcq'; S.q = 18; S.submitted = false; S.view = 'exam'; run(); render(); }
+function run() { stop(); tick = setInterval(() => { if (S.view !== 'exam' || S.submitted) return; const k = clock(); S[k] = Math.max(0, S[k] - 1); after(); }, 1000); }
+/* The per-second tick only repaints the timer and toast nodes: a full render() would drop focus from the essay textarea while typing. */
+function paintTimer() {
+  const t = frame.querySelector('.timer'); if (!t) return;
+  const left = S[clock()];
+  t.classList.toggle('low', left <= 600);
+  t.setAttribute('aria-label', `الوقت المتبقي ${fmt(left)}`);
+  const v = t.querySelector('.val'); if (v) v.textContent = fmt(left);
+}
+function paintToast() {
+  frame.querySelector('.m-toast')?.remove();
+  if (S.toast) frame.append(h('div', { class: 'm-toast', role: 'status' }, ico('bell'), S.toast));
+}
+function flash(t, ms) { S.toast = t; paintToast(); if (ms) setTimeout(() => { if (S.toast === t) { S.toast = ''; paintToast(); } }, ms); }
+function stop() { if (tick) clearInterval(tick); tick = null; }
+function endFirst(auto) {
+  S.sec = 'essay'; S.review = false; S.alerted = new Set(); S.eq = 0; render();
+  flash(auto ? 'انتهى وقت القسم الأول وبدأ المقالي.' : 'بدأ القسم المقالي. لا رجوع إلى القسم الأول.', 3500);
+}
+function after() {
+  paintTimer();
+  const left = S[clock()];
+  for (const m of [10, 5, 1]) if (left <= m * 60 && left > m * 60 - 5 && !S.alerted.has(m)) { S.alerted.add(m); flash(`باقي ${m === 1 ? 'دقيقة واحدة' : m + ' دقائق'}`, 3500); }
+  if (left === 0) {
+    if (S.sec === 'mcq' && plan().essayN) endFirst(true);
+    else { S.submitted = true; stop(); flash('انتهى الوقت: سُلّم الاختبار تلقائيًا.'); }
+  }
+}
+function optLabels(q) { return q.lang === 'ar' ? LETTERS_AR : LETTERS_EN; }
+function timerEl() {
+  const left = S[clock()]; const low = left <= 600; const two = plan().essayN > 0;
+  const node = h('div', { class: 'timer' + (low ? ' low' : ''), role: 'timer', 'aria-label': `الوقت المتبقي ${fmt(left)}` }, h('span', { class: 'lbl' }, two ? (S.sec === 'essay' ? 'الوقت المتبقي · القسم المقالي' : 'الوقت المتبقي · القسم الأول') : 'الوقت المتبقي'), h('span', { class: 'val' }, fmt(left)));
+  if (S.skin === 'c') { const svg = document.createElementNS(NS, 'svg'); svg.setAttribute('class', 'trace'); svg.setAttribute('viewBox', '0 0 160 26'); svg.setAttribute('preserveAspectRatio', 'none'); svg.setAttribute('aria-hidden', 'true'); const p = document.createElementNS(NS, 'path'); p.setAttribute('d', 'M0 14 L30 14 L36 4 L42 22 L48 14 L100 14 L106 8 L112 18 L118 14 L160 14'); svg.append(p); node.append(svg); }
+  return node;
+}
+function mapEl(total) {
+  const cells = Array.from({ length: Math.min(total, 50) }, (_, i) => h('button', { type: 'button', class: ['cell', S.answers[i] != null ? 'done' : '', S.flags.has(i) ? 'flag' : '', i === S.q ? 'cur' : ''].join(' '), 'aria-label': `السؤال ${i + 1}${S.answers[i] != null ? '، مجاب' : ''}${S.flags.has(i) ? '، معلَّم' : ''}`, onclick: () => { S.q = i; render(); } }, i + 1));
+  return h('div', { class: 'map' }, cells);
+}
+function sectionTabs() {
+  const p = plan();
+  return h('div', { class: 'sections', role: 'group', 'aria-label': 'الأقسام' },
+    h('span', { class: 'm-chip', 'aria-current': S.sec === 'mcq' ? 'step' : null, 'aria-selected': S.sec === 'mcq' ? 'true' : 'false' }, S.sec === 'mcq' ? `القسم الأول: اختيار من متعدد (${Object.keys(S.answers).length}/${Math.min(p.n, 50)})` : 'القسم الأول: انتهى'),
+    p.essayN ? h('span', { class: 'm-chip', 'aria-current': S.sec === 'essay' ? 'step' : null, 'aria-selected': S.sec === 'essay' ? 'true' : 'false' }, S.sec === 'essay' ? `القسم الثاني: مقالي (${S.eAns.filter(Boolean).length}/2)` : `القسم الثاني: مقالي، يبدأ بعد الأول (${p.essayMin} د)`) : null);
+}
+function examView() {
+  const p = plan(); const total = Math.min(p.n, 50);
+  const q = SAMPLES[S.q % SAMPLES.length]; const L = optLabels(q);
+  const right = h('div', { class: 'm-row' }, h('span', { class: 'm-sub', style: S.skin === 'a' ? 'color:#fff' : '' }, p.label), h('button', { type: 'button', class: 'm-btn sm', onclick: () => { stop(); go('home'); } }, 'إنهاء'));
+  const essayMap = h('div', { class: 'map' }, [0, 1].map((i) => h('button', { type: 'button', class: ['cell', S.eAns[i] ? 'done' : '', i === S.eq ? 'cur' : ''].join(' '), 'aria-label': `المقالي ${i + 1}${S.eAns[i] ? '، فيه إجابة' : ''}`, onclick: () => { S.eq = i; render(); } }, i + 1)));
+  const last = S.sec === 'mcq' && p.essayN > 0;
+  const side = h('div', { class: 'side' }, timerEl(), h('div', { class: 'qcard' }, h('div', { class: 'm-lab' }, S.sec === 'essay' ? 'خريطة المقالي' : 'خريطة الأسئلة (حالة مثال)'), S.sec === 'essay' ? essayMap : mapEl(total)),
+    h('button', { type: 'button', class: 'm-btn prim', onclick: () => { S.review = true; render(); } }, ico('check'), last ? 'مراجعة وإنهاء القسم الأول' : 'مراجعة وتسليم'));
+  let main;
+  if (S.sec === 'mcq') {
+    main = h('div', { class: 'qcard' },
+      h('div', { class: 'qmeta' }, h('b', { class: 'num' }, `السؤال ${S.q + 1} من ${total}`), h('span', { class: 'num' }, q.id)),
+      h('p', { class: 'qtext', dir: 'auto' }, q.q), q.q_ar && q.q_ar !== q.q ? h('p', { class: 'qsub', dir: 'auto' }, q.q_ar) : null,
+      h('div', { class: 'opts', role: 'group', 'aria-label': 'الخيارات' }, q.options.map((o, k) => h('button', { type: 'button', class: 'opt', 'aria-pressed': S.answers[S.q] === k ? 'true' : 'false', onclick: () => { S.answers[S.q] = k; render(); } }, h('span', { class: 'k', 'aria-hidden': 'true' }, q.type === 'tf' ? (k === 0 ? 'ص' : 'خ') : L[k]), h('span', { dir: 'auto' }, o)))),
+      h('div', { class: 'foot' },
+        h('button', { type: 'button', class: 'm-btn', disabled: S.q === 0, onclick: () => { S.q--; render(); } }, ico('back'), 'السابق'),
+        h('button', { type: 'button', class: 'm-btn', 'aria-pressed': S.flags.has(S.q) ? 'true' : 'false', onclick: () => { S.flags.has(S.q) ? S.flags.delete(S.q) : S.flags.add(S.q); render(); } }, ico('flag'), S.flags.has(S.q) ? 'إلغاء التعليم' : 'علّم للمراجعة'),
+        h('button', { type: 'button', class: 'm-btn', disabled: S.q >= total - 1, onclick: () => { S.q++; render(); } }, 'التالي', ico('fwd'))));
+  } else {
+    const e = ESSAYS[S.eq]; const pts = e.pts; const ticked = S.eTick[S.eq];
+    main = h('div', { class: 'qcard es' },
+      h('div', { class: 'qmeta' }, h('b', { class: 'num' }, `مقالي ${S.eq + 1} من 2`), h('span', { class: 'badge' }, 'مثال للشكل فقط')),
+      h('p', { class: 'qtext' }, e.q),
+      h('textarea', { id: 'essay-ans', 'aria-label': 'إجابتك', placeholder: 'اكتب إجابتك هنا. لا يُرسَل شيء خارج متصفحك.', oninput: (ev) => { S.eAns[S.eq] = ev.target.value; } }, S.eAns[S.eq]),
+      S.eShow[S.eq] ? h('div', { class: 'es' }, h('div', { class: 'm-lab' }, 'الإجابة النموذجية: علّم النقاط التي غطّيتها'),
+        h('ul', { class: 'pts' }, pts.map((t, i) => h('li', null, h('label', { class: ticked.has(i) ? 'on' : '' }, h('input', { type: 'checkbox', checked: ticked.has(i) ? 'true' : null, onchange: (ev) => { ev.target.checked ? ticked.add(i) : ticked.delete(i); render(); } }), h('span', { dir: 'auto' }, t))))),
+        h('p', { class: 'm-sub', 'aria-live': 'polite' }, `درجتك الذاتية: ${ticked.size} من ${pts.length}. المرجع: ${e.ref}. هذه مسوّدة آلية لم يراجعها طبيب.`))
+        : h('button', { type: 'button', class: 'm-btn prim', onclick: () => { S.eShow[S.eq] = true; render(); } }, 'اعرض الإجابة النموذجية'),
+      h('div', { class: 'foot' },
+        h('button', { type: 'button', class: 'm-btn', disabled: S.eq === 0, onclick: () => { S.eq = 0; render(); } }, ico('back'), 'السابق'),
+        h('button', { type: 'button', class: 'm-btn', disabled: S.eq === 1, onclick: () => { S.eq = 1; render(); } }, 'التالي', ico('fwd'))));
+  }
+  const grid = h('div', { class: 'ex' }, h('div', { class: 'ex-main' }, sectionTabs(), main), side);
+  return h('div', { class: S.skin === 'a' ? 'a-page' : 'm' }, S.skin === 'a' ? topbar('a', right) : topbar(S.skin, right), grid);
+}
+function reviewSheet() {
+  const p = plan(); const essay = S.sec === 'essay'; const total = essay ? 2 : Math.min(p.n, 50);
+  const has = (i) => (essay ? Boolean(S.eAns[i]) : S.answers[i] != null);
+  let answered = 0; const open = []; for (let i = 0; i < total; i++) { if (has(i)) answered++; else open.push(i); }
+  const flagged = essay ? new Set() : S.flags;
+  const first = !essay && p.essayN > 0;
+  const go1 = (i) => { if (essay) S.eq = i; else S.q = i; S.review = false; render(); };
+  return h('div', { class: 'review', role: 'dialog', 'aria-modal': 'true', 'aria-label': first ? 'مراجعة القسم الأول' : 'مراجعة قبل التسليم' },
+    h('div', { class: 'm-panel' }, h('h3', { class: 'm-h', style: 'font-size:1.3rem' }, first ? 'مراجعة القسم الأول' : 'مراجعة قبل التسليم'),
+      h('div', { class: 'stats3' }, h('div', null, h('b', null, answered), essay ? 'فيه إجابة' : 'مجاب'), h('div', null, h('b', null, total - answered), essay ? 'بلا إجابة' : 'بلا إجابة'), h('div', null, h('b', null, flagged.size), 'معلَّم')),
+      first ? h('p', { class: 'm-sub' }, `عند الإنهاء يبدأ مؤقّت القسم المقالي (${p.essayMin} دقيقة) ولا يمكن الرجوع إلى القسم الأول.`) : null,
+      h('div', { class: 'm-lab' }, 'اضغط رقمًا للانتقال إليه'),
+      h('div', { class: 'map' }, [...new Set([...open, ...flagged])].sort((a, b) => a - b).map((i) => h('button', { type: 'button', class: ['cell', flagged.has(i) ? 'flag' : ''].join(' '), onclick: () => go1(i) }, i + 1))),
+      h('div', { class: 'm-row sp' }, h('button', { type: 'button', class: 'm-btn', onclick: () => { S.review = false; render(); } }, 'عودة إلى الاختبار'),
+        first ? h('button', { type: 'button', class: 'm-btn prim', onclick: () => endFirst(false) }, 'أنهِ القسم الأول وابدأ المقالي')
+          : h('button', { type: 'button', class: 'm-btn prim', onclick: () => { S.submitted = true; S.review = false; stop(); S.toast = 'سُلّم الاختبار (محاكاة). النتيجة تظهر بالشكل الحالي في الموقع.'; render(); } }, 'سلّم الاختبار'))));
+}
+
+/* ---------- render ---------- */
+const frame = document.getElementById('frame');
+function render() {
+  frame.className = 'frame sk-' + S.skin;
+  const view = S.view === 'home' ? (S.skin === 'a' ? homeA() : S.skin === 'b' ? homeB() : homeC()) : S.view === 'setup' ? setupView() : S.view === 'instr' ? instrView() : examView();
+  const kids = [view];
+  if (S.review && S.view === 'exam') kids.push(reviewSheet());
+  if (S.toast) kids.push(h('div', { class: 'm-toast', role: 'status' }, ico('bell'), S.toast));
+  frame.replaceChildren(...kids);
+}
+/* ---------- page controls ---------- */
+const tabsEl = document.getElementById('skin-tabs'); const descEl = document.getElementById('skin-desc');
+function drawTabs() {
+  tabsEl.replaceChildren(...SKINS.map((s) => h('button', { type: 'button', class: 'tab', 'aria-pressed': S.skin === s.k ? 'true' : 'false', onclick: () => { S.skin = s.k; drawTabs(); render(); } }, s.n)));
+  descEl.textContent = SKINS.find((s) => s.k === S.skin).d;
+}
+function width(phone) {
+  document.getElementById('stage').className = 'stage' + (phone ? ' phone' : '');
+  document.getElementById('w-fluid').setAttribute('aria-pressed', phone ? 'false' : 'true');
+  document.getElementById('w-phone').setAttribute('aria-pressed', phone ? 'true' : 'false');
+}
+document.getElementById('w-fluid').addEventListener('click', () => width(false));
+document.getElementById('w-phone').addEventListener('click', () => width(true));
+const jump = (s) => { if (S.view !== 'exam') { start(); } S[clock()] = s; S.alerted = new Set(); S.submitted = false; S.review = false; run(); render(); };
+document.getElementById('t-10').addEventListener('click', () => jump(601));
+document.getElementById('t-1').addEventListener('click', () => jump(61));
+document.getElementById('t-0').addEventListener('click', () => jump(3));
+document.getElementById('home-btn').addEventListener('click', () => go('home'));
+drawTabs(); render();
+})();
+</script>

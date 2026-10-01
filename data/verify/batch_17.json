@@ -1,0 +1,897 @@
+[
+ {
+  "id": "Q0737",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Teach clients to change position and put pillow between their knees when lying on their side , the pillow keep?",
+  "q_ar": null,
+  "options": [
+   "bony prominences.",
+   "blood vessel",
+   "nerve",
+   "all above"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "bony prominences.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0738",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند حصول حرق كهربائي ماهو أول اجراء تمريضي",
+  "q_ar": null,
+  "options": [
+   "قياس النبض وفتح مجراء الهواء",
+   "تقييم الغيبوبة",
+   "..........",
+   "............"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0739",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Scuryy.is.a.deficiency øf.;,",
+  "q_ar": null,
+  "options": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "VitaminD"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Vitamin C",
+  "source_status": "single",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0740",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "P.,C.mean;",
+  "q_ar": null,
+  "options": [
+   "After meal.",
+   "Between meal.",
+   "Before meal.",
+   "Before bed time"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "After meal.",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0747",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Arthritis mean inflammation in :",
+  "q_ar": null,
+  "options": [
+   "facial",
+   "bone",
+   "joint"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "joint",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0741",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "إذا كان الجرح أحمر يدل على عمليه proliferation ويدل على",
+  "q_ar": null,
+  "options": [
+   "Healing",
+   "......",
+   ".....",
+   "...."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0742",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Alcohol does not remove soil or dirt; it produces antisepsis when hands are visibly clean.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0745",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Bilster is most common ocuer in degree tow burn",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0943",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Disinfection is the elimination of pathogens, except spores, from inanimate objects ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0934",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "A wound is a disruption in the integrity of the body tissue that puts an individual at risk for infection ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0930",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Complete the agency's admission procedure usually performed by nursing personnel ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0931",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Clients often share rooms with strangers so, most of them have a few feet considered ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0748",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "contusion is . ..... discoloration...........",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "False",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0784",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Inorganic nutrients build and maintain body tissues and regulate body processes ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0749",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Yellow wounds are the color of normal granulation tissue and are in the proliferative phase of wound repair",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0788",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Informed cosent it necessary in the procedures requiring sedation and / or anesthesia ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0750",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "الحروق الكميائيه تتسبب ب المواد الكميائيه مثل حمض الاسيد",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0751",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Post-operatively. the nurse should change the petie pied deep breathing every",
+  "q_ar": null,
+  "options": [
+   "2 hourly",
+   "4 hourly",
+   "in each shift",
+   "hourly"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0914",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Oxygen transport to the tissues depends on factors such as:",
+  "q_ar": null,
+  "options": [
+   "Cardiac output",
+   "Concentration of hemoglobin",
+   "Metabolic requirements",
+   "All of the above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0752",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "The enzyme pepsin digests which dietary component?",
+  "q_ar": null,
+  "options": [
+   "Protein",
+   "Carbohydrate",
+   "Fat",
+   "vitamins"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0753",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Nurse Fatima teaches a client with heart failure to take oral Furosemide in the morning The reason for this is to help...",
+  "q_ar": null,
+  "options": [
+   "Excrete excessive fluids accumulated at night",
+   "Prevents sleep disturbances during night",
+   "Retard rapid deg op",
+   "Prevention of electrolysis"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0888",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "The management of patient with urinary retention include",
+  "q_ar": null,
+  "options": [
+   "Reassurance",
+   "Dieted therapy",
+   "Hot compress",
+   "Insertion of Foley's catheter and mastering urine output."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0754",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Muscles Wasting means:",
+  "q_ar": null,
+  "options": [
+   "Contracture",
+   "Atrophy",
+   "Effusion",
+   "Osteoporosis"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0899",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Muscle wasting mean",
+  "q_ar": null,
+  "options": [
+   "Atrophy",
+   "contrucure",
+   "??",
+   "??"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0915",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "... means:",
+  "q_ar": null,
+  "options": [
+   "Contracture",
+   "Effusion",
+   "Atrophy",
+   "Osteoporosis"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0919",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Wasting of muscles is calls:",
+  "q_ar": null,
+  "options": [
+   "Contracture",
+   "Effusion",
+   "Atrophy",
+   "Osteoporosis"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0755",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "One of the following is not included in Glasgow Coma Scale:",
+  "q_ar": null,
+  "options": [
+   "Eye opening response.",
+   "Facial grimace.",
+   "Verbal response",
+   "Motor response"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0756",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Absence of bowel sounds and abdominal distention after abdominal surgery indicates?",
+  "q_ar": null,
+  "options": [
+   "Hemorrhage",
+   "Intussusception",
+   "Paralytic ileus",
+   "Flatulence"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0757",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Nurse should instruct the male client with an ileostomy to report immediately which of the following symptom",
+  "q_ar": null,
+  "options": [
+   "temperature of 37.6 °c",
+   "Occasional presence of undigested food",
+   "Passage of liquid stool in the stoma",
+   "Absence of drainage from the ileostomy for 6 or more hours"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0758",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "The exchange of gases between alveoli and their surrounding capillaries is called respiration.",
+  "q_ar": null,
+  "options": [
+   "External",
+   "Internal",
+   "Intrinsic",
+   "Both external and internal"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0759",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Which among the following is an example of an isotonic intravenous solution?",
+  "q_ar": null,
+  "options": [
+   "Dextrose normal saline",
+   "10% Dextrose",
+   "0.45% NaCl",
+   "Ringer's Lactate"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0774",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Ahmad has undergone subtotal gastrectomy. The nurse should expect that nasogastric tube drainage will be what color for about 12 to 24 hours after surgery?",
+  "q_ar": null,
+  "options": [
+   "Dark brown",
+   "Bile green",
+   "Bright red",
+   "Cloudy white"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0760",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Ahmad has diagnosed with appendicitis. He develops a fever. hypotension and tachycardia. The nurse suspects which of the following complications!",
+  "q_ar": null,
+  "options": [
+   "Bowel ischemia",
+   "Deficient fluid volume",
+   "Intestinal obstruction",
+   "Peritonitis"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0761",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "In caring for a client on contact precautions for a draining infected foot ulcer. which action should the nurse perform?",
+  "q_ar": null,
+  "options": [
+   "Wear a mask during dressing changes.",
+   "Provide disposable meal trays and silverware",
+   "Follow standard precautions in all interactions with the client",
+   "Use surgical aseptic technique for all direct contact with the client."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0762",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "The nurse can modify the hospital environment to enhance the patient's rest and relaxation by:",
+  "q_ar": null,
+  "options": [
+   "Providing privacy & reducing noise",
+   "Providing enough setting for patient's family members",
+   "Encouraging a supportive atmosphere",
+   "AII of the above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0763",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Nurse Ahmed teaches a client who has been recently diagnosed with hepatitis A about untoward signs and symptoms related to Hepatitis that may develop. The one that should be reported immediately to the physician is:",
+  "q_ar": null,
+  "options": [
+   "Restlessness",
+   "Clay-colored stools",
+   "Nausea",
+   "yellow urine"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0764",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Nurse Fatima is assigned to care for a client who has returned to the nursing unit after left nephrectomy.. Nurse Fatima's highest priority would be...",
+  "q_ar": null,
+  "options": [
+   "Temperature",
+   "Hourly urine output",
+   "Able to sips clear liquid",
+   "Able to turn side to side"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0767",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "In reducing the risk of endocarditis, good dental care is an important. To good dental care in Clint with mitral…………..",
+  "q_ar": null,
+  "options": [
+   "dental floss",
+   "Manual toothbrush"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0786",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Intestinal enzymes produced in the jejunum(. )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0766",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Interpersonal communication is the messages one sends to oneself, including selftalk, or communication with oneself",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0768",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Insomnia refers to the chronic inability to sleep or inadequate quality of sleep due to sleep prematurely ended or interrupted by periods of wakefulness",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0785",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Initial the medications administration record only for medications you potentially have, administered ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0787",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Inhalations drugs used for a local or systemic effect (. )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0769",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "When safeguarding valuables in hospital's safe must make inventory signed by both nurse, client: and security person present",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0770",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Use stethoscope bell to listen for low pitched sounds",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0771",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Use dorsum of hand & fingers to measure the pulse",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0772",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "-The person who knows the most about the patient's pain is the:",
+  "q_ar": null,
+  "options": [
+   "nurse.",
+   "patient.",
+   "physician assistant",
+   "practitioner."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0913",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "A client with diabetes has very dry skin on her feet and lower extremities. The nurse plans to inform the client to do which of the following to maintain intact skin?",
+  "q_ar": null,
+  "options": [
+   "Soak her feet frequently.",
+   "Use a non-perfumed lotion.",
+   "Apply foot powder.",
+   "Avoid knee-high elastic stockings"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0779",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Which of the following disease is not required isolation to break transmission?",
+  "q_ar": null,
+  "options": [
+   "Measles",
+   "Mumps",
+   "Chickenpox",
+   "Tetanus"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

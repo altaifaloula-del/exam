@@ -1,0 +1,704 @@
+[
+  {
+    "id": "Q0351",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": false,
+    "note_ar": "الكفة الأصغر من اللازم (عند الشخص البدين) تعطي قراءة أعلى من الحقيقية، فالقيمة الحقيقية أقل مما سُمع؛ لكن لا يوجد معامل تصحيح معتمد والإجراء الصحيح سريريًا هو إعادة القياس بكفة مناسبة، والصياغة غامضة، لذا الإجابة المعلَّمة (كما هي) غير مدعومة بمرجع والأقرب مفهوميًا «ينقص».",
+    "refs": [
+      {
+        "title": "Blood pressure measurement - Wikipedia (cuff size)",
+        "url": "https://en.wikipedia.org/wiki/Blood_pressure_measurement"
+      },
+      {
+        "title": "Monitoring your blood pressure at home - American Heart Association",
+        "url": "https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home"
+      }
+    ]
+  },
+  {
+    "id": "Q0352",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "ضغط النبض = الانقباضي − الانبساطي = 150 − 96 = 54 ملم زئبق.",
+    "refs": [
+      {
+        "title": "Physiology, Pulse Pressure - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482408/"
+      },
+      {
+        "title": "Pulse pressure: An indicator of heart health? - Mayo Clinic",
+        "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/pulse-pressure/faq-20058189"
+      }
+    ]
+  },
+  {
+    "id": "Q0353",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": false,
+    "note_ar": "الخيار «Apply heat to abdomen» غير صحيح عمليًا (الحرارة تزيد التورم)؛ المعتمد بعد إصلاح الفتق الإربي دعم كيس الصفن/رفعه ووضع كمادات باردة عليه لتخفيف التورم، والخيار «the scrotum» مبتور فلا يمكن الجزم؛ لم أجد مرجعًا يذكر هذه النصيحة صراحةً (NHS يذكر فقط أن تورم الأعضاء التناسلية شائع بعد العملية).",
+    "refs": [
+      {
+        "title": "Inguinal hernia repair: recovery - NHS",
+        "url": "https://www.nhs.uk/conditions/inguinal-hernia-repair/recovery/"
+      }
+    ]
+  },
+  {
+    "id": "Q0354",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "التعقيم الجراحي (Surgical asepsis) = تقنية معقمة تقضي على جميع الكائنات الدقيقة بما فيها الأبواغ من الأدوات/المناطق؛ الخيار 0 (من الأدوات) يطابق هذا التعريف الأقرب، والخيار 1 (قبل الدخول للجسم) يصف الغاية ويحتمل أيضًا؛ لم أسترجع تعريفًا نصيًا من مرجع لذا الثقة منخفضة.",
+    "refs": [
+      {
+        "title": "Guideline for Prevention of Catheter-associated Urinary Tract Infections 2009 - CDC/HICPAC",
+        "url": "https://www.cdc.gov/infection-control/media/pdfs/guideline-cauti-h.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q0355",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "الجيب الجبهي (Frontal sinus) يقع في العظم الجبهي خلف الحاجبين (الجبهة).",
+    "refs": [
+      {
+        "title": "Frontal sinus - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Frontal_sinus"
+      }
+    ]
+  },
+  {
+    "id": "Q0356",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "الخيارات مبتورة (خيار واحد فقط ظاهر) فلا يمكن المفاضلة؛ والمتعارف أن العقد تُجَسّ بوسادات الأصابع بحركات دائرية لطيفة لا بضغط مسطّح.",
+    "refs": []
+  },
+  {
+    "id": "Q0357",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "قياس سكر الدم مفضَّل على سكر البول لأنه أدق؛ سكر البول يظهر فقط بعد تجاوز العتبة الكلوية ولا يعكس المستوى الحالي (Merck: urine glucose monitoring is inaccurate and not recommended).",
+    "refs": [
+      {
+        "title": "Diabetes Mellitus - Merck Manual Professional Version",
+        "url": "https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/diabetes-mellitus-and-disorders-of-carbohydrate-metabolism/diabetes-mellitus-dm"
+      },
+      {
+        "title": "Glycosuria - Wikipedia (renal threshold)",
+        "url": "https://en.wikipedia.org/wiki/Glycosuria"
+      }
+    ]
+  },
+  {
+    "id": "Q0358",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "من علامات تسمم الديجوكسين اضطرابات الرؤية (رؤية أصفر-أخضر وهالات) إضافة إلى أعراض هضمية كالغثيان وفقدان الشهية (وليس زيادة الشهية)؛ الخيار الآخر الأقرب (طفح) غير نمطي.",
+    "refs": [
+      {
+        "title": "Digoxin Toxicity - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK470568/"
+      }
+    ]
+  },
+  {
+    "id": "Q0359",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "مدرّات البول تسبب نقص البوتاسيوم (Hypokalemia) الذي يسبب ضعف العضلات والتشنجات وصعوبة الحركة.",
+    "refs": [
+      {
+        "title": "Hypokalemia - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK482465/"
+      }
+    ]
+  },
+  {
+    "id": "Q0360",
+    "verdict": "uncertain",
+    "answer": 2,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "إرشاد GERD: عدم الاستلقاء بعد الوجبة (انتظار ≥3 ساعات) مع البقاء منتصبًا وتجنّب الجهد؛ «الراحة بعد الأكل» مقبولة فقط إن قُصد الراحة جالسًا لا مستلقيًا، والخيار الرابع («positive in eat») مشوَّه وقد يكون المقصود به وضعية الجلوس المنتصب، لذا لا جزم.",
+    "refs": [
+      {
+        "title": "GERD: diagnosis and treatment (lifestyle/home remedies) - Mayo Clinic",
+        "url": "https://www.mayoclinic.org/diseases-conditions/gerd/diagnosis-treatment/drc-20361959"
+      }
+    ]
+  },
+  {
+    "id": "Q0361",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "إسعاف الحرق الكهربائي: فصل مصدر التيار، فحص التنفس، ثم تغطية الحرق بقطعة قماش نظيفة جافة/شاش معقم؛ ولا يُستخدم الماء البارد أو الثلج (Mayo). الخيار 2 هو الأنسب بين الخيارات المتاحة.",
+    "refs": [
+      {
+        "title": "First aid: Burns - Mayo Clinic",
+        "url": "https://www.mayoclinic.org/first-aid/first-aid-burns/basics/art-20056649"
+      }
+    ]
+  },
+  {
+    "id": "Q0362",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "السؤال مبتور (الخيارات كلها عن الألم فقط) والأولوية بعد العملية عادةً للمجرى الهوائي/التنفس/الدورة؛ وبين خيارات الألم المتاحة لا يوجد ترتيب أولوية معتمد بين الموقع والشدة والتحمّل.",
+    "refs": []
+  },
+  {
+    "id": "Q0363",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "صياغة السؤال مشوَّهة («purpose of using a pulse measuring places in the radial artery») ولا يوجد خيار وحيد مدعوم؛ النبض الكعبري يُستخدم للقياس الروتيني، والضحية فاقد الوعي يُفحص نبضه السباتي لا الكعبري.",
+    "refs": []
+  },
+  {
+    "id": "Q0364",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "إرشادات CDC لمكافحة العدوى البيئية: أسطح وأرضيات المنشأة تُنظَّف بانتظام بالمنظّف والماء، ومنظّف/مطهّر معتمد (EPA) في مناطق رعاية المرضى؛ فالخيارات الثلاثة مقبولة وبالتالي «كل ما سبق».",
+    "refs": [
+      {
+        "title": "Guidelines for Environmental Infection Control in Health-Care Facilities - CDC MMWR 2003",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5210a1.htm"
+      }
+    ]
+  },
+  {
+    "id": "Q0365",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "النبض المأبضي عميق وقد يصعب جسّه حتى عند الأصحاء (Wikipedia)، والتصرّف التمريضي المعتاد التالي فحص النبض القدمي (الأخمصي/ظهر القدم) لتقييم التروية الطرفية؛ لم أجد مرجعًا يحسم الترتيب صراحةً وبديل فحص الفخذي وارد أيضًا.",
+    "refs": [
+      {
+        "title": "Popliteal artery - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Popliteal_artery"
+      }
+    ]
+  },
+  {
+    "id": "Q0366",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "من علامات صدمة نقص الحجم: هبوط الضغط الانقباضي (<90 ملم زئبق) وتسارع النبض وقلة البول؛ بقية الخيارات خاطئة (تسرّع لا بطء، إدرار طبيعي). الجملة مبتورة («15…») فالثقة متوسطة.",
+    "refs": [
+      {
+        "title": "Hypovolemia and Hypovolemic Shock - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK513297/"
+      }
+    ]
+  },
+  {
+    "id": "Q0367",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "المعتمد في تمريض فغر القولون: اللون الأحمر الوردي الرطب طبيعي، واللون الأحمر الداكن/البنفسجي/الأسود يدل على نقص التروية (إقفار) ويُبلَّغ عنه فورًا؛ لم أستطع استرجاع مرجع يصف لون الفغرة (المتاح فقط ذكر الإقفار كمضاعفة في Wikipedia) فالثقة منخفضة رغم رجحان الإجابة.",
+    "refs": [
+      {
+        "title": "Colostomy - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Colostomy"
+      }
+    ]
+  },
+  {
+    "id": "Q0368",
+    "verdict": "uncertain",
+    "answer": 3,
+    "confidence": "low",
+    "agrees_with_source_mark": false,
+    "note_ar": "الصياغة «common» على الأرجح تحريف لـ «communicable»: شلل الأطفال والتهاب الكبد وHIV أمراض معدية بينما قرحة العفج ليست معدية بالمعنى المقصود، لذا الاستثناء هو الخيار 3؛ الإجابة المعلَّمة (HIV) تناقض هذه القراءة، ولا يوجد مرجع يحسم صياغة السؤال.",
+    "refs": [
+      {
+        "title": "About Hepatitis A - CDC",
+        "url": "https://www.cdc.gov/hepatitis-a/about/index.html"
+      }
+    ]
+  },
+  {
+    "id": "Q0369",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "المتداول في الإسعافات الأولية أن النزيف الداخلي أخطر لأنه خفي ويتأخر اكتشافه (Cleveland: قد يصبح مهدِّدًا للحياة بسرعة)، لكن النزف الخارجي الغزير قد يكون قاتلًا أيضًا ولا يوجد مرجع يقارن بينهما صراحةً، فالمفاضلة تعليمية لا قطعية.",
+    "refs": [
+      {
+        "title": "Internal Bleeding - Cleveland Clinic",
+        "url": "https://my.clevelandclinic.org/health/symptoms/internal-bleeding"
+      }
+    ]
+  },
+  {
+    "id": "Q0370",
+    "verdict": "corrected",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": false,
+    "note_ar": "الفحص الجسدي ينتج بيانات موضوعية (Objective: علامات حيوية وموجودات الفحص) بينما البيانات الذاتية (Subjective) هي ما يذكره المريض/مقدم الرعاية كالتاريخ المرضي، فالعبارة كما كُتبت («في بيانات المريض الذاتية») خاطئة؛ احتمال أن الأصل «objective» (وعندها صحيحة) وارد لذا الثقة متوسطة.",
+    "refs": [
+      {
+        "title": "StatPearls (NCBI Bookshelf) NBK499937 - subjective vs objective data in nursing assessment",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK499937/"
+      },
+      {
+        "title": "SOAP note - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/SOAP_note"
+      }
+    ]
+  },
+  {
+    "id": "Q0371",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "الخيارات مبتورة (خيار واحد فقط) وهو مركّب: احتقان/انسداد البول قد يكون عامل خطر بينما شرب القهوة غير مذكور ضمن أسباب أمراض الكلى في NIDDK؛ لا يمكن الحكم.",
+    "refs": [
+      {
+        "title": "Causes of Chronic Kidney Disease - NIDDK",
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/causes"
+      }
+    ]
+  },
+  {
+    "id": "Q0372",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "إجراءات الثلج والضغط والرفع هي جزء من بروتوكول RICE/PRICE لإصابات الأنسجة الرخوة كالالتواء (NHS)؛ لكن نص السؤال تالف (لا يتذكر صاحبه) والخيارات مبتورة (خيار واحد)، فلا أستطيع الجزم.",
+    "refs": [
+      {
+        "title": "Sprains and strains - NHS (PRICE)",
+        "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+      }
+    ]
+  },
+  {
+    "id": "Q0373",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "التهاب المعدة المزمن (الضموري/المناعي) يقلل العامل الداخلي وامتصاص B12 فيؤدي لنقصه وفقر الدم الخبيث (StatPearls).",
+    "refs": [
+      {
+        "title": "StatPearls (NCBI Bookshelf) NBK544250 - Gastritis",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544250/"
+      },
+      {
+        "title": "Vitamin B12 Deficiency - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK441923/"
+      }
+    ]
+  },
+  {
+    "id": "Q0374",
+    "verdict": "confirmed",
+    "answer": 1,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "قسطرة المثانة (المقصود catheterization وليس cauterization) تتطلب تقنية معقمة ومعدات معقمة بحسب CDC، أما الأنبوب الأنفي المعدي وغسيل الفغرة وإعطاء الإستروجين المهبلي فتكفي فيها النظافة (تقنية نظيفة).",
+    "refs": [
+      {
+        "title": "Guideline for Prevention of Catheter-associated Urinary Tract Infections 2009 - CDC/HICPAC",
+        "url": "https://www.cdc.gov/infection-control/media/pdfs/guideline-cauti-h.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q0375",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "نص السؤال مشوَّه (وصف الأجزاء الأخيرة المحروقة «posterior . anterior right head» غير مفهوم)، والنتيجة بقاعدة التسعات تتوقف على تحديد الجزء؛ (صدر وبطن 18% + عجان 1% + عضو 9% = 28% لو كان المقصود ذلك) لكنه تخمين.",
+    "refs": []
+  },
+  {
+    "id": "Q0376",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "التاريخ المرضي (Health history) يُجمع من كلام المريض/مقدّم الرعاية فهو بيانات ذاتية (Subjective)، أما الفحص الجسدي والعلامات الحيوية فبيانات موضوعية.",
+    "refs": [
+      {
+        "title": "StatPearls (NCBI Bookshelf) NBK499937 - subjective vs objective data in nursing assessment",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK499937/"
+      },
+      {
+        "title": "SOAP note - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/SOAP_note"
+      }
+    ]
+  },
+  {
+    "id": "Q0377",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": false,
+    "note_ar": "المراجع تختلف: CDC توصي بغسل اليدين بالماء والصابون 20 ثانية على الأقل (وإرشاد 2002: 15 ثانية أقل تقدير و30 ثانية أفضل) وهو ما يوافق «15–30 ثانية»، بينما ملصق WHO يذكر 40–60 ثانية للإجراء كاملًا (≈ دقيقة)؛ وصياغة «على الأقل» ترجّح الخيار 0، والإجابة المعلَّمة (دقيقة) تتوافق مع WHO فلا حسم.",
+    "refs": [
+      {
+        "title": "Clean Hands: about handwashing (20 seconds) - CDC",
+        "url": "https://www.cdc.gov/clean-hands/about/index.html"
+      },
+      {
+        "title": "Guideline for Hand Hygiene in Health-Care Settings - CDC MMWR 2002",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5116a1.htm"
+      },
+      {
+        "title": "How to Handwash - WHO poster (40-60 seconds)",
+        "url": "https://cdn.who.int/media/docs/default-source/patient-safety/how-to-handwash-poster.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q0378",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "الغائط الأسود القطراني (Melena) يدل على نزف الجهاز الهضمي العلوي (المريء/المعدة/العفج) لأن الدم يُهضم فيسودّ (MedlinePlus).",
+    "refs": [
+      {
+        "title": "Black or tarry stools - MedlinePlus",
+        "url": "https://medlineplus.gov/ency/article/003130.htm"
+      }
+    ]
+  },
+  {
+    "id": "Q0379",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "التاريخ الصحي (Health history) بيانات ذاتية Subjective يرويها المريض، أما العلامات الحيوية والفحص الجسدي فبيانات موضوعية.",
+    "refs": [
+      {
+        "title": "StatPearls (NCBI Bookshelf) NBK499937 - subjective vs objective data in nursing assessment",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK499937/"
+      },
+      {
+        "title": "SOAP note - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/SOAP_note"
+      }
+    ]
+  },
+  {
+    "id": "Q0380",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "التهاب الكبد A ينتقل بالطريق البرازي-الفموي عبر الطعام والشراب الملوث (CDC)؛ وB وC ينتقلان بالدم/السوائل لا بالطعام.",
+    "refs": [
+      {
+        "title": "About Hepatitis A - CDC",
+        "url": "https://www.cdc.gov/hepatitis-a/about/index.html"
+      }
+    ]
+  },
+  {
+    "id": "Q0381",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "AHA: يُفتح المجرى الهوائي بإمالة الرأس ورفع الذقن (head tilt–chin lift) ما لم يُشتبه بإصابة عنق، وعندها دفع الفك (jaw thrust)؛ الكلمة «costly» في نص السؤال مشوَّهة ولا تذكر رضًّا صريحًا فالإجابة الافتراضية الخيار 0.",
+    "refs": [
+      {
+        "title": "Adult Basic Life Support - AHA Guidelines for CPR and ECC",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+      }
+    ]
+  },
+  {
+    "id": "Q0382",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "السؤال والخيارات مشوَّهة: الشاذ في وظائف الكبد هو ارتفاع البيليروبين وإنزيمات الكبد (لا انخفاضه)، وخيارا «blood urea» و«BUN» متطابقان ولا يوجد خيار واحد مدعوم.",
+    "refs": []
+  },
+  {
+    "id": "Q0383",
+    "verdict": "uncertain",
+    "answer": 2,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "معدل تنفس 30/د أعلى من الطبيعي بوضوح (تسرّع تنفس)، وحرارة 37.5 °م أعلى من المعتاد (MedlinePlus: فوق 37 °م)، خصوصًا في الصباح الباكر حيث تكون الحرارة في أدنى مستوياتها، والنبض 88 طبيعي؛ فالأقرب «الحرارة والتنفس»، لكن لم أسترجع مرجعًا لمعدل التنفس الطبيعي والسؤال بلا مفتاح.",
+    "refs": [
+      {
+        "title": "Vital signs - MedlinePlus",
+        "url": "https://medlineplus.gov/vitalsigns.html"
+      },
+      {
+        "title": "Hypovolemia and Hypovolemic Shock - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK513297/"
+      }
+    ]
+  },
+  {
+    "id": "Q0384",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "التدريس التمريضي التقليدي: تغيير وضعية المريض كل ساعتين (للوقاية من قرح الضغط ومضاعفات الرئة بعد الجراحة) وأصل ذلك تقليد Guttmann، بينما NICE توصي بكل 4–6 ساعات بحسب الخطورة؛ فالأقرب لمفتاح الاختبارات الخيار 1 مع ثقة منخفضة.",
+    "refs": [
+      {
+        "title": "Pressure ulcer - Wikipedia (2-hourly turning, Guttmann)",
+        "url": "https://en.wikipedia.org/wiki/Pressure_ulcer"
+      },
+      {
+        "title": "Pressure ulcers: prevention and management (CG179) - NICE",
+        "url": "https://www.nice.org.uk/guidance/cg179/chapter/Recommendations"
+      }
+    ]
+  },
+  {
+    "id": "Q0385",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "AHA: إن لم يُلمس نبض مؤكد خلال 10 ثوانٍ يُعامل المريض كحالة توقف قلبي ويبدأ الإنعاش القلبي الرئوي؛ أما إن وُجد نبض فعلي مع تنفس ضعيف فالمطلوب إنقاذ تنفسي (نفَس كل 6 ثوانٍ)، والخيارات المتاحة لا تتضمنه، فـ CPR هو الأقرب لكن بلا جزم.",
+    "refs": [
+      {
+        "title": "Adult Basic Life Support - AHA Guidelines for CPR and ECC",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+      }
+    ]
+  },
+  {
+    "id": "Q0386",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "السؤال غير محدد («first diagnostic test») والخياران 1 و3 (doctor/Physician) متطابقان، ولا يوجد جواب وحيد مدعوم.",
+    "refs": []
+  },
+  {
+    "id": "Q0387",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "بعد إصلاح الفتق الإربي (lingual ≈ inguinal) يُنصح بدعم الصفن ورفعه ووضع كمادات باردة لتخفيف التورم؛ الخيار «scrotum» مبتور لكنه الوحيد المنطقي (الراحة في الفراش والكمادات الساخنة ليست الإجراء المعتمد)، ولم أجد مرجعًا يذكر النصيحة صراحةً (NHS يذكر فقط أن التورم شائع).",
+    "refs": [
+      {
+        "title": "Inguinal hernia repair: recovery - NHS",
+        "url": "https://www.nhs.uk/conditions/inguinal-hernia-repair/recovery/"
+      }
+    ]
+  },
+  {
+    "id": "Q0388",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "السؤال مبتور والخيار الأخير «???» مفقود، ولا يمكن تحديد المستثنى.",
+    "refs": []
+  },
+  {
+    "id": "Q0389",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "السؤال مبتور (بلا سياق دواء/حالة) والخيار الرابع مفقود؛ الخيارات الظاهرة (زيادة الشهية، طفح، ارتفاع ضغط) ليست علامات نمطية لتسمم الديجوكسين الذي تظهر فيه اضطرابات الرؤية وفقدان الشهية.",
+    "refs": []
+  },
+  {
+    "id": "Q0390",
+    "verdict": "uncertain",
+    "answer": 2,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "نفث الدم يصدر من الجهاز التنفسي (أمراض رئوية كالسل وتوسع القصبات والالتهاب الرئوي) ويرتبط أيضًا بأسباب قلبية كضيق الصمام التاجي وقصور القلب/الوذمة الرئوية (MedlinePlus، Wikipedia)؛ الخيار الأشمل 2، لكن السؤال مبتور والخيار الرابع مشوَّه.",
+    "refs": [
+      {
+        "title": "Coughing up blood - MedlinePlus",
+        "url": "https://medlineplus.gov/ency/article/003073.htm"
+      },
+      {
+        "title": "Hemoptysis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hemoptysis"
+      }
+    ]
+  },
+  {
+    "id": "Q0391",
+    "verdict": "uncertain",
+    "answer": 2,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "الصياغة تطابق نص تمريضي شائع («ثقب الزائدة يحدث عادةً بعد نحو 24 ساعة من بدء الألم») لكنني لم أسترجعه؛ وStatPearls يذكر ≈2% ثقب عند 36 ساعة مع زيادة الخطر ~5% كل 12 ساعة، فالمراجع تختلف والسؤال مشوَّه («perfusion» = perforation).",
+    "refs": [
+      {
+        "title": "Appendicitis - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK493193/"
+      }
+    ]
+  },
+  {
+    "id": "Q0392",
+    "verdict": "answered",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "أسباب فقر الدم عند الحامل: نقص الحديد والفولات وB12؛ أما «نزف الطمث» فلا ينطبق أثناء الحمل (لا حيض) فهو المستثنى؛ علمًا أن WHO تذكر غزارة الطمث سببًا لفقر الدم عند النساء عمومًا قبل الحمل.",
+    "refs": [
+      {
+        "title": "Anaemia - WHO fact sheet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/anaemia"
+      }
+    ]
+  },
+  {
+    "id": "Q0393",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "المعتمد قبل إعطاء الديجوكسين فحص النبض القمّي لمدة دقيقة (وحجب الجرعة عند بطء النبض) — StatPearls يذكر إيقافه عند بطء القلب؛ لكن لا يوجد بين الخيارات «قياس النبض»، و«pulse oximetry» قياس تأكسج لا علاقة له بالقاعدة (غالبًا ترجمة خاطئة لـ «قياس النبض»)، فلا جواب وحيد دقيق.",
+    "refs": [
+      {
+        "title": "StatPearls (NCBI Bookshelf) NBK556025 - Digoxin",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK556025/"
+      }
+    ]
+  },
+  {
+    "id": "Q0394",
+    "verdict": "uncertain",
+    "answer": 3,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "هو على الأرجح نفس سؤال Q0364 (مفتاحه «كل ما سبق»): إرشادات CDC تجيز تنظيف الأرضيات بالمنظف والماء أو المطهّر؛ لكن «Insecticide» ليس مطهّرًا لأرضيات المستشفى فيضعف الخيار «كل ما سبق» منطقيًا والخياران 0 و2 صحيحان، فالخيارات معيبة.",
+    "refs": [
+      {
+        "title": "Guidelines for Environmental Infection Control in Health-Care Facilities - CDC MMWR 2003",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5210a1.htm"
+      }
+    ]
+  },
+  {
+    "id": "Q0395",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "الجراحة علاج الإصابات والأمراض بوسائل يدوية وآلية (أدوات) وتتضمن عادةً فتح/قطع الأنسجة (Britannica، Wikipedia)، فالعبارة صحيحة بتساهل في الصياغة.",
+    "refs": [
+      {
+        "title": "Surgery (medicine) - Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/science/surgery-medicine"
+      },
+      {
+        "title": "Surgery - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Surgery"
+      }
+    ]
+  },
+  {
+    "id": "Q0396",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "انقطاع التنفس أثناء النوم (Apnea) = توقف/انخفاض ≥90% في تدفق الهواء لمدة ≥10 ثوانٍ (معيار التسجيل في StatPearls)؛ العبارة «أو أثناء النوم» مشوَّهة لكن جوهرها صحيح.",
+    "refs": [
+      {
+        "title": "Obstructive Sleep Apnea - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK459252/"
+      }
+    ]
+  },
+  {
+    "id": "Q0397",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "العبارة مبتورة («capillary hemorrhage is small......») ولا يمكن الحكم على تتمتها (المعتاد أن النزف الشعيري بطيء رشحي قليل).",
+    "refs": []
+  },
+  {
+    "id": "Q0398",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "البالغ (≥18 سنة) ذو الأهلية يوقّع الموافقة المستنيرة بنفسه؛ موافقة الوالد/الولي مطلوبة للقاصر (<18) أو فاقد الأهلية (StatPearls)، فالعبارة كما كُتبت خاطئة؛ وقد يكون نص السؤال محرّفًا (under 18).",
+    "refs": [
+      {
+        "title": "StatPearls (NCBI Bookshelf) NBK430827 - Informed Consent",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK430827/"
+      }
+    ]
+  },
+  {
+    "id": "Q0399",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "الدعم النفسي وخفض قلق المريض قبل الجراحة جزء من الرعاية قبل العملية (Wikipedia: Preoperative care)؛ لم أسترجع مصدرًا أقوى.",
+    "refs": [
+      {
+        "title": "Preoperative care - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Preoperative_care"
+      }
+    ]
+  },
+  {
+    "id": "Q0400",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "العبارة مشوَّهة («neurosurgic shock common most in the surgery asepsis surgical») ولا يُفهم المقصود (الصدمة العصبية المنشأ نادرة وأشيع صدمات الجراحة نقص الحجم).",
+    "refs": []
+  }
+]

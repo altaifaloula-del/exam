@@ -1,0 +1,827 @@
+[
+ {
+  "id": "Q0879",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "اي من التحاليل الآتيه ذات اهميه لمريض يتناول غذائه عن طريق الانبوب؟",
+  "q_ar": null,
+  "options": [
+   "تحليل فحص دم الشريان",
+   "لمحه مختصره عن الكيمستري",
+   "هيموجلوبين",
+   "سي بي سي"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0880",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "خضع مريض لأخذ عينه للسائل العصبي من ظهره وبعد انتهاء العمليه طلبت منه البقاء على ظهره . كيف ستجيب على المريض اذا ما سألك عن سبب بقاءه على ظهره لعدة ساعات؟",
+  "q_ar": null,
+  "options": [
+   "لن تتعرض للوقوع ان لزمت الهدوء اليوم",
+   "يسهل على الممرض ان يفحص اي مضاعفات في هذا الوضع",
+   "هذا الوضع يمنع حدوث نزيف من منطقة اخذ العينه",
+   "هذا الوضع يسمح لاعادة التأقلم في الضغط حول الدماغ"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0881",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "المنطقه الافضل لفحص امكانية حدوث الاستسقاء هي:",
+  "q_ar": null,
+  "options": [
+   "اليد",
+   "الركبه",
+   "البطن",
+   "منطقة الحوض sacrum"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0882",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "المريض اللذي يتلقى كميه كبيره من الاوكسجين معرض للتسمم بالاوكسجين , اي من الملاحظات الاتيه يجب وضعها في الاعتبار",
+  "q_ar": null,
+  "options": [
+   "تشتت الافكار",
+   "فقد النظر",
+   "زيادة وبطئ التنفس",
+   "انقباضات العضلات"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0883",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "الاعضاء المتضرره عادة من ارتفاع ضغط الدم هي",
+  "q_ar": null,
+  "options": [
+   "الكبد , الرئه , المعده",
+   "القلب , الدماغ , الكلى",
+   "الكبد , المعده , القولون",
+   "الدماغ , الدم , الكلى"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0884",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "السبب الدائم لمرض السكري المصاحب بالكيتون والسيدوسس diabetic ketoacidosis",
+  "q_ar": null,
+  "options": [
+   "الضغط النفسي",
+   "الاصابه بالعدوى",
+   "زيادة الانسولين",
+   "كميه غير كافيه من الكالوري في الغذاء"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0885",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "اي من الاعراض التاليه يحدث بسبب زيادة افراز هرمون الفازوبريسين vasopressin",
+  "q_ar": null,
+  "options": [
+   "مرض زيادة افراز الغده الدرقيه",
+   "مرض الافراط في التبول",
+   "نقص في افراز هرمون الادرينالين",
+   "خلل في افراز الهرمون المعيق للتبول"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0886",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "مريض . نتيجة التحليل الشرياني في الدم منخفضه ph= 7.25 , pao2= 50 mmhg , paco2= 28.75 , hco3= 24 mEq\\l اي من الحالات التاليه تتفق مع النتائج ؟",
+  "q_ar": null,
+  "options": [
+   "ميتابولك اسيدوسس",
+   "ميتابولك الكيلوسس",
+   "ريسبايراتوري اسيدوسس",
+   "رسبايراتوري الكيلوسس"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0887",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "kidney stone is classification as the",
+  "q_ar": null,
+  "options": [
+   "Emergency surgery",
+   "Required surgery",
+   "Urgent surgery",
+   "All above is correct"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0889",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Care of the newborn include the following",
+  "q_ar": null,
+  "options": [
+   "Dry the newborn",
+   "Wrap the newborn in warmed blanket",
+   "Encourage a woman for the first breastfeeding",
+   "All of above is correct"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0890",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "The client is unresponsive and requires total care by nursing staff. Which assessment doe the nurse check first before providing special oral care to the client :",
+  "q_ar": null,
+  "options": [
+   "Presence of pain",
+   "Condition of the skin",
+   "Gag reflex",
+   "Range of motion"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0917",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Clients should be taught that repeatedly ignoring the sensation of needing to defecate result in which of the following?",
+  "q_ar": null,
+  "options": [
+   "Constipation",
+   "Diarrhea",
+   "Incontinence",
+   "Hemorrhoids"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0891",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "In Maslows hierarchy of physiologic needs, the human need of greatest p:",
+  "q_ar": null,
+  "options": [
+   "nutration",
+   "Oxygen",
+   "Elimination",
+   "Love"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0901",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "A client who describes his Pain as 7 on a scale of 0 to 10 is classified Following?",
+  "q_ar": null,
+  "options": [
+   "Mild Pain",
+   "No Pain",
+   "Moderate Pain",
+   "Sever Pain"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0893",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "The main extracellular cation is:",
+  "q_ar": null,
+  "options": [
+   "sodium.",
+   "magnesium.",
+   "potassium.",
+   "calcium."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0896",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "When caring for a single client during one shift, it is appropriate for the health care provider to reuse only which of the following personal protective equipment :",
+  "q_ar": null,
+  "options": [
+   "Clean gloves",
+   "Surgical mask",
+   "Gown",
+   "Goggles"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0900",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "The Following are signs and symptomes of rhinitis except:",
+  "q_ar": null,
+  "options": [
+   "Sever Cough",
+   "Runny nose and Congestion",
+   "Itchiness and Sneezing",
+   "discharge (Purulent with bacterial rhinitis)"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0894",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Back care is best describe as:",
+  "q_ar": null,
+  "options": [
+   "Washing of the back",
+   "Caring for the back by means of massage",
+   "Application of cold compress at the back",
+   "Application of hot compress at the back"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0903",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Back Care is best describe as:",
+  "q_ar": null,
+  "options": [
+   "washing of The back",
+   "Caring For The back by means of Massage",
+   "Application of Cold Compress",
+   "Application of hot Compress"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0905",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Signs and symptoms of hypovolemic shock",
+  "q_ar": null,
+  "options": [
+   "blood loss",
+   "Emotional distress",
+   "Severe allergic reaction",
+   "All of Above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0906",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Pt old male 37 Year as The Respiratory Rate 30 and Puls 88 and Temprature 37.6 as The Nurses Measures",
+  "q_ar": null,
+  "options": [
+   "Measure only Respiratory",
+   "Measure of Puls and Temprature",
+   "Measure Respiratory and Temprature",
+   "None of all Above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0907",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Pt as The BMI Classefication",
+  "q_ar": null,
+  "options": [
+   "class I",
+   "Class II",
+   "class III",
+   "class IV"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0908",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Pt needed blood Type B give",
+  "q_ar": null,
+  "options": [
+   "B or O",
+   "A or B",
+   "A or AB",
+   "B or AB"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0909",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Langerhans Procedure",
+  "q_ar": null,
+  "options": [
+   "Testosteron",
+   "Pregestron",
+   "Insulin",
+   "Iron"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0895",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Which nursing intervention is the highest in priority for a client at risk for hospital setting :",
+  "q_ar": null,
+  "options": [
+   "Review prescribed medication",
+   "Keep all of the side rails up",
+   "Place the bed in the lowest pos",
+   "Complete the \"get up and go\" test"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0910",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "wich clinical Intervention is The highest in Priority For client at risk For Falls in hospital Setting?",
+  "q_ar": null,
+  "options": [
+   "Review Prescribed medication",
+   "keep all of The Side rails up",
+   "Complete The get up and got test",
+   "Place The bed in The Lowest Position"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0911",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "wich Nursing Intervention is The highest in Priority For client at risk For Falls hospital Setting?",
+  "q_ar": null,
+  "options": [
+   "Review Prescribed Medication",
+   "Keep All of sid",
+   "Complete The get up and go tes",
+   "Place The bed in low Position"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0918",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Patients with a number of chronic pain syndromes report:",
+  "q_ar": null,
+  "options": [
+   "Depression",
+   "Anger",
+   "Fatigue",
+   "all of the above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0921",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Liver is located in the:",
+  "q_ar": null,
+  "options": [
+   "Right upper quadrant",
+   "Right lower quadrant",
+   "Left lower quadrant",
+   "Left upper quadrant"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0922",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "The nurse is discussing angina with a client who is diagnosed with coronary artery disease. Which action should the client take first when experiencing angina?",
+  "q_ar": null,
+  "options": [
+   "Put a nitroglycerin tablet under the tongue.",
+   "Stop the activity immediately and rest.",
+   "Document when and what activity caused angina.",
+   "Notify the health-care provider immediately"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0923",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "A fracture in which a fragment of bone has been pulled away by a tendon and its attachment is called:",
+  "q_ar": null,
+  "options": [
+   "Avulsion",
+   "Comminuted",
+   "Compound",
+   "all of the above",
+   "none of the above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0925",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "When asking a client to move an extremity away from the body midline, you are assessing:",
+  "q_ar": null,
+  "options": [
+   "abduction.",
+   "adduction.",
+   "extension.",
+   "flexion."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0926",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Surgery is performed to:",
+  "q_ar": null,
+  "options": [
+   "correct an anatomical defect",
+   "provide therapeutic interventions",
+   "correct physiological defect",
+   "all of the above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0927",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Before you send the patient to the operation room, you must check:",
+  "q_ar": null,
+  "options": [
+   "did he empty his bladder?",
+   "is the patient fasting?",
+   "did he sign the consent form?",
+   "all of the above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0928",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "Most clients are comfortable when room temperature is",
+  "q_ar": null,
+  "options": [
+   "20° to 32 °C",
+   "20° to 23°C",
+   "20° to 28°C",
+   "20° to 35°C"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0932",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Clients become susceptible to infections when need indwelling equipment as a urinary catheter ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0933",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "A good mattress adjusts to the shape of the body while supporting it ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0935",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Hospital chairs are straight-backed to facilitate good postural support ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0936",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Hospital beds usually remain in their lowest position when clients are receiving nursing care or during a change of bed linens ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0937",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "During the client admission, orientation help person become familiar with a new environment ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0938",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "In Stages of Sleep REM. sleep is subdivided into four stages mostly on the basis of EEG & these roughly parallel depth of sleep ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0939",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "If medications prepared by another person you never administer it ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0940",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "If a medication is withheld, indicate exact reason in the client's record ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0941",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Hypoxemia means reduced oxygen in the blood ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0942",
+  "specialty": "nursing",
+  "type": "tf",
+  "q": "Hyperthyroidism refers to the increased secretion of these thyroid hormones, which increases the rate of metabolism ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

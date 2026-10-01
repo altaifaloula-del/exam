@@ -1,0 +1,938 @@
+[
+ {
+  "id": "Q0051",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The Physicians preseribedo.5 gr of paracetamolthe the equivalents dose in milligrams is :",
+  "q_ar": null,
+  "options": [
+   "0.6 mg",
+   "10 mg",
+   "60 mg",
+   "500 mg"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "500 mg",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0052",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The physician prescribed ampicilin capsule TID PO, this means the drug should be given:",
+  "q_ar": null,
+  "options": [
+   "Three times a day orally",
+   "Three times a day after meals",
+   "Two time a day by mouth",
+   "Two times a day before meals"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Three times a day after meals",
+  "source_status": "agree",
+  "flags": [
+   "ambiguous_mark",
+   "multiple_marks"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0053",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When transferring a patient from a bed to a chair, whieh muscles the nurse should use to avoid back injury?",
+  "q_ar": null,
+  "options": [
+   "Back muscles",
+   "Leg muscles",
+   "Upper arm muscles",
+   "Abdominal muscles"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Upper arm muscles",
+  "source_status": "agree",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0054",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "After routine patient contact, handwashing should last at last: :",
+  "q_ar": null,
+  "options": [
+   "10_15 seconds",
+   "1minute",
+   "2minute",
+   "3 minute"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "10_15 seconds",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0055",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following statements are true bout donning serial gloves Except",
+  "q_ar": null,
+  "options": [
+   "The frist gloves picking up by grasping the inside of the cuff",
+   "The second gloves picking up by inserting. The gloves fingers under the cuff outside.",
+   "the gloves adjusted by sliding the gloved finger under the sterile cuff and pulling the glove",
+   "the inside of the glove is considered sterile"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "the inside of the glove is considered sterile",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0056",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "which the following clinical procedure always requires urinary surgical asepsis :",
+  "q_ar": null,
+  "options": [
+   "vaginal installation of conjugated estrogen",
+   "urinary catherization",
+   "nasogestric tube insertion",
+   "colostomy irrigation"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "urinary catherization",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0057",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "which of the following consitition a break in sterile technique while preparing sterile filed for a dressing change",
+  "q_ar": null,
+  "options": [
+   "using sterile forceps, rather than sterile gloves to handle a sterile item",
+   "touching the outside wapper of sterilized material without sterile gloves",
+   "place ingredients a sterile object on the edge of the sterile filed",
+   "pouring out a small amount of solultion (15 to 30 ml/before pouring the solultion into a sterile container"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "touching the outside wapper of sterilized material without sterile gloves",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0058",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Healing of the surgical wound is most affected by :",
+  "q_ar": null,
+  "options": [
+   "fat intake",
+   "protein intake",
+   "carbohydrate intake",
+   "non of the above"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "non of the above",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0059",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following patients is at greatest risk for developing pressure ulcers ?",
+  "q_ar": null,
+  "options": [
+   "An alert, chronic arthritic patient treated with steroids and asprin",
+   "An 88-year old incontinent patient with gastric cancer who is confined to has bed at hom",
+   "An apathetic 63_year old COPD patient receiving nasal oxygen Vai cannula",
+   "All confused 78-year old patient with congestive heart failure CHF who requires"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "All confused 78-year old patient with congestive heart failure CHF who requires",
+  "source_status": "agree",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0060",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "_ which of the the following is the most important purpos in hand washing",
+  "q_ar": null,
+  "options": [
+   "to promote hand circulation",
+   "to prevent the transfer of microorganisms",
+   "to avoid touching the elimination with a dirty hand",
+   "the provide comfort"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "to prevent the transfer of microorganisms",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0061",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "signs &symptoms systemic wound infection include?",
+  "q_ar": null,
+  "options": [
+   "increased pulse rate &temperature",
+   "An elevated white blood cells count",
+   "wound swelling, warmth, tenderness, readness",
+   "a&b"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "a&b",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0062",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "which of the following in not a factor that affecting oxygenation",
+  "q_ar": null,
+  "options": [
+   "Anemia",
+   "Atherosclerosis",
+   "arthroprosis",
+   "heart failure"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "arthroprosis",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0063",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "medical asispsis uses practice to reduce :",
+  "q_ar": null,
+  "options": [
+   "the number of Microorganism",
+   "growth of microorganisms",
+   "spread of microorganisms",
+   "All of the above"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "All of the above",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0064",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Inability of unconscious patient to blink eyes may results in:",
+  "q_ar": null,
+  "options": [
+   "Drying of the cornea.",
+   "Comeal ulceration",
+   "eye swelling and infection",
+   "All of the above"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "All of the above",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0065",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Immediate Emergency intervention for patient with spinal cord injury is:",
+  "q_ar": null,
+  "options": [
+   "Encourage the patient to do passive exercises",
+   "Change position frequently.",
+   "administrated analgesics",
+   "spinal immobilization"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "spinal immobilization",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0066",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The hormone responsible for the development of the ovum during the menstrual cycle is",
+  "q_ar": null,
+  "options": [
+   "estrogen",
+   "progesterone",
+   "follicle stimulat hormone FSH",
+   "luteinzing hormone LH"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "follicle stimulat hormone FSH",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0067",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "During which of the following phase ofr the menstrual cycle is it ideal for implantation of a fertilized egg to occur",
+  "q_ar": null,
+  "options": [
+   "ischaemia phase",
+   "Menstrual phase",
+   "Proliferative phase",
+   "Secretory phase"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Secretory phase",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0068",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the followin g methods would be avoided for a woman who is 38 years old,3 chidren and smokes a pack of cigarette per day",
+  "q_ar": null,
+  "options": [
+   "IUD Intra-uterine a device )",
+   "Oral contraceptives",
+   "Ceryical cap"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Oral contraceptives",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0069",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Magnesium Sulfate is ordered per IV. Which of the following should prompt the note to refer to the obstetricians prior to administration of the drug?",
+  "q_ar": null,
+  "options": [
+   "B/p=180/100",
+   "urine output is 40ml/h",
+   "RR=12b/m",
+   "Temperature 37c°"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0070",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "nures know that Jamal is knowledgeable about the occurrence of PIH when remarks?PIH (Pregnancy induced hypertension)",
+  "q_ar": "ارتفاع الضغط عند الحامل | يتميز ارتفاع ضغط الدم للعامل بوجود فائض بروتين في البول في الاسبوع ٢٠ من الحامل",
+  "options": [
+   "it usually appear anytime during the pregnancy",
+   "it's similar to cardiogenic vascular disease",
+   "PIH occurs during the 1st trimester",
+   "PIH occurs after the 20th weeks"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "PIH occurs after the 20th weeks",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0071",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "After several hrours of MgS04 administration to Jamila, she should be observed for clinical manifestations",
+  "q_ar": null,
+  "options": [
+   "Hypercalcemia",
+   "hypermagensmia",
+   "hypoglycemia",
+   "Hypokalmia kalemia"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "hypermagensmia",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0072",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following may happen if the uterus becomes over stimulated by oxytogin during induction of labor?",
+  "q_ar": null,
+  "options": [
+   "Weak contractions prolonged to more than 70 sec",
+   "Titanic contractions prolonged for more than 90 sec",
+   "Increased pain with bright red vaginal bleeding",
+   "Increased restlessness"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Titanic contractions prolonged for more than 90 sec",
+  "source_status": "agree",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0073",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The average length of the umbilical cord in human is:",
+  "q_ar": null,
+  "options": [
+   "5 cm",
+   "55 cm",
+   "amniotic fluid",
+   "45 cm"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "55 cm",
+  "source_status": "agree",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0074",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following is not a part of conceptus?",
+  "q_ar": null,
+  "options": [
+   "Deciduas",
+   "amniotic fluid",
+   "fetus",
+   "membranes"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "amniotic fluid",
+  "source_status": "agree",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0075",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "According to Salwa, her LMP is November 15, 2017, using the Naegle's ule what EDD?",
+  "q_ar": "نهايه الورقه التفاصيل",
+  "options": [
+   "August 22, 2018",
+   "August 18, 2018",
+   "July 22,2018",
+   "February 22, 2018"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "July 22,2018",
+  "source_status": "agree",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0076",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Sawa wants to know how many fetal movements per hour is normal. The correct response of Nurse Karema is: [printed note after options: Kick count (fetal movements counting Instruct the patient to notify the heath care provider if there are fewer than 10 kick in 2 consecutive 2_ hours periods]",
+  "q_ar": null,
+  "options": [
+   "Twice",
+   "therice",
+   "four times",
+   "10 _12 times"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "10 _12 times",
+  "source_status": "agree",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0077",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Mona gave birth to a term baby with yellowish skin a and sclera. The balby is pla phototherapy. The treatment is effective when hlood test shows:",
+  "q_ar": null,
+  "options": [
+   "low serum bilirubin",
+   "O2 level of 99%",
+   "Normal RBC and WBC count",
+   "low platelet count"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "low serum bilirubin",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0078",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Oxygen and co2 are exchange in the placentiaThrough of the process.Of",
+  "q_ar": null,
+  "options": [
+   "Panocytosis",
+   "Diffusion",
+   "Faceluted diffusion",
+   "active transfusion"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "active transfusion",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0079",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Anurse in a newborn nursery is performing an assessme of a newborn infant. The nurse is preparing to measure the head circumference of the infant. The nurse would most appropriate lying:",
+  "q_ar": null,
+  "options": [
+   "Wrap the tape measure araund t the infant's head and measure just above the eycbrows.",
+   "Place the tape measture under the infants head at the base of the skull and wrap around to the front just above the eyes",
+   "Place the tape measure under the infants hend, wrap araund the occiput, and measure just above the eyes",
+   "Place the tape mensure at the back of the infint's head, wrap around across the ears, and measure across the infant's mouth."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Wrap the tape measure araund t the infant's head and measure just above the eycbrows.",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0080",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Vitamin K is preseribed for a neonate. A nurse prepares to Administer the medication in which muscle site?",
+  "q_ar": null,
+  "options": [
+   "Deltoid.",
+   "Triceps",
+   "Vastuslateralis",
+   "Biceps"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Vastuslateralis",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0081",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Patient contact, hand washing should last at least:",
+  "q_ar": null,
+  "options": [
+   "1 minute",
+   "15-30 seconds",
+   "5 minut"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0082",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The cause common of anemia pregnancy women:",
+  "q_ar": null,
+  "options": [
+   "deficiency vit 12",
+   "deficiency folic acid",
+   "deficiency iron"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0083",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "In treating open fractures wound:",
+  "q_ar": null,
+  "options": [
+   "stop the bleeding",
+   "remove the object",
+   "clean the wound"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0084",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The hormone that secreted of Langerhans:",
+  "q_ar": null,
+  "options": [
+   "",
+   "",
+   ""
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0085",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The burns of second degree all of the following except one:",
+  "q_ar": null,
+  "options": [
+   "Painful",
+   "Blister",
+   "Swelling",
+   "Cure through 2-3 days"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0086",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The health history is considered to be a part of the:",
+  "q_ar": null,
+  "options": [
+   "Physical examination",
+   "Sings date",
+   "subjective",
+   "objective"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0087",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The bleeding from the cerebro vascular accident ... Brain",
+  "q_ar": null,
+  "options": [
+   "Temporal artery",
+   "Occipital artery",
+   "Femoral artery",
+   "Parietal artery"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0088",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Patient about to undergo abdominal inspection, position:",
+  "q_ar": null,
+  "options": [
+   "supine",
+   "Trendelenburg",
+   "Prone",
+   "sidely"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0089",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The nurse prepares to administer buccal medication:",
+  "q_ar": null,
+  "options": [
+   "on the client's skin",
+   "conjunctiva",
+   "between the client's cheek"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0090",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Blood pushes from the heart to lung:",
+  "q_ar": null,
+  "options": [
+   "arteria Right",
+   "Left arteria",
+   "Right ventricul",
+   "Left ventricul"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0091",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "What is the things between bone ulna and radius",
+  "q_ar": null,
+  "options": [
+   "",
+   "",
+   "?",
+   "???"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0092",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "With measured blood pressure and cave small how impatience and result",
+  "q_ar": null,
+  "options": [
+   "depression",
+   "normal",
+   "hard to reach",
+   "??"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0093",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "With arrival client to emergency room he bleeding extra special in the blood is contagious",
+  "q_ar": null,
+  "options": [
+   "when he's hands before conducing",
+   "wear gloves with gaon",
+   "hand wash after conducing",
+   "hand sterilizing"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0094",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A client has Gastroesophageal Reflux disease (GERD). The after every meal, the client should:",
+  "q_ar": null,
+  "options": [
+   "Rest prior eat",
+   "rest after eat",
+   "Positivist in eat",
+   "?"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0095",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The medical's assistant lists Lymph Node's by Technique Palpation how it is done",
+  "q_ar": null,
+  "options": [
+   "Touch the neck and Head and back",
+   "Pressure or touch by fingers and between fingers",
+   "it is easy to perform",
+   "can be done by the client",
+   "It is not influenced by drug."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0096",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Medical assistant should explain to male client with diabetic glucose is preferred to urine glucose testing because:",
+  "q_ar": null,
+  "options": [
+   "More accurate."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0097",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A patient uses diuretic and suffers from weakness in the joints of the difficulty in motion any of the following is why:",
+  "q_ar": null,
+  "options": [
+   "Hypokalemia.",
+   "Hyperkalemia.",
+   "Hyponatremia.",
+   "Hypernatremia.",
+   "pulse change when the position is changed.",
+   "unconscious victim."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0098",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The first technique in your physical assessment sequence is:",
+  "q_ar": null,
+  "options": [
+   "palpation.",
+   "auscultation",
+   "inspection",
+   "percussion"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "inspection",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0099",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "How should you open the airway of an unconscious casualty :",
+  "q_ar": null,
+  "options": [
+   "Head tilt and chin lift",
+   "Jaw thrust",
+   "Head tilt and jaw thrust",
+   "Lift the chin."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Head tilt and chin lift",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0100",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The medical assistant obtained a client's pulse and found the rate to be above normal, the nurse documents these findings as:",
+  "q_ar": null,
+  "options": [
+   "Tachypnea",
+   "Hyper pyrexia",
+   "Arrhythmia",
+   "Tachycardia"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Tachycardia",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

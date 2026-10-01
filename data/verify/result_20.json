@@ -1,0 +1,654 @@
+[
+ {
+  "id": "Q0879",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "المريض المغذّى عبر الأنبوب يُراقَب مخبريًا بالكيمياء الحيوية (الصوديوم والبوتاسيوم والفوسفور والمغنيسيوم والكالسيوم والجلوكوز ووظائف الكلى) لكشف اختلالات الأملاح وفرط السكر ومتلازمة إعادة التغذية؛ أما غازات الدم الشرياني والهيموجلوبين وCBC فليست فحوص المتابعة الأساسية. لا يوجد مرجع ينص على الخيار حرفيًا لذلك الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Enteral Feeding - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK532876/"
+   },
+   {
+    "title": "Monitoring of nutrition support in hospital and the community - Nutrition Support for Adults (NICE) - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK49277/"
+   }
+  ]
+ },
+ {
+  "id": "Q0880",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "التفسير التمريضي التقليدي للاستلقاء بعد البزل القطني هو السماح بإعادة استقرار ضغط السائل الدماغي الشوكي ومنع صداع ما بعد البزل، وهو الخيار الوحيد المتسق مع ذلك (بقية الخيارات لا أساس لها). لكن مراجعة كوكرين تبيّن أن الراحة في السرير لا تمنع الصداع (بل قد تزيده)، لذا الإجابة تتبع المنهج التمريضي وليس الدليل الحديث؛ الثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Body position and intake of fluids for preventing headache after lumbar puncture (Cochrane Review CD009199)",
+    "url": "https://www.cochrane.org/evidence/CD009199_body-position-and-intake-fluids-preventing-headache-after-lumbar-puncture"
+   },
+   {
+    "title": "Lumbar puncture - NHS",
+    "url": "https://www.nhs.uk/tests-and-treatments/lumbar-puncture/"
+   }
+  ]
+ },
+ {
+  "id": "Q0881",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الوذمة (الاستسقاء) الانتقالية تظهر في المريض الماشي عند الكاحلين، أما المريض طريح الفراش فتتجمع في منطقة العجز (sacrum) بفعل الجاذبية، فهي أفضل موضع للفحص (يُفترض أن المقصود مريض ملازم للسرير؛ والبطن خاص بالاستسقاء البطني Ascites).",
+  "refs": [
+   {
+    "title": "Peripheral oedema - Patient.info (professional reference)",
+    "url": "https://patient.info/doctor/history-examination/peripheral-oedema"
+   }
+  ]
+ },
+ {
+  "id": "Q0882",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "سُمّية الأكسجين تظهر رئويًا (ألم خلف القص، سعال، ضيق نفس) ومركزيًا (ارتباك/توهان، دوخة، غثيان، اضطراب رؤية، ارتعاش عضلي، تشنجات)؛ فالخياران الأول (التوهان) والرابع (الارتعاش العضلي) كلاهما وارد بحسب المرجع ولا يوجد خيار رئوي، لذلك لا يمكن الحسم. التخمين: الارتباك/تشتت الفكر كعلامة مبكرة؛ الثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Oxygen Toxicity - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK430743/"
+   }
+  ]
+ },
+ {
+  "id": "Q0883",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "ارتفاع ضغط الدم المزمن يتلف الأعضاء المستهدفة: القلب والدماغ والكلى (إضافة إلى العينين والأوعية)؛ الخيار الثاني هو الوحيد الذي يضم هذه الأعضاء الثلاثة، أما الكبد والمعدة والقولون فليست أعضاء مستهدفة.",
+  "refs": [
+   {
+    "title": "About High Blood Pressure - CDC",
+    "url": "https://www.cdc.gov/high-blood-pressure/about/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0884",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "العدوى هي أشيع عامل مُحرِّض للحماض الكيتوني السكري (73% في دراسة سريرية)، إضافة إلى نقص/ترك الأنسولين؛ أما «زيادة الأنسولين» فتخفض السكر ولا تسبب DKA، ونقص السعرات ليس مسببًا رئيسيًا. (صياغة السؤال «الدائم» تُفهم على أنها «الشائع»).",
+  "refs": [
+   {
+    "title": "Clinical Profile of Diabetic Ketoacidosis: A Prospective Study in a Tertiary Care Hospital - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4525534/"
+   },
+   {
+    "title": "Diabetic ketoacidosis - NHS",
+    "url": "https://www.nhs.uk/conditions/diabetic-ketoacidosis/"
+   }
+  ]
+ },
+ {
+  "id": "Q0885",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال مترجَم بشكل مضطرب: فرط إفراز الفازوبريسين (ADH) يسبب متلازمة الإفراز غير الملائم SIADH (احتباس ماء ونقص صوديوم)، وهذا أقرب لخيار «خلل في إفراز الهرمون المعيق للتبول»؛ أما «الإفراط في التبول» (السكري الكاذب) فينتج عن نقص ADH لا زيادته، والخياران الأول والثالث لا علاقة لهما. أفضل تخمين مع ضعف الثقة بسبب ركاكة الصياغة.",
+  "refs": [
+   {
+    "title": "Syndrome of Inappropriate Antidiuretic Hormone Secretion - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK507777/"
+   }
+  ]
+ },
+ {
+  "id": "Q0886",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "pH منخفض (حماض) مع PaCO2 منخفض (اتجاهان متعاكسان) = حماض استقلابي مع تعويض تنفسي (ونقص الأكسجة يرجّح حماضًا لبنيًا). تنبيه: قيمة HCO3=24 المذكورة طبيعية ولا تتسق حسابيًا مع pH 7.25 (المتوقع ≈12)، فالأرجح خطأ في نقل الرقم؛ الإجابة مبنية على pH وPaCO2.",
+  "refs": [
+   {
+    "title": "Arterial Blood Gas Analysis: Fundamentals, Interpretation, and Clinical Utility - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK536919/"
+   }
+  ]
+ },
+ {
+  "id": "Q0887",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال يتبع التصنيف التمريضي الخماسي لإلحاح الجراحة (طارئة/عاجلة/مطلوبة/اختيارية/اختيارية تجميلية)؛ وبحسب جدول Brunner & Suddarth (من الذاكرة ولم أتمكن من فتحه) تُصنَّف حصى الكلى/الحالب كجراحة عاجلة Urgent (خلال 24–30 ساعة). المرجعان المرفقان يعرّفان فئة «العاجلة» ويبيّنان أن الحصى تُعالَج عاجلًا عند المضاعفات واختياريًا عند غيرها، ولا يذكران الحصى صراحةً في التصنيف؛ لذلك الثقة منخفضة.",
+  "refs": [
+   {
+    "title": "26.1 Overview of the Surgical Experience - Medical-Surgical Nursing (OpenStax)",
+    "url": "https://openstax.org/books/medical-surgical-nursing/pages/26-1-overview-of-the-surgical-experience"
+   },
+   {
+    "title": "Ureterolithiasis - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK560674/"
+   }
+  ]
+ },
+ {
+  "id": "Q0889",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الرعاية الفورية الأساسية للمولود تشمل تجفيفه جيدًا، وإبقاءه دافئًا (ملامسة الجلد للجلد أو التغطية بغطاء دافئ مع تغطية الرأس)، وتشجيع الرضاعة الطبيعية المبكرة؛ فالخيارات الثلاثة صحيحة وبالتالي «كل ما سبق».",
+  "refs": [
+   {
+    "title": "Essential Newborn Care 1: Immediate Care and Helping Babies Breathe at Birth - Provider Guide (WHO, 2024)",
+    "url": "https://cdn.who.int/media/docs/default-source/mca-documents/nbh/enc-course/revised-resources/core-materials/web-who-enc-1---provider-guide---may-2024.pdf?sfvrsn=5cbb1105_3"
+   }
+  ]
+ },
+ {
+  "id": "Q0890",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "قبل العناية الفموية لمريض فاقد الوعي يُقيَّم منعكس التقيؤ (Gag reflex) لمعرفة خطر الاستنشاق، ثم يُوضَع المريض على جانبه؛ المراجع المتاحة مواد تعليمية تمريضية (وليست إرشادًا رسميًا) لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Oral Care for Unconscious-Dependent Patient - SaralMind Nursing",
+    "url": "https://www.saralmind.com/nursing/pcl-nursing/pcl-1st-year/fundamentals-of-nursing/nursing-measures-related-to-physical-needs-of-the-patient/oral-care-for-unconscious-dependent-patient"
+   },
+   {
+    "title": "Providing Oral Care for the Unconscious Patient - CliffsNotes",
+    "url": "https://www.cliffsnotes.com/study-notes/29088668"
+   }
+  ]
+ },
+ {
+  "id": "Q0917",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "تجاهل الرغبة في التبرز بشكل متكرر يُعدّ سببًا معروفًا للإمساك (يجف البراز ويتصلب)؛ والإمساك هو النتيجة المباشرة المقصودة (البواسير قد تنشأ لاحقًا من الإجهاد). النص مبتور قليلًا لكن الخيارات كاملة.",
+  "refs": [
+   {
+    "title": "Constipation - Johns Hopkins Medicine",
+    "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/constipation"
+   }
+  ]
+ },
+ {
+  "id": "Q0891",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الحاجات الفسيولوجية هي قاعدة هرم ماسلو وتُلبّى أولًا، وأولوية الأكسجين/الهواء بينها هي الأعلى لأن الحياة لا تستمر دقائق بدونه (قبل الغذاء والإخراج؛ والحب حاجة أعلى في الهرم). النص مبتور («greatest p» = priority). المراجع تثبت أولوية الحاجات الفسيولوجية وتذكر الهواء أولًا، ولا تُرتّب الأكسجين صراحةً فوق الغذاء.",
+  "refs": [
+   {
+    "title": "Maslow's hierarchy of needs - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs"
+   },
+   {
+    "title": "1.07 Maslow's Hierarchy of Needs - Nursing Fundamentals I (Brookside Press)",
+    "url": "https://brooksidepress.org/nursing_fundamentals_1/?page_id=132"
+   }
+  ]
+ },
+ {
+  "id": "Q0901",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "على مقياس الألم الرقمي 0–10 التصنيف المعتمد: 1–3 خفيف، 4–6 متوسط، 7–10 شديد؛ فالدرجة 7 = ألم شديد (تختلف بعض الدراسات في الحدود لكن 7–10 هو النطاق الأكثر اعتمادًا).",
+  "refs": [
+   {
+    "title": "0–10 Numeric Rating Scale - Washington State DSHS",
+    "url": "https://www.dshs.wa.gov/sites/default/files/ALTSA/stakeholders/documents/duals/toolkit/Numeric%20Rating%20Pain%20Scale.pdf"
+   },
+   {
+    "title": "Exploring Established Cut-Off Points for Pain Levels in the Numeric Rating Scale - Pain Management Nursing 2025",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1524904225002486"
+   }
+  ]
+ },
+ {
+  "id": "Q0893",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الصوديوم هو الكاتيون الرئيسي في السائل خارج الخلوي، أما البوتاسيوم فهو الكاتيون الرئيسي داخل الخلوي.",
+  "refs": [
+   {
+    "title": "26.3 Electrolyte Balance - Anatomy and Physiology 2e (OpenStax)",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/26-3-electrolyte-balance"
+   }
+  ]
+ },
+ {
+  "id": "Q0896",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "القفازات تُستخدم لمرة واحدة ولا يُعاد استعمالها، والمريلة (Gown) تُبدَّل عند تلوثها، أما النظارات الواقية (Goggles) فهي الوحيدة القابلة لإعادة الاستخدام بعد التنظيف والتطهير، وهذا أرجح المفتاح التمريضي. لم أتمكن من الوصول إلى نص مرجعي صريح (قد يختلف الحكم لو اعتُمد الاستخدام الممتد للكمامة الجراحية لمريض واحد)، لذا الثقة منخفضة.",
+  "refs": []
+ },
+ {
+  "id": "Q0900",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "أعراض التهاب الأنف: سيلان وانسداد أنفي وعطاس وحكة وإفرازات (قيحية عند العدوى البكتيرية)؛ أما السعال فمصاحب غير شائع وغالبًا جاف خفيف (تنقيط خلفي) وليس «شديدًا»، فهو الاستثناء.",
+  "refs": [
+   {
+    "title": "Allergic Rhinitis - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK538186/"
+   }
+  ]
+ },
+ {
+  "id": "Q0894",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "تُعرَّف العناية بالظهر (Back care) في التمريض بأنها تدليك/فرك الظهر بحركات إيقاعية لتنشيط الدورة الدموية والوقاية من قرحات الضغط وتقييم الجلد؛ وليست مجرد غسل أو كمادات. المرجع مادة تمريضية تعليمية فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Back Care - SaralMind Nursing",
+    "url": "https://www.saralmind.com/nursing/pcl-nursing/pcl-1st-year/fundamentals-of-nursing/nursing-measures-related-to-physical-needs-of-the-patient/back-care"
+   }
+  ]
+ },
+ {
+  "id": "Q0903",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "تكرار للسؤال Q0894: العناية بالظهر في التمريض = تدليك/فرك الظهر بحركات إيقاعية لتنشيط الدورة الدموية والوقاية من قرحات الضغط وتقييم الجلد. المرجع مادة تمريضية تعليمية فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Back Care - SaralMind Nursing",
+    "url": "https://www.saralmind.com/nursing/pcl-nursing/pcl-1st-year/fundamentals-of-nursing/nursing-measures-related-to-physical-needs-of-the-patient/back-care"
+   }
+  ]
+ },
+ {
+  "id": "Q0905",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الصياغة مضطربة: الخيارات هي أسباب وليست أعراضًا. الصدمة نقص الحجم تنتج عن فقد الدم/السوائل فقط؛ الضائقة النفسية (عصبية/إغماء) والحساسية المفرطة (توزيعية/تأقية) ليستا من أسبابها. إن كان المقصود «أسباب الصدمة عمومًا» فقد يكون المفتاح «كل ما سبق»، لذا الثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Hypovolemia and Hypovolemic Shock - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK513297/"
+   }
+  ]
+ },
+ {
+  "id": "Q0906",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال ناقص (لا يبيّن المطلوب: ما الذي يقيسه/يعيد قياسه/يبلغ عنه الممرض) والمعطيات ملتبسة: معدل التنفس 30 مرتفع بوضوح (الطبيعي 12–18)، والنبض 88 طبيعي، والحرارة 37.6°م أعلى قليلًا من الحد الأعلى 37.3 عند بعض المراجع لكنها ليست حمّى؛ فلا يمكن الجزم بين «التنفس فقط» و«التنفس والحرارة».",
+  "refs": [
+   {
+    "title": "Vital Signs - Cleveland Clinic (normal adult ranges)",
+    "url": "https://my.clevelandclinic.org/health/articles/10881-vital-signs"
+   }
+  ]
+ },
+ {
+  "id": "Q0907",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال مبتور: لا يذكر قيمة مؤشر كتلة الجسم (BMI) للمريض، ولا يمكن تحديد الفئة (I/II/III/IV) بدونها؛ والخيارات «class IV» غير مألوفة في تصنيف WHO للسمنة (الفئات I–III).",
+  "refs": []
+ },
+ {
+  "id": "Q0908",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "مريض فصيلته B يستقبل كريات حمراء من فصيلة B أو O (افتراض أن المقصود الدم/الكريات الحمراء)؛ الفصيلتان A وAB تحتويان مستضد A فلا تناسبان. (لو كان المقصود البلازما لانعكس الأمر: B أو AB).",
+  "refs": [
+   {
+    "title": "Blood Types Explained - A, B, AB and O - Red Cross Blood Services",
+    "url": "https://www.redcrossblood.org/donate-blood/blood-types.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0909",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال مبتور الصياغة («جزر لانغرهانس تُنتج ...»): خلايا بيتا في جزر لانغرهانس بالبنكرياس تفرز الإنسولين، وليس التستوستيرون أو البروجسترون أو الحديد.",
+  "refs": [
+   {
+    "title": "Physiology, Islets of Langerhans - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK542302/"
+   },
+   {
+    "title": "Pancreatic islets - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pancreatic_islets"
+   }
+  ]
+ },
+ {
+  "id": "Q0895",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "النص مبتور («at risk for [falls] hospital setting» و«lowest pos») لكنه نفس السؤالين Q0910/Q0911. وضع السرير في أدنى مستوى إجراء وقائي عام أساسي للسقوط بحسب AHRQ؛ أما رفع الحواجز الأربعة كلها فلا يوصى به (قد يُعدّ تقييدًا ويزيد الإصابة)، واختبار Get up and go تقييم لا تدخّل، ومراجعة الأدوية مهمة لكنها ليست الأعلى أولوية فوريًا. ترتيب «الأولوية» اجتهاد تمريضي ولا يوجد نص صريح، لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Preventing Falls in Hospitals: A Toolkit for Improving Quality of Care (AHRQ)",
+    "url": "https://www.ahrq.gov/sites/default/files/publications/files/fallpxtoolkit_0.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0910",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "وضع السرير في أدنى مستوى إجراء وقائي عام أساسي للسقوط بحسب AHRQ؛ رفع الحواجز الأربعة كلها غير موصى به (قد يُعدّ تقييدًا ويزيد الإصابة)، واختبار Get up and go تقييم لا تدخّل، ومراجعة الأدوية مهمة لكنها ليست الأعلى أولوية فوريًا. ترتيب «الأولوية» اجتهاد تمريضي ولا يوجد نص صريح، لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Preventing Falls in Hospitals: A Toolkit for Improving Quality of Care (AHRQ)",
+    "url": "https://www.ahrq.gov/sites/default/files/publications/files/fallpxtoolkit_0.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0911",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "نفس السؤال Q0910 (بعض الخيارات مبتورة: «Keep All of sid…» و«get up and go tes» لكنها قابلة للتعرّف). وضع السرير في وضع منخفض إجراء وقائي عام أساسي للسقوط بحسب AHRQ؛ رفع الحواجز كلها غير موصى به، وGet up and go تقييم لا تدخّل. ترتيب «الأولوية» اجتهاد تمريضي ولا يوجد نص صريح، لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Preventing Falls in Hospitals: A Toolkit for Improving Quality of Care (AHRQ)",
+    "url": "https://www.ahrq.gov/sites/default/files/publications/files/fallpxtoolkit_0.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0918",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "مرضى متلازمات الألم المزمن يعانون عادةً من الاكتئاب والتعب وتقلب المزاج/الغضب واضطراب النوم، لذا «كل ما سبق». المراجع تذكر الاكتئاب والقلق (Mayo) والتعب وتغيّر المزاج (MedlinePlus) ولا تنص على «الغضب» حرفيًا، لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Chronic pain - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/chronic-pain/symptoms-causes/syc-20360371"
+   },
+   {
+    "title": "Chronic Pain - MedlinePlus",
+    "url": "https://medlineplus.gov/chronicpain.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0921",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الكبد يقع في الربع العلوي الأيمن من البطن تحت الحجاب الحاجز وتحمي معظمه الأضلاع السفلية اليمنى.",
+  "refs": [
+   {
+    "title": "Liver: Where It's Located, Function & Anatomy - Cleveland Clinic",
+    "url": "https://my.clevelandclinic.org/health/body/21481-liver"
+   },
+   {
+    "title": "Liver - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Liver"
+   }
+  ]
+ },
+ {
+  "id": "Q0922",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "أول إجراء عند نوبة الذبحة الصدرية هو إيقاف النشاط فورًا والراحة (لتقليل حاجة القلب للأكسجين)، ثم النتروغليسرين تحت اللسان وتكراره، وطلب الإسعاف إن لم يزُل الألم.",
+  "refs": [
+   {
+    "title": "Angina - Treatment - NHS",
+    "url": "https://www.nhs.uk/conditions/angina/treatment/"
+   }
+  ]
+ },
+ {
+  "id": "Q0923",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الكسر الانتزاعي (Avulsion) هو انفصال شظية عظمية بسحب الوتر أو الرباط المتصل بها؛ أما المفتت Comminuted فيتكسر العظم لعدة شظايا، والمركّب Compound هو كسر مفتوح.",
+  "refs": [
+   {
+    "title": "Avulsion Fractures - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK559168/"
+   }
+  ]
+ },
+ {
+  "id": "Q0925",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "التبعيد (Abduction) هو تحريك الطرف بعيدًا عن خط منتصف الجسم، والتقريب Adduction عكسه.",
+  "refs": [
+   {
+    "title": "9.5 Types of Body Movements - Anatomy and Physiology 2e (OpenStax)",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements"
+   }
+  ]
+ },
+ {
+  "id": "Q0926",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "تُجرى الجراحة لأغراض متعددة: تشخيصية، وعلاجية (استئصال المرض)، وترميمية/تصحيح تشوه تشريحي، وتغيير/تصحيح وظيفة فسيولوجية؛ فالخيارات الثلاثة صحيحة و«كل ما سبق» هو الأنسب. المرجع الموسوعي لا يطابق صياغة الخيارات حرفيًا لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Surgery - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Surgery"
+   }
+  ]
+ },
+ {
+  "id": "Q0927",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "قائمة التحقق التمريضية قبل نقل المريض لغرفة العمليات تشمل عادةً: توقيع إقرار الموافقة المستنيرة، والصيام (NPO)، وتفريغ المثانة، فالجواب المتوقع «كل ما سبق». لم أتمكن من فتح مرجع يذكر البنود الثلاثة معًا، لذا الثقة منخفضة.",
+  "refs": []
+ },
+ {
+  "id": "Q0928",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "نطاق الراحة الحرارية الداخلي المعتاد نحو 20–24°م (توصية OSHA: 68–76°ف = 20–24.4°م) والمقرر التمريضي يذكر 20–23°م؛ أما 28 و32 و35°م فحارة وغير مريحة. النطاق 20–23 هو الخيار الوحيد المتوافق، والمرجع لبيئة المكاتب لا للمستشفيات لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Reiteration of Existing OSHA Policy on Indoor Air Quality: Office Temperature/Humidity - OSHA",
+    "url": "https://www.osha.gov/laws-regs/standardinterpretations/2003-02-24"
+   }
+  ]
+ },
+ {
+  "id": "Q0932",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة صحيحة: القسطرة البولية الدائمة عامل خطر رئيسي للعدوى (شبه كل التهابات المسالك البولية المكتسبة بالمستشفى ناتجة عن أدوات المسالك، وخطر البيلة الجرثومية 3–10% يوميًا).",
+  "refs": [
+   {
+    "title": "Guideline for Prevention of CAUTI (2009) - V. Background - CDC",
+    "url": "https://www.cdc.gov/infection-control/hcp/cauti/background.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0933",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة تتفق مع المقرر التمريضي (المرتبة الجيدة تدعم الجسم وتتكيّف مع شكله لتوزيع الضغط)، لكن لم أتمكن من فتح مرجع يذكرها صراحةً، لذا الثقة منخفضة.",
+  "refs": []
+ },
+ {
+  "id": "Q0935",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة تتفق مع ما يُذكر في مقررات التمريض الأساسية (كراسي المستشفى ذات ظهر مستقيم لدعم وضعية الجلوس)، لكن لم أتمكن من فتح مرجع يذكرها صراحةً، لذا الثقة منخفضة.",
+  "refs": []
+ },
+ {
+  "id": "Q0936",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "كما هو مكتوب العبارة خاطئة: يُخفَض السرير عندما يكون المريض مستريحًا/دون مراقبة (AHRQ)، أما أثناء تقديم الرعاية أو تبديل الفراش فيُرفع إلى ارتفاع العمل المناسب لحماية ظهر الممرض. يُحتمل أن الأصل «تبقى في أدنى وضع ما عدا أثناء الرعاية…» وسقطت كلمة الاستثناء عند النقل، لذا الثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Preventing Falls in Hospitals: A Toolkit for Improving Quality of Care (AHRQ)",
+    "url": "https://www.ahrq.gov/sites/default/files/publications/files/fallpxtoolkit_0.pdf"
+   },
+   {
+    "title": "Hospital bed - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hospital_bed"
+   },
+   {
+    "title": "Care of environment - SaralMind Nursing",
+    "url": "https://www.saralmind.com/nursing/pcl-nursing/pcl-1st-year/fundamentals-of-nursing/measures-to-provide-safety/care-of-environment"
+   }
+  ]
+ },
+ {
+  "id": "Q0937",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة صحيحة: من إجراءات استقبال المريض تعريفه هو وأسرته بالجناح وروتينه والمرافق والسياسات ليتكيّف مع البيئة الجديدة. المرجع مادة تمريضية تعليمية فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Introduction to Hospital Nursing (admission and orientation) - SaralMind Nursing",
+    "url": "https://www.saralmind.com/nursing/pcl-nursing/pcl-1st-year/fundamentals-of-nursing/introduction-to-hospital-nursing/introduction-to-hospital-nursing"
+   }
+  ]
+ },
+ {
+  "id": "Q0938",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة خاطئة: الذي يُقسَّم إلى مراحل (N1–N3، وقديمًا أربع مراحل) هو نوم NREM وليس REM؛ نوم REM مرحلة واحدة مستقلة.",
+  "refs": [
+   {
+    "title": "Physiology, Sleep Stages - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK526132/"
+   }
+  ]
+ },
+ {
+  "id": "Q0939",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "القاعدة التمريضية المعروفة: لا يُعطي الممرض دواءً حضّره شخص آخر (المسؤولية عن الدواء المُحضَّر تقع على من حضّره ويتحقق من هويته)، فالعبارة صحيحة على الأرجح؛ لم أتمكن من فتح مرجع ينص عليها، لذا الثقة منخفضة (وقد تُستثنى الأدوية المجهّزة من الصيدلية بوحدة الجرعة).",
+  "refs": []
+ },
+ {
+  "id": "Q0940",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة صحيحة على الأرجح: عند حجب/عدم إعطاء دواء يجب توثيق السبب في سجل المريض؛ ومرجع AHRQ يشير بشكل غير مباشر إلى أن توثيق الجرعات المحجوبة معيار متوقع (ويرصد أن نصفها فقط يُوثَّق) دون أن ينص على القاعدة حرفيًا، لذا الثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Medication Administration Safety - Patient Safety and Quality: An Evidence-Based Handbook for Nurses (AHRQ) - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK2656/"
+   }
+  ]
+ },
+ {
+  "id": "Q0941",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة صحيحة: نقص أكسجة الدم (Hypoxemia) هو انخفاض الأكسجين في الدم الشرياني (PaO2 منخفض)، بينما Hypoxia نقص الأكسجة على مستوى الأنسجة.",
+  "refs": [
+   {
+    "title": "Hypoxia and Hypoxemia - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482316/"
+   }
+  ]
+ },
+ {
+  "id": "Q0942",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة صحيحة: فرط نشاط الدرقية زيادة إفراز هرمونات الغدة الدرقية مما يسرّع الأيض في الجسم.",
+  "refs": [
+   {
+    "title": "Hyperthyroidism - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK537053/"
+   },
+   {
+    "title": "Hyperthyroidism (Overactive Thyroid) - NIDDK",
+    "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/hyperthyroidism"
+   }
+  ]
+ }
+]

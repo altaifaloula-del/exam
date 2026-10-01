@@ -1,0 +1,67 @@
+{
+ "_doc": "Manual dedupe overrides decided after human review of near-miss pairs. 'merge' = uid groups that are the same underlying question. Keep airway variants (head tilt/chin lift vs chest thrust) and anemia 'cause except' vs 'common type' separate.",
+ "merge": [
+  [
+   "f08-0378",
+   "f12-0502"
+  ],
+  [
+   "f06-0219",
+   "f17-0611"
+  ],
+  [
+   "f13-0556",
+   "f04-0645"
+  ],
+  [
+   "f09-0456",
+   "f04-0653",
+   "f12-0509",
+   "f11-0476",
+   "f08-0348"
+  ],
+  [
+   "f01-0014",
+   "f06-0211",
+   "f08-0349"
+  ],
+  [
+   "f18-0035",
+   "f07-0335"
+  ],
+  [
+   "f15-0673",
+   "f10-0400"
+  ],
+  [
+   "f08-0376",
+   "f11-0487",
+   "f12-0525"
+  ],
+  [
+   "f10-0389",
+   "f15-0662",
+   "f18-0040",
+   "f07-0321",
+   "f08-0356"
+  ]
+ ],
+ "keep_separate": [
+  [
+   "f08-0352",
+   "f12-0536"
+  ],
+  [
+   "f08-0357",
+   "f12-0534"
+  ],
+  [
+   "f04-0641",
+   "f09-0456"
+  ],
+  [
+   "f08-0376",
+   "f10-0389"
+  ]
+ ]
+}

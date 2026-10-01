@@ -1,0 +1,927 @@
+[
+ {
+  "id": "Q0351",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "عند قياس الضغط لشخص سمين مع العلم أن كفة الجهاز صغيره على المريض فإن النتيجة التي تظهر يجب على الممرض أن:",
+  "q_ar": null,
+  "options": [
+   "يزيد عن القراءه التي سمعها",
+   "ينقص عن القراءه التي سمعها",
+   "القراءه كما هي دون زياده ونقصان."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "القراءه كما هي دون زياده ونقصان.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0352",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A patient blood pressure is 150 على 96 his pulse pressure is:",
+  "q_ar": null,
+  "options": [
+   "54",
+   "96",
+   "150"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "54",
+  "source_status": "single",
+  "flags": [
+   "multiple_marks",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0353",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The medical assistant is instructing the male client who has reduce post operative lingoul hernia appearance swelling following the procedure what should:",
+  "q_ar": null,
+  "options": [
+   "limit oral fluid.",
+   "the scrotum.",
+   "Remain in alow fiber.",
+   "Apply heat to the abdomen."
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Apply heat to the abdomen.",
+  "source_status": "single",
+  "flags": [
+   "multiple_marks",
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0354",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Surgical asrpsis means:",
+  "q_ar": null,
+  "options": [
+   "destroying bacteria from articles.",
+   "destroying the bacteria before entering in the body.",
+   "Removing the bacteria which is in contact with patient",
+   "Hand washing."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "destroying bacteria from articles.",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0355",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The medical assistant examines the forehead sinus any the following places done:",
+  "q_ar": null,
+  "options": [
+   "frontal.",
+   "Zygomatic.",
+   "maxilla.",
+   "Temporay."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "frontal.",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0356",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The medical assistant lists lymph node by technique palpation who it is done:",
+  "q_ar": null,
+  "options": [
+   "Flat pressure by four finger between neck."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Flat pressure by four finger between neck.",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0357",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Medical assistant should explain to male client with diabetic glucose is preferred to urine glucose testing bacause:",
+  "q_ar": null,
+  "options": [
+   "More accurate.",
+   "it is easy to perform",
+   "can be done by the client",
+   "It is not influenced by drug."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "More accurate.",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0358",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following should the medical assistant teach digoxin of toxicity:",
+  "q_ar": null,
+  "options": [
+   "Increased appetite.",
+   "Skin rash over the chest and back.",
+   "Elevated blood pressure.",
+   "Visual disturbance."
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Visual disturbance.",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Skin rash over the chest and back"
+   }
+  ]
+ },
+ {
+  "id": "Q0359",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A patient uses diuretic and suffers from weakness in the joints of the difficulty in motion any of the following is why:",
+  "q_ar": null,
+  "options": [
+   "Hypokalemia.",
+   "Hyperkalemia.",
+   "Hyponatermia.",
+   "Hypernatermia."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Hypokalemia.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0360",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "client has gastroesophageal reflux disease \"GERD\" the after very meal the client should:",
+  "q_ar": null,
+  "options": [
+   "Exercise.",
+   "rest prior eat",
+   "rest after eat.",
+   "positive in eat."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "rest after eat.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0361",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A young mean was injured by electric burns what are the nursing interventions for these injured or first ambulance:",
+  "q_ar": null,
+  "options": [
+   "Provide full nursing care for these injured immediately.",
+   "put the patient a side and fold the head down.",
+   "the injured coverage is dry on burns.",
+   "The cold water poured in to the burned areas."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "the injured coverage is dry on burns.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0362",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When a client has arrived at nursing unit from surgery the priority to which of the following assessments:",
+  "q_ar": null,
+  "options": [
+   "pain tolerance.",
+   "pain intensity.",
+   "Location of pain."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Location of pain.",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0363",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Of the purpose of using apulse measuring places in the radial artery, any of the following;",
+  "q_ar": null,
+  "options": [
+   "dysrhythima.",
+   "pulse change when the position is changed.",
+   "unconscious victim."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "pulse change when the position is changed.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0364",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The bottom and surfaces are cleaned frequently with:",
+  "q_ar": null,
+  "options": [
+   "Detergent",
+   "soup and water",
+   "A detergent germicide",
+   "All of above."
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "All of above.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0365",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "If unable to locate the client papliteal pulse during a routine e.x nurse do next:",
+  "q_ar": null,
+  "options": [
+   "check for a pedal pulse.",
+   "Take the client blood pressure on that thigh.",
+   "check for a femoral.",
+   "Ask another nurse."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "check for a pedal pulse.",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0366",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A client has 15… blood loss which of the following nursing assessment hypovolemic shock:",
+  "q_ar": null,
+  "options": [
+   "Systolic blood pressure less than 90mmHg",
+   "Respiratory rate of 4 breaths /min.",
+   "Puls rate less than 60 beat/min.",
+   "urine out put greater than 30ml/hr."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Systolic blood pressure less than 90mmHg",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0367",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The medical assistant is most likely to report which finding client who has an established colostomy:",
+  "q_ar": null,
+  "options": [
+   "The stoma extends 1/2 in a bove the abdomen.",
+   "The stoma color is a deep red-purple.",
+   "The skin under the appliance looks red breifly after removing."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "The stoma color is a deep red-purple.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0368",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following disease common except:",
+  "q_ar": null,
+  "options": [
+   "poliomyelitis.",
+   "Hepatitis.",
+   "HIV.",
+   "Duodenal ulcer."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "HIV.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0369",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "النزيف الخارجي أكثر خطورة من النزيف الداخلي (f)",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "False",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0370",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "physical assessment including in the patient subject data(t)",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0371",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "من أسباب عوامل الخطورة للإصابه بأمراض الكلى",
+  "q_ar": null,
+  "options": [
+   "احتقان البول وزياده شرب القهوه."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "احتقان البول وزياده شرب القهوه.",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0372",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "مو تذكره السؤال شنو بالضبط بس انه كان القصد من السؤال انه هذه الإجراءات التاليه تدل على شنو: Ice, pressure, elevated of injury.",
+  "q_ar": null,
+  "options": [
+   "Sprain"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Sprain",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0373",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "patient with chronic with chronic gastritis, he complains deficiency any vitamin?",
+  "q_ar": null,
+  "options": [
+   "vitamin B12",
+   "vitamin C",
+   "vitamin A",
+   "vitamin E"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0374",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "which the following clinical procedure always requires urinary surgical asepsis:",
+  "q_ar": null,
+  "options": [
+   "vaginal installation of conjugated estrogen",
+   "urinary cauterization",
+   "nasogastric tube insertion",
+   "colostomy irrigation"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "urinary cauterization",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0375",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A patient has burns on the chest & abdominal & perineum and posterior . anterior right head. the appropriate percentage of his body that has been involved is:",
+  "q_ar": null,
+  "options": [
+   "18%",
+   "28%",
+   "36%",
+   "45%"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0376",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "History including:",
+  "q_ar": null,
+  "options": [
+   "subjective data",
+   "objectives data",
+   "physical examination",
+   "None of the above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0377",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "After routine patient contact, hand washing should last at last: :",
+  "q_ar": null,
+  "options": [
+   "15-30 seconds",
+   "1 minute",
+   "5 minute",
+   "10 minute"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "1 minute",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0378",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When the patient has gastric bleeding, the color of the stool may be changed:",
+  "q_ar": null,
+  "options": [
+   "Bright red",
+   "pink",
+   "Yellow",
+   "black tarry"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "black tarry",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0379",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Heath history considered",
+  "q_ar": null,
+  "options": [
+   "subject data",
+   "objective data",
+   "vital signs",
+   "physical examination"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0380",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Patient with hepatitis he say eat Contaminated food what type hepatitis:",
+  "q_ar": null,
+  "options": [
+   "hepatitis A",
+   "hepatitis B",
+   "hepatitis C",
+   "All of the above"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "hepatitis A",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0381",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Open air way for patient unconscious costly?",
+  "q_ar": null,
+  "options": [
+   "head tilt, chin lift",
+   "chest thrust",
+   "jaw thrust ..",
+   "put him in left side position"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0382",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Abnormal in liver test:",
+  "q_ar": null,
+  "options": [
+   "low hemoglobin",
+   "low serum bilirubin",
+   "blood urea",
+   "BUN"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0383",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Early in the morning a person woke up with a respiratory rate of 30, a temperature of 37.5 and a pulse of 88. The most important thing to focus on:",
+  "q_ar": null,
+  "options": [
+   "just breathe",
+   "pulse only",
+   "temperature and respiration",
+   "Nothing of the erotic"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0384",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The patient's position is changed to avoid infection after surgical every",
+  "q_ar": null,
+  "options": [
+   "1 hour",
+   "2 hours",
+   "4 hours",
+   "6 hours"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0385",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "patient with weak pulse and breathing what do you do?",
+  "q_ar": null,
+  "options": [
+   "CPR",
+   "Heimlich way",
+   "compression chest",
+   "chest thrust"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0386",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "who does the first diagnostic test",
+  "q_ar": null,
+  "options": [
+   "the nurse",
+   "the doctor",
+   "laboratory",
+   "Physician"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0387",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "patient with lingual hernia appearance swelling, what advice?",
+  "q_ar": null,
+  "options": [
+   "limit oral fluid",
+   "scrotum",
+   "bedrest",
+   "heat bag"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0388",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All following discharge hospital prepare except:",
+  "q_ar": null,
+  "options": [
+   "obtain patient, name, sex",
+   "notify of business",
+   "diagnosis",
+   "???"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0389",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "one following clinical manifestation must nurse observation patient",
+  "q_ar": null,
+  "options": [
+   "chest and abdominal skin rash",
+   "elevate of blood pressure",
+   "increase appetite"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0390",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "hemoptysis is appearance",
+  "q_ar": null,
+  "options": [
+   "cardiac disease",
+   "pulmonary disease",
+   "cardiac and pulmonary disease",
+   "؟؟؟؟"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0391",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "general appendix perfusion often pain",
+  "q_ar": null,
+  "options": [
+   "6 hours",
+   "12 hours",
+   "24 hours",
+   "36 hours"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0392",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "all following Couse of anemia pregnancy women except:",
+  "q_ar": null,
+  "options": [
+   "deficiency of iron in diet",
+   "deficiency of folic acid",
+   "hemorrhage during menstrual",
+   "deficiency vitamin B12"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0393",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Before administering Digitalis the nurse must",
+  "q_ar": null,
+  "options": [
+   "temperature measurement",
+   "Blood pressure measurement",
+   "pulse oximetry",
+   "respiratory rate measurement"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0394",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The bottom and surface are cleaned in the hospital. Are you?",
+  "q_ar": null,
+  "options": [
+   "Soap and water",
+   "Insecticide",
+   "Disinfectant",
+   "all of the above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0395",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "surgical is treat of disease or injury by in strument and opening",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0396",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "sleep apnea is absent air flow for 10 second or during sleep",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0397",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "capillary hemorrhage is small......",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0398",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "patient age 18 or more must before surgical table parent or legal grandum consent form",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0399",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "psychological support before surgical is necessary",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0400",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "neurosurgic shock common most in the surgery asepsis surgical",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

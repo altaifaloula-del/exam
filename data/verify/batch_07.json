@@ -1,0 +1,968 @@
+[
+ {
+  "id": "Q0301",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The purpose of the palates is :",
+  "q_ar": null,
+  "options": [
+   "Definition of clot",
+   "definition of bleeding",
+   "determine of thrombosis"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0302",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A patient male 3 complains of watery diarrhea It looks like a rice watery What is the cause ::",
+  "q_ar": null,
+  "options": [
+   "Guardia",
+   "cholera",
+   "dysentery",
+   "Ameba"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0303",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Allergic reaction results are considered:",
+  "q_ar": null,
+  "options": [
+   "IGA",
+   "IgG",
+   "IgM",
+   "IgC"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0304",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The immunization Vaccination It is considered any of the following :",
+  "q_ar": null,
+  "options": [
+   "polio",
+   "DTP",
+   "measles",
+   "Hepatitis B"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0305",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Nada is admitted to the hospital due to metabolic acidosis caused by diabetic ketoacidosis DKA the nurse prepares which of the following medications as an initial treatment for this problem :",
+  "q_ar": null,
+  "options": [
+   "Potassium",
+   "Sodrum bicarbonate",
+   "Regular insulin",
+   "Calcium gluconate"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0306",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following methods saft prevent pregnancy",
+  "q_ar": null,
+  "options": [
+   "candim",
+   "oral contraceptives"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0307",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following are the effects of the immobility, except:",
+  "q_ar": null,
+  "options": [
+   "Stiffness and pain in the joints.",
+   "Pooling of respiratory secretions.",
+   "Increase metabolic",
+   "Orthostatic hypotension"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0308",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following symptoms during the hepatitis virus",
+  "q_ar": null,
+  "options": [
+   "tarry stool",
+   "watery stool",
+   "yellow sclera",
+   "short"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Yellow sclera"
+   }
+  ]
+ },
+ {
+  "id": "Q0309",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The second techniques used to examine the abdomen of a",
+  "q_ar": null,
+  "options": [
+   "Inspection.",
+   "Percussion.",
+   "Puncturing",
+   "Palpation"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0310",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following antituberculosis drugs can damage on liver",
+  "q_ar": null,
+  "options": [
+   "Ethambutol hydrochloride (myambutol)",
+   "Paraoaminosalicylic acid (PAS)",
+   "Streptomycin",
+   "Isoniazid"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0311",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A client has Gastroesophageal Reflux Disease (GERD). The fter every meal, the client should,",
+  "q_ar": null,
+  "options": [
+   "post intake meal",
+   "low bed",
+   "??"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0312",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Rest refers to a state of altered consciousness during which an indication physical activity and a general slowing of the body's physiological ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0313",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Loneliness occurs when a client can interact with family and friends",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0314",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Leaving against medical advice (AMA) is a term that applies to situations in which the client leaves after the physician authorizes the discharge",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0315",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Invasion of personal space produces discomfort, anxiety, and the fight-or-flight response",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0316",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Patients who have experienced prolonged anesthesia usually are unconscious ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0317",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "The secondary survey is a process carried out in order to detect li..... ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0318",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "The recovery position is vital in maintaining support of the airway ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0319",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "The health provider uses the sense of touch when performing pa ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0320",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Once all admission data are collected, develops an initial plan for client's care as soon as possible ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0321",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Sleep is characterized by cycles of change in progress from ligh ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0322",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Pharmacology is the study of the effects of drugs on living orga",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0323",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Percussion is the technique of using touch to gather information vibrations, and shape ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "False"
+   }
+  ]
+ },
+ {
+  "id": "Q0324",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Parasomnia means sleep alterations resulting from an activation inappropriate times during the sleep-wake cycle ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "False"
+   }
+  ]
+ },
+ {
+  "id": "Q0325",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "امرأة تعاني من نزيف حاد بعد الولادة قد يؤدي إلى صدمة، أفضل محلول وريدي هو؟",
+  "q_ar": null,
+  "options": [
+   "محلول ملح",
+   "محلول ملحي سكري",
+   "محلول جلوكوز"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0326",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "اللقاحات الموصوفة أثناء الحمل تشمل الآتي عدا واحدة؟",
+  "q_ar": null,
+  "options": [
+   "الكزاز",
+   "الكتف",
+   "الانفلونزا الموسمية",
+   "الحصبة"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated",
+   "unreadable"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0327",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "نقص أي من العناصر التالية يؤثر على النشاط عضلة القلب؟",
+  "q_ar": null,
+  "options": [
+   "بوتاسيوم",
+   "كالسيوم",
+   "صوديوم",
+   "مغنيسيوم"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "unreadable"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0328",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "أقراص تنظيم النسل أحادية الهرمون (بروجيسترون) تستخدم في الحالات التالية؟",
+  "q_ar": null,
+  "options": [
+   "النساء اللاتي تمارس الرضاعة الطبيعية",
+   "النساء اللاتي لا تمارس الرضاعة الطبيعية",
+   "النساء اللاتي تعاني من أمراض الكبد",
+   "النساء اللاتي تعاني من سرطان الرحم"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0329",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "مريض يعاني من ... بالسكر وإسهال ولتشخيص طلب الدكتور منه عمل فحص CBC على مرض متابع",
+  "q_ar": null,
+  "options": [
+   "كريات الدم الحمراء",
+   "كريات الدم البيضاء WBC",
+   "الهيموجلوبين ...",
+   "كل ما سبق"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "unreadable"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0330",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "أثناء إجراء الانعاش القلبي الرئوي للبالغ يوجد مسعف واحد يكون عدد الضغطات",
+  "q_ar": null,
+  "options": [
+   "15 ضغطة ونفس واحد",
+   "5 ضغطات ونفس واحد",
+   "15 ضغطة ونفسين",
+   "??"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated",
+   "unreadable"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0331",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "تطبيق مقياس العزل لمريض يعاني من مرض السل الرئوي يجب على الممرضين؟",
+  "q_ar": null,
+  "options": [
+   "المحافظة على تقييم جميع الزوار(؟) المريض قبل دخولها الغرفة",
+   "المحافظة على تقييم المصادر(؟) لكل ما يخرج من غرفة المريض",
+   "الشديد على التنظيف المضاعف لكل ما يخرج من غرفة المريض",
+   "ارتداء اللبس الوقائي والكمامة والقفازات كل دخول غرفة المريض"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "unreadable"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0332",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "اشتكت مريضة من ازرقاق بالجلد بسبب حقنة عملتها الممرضة(؟) لها بفترة الصباح قائلة (انها) لم تفعل(؟) ولكن ظلت نازفة(؟) وسمعتها تقول ان الابرة مقاسها 25 اليس هذا مقاسا كبيرا (لحقن موضعي) كيف ترد عليها؟",
+  "q_ar": null,
+  "options": [
+   "هذا المقاس صغير ولكنه قريب(؟) مناسب بسيط دعيني ارى ذراعك",
+   "حقيقة لأحد يشتكي من هذا المقاس لكنك أكثر حساسية من غيرك",
+   "هذا المقاس صغير جدا لكنك عصبية ومتوترة اثناء الحقن",
+   "هذا المقاس صغير جدا لذلك أنت مبالغة في الألم وتشتكين"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "unreadable"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0333",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "من علامات الالتواء كل آتي ماعدا",
+  "q_ar": null,
+  "options": [
+   "ألم وورم حول المفصل",
+   "عدم القدرة على تحريك العضو",
+   "خروج العظم من المفصل"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0334",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "أي علامة من النزيف متوقعة لمريض يعاني من قرحة الاثنى عشر؟",
+  "q_ar": null,
+  "options": [
+   "دم قاتم مصاحب للبراز",
+   "لون البراز أسود ورقيق(؟)",
+   "لون البراز بني كلون القهوة",
+   "لون البراز أحمر فاتح"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "unreadable"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0335",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "عند إصابة مريض بقرح سريرية بسيطة بمنطقة أسفل الظهر تقوم الممرضة بمعالجة هذه المشكلة عن طريق؟",
+  "q_ar": null,
+  "options": [
+   "الحفاظ على جفاف منطقة الإصابة",
+   "وضع ضماد(؟) مبلل على منطقة الإصابة",
+   "وجبات غذائية ذات سعرات حرارية عالية",
+   "وضع المريض على جانبه الأيمن"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "unreadable"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0336",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "مصطلح ( Schiroph ) يعني؟",
+  "q_ar": null,
+  "options": [
+   "ذهان المرح(؟)",
+   "الوسواس القهري",
+   "الفصام",
+   "الاكتئاب"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "unreadable"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0337",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "أي من وظائف الجسم يعتبر أساسيا لعملية الامتصاص من الزوائد(؟)؟",
+  "q_ar": null,
+  "options": [
+   "امداد الدم الكافي",
+   "أماكن استقبال كافية",
+   "وظائف الكبد السليمة",
+   "وظائف الكلى سليمة"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "unreadable"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0338",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "الطريقة الصحيحة لفتح مجرى الهواء عند مريض يعاني من غيبوبة؟",
+  "q_ar": null,
+  "options": [
+   "امالة الرأس للخلف ورفع الذقن",
+   "اخراج لسانه من فمه",
+   "انعاش قلبي رئوي"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "unreadable"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0339",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "في حالة ورم في الفخذ واحمرار وعدم التفريق هل هو التواء أو خلع أو كسر كانت تتعامل مع الحالة كأنها؟",
+  "q_ar": null,
+  "options": [
+   "خلع",
+   "كسر",
+   "التواء"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "unreadable"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0340",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "عند تغيير الشرشف لسرير مريض (بواسطة ممرضين) أين يجب أن يقف الممرضات بالنسبة للمريض لتسريع عملية تغيير الشرشف؟",
+  "q_ar": null,
+  "options": [
+   "على جانبي السرير عند مستوى الصدر",
+   "على جانبي السرير عند مستوى الكتف",
+   "على جانبي السرير عند مستوى الحوض",
+   "على جانبي السرير عند مستوى الركبة"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "unreadable"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0341",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "T. b is transmitted by:",
+  "q_ar": null,
+  "options": [
+   "inhalation.",
+   "sputum of blood.",
+   "....",
+   "....."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "inhalation.",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0342",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following from sings and symptoms of shock except:",
+  "q_ar": null,
+  "options": [
+   "increase pulse rate.",
+   "respiratory are rapid and deep.",
+   "Irritability and restlessness.",
+   "Decrease blood pressure."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Irritability and restlessness.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0343",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following venous bleeding except:",
+  "q_ar": null,
+  "options": [
+   "slow.",
+   "un-control bleeding.",
+   "dark blood",
+   "..."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "un-control bleeding.",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0344",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Aminophyllin is often a dministered to the patient acut asthma to:",
+  "q_ar": null,
+  "options": [
+   "increase the pulmonary artery pressure",
+   "increase the peripheral vascular.",
+   "decrease the bronchospasm.",
+   "decrease the cardiac irritability."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "decrease the bronchospasm.",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0345",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Subastance abuse mean:",
+  "q_ar": null,
+  "options": [
+   "physiological changes of aging.",
+   "Subastance toxic.",
+   "Subastance that the person addiction."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Subastance that the person addiction.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0346",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The client is a chronic carrier of infection to prevent the spread of the infection to other clients or health care providers the nurse emphasizes interventions that do which of the following:",
+  "q_ar": null,
+  "options": [
+   "Eliminate the reservoir.",
+   "Block the portal of exit from the reservoir.",
+   "Block the portal of entery in to the host.",
+   "Decrease the susceptibility of the host."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Block the portal of exit from the reservoir.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0347",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "the deficiency of vitamin D called:",
+  "q_ar": null,
+  "options": [
+   "Gastritis.",
+   "scurvy.",
+   "Rickets.",
+   "keratomalacia."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Rickets.",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Rickets"
+   }
+  ]
+ },
+ {
+  "id": "Q0348",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "عند إدخال NGT للمريض وواجهت مقاومه عند إدخال الأنبوب ماذا يجب على الممرض أن يعمل:",
+  "q_ar": null,
+  "options": [
+   "يستمر في تحريك الأنبوب الى الأسفل.",
+   "اسحب الأنبوبة بمعنى أخرجها",
+   "يسحبها قليلاً للوراء ثم يحاول إدخالها مرة أُخرى."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "يسحبها قليلاً للوراء ثم يحاول إدخالها مرة أُخرى.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0349",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Giving the medication immediately and only once is:",
+  "q_ar": null,
+  "options": [
+   "single order.",
+   "Stat order.",
+   "As needed order.",
+   "...."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Stat order.",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0350",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "which of the following defines orthopnea:",
+  "q_ar": null,
+  "options": [
+   "Absence of breathing.",
+   "Breathing facilitated by sitting or standing.",
+   "Difficultbreathing",
+   "Rapid breathing."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Breathing facilitated by sitting or standing.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

@@ -1,0 +1,2706 @@
+[
+ {
+  "src": "f21",
+  "page": 3,
+  "no": 14,
+  "lang": "en",
+  "q": "Early in the morning a person woke up with a respiratory rate of 30, a temperature of 37.5 and a pulse of 88. The most important thing to focus on:",
+  "q_ar": null,
+  "options": [
+   "just breathe",
+   "pulse only",
+   "temperature and respiration",
+   "Nothing of the erotic"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 3,
+  "no": 15,
+  "lang": "en",
+  "q": "The patient's position is changed to avoid infection after surgical every",
+  "q_ar": null,
+  "options": [
+   "1 hour",
+   "2 hours",
+   "4 hours",
+   "6 hours"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 3,
+  "no": 16,
+  "lang": "en",
+  "q": "patient with weak pulse and breathing what do you do?",
+  "q_ar": null,
+  "options": [
+   "CPR",
+   "Heimlich way",
+   "compression chest",
+   "chest thrust"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 3,
+  "no": 17,
+  "lang": "en",
+  "q": "who does the first diagnostic test",
+  "q_ar": null,
+  "options": [
+   "the nurse",
+   "the doctor",
+   "laboratory",
+   "Physician"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 3,
+  "no": 18,
+  "lang": "en",
+  "q": "patient with lingual hernia appearance swelling, what advice?",
+  "q_ar": null,
+  "options": [
+   "limit oral fluid",
+   "scrotum",
+   "bedrest",
+   "heat bag"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 3,
+  "no": 19,
+  "lang": "en",
+  "q": "All following discharge hospital prepare except:",
+  "q_ar": null,
+  "options": [
+   "obtain patient, name, sex",
+   "notify of business",
+   "diagnosis",
+   "??"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 3,
+  "no": 20,
+  "lang": "en",
+  "q": "one following clinical manifestation must nurse observation patient",
+  "q_ar": null,
+  "options": [
+   "chest and abdominal skin rash",
+   "elevate of blood pressure",
+   "increase appetite"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 4,
+  "no": 21,
+  "lang": "en",
+  "q": "hemoptysis is appearance",
+  "q_ar": null,
+  "options": [
+   "cardiac disease",
+   "pulmonary disease",
+   "cardiac and pulmonary disease",
+   "??"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 4,
+  "no": 22,
+  "lang": "en",
+  "q": "general appendix perfusion often pain",
+  "q_ar": null,
+  "options": [
+   "6 hours",
+   "12 hours",
+   "24 hours",
+   "36 hours"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 4,
+  "no": 23,
+  "lang": "en",
+  "q": "all following Couse of anemia pregnancy women except:",
+  "q_ar": null,
+  "options": [
+   "deficiency of iron in diet",
+   "deficiency of folic acid",
+   "hemorrhage during menstrual",
+   "deficiency vitamin B12"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 4,
+  "no": 24,
+  "lang": "en",
+  "q": "Which of the following is FALSE concerning gestational diabetes in mothers-tobe?",
+  "q_ar": null,
+  "options": [
+   "The diabetes usually disappears after birth",
+   "Their babies may experience hypo-glycemia after birth",
+   "Their babies are commonly born with breathing difficulties",
+   "Their newborns tend to be underweight"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f21",
+  "page": 4,
+  "no": 25,
+  "lang": "en",
+  "q": "Before administering Digitalis the nurse must",
+  "q_ar": null,
+  "options": [
+   "temperature measurement",
+   "Blood pressure measurement",
+   "pulse oximetry",
+   "respiratory rate measurement"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f21",
+  "page": 4,
+  "no": 26,
+  "lang": "en",
+  "q": "The bottom and surface are cleaned in the hospital. Are you?",
+  "q_ar": null,
+  "options": [
+   "Soap and water",
+   "Insecticide",
+   "Disinfectant",
+   "all of the above"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 5,
+  "no": 27,
+  "lang": "en",
+  "q": "When a blood test is done for a patient suspected of being infected with the hepatitis virus, what confirms that he is infected with that:",
+  "q_ar": null,
+  "options": [
+   "High level of bilirubin",
+   "high blood level",
+   "High blood platelet count"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 5,
+  "no": 28,
+  "lang": "en",
+  "q": "Measurement of the degree of awareness includes the following except",
+  "q_ar": null,
+  "options": [
+   "open eye",
+   "response motor",
+   "verbal response",
+   "fecal"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 5,
+  "no": 29,
+  "lang": "en",
+  "q": "Among the causes of anemia in pregnant women are",
+  "q_ar": null,
+  "options": [
+   "Do not take folic acid tablets"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 5,
+  "no": 1,
+  "lang": "en",
+  "q": "surgical is treat of disease or injury by in strument and opening",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 5,
+  "no": 2,
+  "lang": "en",
+  "q": "sleep apnea is absent air flow for 10 second or during sleep",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 5,
+  "no": 3,
+  "lang": "en",
+  "q": "capillary hemorrhage is small......",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 5,
+  "no": 4,
+  "lang": "en",
+  "q": "patient age 18 or more must before surgical table parent or legal grandum consent form",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 5,
+  "no": 6,
+  "lang": "en",
+  "q": "physical examination including subjective data",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f21",
+  "page": 5,
+  "no": 7,
+  "lang": "en",
+  "q": "psychological support before surgical is necessary",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f21",
+  "page": 5,
+  "no": 8,
+  "lang": "en",
+  "q": "neurosurgic shock common most in the surgery asepsis surgical",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 5,
+  "no": 9,
+  "lang": "en",
+  "q": "cough and sputum in the morning including bronchitis",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f21",
+  "page": 5,
+  "no": 10,
+  "lang": "en",
+  "q": "unintentional wound cause treat and therapy",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 6,
+  "no": 11,
+  "lang": "en",
+  "q": "anosmia is inability sleep",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 6,
+  "no": 12,
+  "lang": "en",
+  "q": "percussion teaching is observation shape, color, mioture",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 6,
+  "no": 13,
+  "lang": "en",
+  "q": "physical examination give complete partial picture for physicology function",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f21",
+  "page": 6,
+  "no": 14,
+  "lang": "en",
+  "q": "percussion hammer with rubber head use for check sensory",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 1,
+  "no": 1,
+  "lang": "en",
+  "q": "Which statement about diabetes mellitus is false :",
+  "q_ar": null,
+  "options": [
+   "Type 2 diabetes commonly occurs in adults after age 40",
+   "Type 1 diabetes usually occurs before age 30.",
+   "Type I diabetes is treated primarily with exercise and meal planning.",
+   "An increasing number of adolescents are being diagnosed with type 2 diabetes."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 1,
+  "no": 2,
+  "lang": "en",
+  "q": "Patient comes with fracture of femur in an acute accident, the first thing to do is:",
+  "q_ar": null,
+  "options": [
+   "Secure airway and treat the shock",
+   "Splinting",
+   "Physical examination",
+   "X-Ray"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 1,
+  "no": 3,
+  "lang": "en",
+  "q": "The laboratory tests most specific to renal function are:",
+  "q_ar": null,
+  "options": [
+   "potassium and sodium measurements.",
+   "BUN and creatinine measurements.",
+   "chloride and bicarbonate measurements.",
+   "blood glucose and ketone measurements"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 1,
+  "no": 4,
+  "lang": "en",
+  "q": "Most absorption occurs in the small intestines through the processes of:",
+  "q_ar": null,
+  "options": [
+   "Osmosis",
+   "Diffusion",
+   "Active transport",
+   "All of the above"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 2,
+  "no": 5,
+  "lang": "en",
+  "q": "Cardiogenic shock occurs as a result of the following :",
+  "q_ar": null,
+  "options": [
+   "Bacteria",
+   "Allergic reaction",
+   "Myocardial infarction",
+   "Loss of blood"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 2,
+  "no": 6,
+  "lang": "en",
+  "q": "Which symptoms would indicate internal bleeding :",
+  "q_ar": null,
+  "options": [
+   "Rapid weak pulse, Excessive thirst.",
+   "Skin that feels cool or moist, or looks pale or blus",
+   "Tender, swollen, bruised, or hard areas of his body, such as the abdomen.",
+   "All of the abov"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 2,
+  "no": 7,
+  "lang": "en",
+  "q": "A nurse obtained a client's pulse and found the rate to be above normal, the nurse documennt these findings as:",
+  "q_ar": null,
+  "options": [
+   "Tachypnea",
+   "Hyper pyrexia",
+   "Arrhythmia",
+   "Tachycardia"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 2,
+  "no": 8,
+  "lang": "en",
+  "q": "The bleeding from the head can be prevented by pressure point on:",
+  "q_ar": null,
+  "options": [
+   "Femoral artery",
+   "Facial artery",
+   "Temporal artery",
+   "Radial artery"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 2,
+  "no": 9,
+  "lang": "en",
+  "q": "The management of the hypovolemic shock include:",
+  "q_ar": null,
+  "options": [
+   "The timely administration of IV fluids",
+   "Blood, and Blood products,",
+   "Medications that elevate blood pressure",
+   "All of the above"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 3,
+  "no": 10,
+  "lang": "en",
+  "q": "Position of immobilization in fracture both bones of forearm in an adult male will be:",
+  "q_ar": null,
+  "options": [
+   "Prone",
+   "Mid prone",
+   "Supine",
+   "Lateral"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 3,
+  "no": 11,
+  "lang": "en",
+  "q": "Client is admitted to the hospital due to metabolic acidosis caused by diabetic ketoacidosis (DKA). The medical assistant prepares which of the following medications as an initial treatmen for this problem?",
+  "q_ar": null,
+  "options": [
+   "Regular insulin",
+   "Potassium",
+   "Sodium bicarbonate",
+   "Calcium glucom"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 3,
+  "no": 12,
+  "lang": "en",
+  "q": "The blood cells that transport oxygen and carbon dioxide to and from body tissue:",
+  "q_ar": null,
+  "options": [
+   "RBCs.",
+   "WBC",
+   "platelets.",
+   "granulocytes."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 3,
+  "no": 13,
+  "lang": "en",
+  "q": "During the second day of hospitalization of the client after a Myocardial Infarctio the following is an expected outcome :",
+  "q_ar": null,
+  "options": [
+   "Able to perform self-care activities without pain",
+   "Severe chest pain.",
+   "Can recognize the risk factors of Myocardial Infarction",
+   "Can Participate in cardiac rehabilitation walking program"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 4,
+  "no": 14,
+  "lang": "en",
+  "q": "The health history is considered to be a part of the:",
+  "q_ar": null,
+  "options": [
+   "Objective data",
+   "Subjective data",
+   "Signs data",
+   "physical examenation"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 4,
+  "no": 15,
+  "lang": "en",
+  "q": "Which of the following clinical procedures always requires surgical asepsis:",
+  "q_ar": null,
+  "options": [
+   "Vaginal instillation of conjugated estrogen",
+   "Urinary catheterization",
+   "Nasogastric tube insertion",
+   "Colostomy irrigation"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 4,
+  "no": 16,
+  "lang": "en",
+  "q": "A disease that always involves damage to the auricular cartilages is known as:",
+  "q_ar": null,
+  "options": [
+   "Luxation",
+   "Sciatica",
+   "Ankylosis",
+   "Arthritis"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 4,
+  "no": 17,
+  "lang": "en",
+  "q": "An infected patient has chills and begin shivering, the best nursing intervention is to:",
+  "q_ar": null,
+  "options": [
+   "Apply iced alcohol sponges",
+   "Provide increased cool liquids",
+   "Provide additional bedclothes",
+   "Provide increased ventilation"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 4,
+  "no": 18,
+  "lang": "en",
+  "q": "The last step in the healing of a fracture is:",
+  "q_ar": null,
+  "options": [
+   "Hematoma formation",
+   "Consolidation",
+   "Remodeling",
+   "Demineralization"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 5,
+  "no": 19,
+  "lang": "en",
+  "q": "Dr. Ahmed tells a client that an increase intake of foods that are rich in Vitamin E ane..... carotene are important for healthier skin. The medical assistant teaches the client that ,,,, food sources of both of these substances are:",
+  "q_ar": null,
+  "options": [
+   "Fish and fruit",
+   "Oranges and grapefruit",
+   "Carrots and potatoes",
+   "Spinach and mangoes"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 5,
+  "no": 20,
+  "lang": "en",
+  "q": "After routine patient contact, band washing should last at least:",
+  "q_ar": null,
+  "options": [
+   "30 seconds",
+   "1 minute",
+   "2-minute",
+   "3 minutes"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 5,
+  "no": 21,
+  "lang": "en",
+  "q": "A client has Gastro-esophageal Reflux Disease (GERD). The medical assistant should fe client that after every meal, the client should be :",
+  "q_ar": null,
+  "options": [
+   "Rest in sitting position",
+   "Take a short walk",
+   "Drink plenty of water",
+   "Lie down at kunst 30 minutes"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 5,
+  "no": 22,
+  "lang": "en",
+  "q": "The purposes of the physical examination are to:",
+  "q_ar": null,
+  "options": [
+   "Gather baseline data",
+   "Confirm data obtained in the wterview and heal history",
+   "a&b",
+   "none of them"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 5,
+  "no": 23,
+  "lang": "en",
+  "q": "A person, who is unconscious, not breathing, has a weak pulse, needs.... :",
+  "q_ar": null,
+  "options": [
+   "CPR",
+   "Hiemlick maneuver.",
+   "Rescue breathing",
+   "Back blow"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 6,
+  "no": 24,
+  "lang": "en",
+  "q": "A client received deep partial-thickness burns to the chest, abdomen, ،،،،hand anterior and posterior. Using the rule of،،،،، what is the percent of (TBSA) that was burned :",
+  "q_ar": null,
+  "options": [
+   "18%",
+   "28%",
+   "36%",
+   "40%"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 6,
+  "no": 25,
+  "lang": "en",
+  "q": "The morning vital signs of 38-year-old patients are auxiliary temperatur 88, and the respiratory rate 30. Which findings should be reported:",
+  "q_ar": null,
+  "options": [
+   "Respiratory rate only",
+   "Temperature only",
+   "Pulse rate and temperature",
+   "Temperature and respiratory rate"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 6,
+  "no": 26,
+  "lang": "en",
+  "q": "What is the most common diagnostic test used to assess musculoskeletal.....:",
+  "q_ar": null,
+  "options": [
+   "Myelogram",
+   "Standard x-ray",
+   "Arthroscopy",
+   "Magnetic resonance"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 6,
+  "no": 27,
+  "lang": "en",
+  "q": "When palpating the abdomen, begin by palpating:",
+  "q_ar": null,
+  "options": [
+   "lightly.",
+   "firmly.",
+   "deeply",
+   "the most tender..."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 7,
+  "no": 28,
+  "lang": "en",
+  "q": "The health history is considered to be a part of the:",
+  "q_ar": null,
+  "options": [
+   "Objective data",
+   "Subjective data",
+   "Signs data",
+   "physical data"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 7,
+  "no": 29,
+  "lang": "en",
+  "q": "What would be the primary goal of therapy for a client with pulmonary en failure :",
+  "q_ar": null,
+  "options": [
+   "Enhance comfort",
+   "Increase cardiac output",
+   "Improve respiratory status",
+   "Peripheral edema decreased"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 7,
+  "no": 30,
+  "lang": "en",
+  "q": "A client with chronic pulmonary disease has a bluish tinge around the lips,,,,, which term to most accurately describe the client condition :",
+  "q_ar": null,
+  "options": [
+   "Hypoxia",
+   "Hypoxemia",
+   "Dyspnea",
+   "Cyan"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 7,
+  "no": 31,
+  "lang": "en",
+  "q": "The causes of anemia during pregnancy include the following except one:",
+  "q_ar": null,
+  "options": [
+   "Inadequate amount of vitamin B6 in the diet",
+   "Inadequate amount of iron i d.",
+   "Inadequate amount of folic acid in the diet",
+   "Iron deficiency that lost ,,,"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 7,
+  "no": 32,
+  "lang": "en",
+  "q": "The risks factors associated with gestational diabetes mellitus include the :",
+  "q_ar": null,
+  "options": [
+   "Overweight",
+   "Underweight",
+   "Family history of diabetes",
+   "......"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 8,
+  "no": 33,
+  "lang": "en",
+  "q": "The common type of anemia during pregnancy includes the following:",
+  "q_ar": null,
+  "options": [
+   "Iron deficiency",
+   "B12 deficiency",
+   "Vitamin C deficiency",
+   "None"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 8,
+  "no": 34,
+  "lang": "en",
+  "q": "The first technique in your physical assessment sequence is:",
+  "q_ar": null,
+  "options": [
+   "palpation.",
+   "auscultation",
+   "inspection",
+   "percussion"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 8,
+  "no": 35,
+  "lang": "en",
+  "q": "How should you open the airway of an unconscious casualty :",
+  "q_ar": null,
+  "options": [
+   "Head tilt and chin lift",
+   "Jaw thrust",
+   "Head tilt and jaw thrust",
+   "Lift the chin."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 8,
+  "no": 36,
+  "lang": "en",
+  "q": "The medical assistant obtained a client's pulse and found the rate to be above normal, the nurse documents these findings as:",
+  "q_ar": null,
+  "options": [
+   "Tachypnea",
+   "Hyper pyrexia",
+   "Arrhythmia",
+   "Tachycardia"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 8,
+  "no": 37,
+  "lang": "en",
+  "q": "A primary care provider is going to perform a thoracentesis. The physician assistant's role will include which action :",
+  "q_ar": null,
+  "options": [
+   "Place the client supine in the Trendelenburg position.",
+   "Position the client in a seated position with elbows on the over bed table.",
+   "Instruct the UAP to measure vital signs",
+   "Adminster an opioid analgesic"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 9,
+  "no": 38,
+  "lang": "en",
+  "q": "A client is scheduled for a colonoscopy. The nurse will provide information to the client about which type of enema :",
+  "q_ar": null,
+  "options": [
+   "Oil retention",
+   "Return flow",
+   "High, large volume",
+   "Low, small volume"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 9,
+  "no": 39,
+  "lang": "en",
+  "q": "Which of the following is considered a bronchodilator?",
+  "q_ar": null,
+  "options": [
+   "Acetylcysteine",
+   "Guaifenesin",
+   "Theophylline",
+   "Epinephrine HCL"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 9,
+  "no": 40,
+  "lang": "en",
+  "q": "When obtaining a health history from a patient, ask first about:",
+  "q_ar": null,
+  "options": [
+   "biographic data.",
+   "his chief complaint.",
+   "health insurance coverage."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 9,
+  "no": 1,
+  "lang": "en",
+  "q": "Chronic pain indicates that damage or injury has occurred dfamily history ( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f24",
+  "page": 9,
+  "no": 2,
+  "lang": "en",
+  "q": "Anxiety is uneasy feeling of discomfort or an uncomfortable feeling caused by insecurity( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 9,
+  "no": 3,
+  "lang": "en",
+  "q": "Aseptic technique is the infection control practice used to prevent the transmission of pathogens( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 9,
+  "no": 4,
+  "lang": "en",
+  "q": "Immobilization refers to restoration of the fracture fragments to anatomic alignment and rotation( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 9,
+  "no": 5,
+  "lang": "en",
+  "q": "Drug tolerance means body cannot metabolize a drug lead to accumulate drugs in blood( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 9,
+  "no": 6,
+  "lang": "en",
+  "q": "Folic acid is a safe drug can be used with pregnancy( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 10,
+  "no": 7,
+  "lang": "en",
+  "q": "A contusion is a partial dislocation of the articulating surfaces( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 10,
+  "no": 8,
+  "lang": "en",
+  "q": "Incomplete abortion can be defined as expulsion of some products of conception out of uterus & remain some products in the uterus ( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 10,
+  "no": 9,
+  "lang": "en",
+  "q": "Lifestyle consists of a person's usual daily activities and routines that are acceptable practices in person's life ( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f24",
+  "page": 10,
+  "no": 10,
+  "lang": "en",
+  "q": "Partial airway obstruction is indicated if the casualty cannot speak, breathe, or cough at all ( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 1,
+  "no": 1,
+  "lang": "en",
+  "q": "Most absorption occurs in the small intestine through the processes:-",
+  "q_ar": null,
+  "options": [
+   "Osmosis",
+   "Diffuse",
+   "Active",
+   "All of above"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 1,
+  "no": 2,
+  "lang": "en",
+  "q": "Post-operatively. the nurse should change the petie pied deep breathing every",
+  "q_ar": null,
+  "options": [
+   "2 hourly",
+   "4 hourly",
+   "in each shift",
+   "hourly"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 1,
+  "no": 3,
+  "lang": "en",
+  "q": "Oxygen transport to the tissues depends on factors such as:",
+  "q_ar": null,
+  "options": [
+   "Cardiac output",
+   "Metabolic requirements",
+   "Concentration of hemoglobin",
+   "All of the above."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 2,
+  "no": 4,
+  "lang": "en",
+  "q": "The enzyme pepsin digests which dietary component?",
+  "q_ar": null,
+  "options": [
+   "Protein",
+   "Carbohydrate",
+   "Fat",
+   "vitamins"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 2,
+  "no": 5,
+  "lang": "en",
+  "q": "An amount of urine output of 100-500 ml/day",
+  "q_ar": null,
+  "options": [
+   "Polyuria.",
+   "Dysuria",
+   "Nocturia",
+   "Oliguria."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 2,
+  "no": 6,
+  "lang": "en",
+  "q": "Nurse Fatima teaches a client with heart failure to take oral Furosemide in the morning The reason for this is to help...",
+  "q_ar": null,
+  "options": [
+   "Excrete excessive fluids accumulated at night",
+   "Prevents sleep disturbances during night",
+   "Retard rapid deg op",
+   "Prevention of electrolysis"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 2,
+  "no": 7,
+  "lang": "en",
+  "q": "The management of patient with urinary retention include:",
+  "q_ar": null,
+  "options": [
+   "Reassurance",
+   "Hot compress",
+   "Diuretic therapy",
+   "Insertion of Foley's catheter and measuring wins output"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 3,
+  "no": 8,
+  "lang": "en",
+  "q": "The dressing is applied to the wounds for the following reason:",
+  "q_ar": null,
+  "options": [
+   "To absorb drainage",
+   "Protect the wound from bacteria contaminated",
+   "To splint or immobilize the wound",
+   "All of the above"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 3,
+  "no": 9,
+  "lang": "en",
+  "q": "Nada is admitted to the hospital due to metabolic acidosis caused by Diabetic ketoacidosis (DKA). The nurse prepares which of the following medications as an initial treatment for this problem",
+  "q_ar": null,
+  "options": [
+   "Potassium",
+   "Sodrum bicarbonate",
+   "Regular insulin",
+   "Calcium gluconate"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 3,
+  "no": 10,
+  "lang": "en",
+  "q": "Muscles Wasting means:",
+  "q_ar": null,
+  "options": [
+   "Contracture",
+   "Atrophy",
+   "Effusion",
+   "Osteoporosis"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 3,
+  "no": 11,
+  "lang": "en",
+  "q": "One of the following is not included in Glasgow Coma Scale:",
+  "q_ar": null,
+  "options": [
+   "Eye opening response.",
+   "Facial grimace.",
+   "Verbal response",
+   "Motor response"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 4,
+  "no": 12,
+  "lang": "en",
+  "q": "When transferring a patient from a bed to a chair. which muscles the nurse should use to avoid back injury?",
+  "q_ar": null,
+  "options": [
+   "Abdominal muscles",
+   "Back muscles",
+   "Leg muscles",
+   "Upper arm muscles"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 4,
+  "no": 13,
+  "lang": "en",
+  "q": "Absence of bowel sounds and abdominal distention after abdominal surgery indicates?",
+  "q_ar": null,
+  "options": [
+   "Hemorrhage",
+   "Intussusception",
+   "Paralytic ileus",
+   "Flatulence"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 4,
+  "no": 14,
+  "lang": "en",
+  "q": "The client is complaining of shortness of breath. His respirations are 28 and labored. The bed is currently in the flat position. The nurse puts the bed in which position?",
+  "q_ar": null,
+  "options": [
+   "Fowler's",
+   "Semi-Fowler's",
+   "Trendelenburg",
+   "Reverse Trendelenburg"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 4,
+  "no": 15,
+  "lang": "en",
+  "q": "Nurse should instruct the male client with an ileostomy to report immediately which of the following symptom",
+  "q_ar": null,
+  "options": [
+   "temperature of 37.6 °c",
+   "Occasional presence of undigested food",
+   "Passage of liquid stool in the stoma",
+   "Absence of drainage from the ileostomy for 6 or more hours"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 5,
+  "no": 16,
+  "lang": "en",
+  "q": "The first step in clinical intervention for patient with diabetes coma:",
+  "q_ar": null,
+  "options": [
+   "Insert IV cannula and start glucose 10% infusion.",
+   "Check blood sugar.",
+   "Insert urine catheter.",
+   "Give the patient oxygen therapy."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 5,
+  "no": 17,
+  "lang": "en",
+  "q": "The exchange of gases between alveoli and their surrounding capillaries is called respiration.",
+  "q_ar": null,
+  "options": [
+   "External",
+   "Internal",
+   "Intrinsic",
+   "Both external and internal"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 5,
+  "no": 18,
+  "lang": "en",
+  "q": "A person. who is unconscious. not breathing. has a weak pulse. needs....",
+  "q_ar": null,
+  "options": [
+   "CPR",
+   "Hiemlick maneuver.",
+   "Rescue breathing.",
+   "Back blows and chest thrusts"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 5,
+  "no": 19,
+  "lang": "en",
+  "q": "Which among the following is an example of an isotonic intravenous solution?",
+  "q_ar": null,
+  "options": [
+   "Dextrose normal saline",
+   "10% Dextrose",
+   "0.45% NaCl",
+   "Ringer's Lactate"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 6,
+  "no": 20,
+  "lang": "en",
+  "q": "Ahmad has undergone subtotal gastrectomy. The nurse should expect that nasogastric tube drainage will be what color for about 12 to 24 hours after surgery?",
+  "q_ar": null,
+  "options": [
+   "Dark brown",
+   "Bile green",
+   "Bright red",
+   "Cloudy white"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 6,
+  "no": 21,
+  "lang": "en",
+  "q": "Ahmad has diagnosed with appendicitis. He develops a fever. hypotension and tachycardia. The nurse suspects which of the following complications!",
+  "q_ar": null,
+  "options": [
+   "Bowel ischemia",
+   "Deficient fluid volume",
+   "Intestinal obstruction",
+   "Peritonitis"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 6,
+  "no": 22,
+  "lang": "en",
+  "q": "In caring for a client on contact precautions for a draining infected foot ulcer. which action should the nurse perform?",
+  "q_ar": null,
+  "options": [
+   "Wear a mask during dressing changes.",
+   "Provide disposable meal trays and silverware",
+   "Follow standard precautions in all interactions with the client",
+   "Use surgical aseptic technique for all direct contact with the client."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 7,
+  "no": null,
+  "lang": "en",
+  "q": "Giving the patient medication immediately and only once is:",
+  "q_ar": null,
+  "options": [
+   "Single order.",
+   "Standing order.",
+   "As needed order.",
+   "Stat order."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 7,
+  "no": 23,
+  "lang": "en",
+  "q": "The nurse can modify the hospital environment to enhance the patient's rest and relaxation by:",
+  "q_ar": null,
+  "options": [
+   "Providing privacy & reducing noise",
+   "Providing enough setting for patient's family members",
+   "Encouraging a supportive atmosphere",
+   "AII of the above"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 7,
+  "no": 24,
+  "lang": "en",
+  "q": "What is the most important clinical intervention for the prevention and treatment of pressure ulcers?",
+  "q_ar": null,
+  "options": [
+   "Using pressure-reduction devices",
+   "Massaging pressure areas with lotion",
+   "Repositioning the patient a minimum of every 2 hours",
+   "Using lift sheets and trapeze bars to facilitate patient movement"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 7,
+  "no": 25,
+  "lang": "en",
+  "q": "Which of the following factors is not affecting susceptibility to infections",
+  "q_ar": null,
+  "options": [
+   "Weakened cough reflex",
+   "Poor hygiene practices",
+   "Adequate nutrition",
+   "Suppressed immune system"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 8,
+  "no": 26,
+  "lang": "en",
+  "q": "Nurse Ahmed teaches a client who has been recently diagnosed with hepatitis A about untoward signs and symptoms related to Hepatitis that may develop. The one that should be reported immediately to the physician is:",
+  "q_ar": null,
+  "options": [
+   "Restlessness",
+   "Clay-colored stools",
+   "Nausea",
+   "yellow urine"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 8,
+  "no": 27,
+  "lang": "en",
+  "q": "Nurse Fatima is assigned to care for a client who has returned to the nursing unit after left nephrectomy.. Nurse Fatima's highest priority would be...",
+  "q_ar": null,
+  "options": [
+   "Temperature",
+   "Hourly urine output",
+   "Able to sips clear liquid",
+   "Able to turn side to side"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 8,
+  "no": 29,
+  "lang": "en",
+  "q": "The communicable diseases include the following except one:",
+  "q_ar": null,
+  "options": [
+   "Syphilis",
+   "Duodenal ulcer",
+   "Hepatitis",
+   "HIV"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 9,
+  "no": 30,
+  "lang": "en",
+  "q": "In reducing the risk of endocarditis, good dental care is an important. To good dental care in Clint with mitral…………..",
+  "q_ar": null,
+  "options": [
+   "dental floss",
+   "Manual toothbrush"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 9,
+  "no": 1,
+  "lang": "en",
+  "q": "Percussion hammer is an instrument with rubber head used to test sensory system",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 9,
+  "no": 2,
+  "lang": "en",
+  "q": "Patients who have experienced prolonged anesthesia usually are unconscious",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 9,
+  "no": 3,
+  "lang": "en",
+  "q": "Parasomnia means sleep alterations resulting from an activation of physiological systems at inappropriate times during the sleep-wake cycle",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 9,
+  "no": 4,
+  "lang": "en",
+  "q": "Once all admission data are collected, develops an initial plan for client's care as soon as possible",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 9,
+  "no": 5,
+  "lang": "en",
+  "q": "chemical defense mechanisms include enzymes such as lysozyme",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 9,
+  "no": 6,
+  "lang": "en",
+  "q": "Loneliness occurs when a client can interact with family and friends",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 9,
+  "no": 7,
+  "lang": "en",
+  "q": "Leaving against medical advice (AMA) is a term that applies to situations in which the client leaves after the physician authorizes the discharge",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 9,
+  "no": 8,
+  "lang": "en",
+  "q": "Invasion of personal space produces discomfort, anxiety, and the fight-or-flight response",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 9,
+  "no": 9,
+  "lang": "en",
+  "q": "Intestinal enzymes produced in the jejunum",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 9,
+  "no": 10,
+  "lang": "en",
+  "q": "Interpersonal communication is the messages one sends to oneself, including selftalk, or communication with oneself",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 10,
+  "no": 11,
+  "lang": "en",
+  "q": "Insomnia refers to the chronic inability to sleep or inadequate quality of sleep due to sleep prematurely ended or interrupted by periods of wakefulness",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 10,
+  "no": 12,
+  "lang": "en",
+  "q": "Inorganic nutrients build and maintain body tissues and regulate body processes",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 10,
+  "no": 13,
+  "lang": "en",
+  "q": "Initial the medications administration record only for medications you potentially have, administered",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 10,
+  "no": 14,
+  "lang": "en",
+  "q": "Inhalations drugs used for a local or systemic effect",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 10,
+  "no": 15,
+  "lang": "en",
+  "q": "Informed consent is necessary in the procedures requiring sedation and/or anesthesia",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 10,
+  "no": 16,
+  "lang": "en",
+  "q": "Yellow wounds are the color of normal granulation tissue and are in the proliferative phase of wound repair",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 10,
+  "no": 17,
+  "lang": "en",
+  "q": "When safeguarding valuables in hospital's safe must make inventory signed by both nurse, client: and security person present",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 10,
+  "no": 18,
+  "lang": "en",
+  "q": "Use stethoscope bell to listen for low pitched sounds",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 10,
+  "no": 19,
+  "lang": "en",
+  "q": "Use dorsum of hand & fingers to measure the pulse",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 10,
+  "no": 20,
+  "lang": "en",
+  "q": "Unintentional wounds occur during treatment or therapy",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 10,
+  "no": 1,
+  "lang": "en",
+  "q": "Back care is best describe as:",
+  "q_ar": null,
+  "options": [
+   "Washing of the back",
+   "Caring for the back by means of massage",
+   "Application of cold compress at the back",
+   "Application of hot compress at the back"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 11,
+  "no": 2,
+  "lang": "en",
+  "q": "The nurse positions the client sitting upright during palpation of which area?",
+  "q_ar": null,
+  "options": [
+   "Abdomen",
+   "Head and neck",
+   "Genitals",
+   "Breast"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 11,
+  "no": 3,
+  "lang": "en",
+  "q": "Which clinical intervention is the highest in priority for a client at risk for falls in a hospital setting?",
+  "q_ar": null,
+  "options": [
+   "Review prescribed medications.",
+   "Keep all of the side rails up.",
+   "complete the \"get up and go test",
+   "Place the bed in the lowest position."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 11,
+  "no": 4,
+  "lang": "en",
+  "q": "The client is a chronic carrier of infection. To prevent the spread of the infection to other clients or health care providers, the nurse emphasizes interventions that do which of the following?",
+  "q_ar": null,
+  "options": [
+   "Eliminate the reservoir.",
+   "Block the portal of exit from the reservoir",
+   "Block the portal of entry into the host",
+   "Decrease the susceptibility of the host"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 11,
+  "no": 5,
+  "lang": "en",
+  "q": "The bleeding from the head can he prevented by pressure point on:",
+  "q_ar": null,
+  "options": [
+   "Femoral artery",
+   "Facial artery",
+   "Temporal artery",
+   "Radial artery"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 12,
+  "no": 6,
+  "lang": "en",
+  "q": "All of the following are the effects of the immobility. except:",
+  "q_ar": null,
+  "options": [
+   "Increase metabolic rate.",
+   "Stiffness and pain in the joints",
+   "Pooling of respiratory secretions.",
+   "Orthostatic hypotension"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 12,
+  "no": 7,
+  "lang": "en",
+  "q": "-The person who knows the most about the patient's pain is the:",
+  "q_ar": null,
+  "options": [
+   "nurse.",
+   "patient.",
+   "physician assistant",
+   "practitioner."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 12,
+  "no": 8,
+  "lang": "en",
+  "q": "Which nursing intervention is the highest in priority for a client at risk for hospital setting?",
+  "q_ar": null,
+  "options": [
+   "Review prescribed medication",
+   "Keep all of the side rails up",
+   "Place the bed in the lowest pos",
+   "Complete the \"get up and go\" test"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 12,
+  "no": 9,
+  "lang": "en",
+  "q": "A client with diabetes has very dry skin on her feet and lower extremities. The nurse instructs the client which of the following to maintain intact skin?",
+  "q_ar": null,
+  "options": [
+   "Soak her feet frequently.",
+   "Use a non-perfumed lotion.",
+   "Apply foot powder.",
+   "Avoid knee-high elastic stockings"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 13,
+  "no": 10,
+  "lang": "en",
+  "q": "In caring for a client on contact precautions for a draining infected foot ulcer. which action should the nurse perform?",
+  "q_ar": null,
+  "options": [
+   "Wear a mask during dressing changes.",
+   "Provide disposable meal trays and silverware",
+   "Follow standard precautions in all interactions with the client.",
+   "Use surgical aseptic technique for all direct contact with the client"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 13,
+  "no": 11,
+  "lang": "en",
+  "q": "Medical asepsis uses practices to reduce:",
+  "q_ar": null,
+  "options": [
+   "The number of microorganisms",
+   "Growth of microorganisms",
+   "Spread of microorganisms",
+   "All of the above"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 13,
+  "no": 12,
+  "lang": "en",
+  "q": "Which is the most effective clinical action for preventing and controlling the spread of infection?",
+  "q_ar": null,
+  "options": [
+   "Thorough hand hygiene",
+   "Wearing gloves and masks when providing direct client care",
+   "Implementing appropriate isolation precautions",
+   "Administering broad-spectrum prophylactic antibiotics"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 13,
+  "no": 13,
+  "lang": "en",
+  "q": "The buccal means give the drug in?",
+  "q_ar": null,
+  "options": [
+   "the jaw.",
+   "the eye conjunctive",
+   "the oral.",
+   "between cheek client and gum"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 14,
+  "no": 14,
+  "lang": "en",
+  "q": "Any one the following disease not needed isolation precautions",
+  "q_ar": null,
+  "options": [
+   "measles.",
+   "tetanus.",
+   "chicken pox .",
+   "mumps ."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 14,
+  "no": 15,
+  "lang": "en",
+  "q": "Scurvy is a deficiency of:",
+  "q_ar": null,
+  "options": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 15,
+  "no": 16,
+  "lang": "en",
+  "q": "P.C. mean;",
+  "q_ar": null,
+  "options": [
+   "After meal.",
+   "Between meal.",
+   "Before meal.",
+   "Before bed time"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f26",
+  "page": 15,
+  "no": 17,
+  "lang": "en",
+  "q": "P.R.N mean:",
+  "q_ar": null,
+  "options": [
+   "As needed.",
+   "As necessary.",
+   "immediately.",
+   "None all above"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f26",
+  "page": 15,
+  "no": 18,
+  "lang": "en",
+  "q": "Arthritis mean is:",
+  "q_ar": null,
+  "options": [
+   "facial",
+   "bone",
+   "joint"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ }
+]

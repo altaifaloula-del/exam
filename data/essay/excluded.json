@@ -1,0 +1,11 @@
+[
+ {"src": "D2", "index": 1, "reason": "same subject as D1 index 0 (pulp pain: reversible vs irreversible pulpitis)"},
+ {"src": "D2", "index": 2, "reason": "same subject as D1 index 4 (post + crown lengthening)"},
+ {"src": "D2", "index": 3, "reason": "same subject as D1 index 7 (community vs individual prevention, periodontal maintenance)"},
+ {"src": "D2", "index": 4, "reason": "same subject as D1 index 6 (needle-stick and radiation protection)"},
+ {"src": "D2", "index": 5, "reason": "same subject as D1 index 1 (dental cements, cavity varnish)"},
+ {"src": "D2", "index": 6, "reason": "same subject as D1 index 2 (acid etching)"},
+ {"src": "M3", "index": 8, "reason": "amniotic fluid composition/functions duplicate M1 index 5; placenta hormones duplicate M1 index 0"},
+ {"src": "M2", "index": 2, "reason": "postpartum haemorrhage causes duplicate M3 index 2 (4Ts) and M1 index 2"},
+ {"src": "M2", "index": 7, "reason": "spontaneous abortion types duplicate M3 index 5 and M1 index 6"}
+]

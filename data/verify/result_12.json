@@ -1,0 +1,656 @@
+[
+  {
+    "id": "Q0505",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "تبدأ المرحلة الثانية باكتمال توسع عنق الرحم (10 سم) فلا يعود عنق الرحم محسوسًا عند الفحص المهبلي؛ أما ولادة الرأس والطفل فتقع داخل المرحلة الثانية/نهايتها، وولادة المشيمة نهاية المرحلة الثالثة.",
+    "refs": [
+      {
+        "title": "Normal Labor: Physiology, Evaluation, and Management - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544290/"
+      }
+    ]
+  },
+  {
+    "id": "Q0506",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "عدم التناسب الرأسي الحوضي (CPD) هو المبرر التوليدي الكلاسيكي للقيصرية (وليس السكري أو كبر الجنين وحدهما، والقيصرية الاختيارية ليست «سببًا» طبيًا بحد ذاته)، لكن الصياغة «السبب الجوهري» غير محددة. (لم يتيسّر فتح مرجع موثوق لهذا السؤال بسبب تقييد أداة الجلب؛ الإجابة من المعرفة الطبية المستقرة وتحتاج مراجعة مرجعية قبل الاعتماد.)",
+    "refs": []
+  },
+  {
+    "id": "Q0507",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "الإجابة التقليدية في كتب التمريض/القبالة: أثناء الحيض أو بُعيده لاستبعاد الحمل وليونة عنق الرحم، لكن CDC وAAFP تجيزان الإدخال في أي وقت من الدورة متى استُبعد الحمل بيقين معقول (والإدخال بعد الولادة مسموح) فخيار «في أي وقت» صحيح وفق هذه الإرشادات؛ اختلاف المرجعية يضعف الحسم.",
+    "refs": [
+      {
+        "title": "CDC US SPR: Intrauterine Contraception (At a glance)",
+        "url": "https://www.cdc.gov/contraception/hcp/usspr/intrauterine-contraception.html"
+      },
+      {
+        "title": "Insertion and Removal of Intrauterine Devices - AAFP",
+        "url": "https://www.aafp.org/pubs/afp/issues/2005/0101/p95.html"
+      }
+    ]
+  },
+  {
+    "id": "Q0508",
+    "verdict": "confirmed",
+    "answer": 1,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "تحدث الإباضة قبل بدء الحيض التالي بنحو 14 يومًا، فهي في اليوم 14 من دورة طولها 28 يومًا.",
+    "refs": [
+      {
+        "title": "Physiology, Menstrual Cycle - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK500020/"
+      }
+    ]
+  },
+  {
+    "id": "Q0509",
+    "verdict": "answered",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "تنغرس الكيسة الأريمية في بطانة الرحم (الإندوميتريوم)، وبعد الانغراس تتحوّل البطانة إلى «ساقط»، ويُسمّى الجزء تحت موضع الانغراس الساقط القاعدي؛ فالخيار الأدق لموضع الانغراس هو بطانة الرحم، والأهداب لا علاقة لها. الثقة متوسطة لأن الساقط القاعدي هو نفسه بطانة موضع الانغراس بعد تحوّلها.",
+    "refs": [
+      {
+        "title": "BGDA Practical Placenta - Implantation and Early Placentation - UNSW Embryology",
+        "url": "https://embryology.med.unsw.edu.au/embryology/index.php/BGDA_Practical_Placenta_-_Implantation_and_Early_Placentation"
+      },
+      {
+        "title": "Physiology of Reproduction - El-Mowafi (GFMER)",
+        "url": "https://www.gfmer.ch/Obstetrics_simplified/Physiology_of_reproduction.htm"
+      }
+    ]
+  },
+  {
+    "id": "Q0510",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "الإجهاض التلقائي فقدان الحمل قبل الأسبوع 20 (التعريف الشائع)، وأكثر من 80% منه في الثلث الأول ومعظمه قبل الأسبوع 12-13؛ فخيار «قبل 16 أسبوعًا» هو الوحيد المتوافق، أما «بعد 20» و«عند 32» فليسا إجهاضًا، و«في أي وقت» خطأ لوجود حد أعلى للعمر الحملي.",
+    "refs": [
+      {
+        "title": "Spontaneous Abortion - MSD/Merck Manual Professional Edition",
+        "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/early-pregnancy-disorders/spontaneous-abortion"
+      }
+    ]
+  },
+  {
+    "id": "Q0511",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "من تدخلات التمريض لارتفاع ضغط الدم في الحمل/تسمم الحمل وضع المرأة في الاستلقاء الجانبي الأيسر مع الراحة ورفع الأطراف، والحمية متوازنة قليلة الصوديوم وليست زيادة النشاط؛ المرجع تمريضي (Nurse.com) فالثقة متوسطة.",
+    "refs": [
+      {
+        "title": "Preeclampsia: Nursing Diagnosis & Interventions - Nurse.com",
+        "url": "https://www.nurse.com/clinical-guides/preeclampsia/"
+      }
+    ]
+  },
+  {
+    "id": "Q0512",
+    "verdict": "confirmed",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "في ضعف الانقباضات يُحفَّز الانقباض (الأوكسيتوسين بعد بزل الأغشية إن لزم) مع الدعم والراحة، أما مرخّيات العضلات فتضعف الانقباض وليست من الرعاية فهي الاستثناء؛ وصياغة خيار «كل ما سبق» مع «باستثناء» ركيكة.",
+    "refs": [
+      {
+        "title": "Normal Labor: Physiology, Evaluation, and Management - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544290/"
+      }
+    ]
+  },
+  {
+    "id": "Q0513",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "نشرة ميثيرجين (ميثيل إرجونوفين) تذكر الإعطاء بعد خروج الكتف الأمامي أو بعد خروج المشيمة أو في النفاس، والإجابة المعتمدة في كتب القبالة «بعد ولادة المشيمة»؛ والخيار «بعد ولادة الطفل» قريب لذا الثقة متوسطة.",
+    "refs": [
+      {
+        "title": "Methergine prescribing information - Drugs.com",
+        "url": "https://www.drugs.com/pro/methergine.html"
+      }
+    ]
+  },
+  {
+    "id": "Q0514",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "العَرَض الرئيسي لسرطان بطانة الرحم هو النزف المهبلي غير الطبيعي (خاصة بعد سن اليأس أو بين الدورات أو الحيض الغزير غير المعتاد).",
+    "refs": [
+      {
+        "title": "Womb (uterus) cancer - Symptoms - NHS",
+        "url": "https://www.nhs.uk/conditions/womb-cancer/symptoms/"
+      }
+    ]
+  },
+  {
+    "id": "Q0515",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "الامحاء effacement هو ترقّق وقِصَر عنق الرحم (أما الاتساع فهو dilatation)؛ صياغة الخيار «تليين واتساع عنق الرحم» غير دقيقة لكنه الخيار الوحيد المتعلق بعنق الرحم، والبقية خاطئة.",
+    "refs": [
+      {
+        "title": "Normal Labor: Physiology, Evaluation, and Management - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544290/"
+      }
+    ]
+  },
+  {
+    "id": "Q0516",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "فقر الدم بنقص الحديد أشيع مشكلات الحمل (37% من الحوامل عالميًا مصابات بفقر الدم ونقص الحديد أشيع أسبابه وفق منظمة الصحة العالمية)، وهو أشيع من ارتفاع الضغط والسكري وتسمم الحمل؛ الصفحة لا تنص حرفيًا على «الأكثر شيوعًا بين مشاكل الحمل».",
+    "refs": [
+      {
+        "title": "Anaemia - WHO fact sheet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/anaemia"
+      }
+    ]
+  },
+  {
+    "id": "Q0517",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "نصائح الإمساك في الحمل: ألياف وماء وتمارين وتقليل مكملات الحديد المسبّبة له، ولا يُنصح بتناول دواء دون استشارة الطبيب/الصيدلي؛ فالاستثناء هو أخذ ملينات دون وصفة (ذِكر «الكربوهيدرات» بدل الألياف عيب صياغة).",
+    "refs": [
+      {
+        "title": "Common health problems in pregnancy - NHS",
+        "url": "https://www.nhs.uk/pregnancy/common-symptoms/common-health-problems/"
+      },
+      {
+        "title": "Piles in pregnancy - NHS",
+        "url": "https://www.nhs.uk/pregnancy/common-symptoms/piles/"
+      }
+    ]
+  },
+  {
+    "id": "Q0518",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "الخيارات الأربعة كلها نصائح رعاية صحيحة للحامل (راحة ونوم، غذاء جيد، نشاط معتدل مناسب، تجنب الإجهاد)، والنشاط المعتدل (الخيار الذي علّم عليه المصدر) موصى به في NHS، فلا يوجد استثناء يمكن الدفاع عنه — ربما الصياغة مترجمة بشكل مخلّ.",
+    "refs": [
+      {
+        "title": "Exercise in pregnancy - NHS",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/exercise/"
+      }
+    ]
+  },
+  {
+    "id": "Q0519",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "أسباب النزف بعد الولادة (4T): وهن الرحم Tone، الأنسجة المحتبسة كبقايا المشيمة Tissue، الرضوح Trauma، اضطراب التخثر Thrombin، والورم الليفي من عوامل وهن الرحم؛ ولا يُذكر «عدم الحركة» سببًا.",
+    "refs": [
+      {
+        "title": "Postpartum Hemorrhage - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK499988/"
+      }
+    ]
+  },
+  {
+    "id": "Q0520",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "موانع الحث: الوضعية غير الطبيعية للجنين مانع مؤكد، أما «طول فترة (الحمل/الولادة)» فمن دواعي الحث (الحمل المتأخر) أو التعزيز لا من موانعه، لكن الخيارين الثالث والرابع مترجمان بشكل مشوّش (مساعدة متوسع كاملة/انقباض تدريجي منتظم) فيتعذّر الجزم. (لم يتيسّر فتح مرجع موثوق لهذا السؤال بسبب تقييد أداة الجلب؛ الإجابة من المعرفة الطبية المستقرة وتحتاج مراجعة مرجعية قبل الاعتماد.)",
+    "refs": []
+  },
+  {
+    "id": "Q0521",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "تصنيف علامات الحمل: تقلصات براكستون هيكس علامة «محتملة»، وألم الثدي علامة «مرجّحة/افتراضية»، أما حركة الجنين المحسوسة بالفحص وصوت القلب فعلامات «مؤكدة»؛ فالخيار الأول هو الصحيح وفق التصنيف المعتاد. (لم يتيسّر فتح مرجع موثوق لهذا السؤال بسبب تقييد أداة الجلب؛ الإجابة من المعرفة الطبية المستقرة وتحتاج مراجعة مرجعية قبل الاعتماد.)",
+    "refs": []
+  },
+  {
+    "id": "Q0522",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "سائل السلى يتكوّن من نحو 98-99% ماء و1-2% مواد صلبة ويحمي الجنين ويمنع الالتصاق، وحجمه عند الولادة 500-1000 مل (نحو 800 مل في الأسبوع 28 ويهبط بعد الاستحقاق) فعبارة «أقل من 500 مل» هي الاستثناء؛ المرجع (ويكيبيديا) لا ينص على نسبة الماء فالثقة متوسطة.",
+    "refs": [
+      {
+        "title": "Amniotic fluid - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amniotic_fluid"
+      }
+    ]
+  },
+  {
+    "id": "Q0523",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "الآلية الرئيسية لحبوب منع الحمل المركبة تثبيط الإباضة (بالتغذية الراجعة السلبية على الوطاء)، مع تأثير ثانوي على مخاط عنق الرحم والبطانة.",
+    "refs": [
+      {
+        "title": "Oral Contraceptive Pills - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK430882/"
+      }
+    ]
+  },
+  {
+    "id": "Q0524",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "الخيارات الأربعة كلها قابلة للاعتبار من سمات الإجهاض الفائت (موت الجنين داخل الرحم مع بقائه، وعدم نمو الرحم/تراجعه، وتغيرات تنكّسية)، والخيار الذي علّم عليه المصدر «ارتفاع قاع الرحم يشير إلى عدم زيادة حجم الجنين» يبدو صفة صحيحة لا استثناء — فالنص غالبًا مشوّه الترجمة ولا استثناء يمكن الدفاع عنه.",
+    "refs": [
+      {
+        "title": "Spontaneous Abortion - MSD/Merck Manual Professional Edition",
+        "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/early-pregnancy-disorders/spontaneous-abortion"
+      }
+    ]
+  },
+  {
+    "id": "Q0525",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "الاضطراب النفاسي الأشيع هو «كآبة النفاس» postpartum blues (نحو 39% وقد تبلغ 76%)، و«الإزرقاق» غالبًا ترجمة خاطئة لكلمة blues؛ أما اكتئاب ما بعد الولادة فنسبته 6.5-20% والذهان 1-2 لكل 1000.",
+    "refs": [
+      {
+        "title": "Perinatal Depression - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK519070/"
+      }
+    ]
+  },
+  {
+    "id": "Q0526",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "الطبقة الوظيفية stratum functionalis هي الطبقة السطحية من بطانة الرحم (endometrium) التي تتجدد وتنسلخ مع الحيض، لكن «الغشاء الساقط» هو البطانة نفسها بعد تحوّلها في الحمل فالخيار الرابع قابل للتأويل، والخيار «الظهارة الرحمية» غامض؛ لذا الثقة ضعيفة.",
+    "refs": [
+      {
+        "title": "Uterine Cycle - Anatomy and Physiology (UEN Pressbooks)",
+        "url": "https://uen.pressbooks.pub/anatomyphysiology2/chapter/uterine-cycle/"
+      },
+      {
+        "title": "BGDA Practical Placenta - Implantation and Early Placentation - UNSW Embryology",
+        "url": "https://embryology.med.unsw.edu.au/embryology/index.php/BGDA_Practical_Placenta_-_Implantation_and_Early_Placentation"
+      }
+    ]
+  },
+  {
+    "id": "Q0527",
+    "verdict": "confirmed",
+    "answer": 1,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "علامات انفصال المشيمة: اندفاع دم مفاجئ، واستطالة الحبل السري (وليس قِصَره)، ورحم كروي صلب مع ارتفاع القاع؛ فـ«قصر الحبل السري» هو الاستثناء.",
+    "refs": [
+      {
+        "title": "Normal Labor: Physiology, Evaluation, and Management - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544290/"
+      }
+    ]
+  },
+  {
+    "id": "Q0528",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "علامات نزول/انفصال المشيمة: اندفاع دم، واستطالة الحبل، ورحم كروي صلب وقاع مرتفع؛ أما «الألم والإفرازات البنية الداكنة» فليست من العلامات المعتمدة، لكن الخيار الثاني مترجم بشكل غير مفهوم والخيار «كل ما سبق» يناقض صيغة الاستثناء فالسؤال ركيك.",
+    "refs": [
+      {
+        "title": "Normal Labor: Physiology, Evaluation, and Management - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544290/"
+      }
+    ]
+  },
+  {
+    "id": "Q0529",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "جفاف الفم (xerostomia) من أشيع الآثار الجانبية لأتروبين وهو الإجابة المعتمدة، لكن تسرّع القلب (الخيار الثالث) أثر جانبي صحيح أيضًا وتصفه StatPearls بأنه الأكثر ملاحظة سريريًا، فيوجد أكثر من خيار صحيح.",
+    "refs": [
+      {
+        "title": "Atropine - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK470551/"
+      }
+    ]
+  },
+  {
+    "id": "Q0530",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "الصداع الشديد وآلام البطن والتورم المفاجئ في الوجه/اليدين من علامات الخطر في الحمل (تسمم الحمل وغيره)، أما كثرة التبول فشائعة وطبيعية في الحمل.",
+    "refs": [
+      {
+        "title": "Pregnancy symptoms you need to get help for - NHS",
+        "url": "https://www.nhs.uk/pregnancy/common-symptoms/pregnancy-symptoms-you-need-to-get-help-for/"
+      },
+      {
+        "title": "Swollen ankles, feet and fingers in pregnancy - NHS",
+        "url": "https://www.nhs.uk/pregnancy/common-symptoms/swollen-ankles-feet-and-fingers/"
+      },
+      {
+        "title": "Common health problems in pregnancy - NHS",
+        "url": "https://www.nhs.uk/pregnancy/common-symptoms/common-health-problems/"
+      }
+    ]
+  },
+  {
+    "id": "Q0531",
+    "verdict": "uncertain",
+    "answer": 2,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "يزداد معدل نبض الأم في الحمل (بنحو 10-20 نبضة/دقيقة) مع زيادة النتاج القلبي وحجم الدم، ويكبر القلب قليلًا لا يصغر. (لم يتيسّر فتح مرجع موثوق لهذا السؤال بسبب تقييد أداة الجلب؛ الإجابة من المعرفة الطبية المستقرة وتحتاج مراجعة مرجعية قبل الاعتماد.)",
+    "refs": []
+  },
+  {
+    "id": "Q0532",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "النزف بعد الولادة واحتباس المشيمة (الأنسجة المحتبسة) وانقلاب الرحم كلها من مضاعفات الولادة؛ فالإجابة «جميع ما ذكر»، والمرجع يذكر النزف والنسيج المحتبس وانقلاب الرحم.",
+    "refs": [
+      {
+        "title": "Postpartum Hemorrhage - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK499988/"
+      }
+    ]
+  },
+  {
+    "id": "Q0533",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "يُسمع قلب الجنين بالدوبلر نحو الأسبوع 10-12 وبسماعة التوليد (fetoscope) نحو 18-20 أسبوعًا، فكلمة «بوضوح» غامضة بين 12 و20؛ والمصدر يعلّم 12 أسبوعًا. (لم يتيسّر فتح مرجع موثوق لهذا السؤال بسبب تقييد أداة الجلب؛ الإجابة من المعرفة الطبية المستقرة وتحتاج مراجعة مرجعية قبل الاعتماد.)",
+    "refs": []
+  },
+  {
+    "id": "Q0534",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "تتكوّن المشيمة تدريجيًا خلال الأشهر الثلاثة الأولى (نحو 12 أسبوعًا) ثم تنمو موازيةً لنمو الرحم؛ بعض المراجع تذكر 16 أسبوعًا لذا الثقة متوسطة، والمرجع لا يحدّد أسبوعًا صريحًا للحبل السري.",
+    "refs": [
+      {
+        "title": "Embryology, Placenta - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK551634/"
+      }
+    ]
+  },
+  {
+    "id": "Q0535",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "الباربيتورات تُتجنَّب في الحمل لخطر تشوهات وتأثيرات على الوليد (وتُستعمل بحذر في الإرضاع)، والمصدر يعلّم الحامل؛ لكن خيار المرضع قد يُعدّ صحيحًا أيضًا فلا يوجد جزم. (لم يتيسّر فتح مرجع موثوق لهذا السؤال بسبب تقييد أداة الجلب؛ الإجابة من المعرفة الطبية المستقرة وتحتاج مراجعة مرجعية قبل الاعتماد.)",
+    "refs": []
+  },
+  {
+    "id": "Q0536",
+    "verdict": "uncertain",
+    "answer": 2,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "إرغوتامين من مقبضات الأوعية ومقلّصات الرحم ويُمنع في الحمل (فئة X)، وهو معلوم لكن لم يُفتح مرجع لذلك. (لم يتيسّر فتح مرجع موثوق لهذا السؤال بسبب تقييد أداة الجلب؛ الإجابة من المعرفة الطبية المستقرة وتحتاج مراجعة مرجعية قبل الاعتماد.)",
+    "refs": []
+  },
+  {
+    "id": "Q0537",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "حسب CDC تُعطى اللقاحات القابلة للحقن بالطريق العضلي أو تحت الجلد (MMR والجدري المائي تحت الجلد؛ DTaP والكبد B والإنفلونزا عضليًا) وBCG داخل الجلد، فلا يوجد طريق واحد لكل التحصينات؛ الإبقاء على علامة المصدر (تحت الجلد) ترجيح ضعيف.",
+    "refs": [
+      {
+        "title": "Vaccine Administration - CDC ACIP General Best Practice Guidelines",
+        "url": "https://www.cdc.gov/vaccines/hcp/acip-recs/general-recs/administration.html"
+      }
+    ]
+  },
+  {
+    "id": "Q0538",
+    "verdict": "answered",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "الفئة الأكثر عرضة لمضاعفات الإنفلونزا والوفاة بها هي كبار السن (65 سنة فأكثر) إضافة إلى الأطفال دون السنتين وفق CDC؛ وبين الخيارات الأربعة أكثرها ملاءمةً «أكثر من 65 سنة»، لكن الصفحة لا تورد نسب الوفيات حسب العمر.",
+    "refs": [
+      {
+        "title": "People at Increased Risk for Flu Complications - CDC",
+        "url": "https://www.cdc.gov/flu/highrisk/index.htm"
+      }
+    ]
+  },
+  {
+    "id": "Q0539",
+    "verdict": "answered",
+    "answer": 3,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "علامات انفصال المشيمة الثلاث: اندفاع دم مفاجئ، واستطالة الحبل السري، ورحم كروي مع ارتفاع القاع؛ وكلها مذكورة بين الخيارات فالإجابة «جميع المعاملات السابقة».",
+    "refs": [
+      {
+        "title": "Normal Labor: Physiology, Evaluation, and Management - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544290/"
+      }
+    ]
+  },
+  {
+    "id": "Q0540",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": false,
+    "note_ar": "المطلوب «إرشاد الأم» للوقاية، والتمريض يوصي بالحركة المبكرة (مع الإماهة) وقد تُضاف الجوارب المرنة؛ أما مضادات التجلط فتُوصف طبيًا للحالات عالية الخطورة لا كإرشاد عام، ولذا لا أوافق علامة المصدر لكن دون مرجع مفتوح. (لم يتيسّر فتح مرجع موثوق لهذا السؤال بسبب تقييد أداة الجلب؛ الإجابة من المعرفة الطبية المستقرة وتحتاج مراجعة مرجعية قبل الاعتماد.)",
+    "refs": []
+  },
+  {
+    "id": "Q0541",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "معدلا النبض والتنفس أعلى عند الرضّع والأطفال الصغار ثم ينخفضان تدريجيًا مع النمو حتى يصلا إلى معدل البالغ في المراهقة. (لم يتيسّر فتح مرجع موثوق لهذا السؤال بسبب تقييد أداة الجلب؛ الإجابة من المعرفة الطبية المستقرة وتحتاج مراجعة مرجعية قبل الاعتماد.)",
+    "refs": []
+  },
+  {
+    "id": "Q0542",
+    "verdict": "corrected",
+    "answer": 0,
+    "confidence": "high",
+    "agrees_with_source_mark": false,
+    "note_ar": "توقف القلب عند الأطفال لا ينتج عادة عن سبب قلبي أولي بل عن فشل تنفسي متقدّم أو صدمة (اختناقي)، فتُصحَّح الإجابة إلى «توقف التنفس» وفق إرشادات AHA 2020؛ والغرق والصعق والتسمم أسباب فرعية.",
+    "refs": [
+      {
+        "title": "Part 4: Pediatric Basic and Advanced Life Support: 2020 AHA Guidelines for CPR and ECC",
+        "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000901"
+      }
+    ]
+  },
+  {
+    "id": "Q0543",
+    "verdict": "confirmed",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "الإجهاض هو خروج محصول الحمل قبل القدرة على الحياة؛ التعريف الشائع (Merck/ACOG) قبل الأسبوع 20، والتعريف القديم/المحلي يستخدم 28 أسبوعًا وهو ما تتوافق معه الصياغة؛ وبقية الخيارات ليست تعريفًا للإجهاض.",
+    "refs": [
+      {
+        "title": "Spontaneous Abortion - MSD/Merck Manual Professional Edition",
+        "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/early-pregnancy-disorders/spontaneous-abortion"
+      }
+    ]
+  },
+  {
+    "id": "Q0544",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "معظم حديثي الولادة يبدؤون التنفس خلال نحو 30 ثانية بعد التجفيف/تنظيف المجرى، وتبدأ التهوية إن لم يتنفس خلال الدقيقة الأولى؛ لذا قد يكون المفتاح 30 ثانية أو دقيقة واحدة بحسب المرجع. (لم يتيسّر فتح مرجع موثوق لهذا السؤال بسبب تقييد أداة الجلب؛ الإجابة من المعرفة الطبية المستقرة وتحتاج مراجعة مرجعية قبل الاعتماد.)",
+    "refs": []
+  },
+  {
+    "id": "Q0545",
+    "verdict": "answered",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "انفجار الأغشية قبل انحدار/تثبّت الرأس يعرّض لتدلي الحبل السري (طارئ توليدي)، فتُقيَّم الأم لذلك فورًا؛ والمرجع (RCOG) يعالج تدلي الحبل وتدبيره ولم يُقتبس منه نص عامل الخطورة.",
+    "refs": [
+      {
+        "title": "Umbilical Cord Prolapse (Green-top Guideline No. 50) - RCOG",
+        "url": "https://www.rcog.org.uk/media/3wykswng/gtg-50-umbilicalcordprolapse-2014.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q0546",
+    "verdict": "answered",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "الانتظار حتى توقف النبض (التأخير) وتعديل المشابك واستخدام مشابك معقمة إجراءات صحيحة، أما «عدم ربط الحبل للمولود الذي لا يتنفس» فخطأ: RCOG يوضح أن الإنعاش الفوري يُقدَّم على تأخير الربط إذا كان المولود غير سليم.",
+    "refs": [
+      {
+        "title": "Umbilical Cord Prolapse (Green-top Guideline No. 50) - RCOG",
+        "url": "https://www.rcog.org.uk/media/3wykswng/gtg-50-umbilicalcordprolapse-2014.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q0547",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "جذع وردي وأطراف زرقاء = 1، تنفس بطيء = 1، يكشّر (grimace) عند التنبيه = 1 («يكثر» خطأ نسخ غالبًا)، ثني بعض الأطراف = 1، نبض 110 (>100) = 2؛ المجموع 6. لو كان يبكي عند التنبيه لكان 7 وهو غير موجود بين الخيارات.",
+    "refs": [
+      {
+        "title": "APGAR Score - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK470569/"
+      }
+    ]
+  },
+  {
+    "id": "Q0548",
+    "verdict": "uncertain",
+    "answer": 4,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "في التفاف الحبل حول العنق: يُحاول تمرير الحبل فوق الرأس بإصبعين، وإن تعذّر يُوضع مشبكان فورًا ويُقص (العبارة ب)، ويجب استخدام مشابك معقمة (ج)؛ أما الانتظار حتى توقف النبض (أ) فغير مناسب مع الحبل الملتف الضيق، فالإجابة «ب، ج». (لم يتيسّر فتح مرجع موثوق لهذا السؤال بسبب تقييد أداة الجلب؛ الإجابة من المعرفة الطبية المستقرة وتحتاج مراجعة مرجعية قبل الاعتماد.)",
+    "refs": []
+  },
+  {
+    "id": "Q0549",
+    "verdict": "answered",
+    "answer": 3,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "تدبير تدلي الحبل: رفع الجزء المقدّم (ركبتين-صدر أو جانب أيسر مع خفض الرأس)، نقل عاجل، تقليل مناولة الحبل وتغطيته بضماد معقّم رطب (RCOG)؛ أما ربط الحبل وقصه فليس من التدبير فهو الاستثناء.",
+    "refs": [
+      {
+        "title": "Umbilical Cord Prolapse (Green-top Guideline No. 50) - RCOG",
+        "url": "https://www.rcog.org.uk/media/3wykswng/gtg-50-umbilicalcordprolapse-2014.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q0550",
+    "verdict": "uncertain",
+    "answer": 4,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "المعتاد في نصوص الإسعاف القديمة شفط الفم أولًا ثم الأنف بالبصيلة؛ فالإجابة «أ، د»، لكن الإرشادات الحديثة للإنعاش (NRP/AHA) لا توصي بالشفط الروتيني لحديثي الولادة الأصحاء. (لم يتيسّر فتح مرجع موثوق لهذا السؤال بسبب تقييد أداة الجلب؛ الإجابة من المعرفة الطبية المستقرة وتحتاج مراجعة مرجعية قبل الاعتماد.)",
+    "refs": []
+  },
+  {
+    "id": "Q0551",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "النزف بين الدورتين الحيضيتين (metrorrhagia/intermenstrual bleeding) هو «النزف الرحمي»، أما عسر الطمث فألم الحيض، وغزارة الطمث حيض غزير، وانقطاع الطمث غياب الحيض؛ المرجع يذكر النزف المهبلي بين الدورات عرضًا دون تسمية المصطلح.",
+    "refs": [
+      {
+        "title": "Womb (uterus) cancer - Symptoms - NHS",
+        "url": "https://www.nhs.uk/conditions/womb-cancer/symptoms/"
+      }
+    ]
+  },
+  {
+    "id": "Q0552",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": false,
+    "note_ar": "الأفضل تقديم الاستشارة الوراثية قبل الحمل أو في أبكر وقت من الحمل (الثلث الأول) وفق الممارسة المعتادة، وعلامة المصدر (الثلث الثاني) غير مدعومة؛ لكن بعض المقررات تقول «في أي وقت» فالثقة ضعيفة. (لم يتيسّر فتح مرجع موثوق لهذا السؤال بسبب تقييد أداة الجلب؛ الإجابة من المعرفة الطبية المستقرة وتحتاج مراجعة مرجعية قبل الاعتماد.)",
+    "refs": []
+  },
+  {
+    "id": "Q0553",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "متوسط محيط رأس المولود تام الحمل نحو 34-35 سم (المدى الطبيعي 32-37)، فأقرب الخيارات 35 سم. (لم يتيسّر فتح مرجع موثوق لهذا السؤال بسبب تقييد أداة الجلب؛ الإجابة من المعرفة الطبية المستقرة وتحتاج مراجعة مرجعية قبل الاعتماد.)",
+    "refs": []
+  },
+  {
+    "id": "Q0554",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "سوء تغذية الأم سبب رئيسي لانخفاض وزن المواليد خاصة في الدول النامية (وفقر الدم مرتبط بانخفاض الوزن وفق منظمة الصحة العالمية)، لكن مقدمة الارتجاج (تسمم الحمل) سبب معروف أيضًا فالمفاضلة تتوقف على مفهوم «الأكثر».",
+    "refs": [
+      {
+        "title": "Anaemia - WHO fact sheet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/anaemia"
+      }
+    ]
+  }
+]

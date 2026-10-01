@@ -1,0 +1,971 @@
+[
+ {
+  "id": "Q0201",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Pregnancy Lasts on average",
+  "q_ar": null,
+  "options": [
+   "280 days from last period",
+   "37 weeks",
+   "42 weeks",
+   "40 weeks",
+   "a & c"
+  ],
+  "source_marked_answer_index": 4,
+  "source_marked_answer_text": "a & c",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0202",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which nutrient has been proven to prevent birth defects?",
+  "q_ar": null,
+  "options": [
+   "Folic acid",
+   "Pantothenic acid",
+   "Manganese",
+   "b. Riboflavin"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Folic acid",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0203",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following vitamins helps the body absorb iron?",
+  "q_ar": null,
+  "options": [
+   "Vitamin C",
+   "Riboflavin",
+   "Vitamin E",
+   "Vitamin A"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Vitamin C",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0204",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When will the baby first recognize his mother visually?",
+  "q_ar": null,
+  "options": [
+   "From birth",
+   "3 to 4 weeks",
+   "3 to 4 months",
+   "6 to 8 months"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "3 to 4 weeks",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0205",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Antibodies in milk protect the baby against problems with:",
+  "q_ar": null,
+  "options": [
+   "Vision",
+   "Gastrointestinal tract",
+   "Respiratory system",
+   "B and C"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "B and C",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0206",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "You're most fertile when one of your ovaries releases a mature egg. This process, called ovulation, occurs:",
+  "q_ar": null,
+  "options": [
+   "Halfway through your menstrual cycle",
+   "12 to 16 days before your next period starts",
+   "Right before you get your period"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "12 to 16 days before your next period starts",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0207",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The Nurse Midwife is an advanced practice nurse who:",
+  "q_ar": null,
+  "options": [
+   "Provides care to child-bearing women during preconception, prenatal, labor and delivery, and postpartum periods.",
+   "Transports and cares for sick and injured patients in emergency situations and during the transport of patients from one patient care facility to another.",
+   "Performs pharmaceutical, medical, and nursing research.",
+   "Helps create public health policies."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Provides care to child-bearing women during preconception, prenatal, labor and delivery, and postpartum periods.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0208",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A newborn loses heat through:",
+  "q_ar": null,
+  "options": [
+   "Evaporation",
+   "Conduction",
+   "convection",
+   "radiation",
+   "insensible water loss through skin, feces, urine, respiration",
+   "all of the above"
+  ],
+  "source_marked_answer_index": 5,
+  "source_marked_answer_text": "all of the above",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0209",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "8-Premature separation of the normally implanted placenta is",
+  "q_ar": null,
+  "options": [
+   "placenta accrete",
+   "placenta previa",
+   "placenta percreta",
+   "none of the above"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "none of the above",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0210",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Treatment with hormone replacement therapy",
+  "q_ar": null,
+  "options": [
+   "Should always include a progestagen.",
+   "Reduces the incidence of cardiovascular disease in post-menopausal women.",
+   "Is not beneficial unless given within one year of the menopause.",
+   "Should not result in vaginal bleeding.",
+   "Is of no benefit unless given for longer than ten years."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Reduces the incidence of cardiovascular disease in post-menopausal women.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0211",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Immediate post-partum hemorrhage is associated with",
+  "q_ar": null,
+  "options": [
+   "Retained placenta.",
+   "lacerations or tears of the cervix.",
+   "Ritodrine administration.",
+   "Uterine atony."
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Uterine atony.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0212",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Placenta previa is:",
+  "q_ar": null,
+  "options": [
+   "Premature separation of the normally implanted placenta before the birth of the fetus.",
+   "The abnormal implantation of the placenta in the lower uterine segment, partially or completely",
+   "A placenta that attaches itself too deeply and too firmly into the wall of the uterus.",
+   "Placenta that bleeds all the pregnancy period"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "The abnormal implantation of the placenta in the lower uterine segment, partially or completely",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0213",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Urine less than 500 ml in 24 hours is called:",
+  "q_ar": null,
+  "options": [
+   "Anuria",
+   "Poly uria",
+   "Oliguria /",
+   "non all above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0214",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A person has been infected with an acidic substance inside a sample, how much should you wash the eye with water during :",
+  "q_ar": null,
+  "options": [
+   "1 minute",
+   "5 minutes",
+   "10 minutes",
+   "20 minutes"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0215",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Mr. Harvey, age 54, is admitted with a diagnosis of congestive heart failure secondary to chronic obstructive pulmonary disease [COPD]. the physician orders sublingual nitroglycerin 0.4 mg PRN, for chest pain, while administering the nitroglycerin, the nurse should :",
+  "q_ar": null,
+  "options": [
+   "tell Mr. Harvey to hold the tablet under his tongue and let it dissolve.",
+   "tell Mr. Harvey to swallow the tablet with water.",
+   "apply nitroglycerin ointment to Mr. Harvey's chest.",
+   "mix the nitroglycerin with applesauce for Mr. Harvey to eat"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0216",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The first nursing intervention should be done in the re covery room is:",
+  "q_ar": null,
+  "options": [
+   "give the patient analgesics",
+   "take vital signs and record",
+   "put the patient in recovery position",
+   "do suction to the airway"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0217",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "An infected patient has chills and begin shivering, the best nursing inteventon is to:",
+  "q_ar": null,
+  "options": [
+   "Apply iced alcohol sponges",
+   "provide increased cool liquids",
+   "provide additional body bed clothesv",
+   "provide increased ventilationdnsy"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0218",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "What is the first procedure used when assessing the abdomen?",
+  "q_ar": null,
+  "options": [
+   "palpitation",
+   "auscultation",
+   "inspection",
+   "percussion"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0219",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A.patient. has.edema, what do.you.recommend?",
+  "q_ar": null,
+  "options": [
+   "Decrease Fluid",
+   "Too much fluid"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0220",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A.Patient. witha heart, condition and pneumonia appeared.on.his lips plus color. What.does. he have:",
+  "q_ar": null,
+  "options": [
+   "cyanosis",
+   "hypoxia",
+   "hypoxemia es",
+   "??"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0221",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A.fat.patientadvises to pay attention And it became clear.to that from.a gdeficiency. of vitamin E What foods do you recommend. to.him:..",
+  "q_ar": null,
+  "options": [
+   "Fish and Jam",
+   "Mango and orange",
+   "Potatoes",
+   "??"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0222",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The buccal neans give the drug in :",
+  "q_ar": null,
+  "options": [
+   "the jaw.",
+   "the eye conjunctive the oral.",
+   "between cheelk client and gum"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0223",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A.patient suffering. from. gastritis. this indicatesa deficiency",
+  "q_ar": null,
+  "options": [
+   "Vitamin D",
+   "Vitamin E",
+   "Vitamin B12",
+   "Vitamin B6"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0224",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Techniques of physical assessment. is the examination of the pa ()",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0225",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Most absorption occurs in the small intestine through the processes:-",
+  "q_ar": null,
+  "options": [
+   "Osmosis",
+   "Diffuse",
+   "Active",
+   "All of above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0226",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "chemical defense mechanisms include enzymes such as lysozyme ( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0227",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Rescue breaths should be delivered slowly to avoid inflation of the lung( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0228",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following clinical procedures always requires surgical asepsis:",
+  "q_ar": null,
+  "options": [
+   "Vaginal instillation of conjugated estrogen.",
+   "Urinary catheterization.",
+   "Nasogastric tube insertion.",
+   "Colostomy irrigation."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Colosto[my irrigation]"
+   }
+  ]
+ },
+ {
+  "id": "Q0229",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Client is admitted to the hospital due to metabolic acidosis caused by diabetic ketoacidosis (DKA). The medical assistant prepares which of the following medications as an initial treatment for this problem?",
+  "q_ar": null,
+  "options": [
+   "Regular insulin.",
+   "Potassium.",
+   "Sodium bicarbonate.",
+   "Calcium glaucoma."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "multiple_marks",
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0230",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Cardiogenic shock occurs as a result of the following :",
+  "q_ar": null,
+  "options": [
+   "Bacteria.",
+   "Allergic reaction.",
+   "Myocardial infarction.",
+   "Loss of blood."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Myocardial infarction.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0231",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A person, who is unconscious, not breathing, has a weak pulse، needs:",
+  "q_ar": null,
+  "options": [
+   "CPR.",
+   "Heimlich maneuver.",
+   "Rescue breathing.",
+   "Back blow and chest thrust."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0232",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "He following vaccine given in pregnant :",
+  "q_ar": null,
+  "options": [
+   "Tetanus.",
+   "??",
+   "??",
+   "??"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0233",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When obtaining a health history from a patient, ask first about:",
+  "q_ar": null,
+  "options": [
+   "biographic data.",
+   "his chief complaint.",
+   "High, large volume.",
+   "Low, small volume."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0234",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The management of the hypovolemic shock include:",
+  "q_ar": null,
+  "options": [
+   "The timely administration of IV fluids.",
+   "Blood, and Blood products.",
+   "Medications that elevate blood pressure.",
+   "All of the above."
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "All of the above.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0235",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Position of immobilization in fracture both bones of forearm in an adult male will be:",
+  "q_ar": null,
+  "options": [
+   "Prone.",
+   "Mid prone.",
+   "Supine.",
+   "Lateral."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0236",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The health history is considered to be a part of the :",
+  "q_ar": null,
+  "options": [
+   "Objective data.",
+   "Subjective data.",
+   "Signs data.",
+   "Physical examination."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Subjective data.",
+  "source_status": "agree",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0237",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which statement about diabetes mellitus is false :",
+  "q_ar": null,
+  "options": [
+   "Type 2 diabetes commonly occurs in adults after age 40.",
+   "Type 1 diabetes usually occurs before age 30.",
+   "Type I diabetes is treated primarily with exercise and meal planning.",
+   "An increasing number of adolescents are being diagnosed with type 2 diabetes."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0238",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The common type of anemia during pregnancy includes the following:",
+  "q_ar": null,
+  "options": [
+   "Iron deficiency.",
+   "B12 deficiency.",
+   "Vitamin C deficiency.",
+   "None."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Iron deficiency.",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0239",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The medical's assistant lists Lymph Node's by Technique Palpation how it is done",
+  "q_ar": null,
+  "options": [
+   "Touch the neck and Head and back",
+   "Pressure or touch by fingers and between fingers",
+   "??"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0240",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Dr Mohammed tells a client that an increase intake of foods beta carotene are important for healthier skin the nurse teach sources of both of these substances are",
+  "q_ar": null,
+  "options": [
+   "fish and fruit jam",
+   "oranges and grapefruit",
+   "spinach and mangoes",
+   "carrots and potatoes"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "carrots and potatoes",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Carrots and potatoes"
+   }
+  ]
+ },
+ {
+  "id": "Q0241",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The second examination we use in the abdominal check is any of the following:",
+  "q_ar": null,
+  "options": [
+   "Palpation",
+   "inspection",
+   "Auscultation",
+   "percussion"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0242",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Some people are very allergic to insect bites and sting this condition",
+  "q_ar": null,
+  "options": [
+   "toxic shock syndrome",
+   "septic shock",
+   "Anaphylactic shock",
+   "all of the above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0243",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The hospital floors and surfaces are cleaned frequently with:",
+  "q_ar": null,
+  "options": [
+   "Detergent",
+   "Soap and water",
+   "A detergent germicide"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Soap and water"
+   }
+  ]
+ },
+ {
+  "id": "Q0244",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following factors is not affecting susceptibility to infections",
+  "q_ar": null,
+  "options": [
+   "Weakened cough reflex",
+   "Poor hygiene practices",
+   "Adequate nutrition",
+   "Suppressed immune system"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Weakened cough reflex"
+   }
+  ]
+ },
+ {
+  "id": "Q0245",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Vital signs are fundamental to physical assessment to establish ... respiratory integrity ( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0246",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Sleep alters breathing patterns, ventilation & arterial blood .......( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0247",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Type of sugar that is less cariogenic",
+  "q_ar": null,
+  "options": [
+   "lactose",
+   "xylitol",
+   "??",
+   "??"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0248",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "dentist advice patient after delivery denture",
+  "q_ar": null,
+  "options": [
+   "eat soft food",
+   "cut food in premolar area",
+   "??",
+   "all above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0249",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "rocking of denture when biting in on anterior teeth is due to",
+  "q_ar": null,
+  "options": [
+   "premature co"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0250",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Most absorption occurs in the small intestines through the processes of:",
+  "q_ar": null,
+  "options": [
+   "Osmosis",
+   "Diffusion",
+   "Active transport",
+   "All of the above"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Active transport",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

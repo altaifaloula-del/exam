@@ -1,0 +1,1021 @@
+[
+ {
+  "id": "Q0251",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which symptoms would indicate internal bleeding?",
+  "q_ar": null,
+  "options": [
+   "Rapid weak pulse, Excessive thirst.",
+   "Skin that feels cool or moist, or looks pale or bluish",
+   "Tender, swollen, bruised, or hard areas of his body, such as the abdomen.",
+   "All of the above"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "All of the above",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0252",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The blood cells that transport oxygen and carbon dioxide to and from body tissue:",
+  "q_ar": null,
+  "options": [
+   "RBCs.",
+   "WBCs.",
+   "platelets.",
+   "granulocytes."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "multiple_marks"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0253",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "After routine patient contact, hand washing should last at least:",
+  "q_ar": null,
+  "options": [
+   "30 seconds",
+   "1 minute",
+   "2-minute",
+   "3 minutes"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "30 seconds",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0254",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The purposes of the physical examination are to:",
+  "q_ar": null,
+  "options": [
+   "Gather baseline data",
+   "Confirm data obtained in the interview and health history",
+   "a & b",
+   "None of the above"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "a & b",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0255",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following is considered a bronchodilator?",
+  "q_ar": null,
+  "options": [
+   "Acetylcysteine",
+   "Guaifenesin",
+   "Theophylline",
+   "Epinephrine HCL"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Theophylline",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0256",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When obtaining a health history from a patient, ask first about:",
+  "q_ar": null,
+  "options": [
+   "biographic data",
+   "his chief complaint",
+   "health insurance coverage.",
+   "family history."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "biographic data",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0257",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which symptoms would indicate internal bleeding :",
+  "q_ar": null,
+  "options": [
+   "Rapid weak pulse, Excessive thirst.",
+   "Skin that feels cool or moist, or looks pale or blus",
+   "Tender, swollen, bruised, or hard areas of his body, such as the abdomen.",
+   "All of the abov"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0258",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A disease that always involves damage to the auricular cartilages is known as:",
+  "q_ar": null,
+  "options": [
+   "Luxation",
+   "Sciatica",
+   "Ankylosis",
+   "Arthritis"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0259",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "An infected patient has chills and begin shivering, the best nursing intervention is to:",
+  "q_ar": null,
+  "options": [
+   "Apply iced alcohol sponges",
+   "Provide increased cool liquids",
+   "Provide additional bedclothes",
+   "Provide increased ventilation"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0260",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The last step in the healing of a fracture is:",
+  "q_ar": null,
+  "options": [
+   "Hematoma formation",
+   "Consolidation",
+   "Remodeling",
+   "Demineralization"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0261",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A client has Gastro-esophageal Reflux Disease (GERD). The medical assistant should tell the client that after every meal, the client should be :",
+  "q_ar": null,
+  "options": [
+   "Rest in sitting position",
+   "Take a short walk",
+   "Drink plenty of water",
+   "Lie down at least 30 minutes"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Rest in sitting position",
+  "source_status": "single",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0262",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A person, who is unconscious, not breathing, has a weak pulse, needs.... :",
+  "q_ar": null,
+  "options": [
+   "CPR",
+   "Hiemlick maneuver.",
+   "Rescue breathing",
+   "Back blow"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Rescue breathing",
+  "source_status": "single",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0263",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A client received deep partial-thickness burns to the chest, abdomen, ،،،،hand anterior and posterior. Using the rule of،،،،، what is the percent of (TBSA) that was burned :",
+  "q_ar": null,
+  "options": [
+   "18%",
+   "28%",
+   "36%",
+   "40%"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "28%",
+  "source_status": "single",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0264",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The morning vital signs of 38-year-old patients are auxiliary temperatur 88, and the respiratory rate 30. Which findings should be reported:",
+  "q_ar": null,
+  "options": [
+   "Respiratory rate only",
+   "Temperature only",
+   "Pulse rate and temperature",
+   "Temperature and respiratory rate"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Respiratory rate only"
+   }
+  ]
+ },
+ {
+  "id": "Q0265",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "What is the most common diagnostic test used to assess musculoskeletal.....:",
+  "q_ar": null,
+  "options": [
+   "Myelogram",
+   "Standard x-ray",
+   "Arthroscopy",
+   "Magnetic resonance"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0266",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "What would be the primary goal of therapy for a client with pulmonary en failure :",
+  "q_ar": null,
+  "options": [
+   "Enhance comfort",
+   "Increase cardiac output",
+   "Improve respiratory status",
+   "Peripheral edema decreased"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Increase cardiac output",
+  "source_status": "single",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0267",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The risks factors associated with gestational diabetes mellitus include the :",
+  "q_ar": null,
+  "options": [
+   "Overweight",
+   "Underweight",
+   "Family history of diabetes",
+   "......"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Underweight",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0268",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A client is scheduled for a colonoscopy. The nurse will provide information to the client about which type of enema :",
+  "q_ar": null,
+  "options": [
+   "Oil retention",
+   "Return flow",
+   "High, large volume",
+   "Low, small volume"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Return flow",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0269",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Chronic pain indicates that damage or injury has occurred ( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0270",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Anxiety is uneasy feeling of discomfort or an uncomfortable feeling caused by insecurity( )",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0271",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Aseptic technique is the infection control practice used to prevent the transmission of pathogens( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0272",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Immobilization refers to restoration of the fracture fragments to anatomic alignment and rotation( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0273",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Drug tolerance means body cannot metabolize a drug lead to accumulate drugs in blood( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0274",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Folic acid is a safe drug can be used with pregnancy( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0275",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "A contusion is a partial dislocation of the articulating surfaces( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0276",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Incomplete abortion can be defined as expulsion of some products of conception out of uterus & remain some productsin the uterus ( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0277",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Lifestyle consists of a person's usual daily activities and routines that are acceptable practices in person's life ( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0278",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Partial airway obstruction is indicated if the casualty cannot speak, breathe, or cough at all ( ).",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0279",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following would be inappropriate to include in a [truncated]",
+  "q_ar": null,
+  "options": [
+   "Change position hourly to increase circulation",
+   "Inspect feet and legs daily for any changes",
+   "Keep the legs elevated on 2 pillows while sleeping",
+   "Keep the insulin not in use in the refrigerator"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Keep the insulin not in use in the refrigerator"
+   }
+  ]
+ },
+ {
+  "id": "Q0280",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following are the effects of the immobility, except:",
+  "q_ar": null,
+  "options": [
+   "Stiffness and pain in the joints.",
+   "Increase metaboli[c ...]",
+   "Pooling of respiratory secretions,",
+   "Orthostatic hypote[nsion]"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "multiple_marks",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0281",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The nurse prepares to administer buccal medication. The me[dication] should be placed...",
+  "q_ar": null,
+  "options": [
+   "On the client's skin",
+   "Between the client's cheeks",
+   "Under the client's tongue",
+   "On the client's conjunctiva"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0282",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Surgical asepsis means :",
+  "q_ar": null,
+  "options": [
+   "destroying bacteria from articles",
+   "removing the bacteria wh[ich ...]",
+   "destroying the bacteria before entering in to the body"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "removing the bacteria wh[ich ...]"
+   }
+  ]
+ },
+ {
+  "id": "Q0283",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The medical assistant Ahmed should explain to male client w[ith diabetes that self-monitoring] of blood glucose is preferred to urine glucose testing because...",
+  "q_ar": null,
+  "options": [
+   "Can be done by the client",
+   "It is easy to perf[orm]",
+   "More accurate",
+   "It is not influenc[ed by drugs]"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0284",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following antituberculosis drugs can damage t[he ...]",
+  "q_ar": null,
+  "options": [
+   "Ethambutol hydrochloride (myambutol)",
+   "Strepto[mycin]",
+   "Paraaminosalicylic acid (PAS)",
+   "Isonia[zid]"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0285",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The medical assistant is most likely to report which findin[g in a] client who has an established colostomy?",
+  "q_ar": null,
+  "options": [
+   "The stoma extends 1/2 in. above the abdomen",
+   "The skin under the appliance looks red briefly after removing f[...]",
+   "The stoma color is a deep red-purple.",
+   "The ascending c[olon ...]"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "The ascending c[olon ...]"
+   }
+  ]
+ },
+ {
+  "id": "Q0286",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The second techniques used to examine the abdomen of a[n ...]",
+  "q_ar": null,
+  "options": [
+   "Palpation",
+   "Auscultation",
+   "Percussion"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Palpation"
+   }
+  ]
+ },
+ {
+  "id": "Q0287",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Angiogenesis (formation of new blood vessels) begins wit[hin]",
+  "q_ar": null,
+  "options": [
+   "seconds",
+   "minutes",
+   "hours"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0288",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "[...]mediate emergency intervention for patient with spina[l ...]",
+  "q_ar": null,
+  "options": [
+   "[...]urage the patient to do passive exercises",
+   "Adm[...]",
+   "Immobilization.",
+   "Chan[...]"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Immobilization."
+   }
+  ]
+ },
+ {
+  "id": "Q0289",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Some people are very allergic to insect bites and stings. This conditi[on is called]",
+  "q_ar": null,
+  "options": [
+   "Septic shock",
+   "Cardiac arrest",
+   "Toxic shock syndrome",
+   "??"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Toxic shock syndrome"
+   }
+  ]
+ },
+ {
+  "id": "Q0290",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Factors influences infection development include:",
+  "q_ar": null,
+  "options": [
+   "The type and number of microorganisms",
+   "The person's state of [...]",
+   "The characteristics of the microorganism (such as its virulence)",
+   "Al[l of the above]"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Al[l of the above]"
+   }
+  ]
+ },
+ {
+  "id": "Q0291",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Conditions promote survival of Microorganisms include the follow[ing]",
+  "q_ar": null,
+  "options": [
+   "warmth",
+   "lighting",
+   "oxygen",
+   "water & n[...]"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0292",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A client has 15% blood loss. Which of the following nursing asses[sment findings indicate] hypovolemic shock?",
+  "q_ar": null,
+  "options": [
+   "Systolic blood pressure less than 90mm Hg",
+   "Pupils unequally d[ilated]",
+   "Respiratory rate of 4 breaths/min",
+   "Pulse rate less tha[n ...]"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Pupils unequally d[ilated]"
+   }
+  ]
+ },
+ {
+  "id": "Q0293",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "If unable to locate the client's popliteal pulse during a routine e[xam, what should the] nurse do next?",
+  "q_ar": null,
+  "options": [
+   "Check for a pedal pulse.",
+   "Check for a fem[oral pulse]",
+   "Take the client's blood pressure on that thigh.",
+   "Ask another nu[rse]"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Ask another nu[rse]"
+   }
+  ]
+ },
+ {
+  "id": "Q0294",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "The primary survey is a systematic, brief (2-3 minute's) examin[ation ...] to toe",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0295",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "The left side of the heart pumps blood through the lungs to the p[...]",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0296",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "The classic symptom of hypoxemia is dyspnea",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "False"
+   }
+  ]
+ },
+ {
+  "id": "Q0297",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "An infected patient has chills and begin shivering, the best nu[rsing intervention is to]:",
+  "q_ar": null,
+  "options": [
+   "Apply iced alcohol sponges",
+   "Provide increa[sed cool liquids]",
+   "Provide additional bedclothes",
+   "Provide increas[ed ventilation]"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f13",
+    "answer_text": "Provide additional bedclothes"
+   }
+  ]
+ },
+ {
+  "id": "Q0298",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Sleep apnea: refers to periods of sleep during which airflow s[...]",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0299",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Of the vaccination used in pregnancy, which is considered safe :",
+  "q_ar": null,
+  "options": [
+   "tetanus",
+   "rubies",
+   "rubella",
+   "Hepatitis B vaccine"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0300",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When installing Foleys Catheter and your doctor is informed about the patient and monitor urine out any of the following quantities that will inform Dr::",
+  "q_ar": null,
+  "options": [
+   "urine loss 30/hr",
+   "urine loss 60 in 2hr",
+   "urine loss 90 in 3 hrs",
+   "urine loss 120 in 4 hrs"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

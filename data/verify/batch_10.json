@@ -1,0 +1,910 @@
+[
+ {
+  "id": "Q0602",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "أي من الأدوية التالية توصف للمريض المصاب بالسل الرئوي بعد الاصابة مباشرة :",
+  "q_ar": null,
+  "options": [
+   "Ethambutol ( myambutol) and Isoniazid (INH)",
+   "Streptomycin and penicillin",
+   "Tetracycline and thioridazine",
+   "Pyridoxine and Tetracycline"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Ethambutol ( myambutol) and Isoniazid (INH)",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0603",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "أي من الطرق التالية صحيحة للأخذ عينة البلغم",
+  "q_ar": null,
+  "options": [
+   "يجب جمع عينة البلغم قبل النوم مباشرة",
+   "تنظيف الأسنان ثم السعال في الوعاء الخاص ويتم ذلك في الصباح عند الاستيقاظ مباشرة",
+   "جمع العينة بعد تناول الطعام مباشرة .",
+   "جمع العينة في وعاء خاص ووضع بعض قطرات الماء النقي وإرسالها إلى المختبر فورا ."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "تنظيف الأسنان ثم السعال في الوعاء الخاص ويتم ذلك في الصباح عند الاستيقاظ مباشرة",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0604",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "مريض عمرة ٦٧ عاما ادخل إلى القسم يعاني من (COPD) الإمراض الرئوية الانسدادية المزمنة أي من الأمور التالية يجب على الممرض مراعاتها عند وضع خطة الرعاية بهذا المريض:",
+  "q_ar": null,
+  "options": [
+   "إعطاء الأكسوجين ١٠ لتر عن طريق الأنبوب الأنفي",
+   "الطلب من المريض الراحة وعدم الإجهاد الجسمي",
+   "تحديد كمية السوائل المعطاة للمريض",
+   "وضع المريض في غرفة العزل التنفسي ."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "الطلب من المريض الراحة وعدم الإجهاد الجسمي",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0605",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "ادخل مريض يعاني من ذات الرئة Pneumonia وهذا المريض مصاب بالسل الرئوي أي من الإجراءات التالية يجب على الممرض اتخاذها أولا:",
+  "q_ar": null,
+  "options": [
+   "وضع المريض في غرفة العزل التنفسي",
+   "تشجيع المريض على السعال وممارسة تمارين التنفس العميق",
+   "زيادة إعطاء السوائل للمريض",
+   "إعطاء الأكسجين"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "وضع المريض في غرفة العزل التنفسي",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0606",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "ادخل مريض إلى القسم يعاني من انفصال الشبكية (Detached Retina) وقد قام الممرض بوضع غطاء على العينين ما هو سبب وضع الغطاء على العينين:",
+  "q_ar": null,
+  "options": [
+   "لمنع حدوث العدوى",
+   "لتقليل حركة العينين",
+   "لمنع حدوث عمى ألوان",
+   "لمنع حدوث إصابات للعينين"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "لتقليل حركة العينين",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0607",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند ادخال center venous catheter أي من الأوضاع التالية يجب وضع المريض بها :",
+  "q_ar": null,
+  "options": [
+   "supaine",
+   "trendelenburg",
+   "reverse trendelenburg",
+   "high- fowlers"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "trendelenburg",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0608",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "وصف الطبيب دواء tagament (cimetidine) لمريض يعاني من قرحة معدية نازفة أي مما يلي يعتبر صحيحا لوصف هذا الدواء",
+  "q_ar": null,
+  "options": [
+   "يعمل هذا الدواء على تثبيط إفراز حمض المعدة gastric hydrochoric acid",
+   "يعمل على حماية الأغشية المخاطية من التلف",
+   "يزيد من افرازات المعدة القاعدية",
+   "يزيد من قدرة المعدة على امتصاص المواد الغذائية ."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "يعمل هذا الدواء على تثبيط إفراز حمض المعدة gastric hydrochoric acid",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0609",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "أدخل المريض إلى غرفة الأفاقة ( recovery room ) بعد إجراء عملية استئصال الزائدة الدودية له على الممرض قياس العلامات الحيوية لهذا المريض كل :",
+  "q_ar": null,
+  "options": [
+   "٥ دقائق",
+   "١٥ دقيقة",
+   "ساعتين",
+   "عند الضرورة فقط"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "١٥ دقيقة",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0610",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند تحضير الممرضة لإعطاء دواء ما قبل العملية قام الطبيب بوصفه ( فاليوم ١٠ ملغم عن طريق الفم ) لمريضة سيتم إجراء عملية استئصال الرحم لها ، اخبرت هذه المريضة الممرضة بأنها وزوجها يخططان لإنجاب طفل في السنوات القادمة ، ما أفضل إجراء للممرضة يجب عليها اتخاذه عند سماعها لهذا الكلام :",
+  "q_ar": null,
+  "options": [
+   "عدم إعطاء الدواء وإخبار الممرضة المسئولة والطبيب",
+   "إعطاء الدواء كما هو موصوف .",
+   "التأكد من توقع المريضة على النموذج الخاص بالعمليات .",
+   "إرسال المريضة إلى غرفة العمليات بدون إعطاء الدواء."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "عدم إعطاء الدواء وإخبار الممرضة المسئولة والطبيب",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0611",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند احضار مريض أجرى له عملية جراحية من غرفة الإفاقة إلى القسم أي من الأمور التالية على الممرض تقديمها بشكل فوري عند وصول المريض:",
+  "q_ar": null,
+  "options": [
+   "تقييم مكان العملية.",
+   "تقييم كمية البول والسوائل الوريدية",
+   "تقييم حالة المريض النفسية",
+   "اخذ العلامات الحيوية وتقييم مجرى الهواء ومعدل التنفس ."
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "اخذ العلامات الحيوية وتقييم مجرى الهواء ومعدل التنفس .",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0612",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "مريض فصيلة دمه AB ويحتاج إلى نقل دم أي من الإجابات التالية صحيحة:",
+  "q_ar": null,
+  "options": [
+   "يأخذ المريض دم من فصيلة A و B",
+   "يأخذ المريض دم من فصيلة AB",
+   "يأخذ المريض دم من فصيلة O فقط",
+   "يأخذ المريض دم من فصيلة A,B,O,AB"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "يأخذ المريض دم من فصيلة A,B,O,AB",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0613",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "أي من الأمور التالية أكثر أهمية على الممرض مراقبتها عند المرضى الذين يتعالجون بالأدوية الكيماوية (chemotherapy)",
+  "q_ar": null,
+  "options": [
+   "قياس درجة الحرارة عن طريق الشرج كل ٤ ساعات",
+   "تقييم العلامات الحيوية كل ٨ ساعات.",
+   "مراقبة قيء المريض إذا كان يحتوي على دم",
+   "تجنب إعطاء المريض خضروات وفواكه طازجة ."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "مراقبة قيء المريض إذا كان يحتوي على دم",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0614",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند تقديم الرعاية لمريض يتعالج بالأشعة (radiation therapy) على الممرض تقييم أي من الآثار الجانبية التالية :",
+  "q_ar": null,
+  "options": [
+   "الوذمة ( تجمع السوائل في الجسم )",
+   "الإنتانات والنزيف .",
+   "التحسس من العلاج",
+   "ارتفاع في درجة الحرارة"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "الإنتانات والنزيف .",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0615",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "أي من التالي يعتبر من العوامل المساعدة على الإصابة بفقر الدم الخبيث :",
+  "q_ar": null,
+  "options": [
+   "فقدان الدم الحاد",
+   "وجود المرض في العائلة ( تاريخ مرضي عائلي ايجابي)",
+   "الإنتانات",
+   "نقص في كمية الدم الحاد"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "وجود المرض في العائلة ( تاريخ مرضي عائلي ايجابي)",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0616",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "أثناء دخولك إلى غرفة المريض لاحظت أن أنبوب النزح الصدري chest tube قد خرج من صدر المريض أي من الإجراءات التالية يجب عليك اتخاذه فورا :",
+  "q_ar": null,
+  "options": [
+   "وضع شاش لاصق مكان فتحة الأنبوب لتغطيتها .",
+   "إخبار الطبيب",
+   "الطلب من المريض اخذ نفس عميق لحين وصول المساعدة .",
+   "إعادة الأنبوب إلى مكانه الصحيح"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "وضع شاش لاصق مكان فتحة الأنبوب لتغطيتها .",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0617",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند سؤال المريض الذي يعاني من السل الرئوي عن المدة التي سيقضيها في تناول العلاج الكيماني على الممرض ان تجيبه بالاتي:",
+  "q_ar": null,
+  "options": [
+   "من ١ سبوع الى ٢ اسبوع",
+   "من ٤ الى ٥ شهور",
+   "على الاقل من ٦ الى ١٢ شهر *",
+   "٣ سنوات او اكثر"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "على الاقل من ٦ الى ١٢ شهر *",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0618",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "لوضع تشخيص جازم لمريض مصاب بالسل الرئوي اي من الفحوصات التالية على الطبيب طلبها:",
+  "q_ar": null,
+  "options": [
+   "فحص وظائف الرئتين",
+   "فحص البلغم *",
+   "صورة اشعة للصدر",
+   "فحص الجلد"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "فحص البلغم *",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0619",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "لتحسين حالة التنفس للمريض عند نزع الانبوب الصدري له على الممرض ارشاد المريض الى:",
+  "q_ar": null,
+  "options": [
+   "البقاء في وضعية الاستلقاء الظهري",
+   "الطلب من المريض البقاء في الوضع الجانبي لمدة ساعتين",
+   "تشجيع المريض على السعال اوتمرينات التنفس العميق *",
+   "تشجيع المريض على الراحة في السرير وعدم الحركة"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "تشجيع المريض على السعال اوتمرينات التنفس العميق *",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0620",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند نقل المريض الى قسم الاشعة لاجراء تصوير له بدا متأثرا ومشوش وتبين بان الانبوب الصدري قد خرج من مكانه ما هو اول اجراء على الممرض اتخاذه في مثل هدة الحالة:",
+  "q_ar": null,
+  "options": [
+   "وضع المريض على جنبه الايمن فورا",
+   "وضع شا ش معقم مكان خروج الانبوب",
+   "تغطية مكان خروج الانبوب بقطعة قماش نظيفة *",
+   "محاولة اعادو الانبوب الى مكانة ."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "تغطية مكان خروج الانبوب بقطعة قماش نظيفة *",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0621",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "انت ممرض في قسم الطوارئ تم اخبارك بان هنالك مريض مصاب بطلق ناري في منطقة الصدر في طريقة الى الوصول الى القسم اي من الامور التالية عليك التخطيط للقيام بها فورا:",
+  "q_ar": null,
+  "options": [
+   "تجهيز غرفة العمليات",
+   "تحضير ادوات فتح الرغام",
+   "اخبار قسم الاشعة للتحضير لتصوير المريض",
+   "تحضير ادوات الانبوب الصدري*"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "تحضير ادوات الانبوب الصدري*",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0622",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "من اوليات الرعاية بعد عملية استئصال الحنجرة للمريض laryngectomy:",
+  "q_ar": null,
+  "options": [
+   "الدعم النفسي للمريض",
+   "مراقبة علامات الانتانات",
+   "المحافظة على بقاء القصبة الهوائية خالية من الافرازات *",
+   "ايجاد الطريقة المناسبة للاتصال مع المصاب"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "المحافظة على بقاء القصبة الهوائية خالية من الافرازات *",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0623",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "للتأكد من حصول المريض على تهوية جيدة وكافية بعد العملية ما هي اهم المداخلات الواجب على الممرض اجراءها:",
+  "q_ar": null,
+  "options": [
+   "اعطاء المريض الاكسجين عبر الانبوب الانفي",
+   "وضع المريض في الوضع الجانبي مع مد الرقبة",
+   "مراقبة حالة الرئتين باستخدام السماعة",
+   "تقييم تنفس المريض كل ساعتين"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0624",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "بعد عودة المريض من اجراء تنظير للقصبات الهوائية (laryngectomy) على الممرض ايقاف السوائل والطعام عن المريض لعدة ساعات اهم الاسباب لهذا الاجراء:",
+  "q_ar": null,
+  "options": [
+   "خوفا حدوث الاختناق عند المريض *",
+   "بسبب احتمالية حدوث تقيء عند المريض",
+   "وجود صعوبة في حركة الامعاء عند المريض",
+   "وجود الم في البطن عند المريض"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "خوفا حدوث الاختناق عند المريض *",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0625",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "تم تشخيص مريض باصابة بحصوة فسفورية في الكلى اي من المواد التالية يجب ان يحتويها الغذاء الذي يتناوله:",
+  "q_ar": null,
+  "options": [
+   "التفاح *",
+   "خبز القمح",
+   "الشكولاتة",
+   "الجبن الابيض"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "التفاح *",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0626",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "ادخل مريض إلى القسم وكانت نتائج فحوصات الدم المخبرية عنده كما يلي : Platelets 300,000 , WBC 3000 , RBC5000,000 أي من الاعتبارات التالية على الممرض أن يهتم بها أولا :",
+  "q_ar": null,
+  "options": [
+   "اخذ العلامات الحيوية للمريض كل ١٥ دقيقة",
+   "منع حدوث العدوى",
+   "تقييم الألم عند المريض",
+   "إعطاء الأغذية الغنية بالحديد للمريض ."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "منع حدوث العدوى",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0627",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند فحص نسبة الكالسيوم عند المريض وجدت ٦.٢ ما هو الاجراء الواجب على الممرض القيام به:",
+  "q_ar": null,
+  "options": [
+   "اخبار فريق الانعاش القلبي الرئوي",
+   "اخبار المختبر واعادة الفحص",
+   "اخذ العلامات الحيوية واخبار الطبيب *",
+   "عمل تخطيط قلب للمريض"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "اخذ العلامات الحيوية واخبار الطبيب *",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0628",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند تطبيق الجبس على أحد الاطراف على الممرض مراقبة المضاعفات التي قد تحدث عند المريض نتيجة تطبيق الجبس ما هي اهم المضاعفات التي على الممرض تقييمها اولا:",
+  "q_ar": null,
+  "options": [
+   "وجود حرارة في الطرف",
+   "تنمل الاطراف*",
+   "تشوة الجلد",
+   "عدم الراحة"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "تنمل الاطراف*",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0629",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "بعد اجراء عملية في العمود الفقري( الجراحات الشوكية ) للمريض ما هو الاجراء الضروري الذي على الممرض القيام به :",
+  "q_ar": null,
+  "options": [
+   "تشجيع المريض على تناول السوائل",
+   "وضع المريض في وضعية نصف الجلوس",
+   "تقييم الاطراف السفلى للمريض الدورة الدموية والاحساس .*",
+   "مراقبة حركة الامعاء عند المريض"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "تقييم الاطراف السفلى للمريض الدورة الدموية والاحساس .*",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0630",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "بعد اجراء عملية بديل الورك الكلي ( total hip replacement ) لمريض عمرة ٧٣ عام على الممرض ان يتوقع اي من المضاعفات التالية لمرضى الحوض:",
+  "q_ar": null,
+  "options": [
+   "النزيف",
+   "قصور التنفس",
+   "انتان الجرح",
+   "pulmonary embolism * الجلطة الرئوية"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "pulmonary embolism * الجلطة الرئوية",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0631",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "بعد نزع الجبس الذي تم موضعة لمدة طويلة على الممرض ارشاد المريض الى :",
+  "q_ar": null,
+  "options": [
+   "الاخبار عن عدم الراحة اذاوجد",
+   "تنظيف القدم بحركة دائرية",
+   "رفع القدم عند الجلوس لفترات طويلة *",
+   "تحريك القدم بحركة دائرية ٣ مرات يوميا"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "رفع القدم عند الجلوس لفترات طويلة *",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0632",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "اثناء رعاية المريض بعد اجراء عملية للبروستات اي من المضاعفات التالية على الممرض مراقبتها بعناية:",
+  "q_ar": null,
+  "options": [
+   "الانتانات",
+   "النزيف",
+   "تجمع الصديد حول الانبوب",
+   "احتباس البول عند المريض"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0633",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "اي من المضاعفات التالية الاخطر لمريض مصاب بفشل كلوي حاد:",
+  "q_ar": null,
+  "options": [
+   "النزيف *",
+   "الانتانات",
+   "نقصان الوزن",
+   "زيادة التبول"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "النزيف *",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0634",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "من فوائد شرب عصير التوت البري لمريض يعاني من انتانات المجاري البولية:",
+  "q_ar": null,
+  "options": [
+   "خفض نسبة حموضة البول PH*",
+   "طرد البكتيريا المسببة للإنتان",
+   "تحسين عملية الفلترة",
+   "التقليل من الاعراض والعلامات"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "خفض نسبة حموضة البول PH*",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0635",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "التشخيص التمريضي المناسب لمريض يعاني من التهاب القولون المتقرح (ulcerative colitis) هو:",
+  "q_ar": null,
+  "options": [
+   "الم في منطقة البطن مرتبط بضعف في حركة الأمعاء",
+   "الإسهال مرتبط بزيادة امتصاص المواد الغذائية في الأمعاء",
+   "زيادة السوائل في الجسم مرتبط بزيادة امتصاص الماء في الأمعاء",
+   "الحد من نشاطات المريض مرتبط بالشعور بالتعب عام"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "الحد من نشاطات المريض مرتبط بالشعور بالتعب عام",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0636",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند تقييم الممرض وجد بأنه يعاني من الم عند مد القدم ودرجة حرارته ٣٩ ويعاني من تصلب في الرقبة بناءً على هذه المعلومات ما هو التشخيص الطبي المتوقع لهذا المريض :",
+  "q_ar": null,
+  "options": [
+   "ورد في الدماغ",
+   "التهاب السحايا",
+   "صداع مزمن",
+   "روماتزم في المفاصل"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "التهاب السحايا",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0637",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "أجرى لمريض عملية بسور hemorrhoidectomy أي من التعليمات التالية يجب على الممرض إعطاءها للمريض:",
+  "q_ar": null,
+  "options": [
+   "يجب على المريض التقليل من السوائل لعدة أيام بعد العملية",
+   "على المريض زيادة تناول المواد الغذائية مثل الفواكه والخضروات والمواد الغنية بالألياف",
+   "تنظيف منطقة العملية يوميا",
+   "الحد من النشاطات لمنع حدوث نزيف"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "على المريض زيادة تناول المواد الغذائية مثل الفواكه والخضروات والمواد الغنية بالألياف",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0638",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "أي من الإجراءات التالية تحد من الإصابة بانتانات المجاري البولية لمريض تم تركيب قثطار للبول له:",
+  "q_ar": null,
+  "options": [
+   "إبقاء كيس البول حتى يمتلئ كامل ثم تغيره",
+   "وصل كيس بول حجم كبير خلال الليل",
+   "تحديد السوائل التي يأخذها المريض",
+   "تغيير كيس البول كل ٤ ساعات"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "وصل كيس بول حجم كبير خلال الليل",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0639",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "ادخل مريض عمرة ١٧ علما إلى القسم يشكو من فشل كلوي حاد من أهم الأعراض التي يشكو منها المريض عدم القدرة على التبول oliguria كم من الوقت يستغرق هذا المريض حتى يتمكن المريض من التبول مرة أخرى",
+  "q_ar": null,
+  "options": [
+   "١ – ٢ يوم",
+   "٣ – ٧ يوم",
+   "٢ أسبوع",
+   "٣ - ٤ أسبوع"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "٣ – ٧ يوم",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0640",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند تقييم المريض الذي تم تركيب قثطار البول له indwelling catheter لاحظ الممرض عدم وجود بول في كيس البول ما هو أول إجراء على الممرض اتخاذه :",
+  "q_ar": null,
+  "options": [
+   "إخبار الطبيب",
+   "فحص مكان القثطار وفحص وجود أية ثنيات في القثطار",
+   "تغيير القثطار",
+   "اخذ عينة البول من اجل الزراعة"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "فحص مكان القثطار وفحص وجود أية ثنيات في القثطار",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0641",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "بعد إجراء عملية زراعة الكلى للمريض أول ما يجب تقييمه بعد العملية هو",
+  "q_ar": null,
+  "options": [
+   "توازن السوائل والأملاح المعدنية في الجسم",
+   "حدوث انتانات عند المريض",
+   "تقييم غازات الدم",
+   "تقييم ارتفاع درجة الحرارة"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "توازن السوائل والأملاح المعدنية في الجسم",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0642",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "اي من التالية يكون عرضة للاصابة بسرطان البروستات اكثر من غيرة :",
+  "q_ar": null,
+  "options": [
+   "٥٥ سنة رجل اسود*",
+   "٥٥ سنة رجل اسيوي",
+   "٤٥ ستة رجل ابيض",
+   "٤٥ سنة رجل"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "٥٥ سنة رجل اسود*",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0643",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "في بداية الدوام الصباحي ( الشفت الصباحي ) تم عمل تروية للمثانة للمريض بإدخال سائل التروية ٢٤٠٠ مل وفي نهاية (الشفت ) تم تسجيل السوائل المطروحة فوجدت ٢٩٠٠ مل احسب كمية البول المطروحة في الشفت الصباحي .",
+  "q_ar": null,
+  "options": [
+   "٥٣٠٠ مل",
+   "٢٩٠٠ مل",
+   "٢٤٠ مل",
+   "٥٠٠ مل"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "٥٠٠ مل",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0447",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "الرقم الهيدروجيني الطبيعي للمهبل يكون:",
+  "q_ar": null,
+  "options": [
+   "متعادل",
+   "أساسي",
+   "حمضي",
+   "قلوي"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "حمضي",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0448",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "أي من العبارات التالية صحيحة حول الحبل السري؟",
+  "q_ar": null,
+  "options": [
+   "يحتوي على شريانين ووريد واحد",
+   "يحتوي على وريد واحد وشريانين",
+   "ينقل دم الأم عبر الشريان السري",
+   "يحتوي على شريان ووريد واحد"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "يحتوي على شريانين ووريد واحد",
+  "source_status": "single",
+  "flags": [
+   "duplicate_options"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0449",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "تنتج المشيمة كل ما يلي باستثناء:",
+  "q_ar": null,
+  "options": [
+   "الاستروجين",
+   "البروجسترون",
+   "لاكتوجين المشيمة البشري",
+   "الفيبرينوجين"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "الفيبرينوجين",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0450",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "بطانة رحم الحامل هي",
+  "q_ar": null,
+  "options": [
+   "عضلة الرحم",
+   "الغشاء الساقط",
+   "بطانة الرحم",
+   "الغلاف المحيط للرحم"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "الغشاء الساقط",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0451",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "يتكون الجزء السفلي من الرحم من:",
+  "q_ar": null,
+  "options": [
+   "العنق الرحمي",
+   "القرنية",
+   "الجسم",
+   "البرزخ"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "العنق الرحمي",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0452",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "يحتوي السائل الأمنيوسي على ما يلي باستثناء:",
+  "q_ar": null,
+  "options": [
+   "البروتين",
+   "بول الجنين",
+   "البكتيريا",
+   "بلازما"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "البكتيريا",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0453",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "مصطلح multigravida يعني:",
+  "q_ar": null,
+  "options": [
+   "امرأة أجري لها عمليتا إجهاض",
+   "حامل للمرة الثانية أو الفرعية في التسلسل الزمني",
+   "امرأة حملت مرتين أو أكثر",
+   "أم لديها طفلان أو أكثر"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "امرأة حملت مرتين أو أكثر",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0454",
+  "specialty": "midwifery",
+  "type": "mcq",
+  "q": "النساء الحوامل لأول مرة تسمى: -",
+  "q_ar": null,
+  "options": [
+   "multipara",
+   "prim gravida",
+   "grand multipara",
+   "multigravida"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "prim gravida",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

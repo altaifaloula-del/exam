@@ -1,0 +1,773 @@
+[
+ {
+  "id": "Q0834",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "NIDDK: شرب سوائل أكثر يساعد على غسل البكتيريا من المجاري البولية؛ فالسبب الأدق لنصح مريض التهاب المجاري البولية بزيادة السوائل هو تسهيل طرد البكتيريا (الخيارات الأخرى ثانوية أو غير دقيقة).",
+  "refs": [
+   {
+    "title": "Bladder Infection (UTI) in Adults: Treatment - NIDDK",
+    "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-infection-uti-in-adults/treatment"
+   },
+   {
+    "title": "Urinary tract infections (UTIs) - NHS",
+    "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/"
+   }
+  ]
+ },
+ {
+  "id": "Q0835",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "ابيضاض الدم سرطان في خلايا الدم ينشأ في نخاع العظم ويُنتج أعدادًا كبيرة من الخلايا غير الطبيعية، وغالبًا من كريات الدم البيضاء (MedlinePlus).",
+  "refs": [
+   {
+    "title": "Leukemia - MedlinePlus",
+    "url": "https://medlineplus.gov/leukemia.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0836",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "المراجع (MedlinePlus وOrthoInfo) تذكر الألم والتورم والكدمات والتشوه وفقد الحركة ولا تنص على حرارة الطرف؛ وكتاب Open RN يذكر تغيّر لون/حرارة الجلد وتنميلًا عند اعتلال الأعصاب/الأوعية. «جميع ما ذكر» غير مرجّح لأن الخيارين 0 و1 متناقضان (ارتفاع مقابل انخفاض الحرارة)، والأرجح عُرفًا الخيار 0 (تورم مع حرارة التهابية موضعية) لكن الحسم غير مؤكد.",
+  "refs": [
+   {
+    "title": "Fractures - MedlinePlus",
+    "url": "https://medlineplus.gov/fractures.html"
+   },
+   {
+    "title": "Fractures (Broken Bones) - OrthoInfo",
+    "url": "https://www.orthoinfo.org/diseases--conditions/fractures-broken-bones"
+   },
+   {
+    "title": "Chapter 10 Musculoskeletal System Alterations - Health Alterations (Open RN) - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK613072/"
+   }
+  ]
+ },
+ {
+  "id": "Q0837",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "القسطرة القلبية إجراء يُستخدم لتشخيص بعض أمراض القلب ولعلاجها أيضًا (مثل رأب الشريان التاجي وإصلاح العيوب وتبديل الصمامات) حسب NHLBI، فالخيار «تشخيصي وعلاجي» هو الصحيح.",
+  "refs": [
+   {
+    "title": "Cardiac Catheterization - NHLBI, NIH",
+    "url": "https://www.nhlbi.nih.gov/health/cardiac-catheterization"
+   }
+  ]
+ },
+ {
+  "id": "Q0838",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "إماهة المريض بالسوائل (معادلة Parkland) أساس رعاية الحروق الكبيرة، مع الحذر من هبوط حرارة الجسم؛ أما منع السوائل لتسهيل حساب الداخل والخارج أو إبقاء المريض صائمًا في مكان جيد التهوية فليسا تدخلاً مناسبًا، فيبقى الخيار 0. المراجع تؤكد السوائل وخطر انخفاض الحرارة ولا تنص حرفيًا على «تدفئة المريض».",
+  "refs": [
+   {
+    "title": "Burn Fluid Resuscitation - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK534227/"
+   },
+   {
+    "title": "Thermal Burns - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK430773/"
+   }
+  ]
+ },
+ {
+  "id": "Q0839",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "قاعدة التسعات للبالغ: الجذع 36% (أمامي 18 + خلفي 18) + الطرف العلوي 9% = 45%. ذلك بافتراض أن «اليد اليمنى» تعني الطرف العلوي كاملًا؛ ولو حُسبت الكف وحدها (≈1%) لصار المجموع ≈37% ولا يوجد خيار يطابقه، فالخيار 45% هو المنسجم مع القاعدة.",
+  "refs": [
+   {
+    "title": "Rule of Nines - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK513287/"
+   },
+   {
+    "title": "Thermal Burns - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK430773/"
+   }
+  ]
+ },
+ {
+  "id": "Q0829",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "تشمل أسباب الانسداد البولي حصى الحالب والأورام والتضيقات وتضخم البروستاتا؛ أما الألم فهو عَرَض ناتج عن الانسداد وليس سببًا له، فهو المستثنى (StatPearls).",
+  "refs": [
+   {
+    "title": "Obstructive Uropathy - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK558921/"
+   }
+  ]
+ },
+ {
+  "id": "Q0830",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "قائمة فحوص ما قبل الجراحة الشائعة في Open RN (على NCBI) تضم CBC وملف التخثر ووظائف الكلى/الكبد وتحليل البول وصورة الصدر وتخطيط القلب، ولا تتضمن فحص البراز؛ فهو المستثنى. الاستنتاج من غياب الفحص عن القائمة لا من نص صريح.",
+  "refs": [
+   {
+    "title": "Chapter 2 Perioperative Care - Health Alterations (Open RN) - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK613066/"
+   }
+  ]
+ },
+ {
+  "id": "Q0831",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الأنسولين يُعطى غالبًا تحت الجلد في الأرداف أو الفخذ أو الذراع أو البطن (NIDDK وStatPearls)، ويُذكر الحقن العضلي كمسار ممكن نادر الاستعمال؛ أما الرقبة فليست موضع حقن أنسولين، فهي المستثناة.",
+  "refs": [
+   {
+    "title": "Insulin - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK560688/"
+   },
+   {
+    "title": "Regular Insulin - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK553094/"
+   },
+   {
+    "title": "Insulin, Medicines & Other Diabetes Treatments - NIDDK",
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/insulin-medicines-treatments"
+   }
+  ]
+ },
+ {
+  "id": "Q0832",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "مواضع جسّ النبض الشائعة (StatPearls): الكعبري والعضدي والفخذي والمأبضي والظنبوبي الخلفي وظهر القدم والسباتي؛ أما القلب فيُقاس نبضه القمّي بالسماعة لا بالجس، و«الزند» قد يقصد به الرسغ (موضع النبض الكعبري) أو الشريان الزندي. السؤال ملتبس وأرجّح «القلب» كمستثنى لكن دون حسم.",
+  "refs": [
+   {
+    "title": "Peripheral Pulse - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK542175/"
+   }
+  ]
+ },
+ {
+  "id": "Q0840",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "المقصود غالبًا التحقق من موضع الأنبوب قبل التغذية، والإجابة المتوقعة من الكتب القديمة «1 و3» (الإصغاء + فقاعات الماء). لكن الإرشادات الحديثة تعدّ الإصغاء (whoosh test) غير موثوق وتوصي بالأشعة أو قياس pH للسائل المسحوب، ولا يوجد مرجع يدعم اختبار الفقاعات؛ فالخيار 3 هو الأقرب لمفتاح الكتاب القديم لا للممارسة الحالية.",
+  "refs": [
+   {
+    "title": "Chapter 5 Insert Nasogastric and Feeding Tubes - Nursing Advanced Skills (Open RN) - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK594494/"
+   },
+   {
+    "title": "Nasogastric Tube Insertion - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK556063/"
+   },
+   {
+    "title": "Evidence-based strategies to prevent enteral nutrition complications - American Nurse",
+    "url": "https://www.myamericannurse.com/evidence-based-strategies-to-prevent-enteral-nutrition-complications/"
+   }
+  ]
+ },
+ {
+  "id": "Q0841",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "WHO وNHS يعتمدان الإبط لقياس حرارة الوليد/الرضيع لأمانه وسهولته (يعطي تقديرًا جيدًا للحرارة المركزية)، والفم غير مناسب للوليد؛ لكن AAP يرى الشرج الأدق للرضع دون 3 أشهر (وWHO نفسه يذكر أن الشرج أدق عند الاشتباه بانخفاض الحرارة)، فالإرشادات تختلف. الإبط هو الجواب الشائع في بنوك التمريض والأقرب لتوصية WHO/NHS.",
+  "refs": [
+   {
+    "title": "Thermal protection of the newborn: a practical guide - WHO",
+    "url": "https://apps.who.int/iris/bitstream/handle/10665/63986/WHO_RHT_MSM_97.2.pdf"
+   },
+   {
+    "title": "How to take your baby's temperature - NHS",
+    "url": "https://www.nhs.uk/conditions/baby/health/how-to-take-your-babys-temperature/"
+   },
+   {
+    "title": "How to Take a Child's Temperature - HealthyChildren.org (AAP)",
+    "url": "https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/How-to-Take-a-Childs-Temperature.aspx"
+   }
+  ]
+ },
+ {
+  "id": "Q0842",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الصفائح الدموية تلتصق وتتجمع عند إصابة الوعاء الدموي وتكوّن السدادة الأولية لإيقاف النزف (الإرقاء الأولي) ثم يثبّتها الفيبرين؛ وهي الجواب المعتاد، علمًا بأن بلازما الدم تحمل عوامل التخثر لكنها ليست الخلية المسؤولة عن السدادة.",
+  "refs": [
+   {
+    "title": "Physiology, Platelet - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK470328/"
+   },
+   {
+    "title": "Physiology, Coagulation Pathways - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482253/"
+   }
+  ]
+ },
+ {
+  "id": "Q0843",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "مدة الحمل من الانغراس/الإخصاب 266 يومًا (≈38 أسبوعًا)، وتُحسب 280 يومًا (40 أسبوعًا) من أول يوم لآخر دورة؛ ولا يتضمن السؤال 40 أسبوعًا، فأقرب خيار للمدة الفعلية هو 38 أسبوعًا. أما 37 أسبوعًا فهو بداية «الحمل المبكر المكتمل» لا المدة الطبيعية. الصياغة ملتبسة (لم يحدد مبدأ العدّ).",
+  "refs": [
+   {
+    "title": "Physiology, Pregnancy - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK559304/"
+   }
+  ]
+ },
+ {
+  "id": "Q0844",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "المعدل الطبيعي لنبض الوليد 120-160 نبضة/دقيقة (جدول العلامات الحيوية الطبيعية للوليد في Open RN على NCBI)، بينما 60-100 معدل البالغ.",
+  "refs": [
+   {
+    "title": "Table 12.5c. Normal Newborn Vital Signs - Nursing Health Promotion (Open RN) - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK615345/table/ch12.tab4/?report=objectonly"
+   }
+  ]
+ },
+ {
+  "id": "Q0845",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "تعرّف WHO ارتفاع ضغط الدم بأنه ≥140/90 ملم زئبق، والمدى الطبيعي للبالغ بين 90/60 و120/80 (MedlinePlus)؛ فالمجال 140-160 هو الارتفاع الفعلي (إرشادات ACC/AHA تبدأ من 130/80 لكن 140-160 مرتفع بكل الإرشادات).",
+  "refs": [
+   {
+    "title": "Hypertension - WHO fact sheet",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/hypertension"
+   },
+   {
+    "title": "Vital signs - MedlinePlus",
+    "url": "https://medlineplus.gov/ency/article/002341.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0846",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الغرض من اختبار الحساسية الجلدي قبل إعطاء الدواء هو تحديد ما إذا كان المريض يعاني حساسية فعلية منه (CDC: اختبار الجلد للبنسلين لتحديد الحساسية الفعلية)، وليس «تجربة الدواء» للاستمرار في إعطائه.",
+  "refs": [
+   {
+    "title": "Penicillin Allergy - CDC Clinicians",
+    "url": "https://www.cdc.gov/antibiotic-use/clinicians/penicillin-allergy.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0847",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "المستوى الطبيعي لتشبع الدم بالأكسجين (SpO2) بين 95% و100% (MedlinePlus)، وOpen RN يضع الحد الأدنى فوق 94% للبالغ السليم.",
+  "refs": [
+   {
+    "title": "Pulse Oximetry - MedlinePlus",
+    "url": "https://medlineplus.gov/lab-tests/pulse-oximetry/"
+   },
+   {
+    "title": "Chapter 11 Oxygen Therapy - Nursing Skills (Open RN) - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK596733/"
+   }
+  ]
+ },
+ {
+  "id": "Q0848",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "قبل بدء نقل الدم يُؤخذ قياس أساسي للعلامات الحيوية (نبض، حرارة، ضغط، تشبع أكسجين، تنفس) لمقارنتها بما بعد البدء (StatPearls)؛ أما مراقبة المريض فتكون أثناء النقل وبعد بدئه لا قبله.",
+  "refs": [
+   {
+    "title": "Blood Transfusion - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK499824/"
+   }
+  ]
+ },
+ {
+  "id": "Q0852",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "يُقاس نبض المريض (النبض القمّي/معدل القلب) قبل إعطاء الديجوكسين؛ فإذا وُجد بطء في القلب يُعاد تقييم العلاج ويُحجب الدواء عند اللزوم (StatPearls)، وMedlinePlus يوجّه لمتابعة النبض. الخياران الآخران ليسا شرطًا قبل الجرعة.",
+  "refs": [
+   {
+    "title": "Digoxin - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK556025/"
+   },
+   {
+    "title": "Digoxin - MedlinePlus Drug Information",
+    "url": "https://medlineplus.gov/druginfo/meds/a682301.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0849",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الألم الشديد بعد دقائق من تركيب المحلول يوحي بتسرّب المحلول للنسيج/التهاب وريد/تفاعل؛ وOpen RN ينص على إيقاف التسريب (وإزالة القنية) وفق سياسة المؤسسة، ثم يُبلَّغ الطبيب. فأول تصرف هو إيقاف المغذي فورًا، لا إبلاغ رئيس القسم.",
+  "refs": [
+   {
+    "title": "Chapter 1 Initiate IV Therapy - Nursing Advanced Skills (Open RN) - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK594499/"
+   }
+  ]
+ },
+ {
+  "id": "Q0850",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الدرن (السل) مرض بكتيري تسببه عصية Mycobacterium tuberculosis (CDC).",
+  "refs": [
+   {
+    "title": "About Tuberculosis - CDC",
+    "url": "https://www.cdc.gov/tb/about/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0851",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "وفق AHA 2025 يُقيَّم الشخص فاقد الوعي للتنفس (غائب/لهاث فقط) ويفحص العاملون الصحيون النبض ≤10 ثوانٍ، وعند غياب نبض واضح يُعدّ توقف قلب ويبدأ الإنعاش؛ فالخيار «التأكد من وجود نبض وتنفس» هو الشرط المباشر قبل الضغطات. تقييم الوعي واستدعاء الفريق خطوات سابقة/موازية لكنها ليست وحدها كافية، والصياغة تحتمل اللبس.",
+  "refs": [
+   {
+    "title": "Adult Basic and Advanced Life Support - AHA 2025 CPR & ECC Guidelines",
+    "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-and-advanced-life-support"
+   },
+   {
+    "title": "Cardiac Arrest (Nursing) - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK568720/"
+   }
+  ]
+ },
+ {
+  "id": "Q0853",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "من أعراض السكري كثرة التبول وشدة العطش (NIDDK)؛ أما «قلة البول» فليست عرضًا له بل العكس، فهي المستثناة.",
+  "refs": [
+   {
+    "title": "Symptoms & Causes of Diabetes - NIDDK",
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/symptoms-causes"
+   }
+  ]
+ },
+ {
+  "id": "Q0854",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "درجة حرارة البالغ الطبيعية بين 36.5 و37.3 م° بمتوسط 37 م° (MedlinePlus)، فأقرب خيار هو 37.",
+  "refs": [
+   {
+    "title": "Vital signs - MedlinePlus",
+    "url": "https://medlineplus.gov/ency/article/002341.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0855",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الحجم الطبيعي للبول في 24 ساعة للبالغ 800-2000 مل مع شرب نحو لترين يوميًا (MedlinePlus)؛ فـ1500 مل هو الضمن المدى، و500/600 مل أقل من المدى الطبيعي.",
+  "refs": [
+   {
+    "title": "Urine 24-hour volume - MedlinePlus",
+    "url": "https://medlineplus.gov/ency/article/003425.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0856",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "QID اختصار اللاتينية quater in die أي أربع مرات يوميًا (وTID ثلاث مرات وBID مرتين). المرجع المسترجع عام (ويكيبيديا) لذا تبقى الثقة متوسطة، والمعنى متفق عليه في الصيدلة.",
+  "refs": [
+   {
+    "title": "List of abbreviations used in medical prescriptions - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_abbreviations_used_in_medical_prescriptions"
+   }
+  ]
+ },
+ {
+  "id": "Q0857",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الرجفان البطيني إيقاع قاتل بلا نبض (شكل موجي ليفي بلا QRS) يتطلب إنعاشًا قلبيًا رئويًا عالي الجودة وصدمة كهربائية فورًا (StatPearls)، بخلاف الحصار القلبي الذي لا يستلزم إنعاشًا بالضرورة، والخيار الثاني غامض.",
+  "refs": [
+   {
+    "title": "Ventricular Fibrillation - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK537120/"
+   }
+  ]
+ },
+ {
+  "id": "Q0858",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال ناقص (مُعلَّم truncated): لا تُذكر الجرعة المطلوبة للمريض؛ التركيز المتاح 1 جم/10 مل (=100 ملغ/مل) لا يكفي لتحديد الحجم دون الجرعة المطلوبة، فلا يمكن الحسم بين 5 أو 5.5 أو 6.5 مل.",
+  "refs": []
+ },
+ {
+  "id": "Q0859",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخرف (Dementia) تدهور في الوظائف الإدراكية/العقلية (الذاكرة والتفكير والقدرة على أداء الأنشطة اليومية) يفوق ما تفسره الشيخوخة (WHO)، وليس فقدان وعي.",
+  "refs": [
+   {
+    "title": "Dementia - WHO fact sheet",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/dementia"
+   }
+  ]
+ },
+ {
+  "id": "Q0860",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال ناقص (لا يظهر المطلوب) لكن الخيارات تتيح الاستبعاد: من سمات متلازمة داون قصر الرأس المستدير (brachycephaly) مع تسطح القفا (Medscape)، بينما الأنف صغير بجسر مسطح (لا كبير) واللسان بارز (لا صغير) حسب CDC وMedlinePlus. الثقة متوسطة لنقص صياغة السؤال.",
+  "refs": [
+   {
+    "title": "Down Syndrome Clinical Presentation - Medscape",
+    "url": "https://emedicine.medscape.com/article/943216-clinical"
+   },
+   {
+    "title": "Down Syndrome - CDC",
+    "url": "https://www.cdc.gov/birth-defects/about/down-syndrome.html"
+   },
+   {
+    "title": "Down syndrome - MedlinePlus Genetics",
+    "url": "https://medlineplus.gov/genetics/condition/down-syndrome/"
+   }
+  ]
+ },
+ {
+  "id": "Q0861",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "التهاب المرارة يستلزم نظامًا قليل الدهون وتجنب الأغذية عالية الدهون؛ والبيض (الصفار) والجبن كاملة الدسم أعلى الخيارات دهونًا، أما الفواكه المطهية واللحم المسلوق (قليل الدهن) فمقبولة. المراجع تنص على تجنب الدهون والحمية قليلة الدهون ولا تسمّي البيض والجبن صراحة. (الدائرة اليدوية في المصدر لم تُعتمد.)",
+  "refs": [
+   {
+    "title": "Eating, Diet, & Nutrition for Gallstones - NIDDK",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones/eating-diet-nutrition"
+   },
+   {
+    "title": "Gallstones - NHS",
+    "url": "https://www.nhs.uk/conditions/gallstones/"
+   },
+   {
+    "title": "Acute Cholecystitis - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK459171/"
+   }
+  ]
+ },
+ {
+  "id": "Q0862",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "لا مرجع موحّد لهذا الترتيب؛ في قائمة فحص الرأس-القدم (Open RN) يأتي بعد العلامات الحيوية وتقييم الألم تقييمُ الجهاز العصبي ومستوى الوعي قبل الجلد والرئتين، لكن الترتيب عُرفي (قد تُقدَّم الرئتان في نهج ABC أو يبدأ المسح العام بالمظهر/الجلد)، فالحسم غير مؤكد.",
+  "refs": [
+   {
+    "title": "Appendix C – Head-to-Toe Assessment Checklist - Nursing Skills (Open RN) - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK596715/"
+   }
+  ]
+ },
+ {
+  "id": "Q0863",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "قائمة Open RN لفحوص ما قبل الجراحة تضم ملف التخثر ووظائف الكلى والكبد جميعًا دون تمييز أيها «إلزامي لأي عملية»؛ وأقربها لكل جراحة هو اختبار التخثر/النزف لارتباطه المباشر بخطر النزف، وهو استنتاج عُرفي وليس نصًا صريحًا، والإرشادات الحديثة تجعل الفحوص انتقائية حسب الحالة. (الدائرة اليدوية في المصدر لم تُعتمد.)",
+  "refs": [
+   {
+    "title": "Chapter 2 Perioperative Care - Health Alterations (Open RN) - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK613066/"
+   }
+  ]
+ },
+ {
+  "id": "Q0864",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نهاية السؤال مشوّهة (source_typo). StatPearls ينص على أن الفحص العصبي قبل الإجراء (قوة وإحساس الأطراف) ضروري للتقييم والتوثيق، كما يجعل نقص السوائل (hypovolemia) مضاد استطباب نسبيًا بسبب خطر هبوط الضغط؛ فالخياران 0 و2 مدعومان ولا يدعم أي مرجع التدخين. أرجّح الخيار 2 (وظائف الحركة) دون حسم.",
+  "refs": [
+   {
+    "title": "Spinal Anesthesia - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK537299/"
+   }
+  ]
+ },
+ {
+  "id": "Q0865",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال مشوّش داخليًا: «هرمون مدر للبول» يتناقض مع الخيارين الآخرين اللذين يصفان عمل الهرمون المضاد لإدرار البول ADH (ينظم ماء الكلى ويقل في السكري الكاذب)؛ فلا جواب واحد قابل للدفاع عنه، والدائرة اليدوية «كل ما سبق» في المصدر غير معتمدة.",
+  "refs": []
+ },
+ {
+  "id": "Q0866",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الفلورازيبام مهدئ منوّم يسبب دوخة ونعاسًا وترنحًا وسقوطًا (نشرة RxList)، والتدبير الوقائي بعد الجرعة في بنوك التمريض هو رفع جوانب السرير (ونظيره السؤال عن الديازيبام). لكن «جرس الاستدعاء في متناول اليد» ممارسة مقبولة أيضًا والممارسة الحديثة تقيّد استعمال الجوانب، فالحسم اصطلاحي. المرجع الداعم للإجراء ضعيف (Brainly).",
+  "refs": [
+   {
+    "title": "Dalmane (Flurazepam) - RxList",
+    "url": "https://www.rxlist.com/dalmane-drug.htm"
+   },
+   {
+    "title": "Brainly: nurse gives a dose of diazepam - most important action (weak source)",
+    "url": "https://brainly.com/question/28188670"
+   }
+  ]
+ },
+ {
+  "id": "Q0867",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الوخز وتورم أصابع القدم بعد رباط ضاغط علامتان على ضعف الدورة/الأعصاب؛ Columbia Doctors: علامات شدّ الرباط الخدر والوخز والتورم أسفله و«يُرخى الرباط إذا شدّ». التسلسل التمريضي الأسلم: تقييم الحالة الوعائية العصبية (جس النبض) أولًا ثم إرخاء الرباط، فالخياران 0 و1 مقبولان وأرجّح 0 دون حسم.",
+  "refs": [
+   {
+    "title": "Rest, Ice, Compression, and Elevation (RICE) Information - Columbia Doctors",
+    "url": "https://www.columbiadoctors.org/health-library/article/rest-ice-compression-elevation-rice/"
+   }
+  ]
+ },
+ {
+  "id": "Q0868",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "في البشرة الداكنة تُكتشف الزرقة/نقص الأكسجين بفحص المناطق قليلة التصبغ كالغشاء المخاطي للفم والملتحمة (وفراش الأظافر) لأن الجلد لا يُظهرها (American Nurse وCleveland Clinic)؛ فالخيار 0 هو الجواب المنهجي للسؤال. قياس التأكسج وسيلة موضوعية أيضًا والصياغة تحتمل لبسًا مع الخيار 3، وشفتا المريض الداكنتان أقل دلالة.",
+  "refs": [
+   {
+    "title": "Color awareness: A must for patient assessment - American Nurse",
+    "url": "https://www.myamericannurse.com/color-awareness-a-must-for-patient-assessment/"
+   },
+   {
+    "title": "Cyanosis - Cleveland Clinic",
+    "url": "https://my.clevelandclinic.org/health/diseases/24297-cyanosis"
+   },
+   {
+    "title": "Cyanosis - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK559167/"
+   }
+  ]
+ },
+ {
+  "id": "Q0869",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "فحص سكر/أسيتون البول يتم على عينة «المرة الثانية» (second-voided): يُتخلص من أول بولة وتؤخذ أول عينة تالية؛ Clinical Methods يصف «second voided spot urine» بأنها تقيس سكر البول في فترة قصيرة بعد بولة أولى مُهملة. أما تجميع 24 ساعة (الخيار 2) فلمتابعة الضبط العام. نص السؤال ركيك والمرجع يصف الطريقة دون وصفها «أمثل».",
+  "refs": [
+   {
+    "title": "Glucosuria - Clinical Methods - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK245/"
+   }
+  ]
+ },
+ {
+  "id": "Q0870",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "عند تنظيف الجرح تُجرى الحركات من المنطقة الأنظف إلى الأكثر تلوثًا (خط الغرز هو الأقل تلوثًا ويُنظَّف أولًا)، ويُستعمل المحلول الملحي بالحقنة بلطف، وتُتجنّب المطهرات السامة للخلايا كالبيتادين وبيروكسيد الهيدروجين، فتسقط الخيارات الأخرى (Open RN على NCBI).",
+  "refs": [
+   {
+    "title": "Chapter 20 Wound Care - Nursing Skills (Open RN) - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK596725/"
+   }
+  ]
+ },
+ {
+  "id": "Q0871",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "StatPearls: بعد استئصال البواسير يُتوقع ألم وامتلاء شرجي أسبوعًا، و«ضبط الألم واستعمال ملينات البراز أولوية» بعد العملية، كما يُثقَّف المريض على الحمامات الجلوسية (sitz baths)؛ فالخياران 2 (حمام دافئ) و3 (ملين لتخفيف ألم الإخراج) مدعومان وأرجّح 3 لنصّ «الأولوية» دون حسم، أما الخياران 0 و1 فغير مدعومين.",
+  "refs": [
+   {
+    "title": "Hemorrhoidectomy - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK549864/"
+   }
+  ]
+ },
+ {
+  "id": "Q0872",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "من علامات نقص الأكسجة: ضيق التنفس (dyspnea) وتسرع التنفس والقلب والتململ، ثم الارتباك كعلامة متقدمة (StatPearls وOpen RN)، بينما بطء القلب وهبوط الضغط علامتان متأخرتان وليستا نمطيتين. الخيار 2 (ضيق النفس + تشتت الإدراك) يضم علامتين مذكورتين، والخيار 3 (تسرع القلب علامة مبكرة لكن التعب/الضعف غير مذكور) أضعف. الصياغة (source_typo) تحتمل لبسًا.",
+  "refs": [
+   {
+    "title": "Chapter 11 Oxygen Therapy - Nursing Skills (Open RN) - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK596733/"
+   },
+   {
+    "title": "Hypoxia and Hypoxemia - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482316/"
+   }
+  ]
+ },
+ {
+  "id": "Q0873",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "في سمّية الثيوفيلين يُلاحَظ تسارع القلب (يحدث في معظم الجرعات الزائدة الحادة) والعصبية/القلق والرعاش، إضافة إلى القيء الشائع وعدم انتظام النظم؛ فالخيار 2 (تسارع ضربات القلب والقلق) الأوفق، أما الخيار 1 فيضم القيء الصحيح لكن «تهيج جلدي» و«جفاف» غير نمطيين، والخيار 0 (هبوط ضغط) أقل ورودًا. «التعب» غير منصوص عليه.",
+  "refs": [
+   {
+    "title": "Theophylline Toxicity - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK532962/"
+   }
+  ]
+ },
+ {
+  "id": "Q0874",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الأنسولين العادي يبلغ ذروته بعد 2-4 ساعات، وتفويت الإفطار بعد جرعة 22 وحدة يعرّض لانخفاض السكر؛ وأعراضه الأولى الأدرينالية (تعرق، خفقان، رعشة) ثم العصبية (ارتباك/نعاس) حسب StatPearls وMedlinePlus، فأهم ما يلاحظه الممرض هو التعرق الشديد. «زيادة البول» و«العطش» من أعراض ارتفاع السكر، والنعاس متأخر وأقل نوعية.",
+  "refs": [
+   {
+    "title": "Regular Insulin - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK553094/"
+   },
+   {
+    "title": "Low Blood Glucose (Hypoglycemia) - MedlinePlus",
+    "url": "https://medlineplus.gov/hypoglycemia.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0875",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال بلا سياق (ناقص): في مريض COPD قد تؤدي زيادة الأكسجين إلى ارتفاع CO2 (الخيار 1)، وفي سمّية الأكسجين المطوّلة يتأثر السطح السنخي (الخيار 3)، ولا تحدد الصياغة المقصود ولا تُعرف مفتاح المصدر؛ فلا جواب واحد قابل للدفاع عنه.",
+  "refs": []
+ },
+ {
+  "id": "Q0876",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الحماض التنفسي غير المعوَّض = pH منخفض مع PaCO2 مرتفع وHCO3 طبيعي، ولا يوجد هذا الخيار: الخيار 1 مكتوب «نقص PCO2 وHCO3 عادي» (وهو قلاء تنفسي غير معوَّض، ويبدو خطأ نسخ source_typo)، والخيار 0 حماض مختلط (HCO3 منخفض)، والخيار 3 حماض تنفسي معوَّض جزئيًا/مزمن؛ فلا يمكن الحسم دون افتراض تصحيح الخيار 1.",
+  "refs": [
+   {
+    "title": "Respiratory Acidosis - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482430/"
+   }
+  ]
+ },
+ {
+  "id": "Q0877",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "مريض السكري بحرارة وسعال وضيق نفس يُشتبه التهاب رئوي/عدوى؛ وأهم مكوّنات CBC للتقييم هو عدد كريات الدم البيضاء WBC لأن العدوى (وغالبًا البكتيرية) من أشيع أسباب ارتفاعها (StatPearls).",
+  "refs": [
+   {
+    "title": "Leukocytosis - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK560882/"
+   }
+  ]
+ },
+ {
+  "id": "Q0878",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "1 جرام = 1000 ملجم (milli = 10^-3)، فـ500 ملجم = 0.5 جم (NIST).",
+  "refs": [
+   {
+    "title": "Metric (SI) Prefixes - NIST",
+    "url": "https://www.nist.gov/pml/owm/metric-si-prefixes"
+   }
+  ]
+ }
+]

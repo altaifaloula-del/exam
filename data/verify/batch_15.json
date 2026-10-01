@@ -1,0 +1,958 @@
+[
+ {
+  "id": "Q0393",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Before administering Digitalis the nurse must",
+  "q_ar": null,
+  "options": [
+   "temperature measurement",
+   "Blood pressure measurement",
+   "pulse oximetry",
+   "respiratory rate measurement"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "المعتمد قبل إعطاء الديجوكسين فحص النبض القمّي لمدة دقيقة (وحجب الجرعة عند بطء النبض) — StatPearls يذكر إيقافه عند بطء القلب؛ لكن لا يوجد بين الخيارات «قياس النبض»، و«pulse oximetry» قياس تأكسج لا علاقة له بالقاعدة (غالبًا ترجمة خاطئة لـ «قياس النبض»)، فلا جواب وحيد دقيق.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0394",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The bottom and surface are cleaned in the hospital. Are you?",
+  "q_ar": null,
+  "options": [
+   "Soap and water",
+   "Insecticide",
+   "Disinfectant",
+   "all of the above"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "all of the above",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks an answer; earlier verdict was not conclusive",
+   "previous_verdict": "uncertain",
+   "previous_answer": 3,
+   "previous_note_ar": "هو على الأرجح نفس سؤال Q0364 (مفتاحه «كل ما سبق»): إرشادات CDC تجيز تنظيف الأرضيات بالمنظف والماء أو المطهّر؛ لكن «Insecticide» ليس مطهّرًا لأرضيات المستشفى فيضعف الخيار «كل ما سبق» منطقيًا والخياران 0 و2 صحيحان، فالخيارات معيبة.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0405",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Among the causes of anemia in pregnant women are",
+  "q_ar": null,
+  "options": [
+   "Do not take folic acid tablets",
+   "iron loss during menstruation",
+   "Avoid eating iron -rich foods",
+   "Not eating foods rich in proteins and vitamins"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "uncertain",
+   "previous_answer": 0,
+   "previous_note_ar": "الخيار الوحيد الظاهر (عدم تناول أقراص حمض الفوليك) سبب معروف لفقر الدم في الحمل (نقص الفولات)، لكن بقية الخيارات مفقودة فلا يمكن الجزم بأنه مفتاح السؤال؛ WHO يذكر نقص الحديد والفولات من الأسباب.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0400",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "neurosurgic shock common most in the surgery asepsis surgical",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "العبارة مشوَّهة («neurosurgic shock common most in the surgery asepsis surgical») ولا يُفهم المقصود (الصدمة العصبية المنشأ نادرة وأشيع صدمات الجراحة نقص الحجم).",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0402",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Unintentional wounds occur during treatment or therapy",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "نص السؤال مبتور/غير مفهوم («unintentional wound cause treat and therapy») ولا يمكن استخلاص عبارة قابلة للحكم عليها بصح أو خطأ.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0408",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "physical examination give complete partial picture for physicology function",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "question text was replaced by a complete copy found in a new source",
+   "previous_verdict": "unanswerable",
+   "previous_answer": null,
+   "previous_note_ar": "العبارة متناقضة ومبتورة («complete partial picture»)؛ لا يمكن تحديد هل المقصود صورة كاملة أم جزئية للوظيفة الفيزيولوجية.",
+   "new_source_marked_indexes": []
+  }
+ },
+ {
+  "id": "Q0409",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "percussion hammer with rubber head use for check sensory",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "True",
+  "source_status": "single",
+  "flags": [
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [],
+  "RECHECK": {
+   "why": "a new source marks a different answer than the one verified before",
+   "previous_verdict": "answered",
+   "previous_answer": 1,
+   "previous_note_ar": "مطرقة الانعكاسات (ذات الرأس المطاطي) تُستعمل لفحص المنعكسات الوترية العميقة وليس لفحص الحس، فالعبارة خاطئة (النص مبتور قليلًا، والمراجع لا تذكر استخدامًا حسيًا).",
+   "new_source_marked_indexes": [
+    0
+   ]
+  }
+ },
+ {
+  "id": "Q0644",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "the suitable position following. lumber puncture is",
+  "q_ar": null,
+  "options": [
+   "High fowler s. postion",
+   "supine postion",
+   "Lateral postion",
+   "prone postion"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "supine postion",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0674",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The suitable position following lumber puncture is:",
+  "q_ar": null,
+  "options": [
+   "High fowler's position.",
+   "Supine position.",
+   "Lateral position",
+   "Prone position."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0645",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "which of the following is not type wound exudates",
+  "q_ar": null,
+  "options": [
+   "purulent exudates",
+   "Hemrrhe exudates",
+   "metabolic exudates",
+   "serous exudatea"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "metabolic exudates",
+  "source_status": "agree",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0676",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following is not a type of wound exudates?",
+  "q_ar": null,
+  "options": [
+   "Purulent exudates",
+   "Hemorrhagic exudates",
+   "metabolic exudates",
+   "Serous exudates"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "multiple_marks"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0648",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "patienet withe heart rate 88and respiratory rate 30and temperature 37. 7. which abnrmal",
+  "q_ar": null,
+  "options": [
+   "pulse rate",
+   "respirtory and temperatur",
+   "temperature",
+   "non the above"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "respirtory and temperatur",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0649",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "patient care with sezures includes the following",
+  "q_ar": null,
+  "options": [
+   "remove objects that may ham the pat",
+   "plac theoatient on the floor",
+   "protect airway an ppen",
+   "All of above"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "All of above",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0650",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "First dagree burn",
+  "q_ar": null,
+  "options": [
+   "is red and blistered",
+   "involves only the top Layer of skink",
+   "Destroys all layer of skin",
+   "is the most serious of burns"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "involves only the top Layer of skink",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0651",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Bilndness vision in Night The deficiency of any of the followoing",
+  "q_ar": null,
+  "options": [
+   "VItamin. A",
+   "Vitamin. E",
+   "Vitemin. c",
+   "Vitemin. D"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "VItamin. A",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0653",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Eclampsia. factors effecting growth except",
+  "q_ar": null,
+  "options": [
+   "decrease plasma volum",
+   "increas blood acid",
+   "increase secreation of estrogine",
+   "a&b"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "decrease plasma volum",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0654",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The most common non-communicable diseases are the following:",
+  "q_ar": null,
+  "options": [
+   "cancer",
+   "high blood pressure",
+   "syphilis..."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0659",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "non-communicable disease including the following EXCEPT:",
+  "q_ar": null,
+  "options": [
+   "Syphilis.",
+   "Cancer.",
+   "Hypertension.",
+   "Blindness."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0655",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "The rule of nine evaluates the degree of burns..",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0668",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Palpation technique is one of the components of the clinical examination",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0656",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "During the physical assessment of the patient with severe anemia, which finding is of the most concern to the nurse:",
+  "q_ar": null,
+  "options": [
+   "Anorexia.",
+   "Bone pain.",
+   "Hepatomegaly.",
+   "Dyspnea at rest."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0657",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "In teaching the patient with pernicious anemia about the disease, the nurse explains that it results from a lack of:",
+  "q_ar": null,
+  "options": [
+   "Folic acid.",
+   "Intrinsic factor.",
+   "Extrinsic factor.",
+   "Cobalamin intake."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0658",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "What causes the anemia of sickle cell disease:",
+  "q_ar": null,
+  "options": [
+   "Intracellular hemolysis of sickled RBCs.",
+   "Accelerated breakdown of abnormal RBCs.",
+   "Autoimmune antibody destruction of RBCs.",
+   "Isoimmune antibody- antigen reactions with RBCs."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0660",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The nurse is inserting a nasogastric tube in an adult client. During the procedure, the client begins to cough and has difficulty breathing. What is the most appropriate action?",
+  "q_ar": null,
+  "options": [
+   "Insert the tube quickly.",
+   "Notify the health care provider immediately.",
+   "Remove the tube and reinsert it when the respiratory distress subsides.",
+   "Pull back on the tube and wait until the respiratory distress subsides."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0661",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "During the healing phase of inflammation, which cells would most likely to regenerate :",
+  "q_ar": null,
+  "options": [
+   "Skin.",
+   "Neurons.",
+   "Cardiac muscle.",
+   "Skeletal muscle."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0662",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Sprain is a soft tissue injury of the ligaments within a joint",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0663",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Chemical burn is caused by caustic soad of example of strong acid",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0699",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Esophagus is located anterior of spinal and posterior of trachea and heart",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0664",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Intestinal obstruction is elective surgery",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0665",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Blister is most common occurs is fourth stage",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0667",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Metabolic disorder are one of cause fracture",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0669",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Shock is the body's response to :",
+  "q_ar": null,
+  "options": [
+   "Blood loss.",
+   "Emotional distress.",
+   "Severe allergic reaction.",
+   "All of the above."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0670",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Patient With find whatTUB hit mcgrath hendricks happy at fontamintense",
+  "q_ar": null,
+  "options": [
+   "WHEREBalls",
+   "miss hoping",
+   "Chepolitise",
+   "DoAllorché above"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "unreadable"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0671",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "the mine into pollen unconscious",
+  "q_ar": null,
+  "options": [
+   "PERA Listed",
+   "atheist Thirist",
+   "bools airwaves",
+   "gow thrust"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo",
+   "unreadable"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0672",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The client is complaining of shortness of breath. His respirations are 28 and labored. The bed is currently in the flat position. The nurse puts the bed in which position?",
+  "q_ar": null,
+  "options": [
+   "Fowler's",
+   "Semi-Fowler's",
+   "Trendelenburg",
+   "Reverse Trendelenburg"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0673",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The first step in clinical intervention for patient with diabetes coma:",
+  "q_ar": null,
+  "options": [
+   "insert IV cannula and start glucose 10% infusion",
+   "Insert urine catheter",
+   "check blood sugar.",
+   "Give the patient oxygen therapy"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0675",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Another name for Pressure ulcers is:",
+  "q_ar": null,
+  "options": [
+   "decubitus ulcers",
+   "rubbing of the skin",
+   "diminished sensation",
+   "legs ulcers"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0677",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The client is in surgery and will be returning to his bed via a stretcher. Which bed option reflects that the nurse appropriately planned ahead for this client?",
+  "q_ar": null,
+  "options": [
+   "Open bed in low position",
+   "Closed bed in high position",
+   "Occupied bed in low position",
+   "Surgical bed in high position"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "ambiguous_mark",
+   "multiple_marks"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0666",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Rule of nine for burn used to measure the depth of burn",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0725",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Management of patient with urinary retention includes:",
+  "q_ar": null,
+  "options": [
+   "Reassurance",
+   "Hot compress",
+   "Diuretic therapy",
+   "Check for femoral pulse",
+   "Ask another nurse"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0678",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "when change patient position or any purpose hospital bed their lowest position",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0679",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Touch or feel considered by palpation",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0680",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "A person with a higher than normal heart rate is called tachycardia",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0685",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "Family history . .",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0686",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When entering the patient's ngt and facing resistance when inserting the tube, what should the nurse work?",
+  "q_ar": null,
+  "options": [
+   "Continue moving the tube down",
+   "Pull out the tube, meaning take it out",
+   "Pull out the tube and put it back",
+   "He pulls it a little"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0687",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When measuring the pressure of a fat person, knowing that the device is small on the patient, the result that appears must be the nurse",
+  "q_ar": null,
+  "options": [
+   "Increase",
+   "decreases",
+   "reading as it is"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0688",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The following actions are indicative of Ice, pressure, elevated of injury.",
+  "q_ar": null,
+  "options": [
+   "Sprain"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Sprain",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f30",
+    "answer_text": "Sprain"
+   }
+  ]
+ },
+ {
+  "id": "Q0689",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "One of the risk factors for kidney disease",
+  "q_ar": "عوامل الخطورة للإصابه بأمراض الكلى احتقان البول",
+  "options": [
+   "Urine congestion and excessive coffee drinking."
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0690",
+  "specialty": "assistant",
+  "type": "tf",
+  "q": "External bleeding is more dangerous than internal bleeding",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

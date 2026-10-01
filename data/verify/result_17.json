@@ -1,0 +1,736 @@
+[
+ {
+  "id": "Q0737",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الوسادة بين الركبتين في الاستلقاء الجانبي تفصل النتوءات العظمية (الركبتين والكاحلين) عن بعضها وتخفف الضغط وتمنع قرحات الضغط؛ NPIAP وMedlinePlus يوصيان بوضعها، وكتاب تمريض مفتوح يذكر «النتوءات العظمية» صراحةً (الخيار «كل ما سبق» غير مدعوم كتابيًا).",
+  "refs": [
+   {
+    "title": "NPIAP - Side Lying Positioning (hosted by VUMC)",
+    "url": "https://www.vumc.org/pip/sites/default/files/NPIAP%20-%20Side%20Lying%20Positioning.pdf"
+   },
+   {
+    "title": "MedlinePlus - Preventing pressure injuries",
+    "url": "https://medlineplus.gov/ency/patientinstructions/000147.htm"
+   },
+   {
+    "title": "Nurse Assistant (WTCS) - 8.2 Moving and Positioning Clients",
+    "url": "https://wtcs.pressbooks.pub/nurseassist/chapter/8-2-moving-and-positioning-clients/"
+   }
+  ]
+ },
+ {
+  "id": "Q0738",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال ناقص: الخياران الثالث والرابع نقاط فقط (مقطوعان) فلا يمكن الحسم بين الخيارات؛ للعلم يبدأ تدبير الإصابة الكهربائية بإيقاف مصدر التيار ثم الطريق الهوائي وتخطيط القلب والمراقبة (StatPearls).",
+  "refs": [
+   {
+    "title": "Electrical Injuries - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK448087/"
+   }
+  ]
+ },
+ {
+  "id": "Q0739",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الإسقربوط (Scurvy) ينتج عن نقص فيتامين C (حمض الأسكوربيك)؛ نص السؤال مشوّه حرفيًا لكن المقصود واضح.",
+  "refs": [
+   {
+    "title": "Vitamin C Deficiency - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK493187/"
+   }
+  ]
+ },
+ {
+  "id": "Q0740",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الاختصار p.c. من اللاتينية post cibum أي «بعد الوجبة» (وa.c. = قبل الوجبة)؛ المرجع موقع دوائي عام لا دليل سريري.",
+  "refs": [
+   {
+    "title": "Drugs.com - Top 150 Prescription Abbreviations & Medical Meanings",
+    "url": "https://www.drugs.com/article/prescription-abbreviations.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0747",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "التهاب المفاصل (Arthritis) = التهاب/ألم وتورّم وتيبّس في المفصل (joint)؛ ملاحظة: الخيارات ثلاثة فقط (قد يكون رابع سقط) لكن الجواب واضح.",
+  "refs": [
+   {
+    "title": "NHS - Arthritis",
+    "url": "https://www.nhs.uk/conditions/arthritis/"
+   },
+   {
+    "title": "MedlinePlus - Arthritis",
+    "url": "https://medlineplus.gov/arthritis.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0741",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخيارات الثلاثة الأخيرة نقاط فقط والسؤال مبتور؛ علميًا الجرح الأحمر (نسيج تحبّبي) مرتبط بمرحلة التكاثر والتئام جيد لكن لا يمكن الحسم بخيارات ناقصة.",
+  "refs": [
+   {
+    "title": "WRHA Wound Care - Tissue Types in Wound Bed (2024)",
+    "url": "https://professionals.wrha.mb.ca/files/Tissue-Types-in-Wound-Bed-2024.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0742",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "صحيح: الكحول لا يزيل الأوساخ ولا يصلح عندما تكون اليدان متسختين ظاهريًا؛ يُستعمل مطهّر اليدين الكحولي على أيدٍ نظيفة ظاهريًا (إرشادات CDC لنظافة اليدين).",
+  "refs": [
+   {
+    "title": "CDC MMWR - Guideline for Hand Hygiene in Health-Care Settings (2002)",
+    "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5116a1.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0745",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "صحيح: الفقاعات تميّز الحرق من الدرجة الثانية (جزئي السماكة)؛ الدرجة الأولى عادةً بلا فقاعات والثالثة جلدية جافة (StatPearls).",
+  "refs": [
+   {
+    "title": "Burn Evaluation and Management - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK430741/"
+   }
+  ]
+ },
+ {
+  "id": "Q0943",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "صحيح: التطهير (Disinfection) يقضي على معظم/كل الممرضات على الأدوات والأسطح الجامدة ما عدا الأبواغ البكتيرية (تعريف CDC؛ التعقيم وحده يقتل الأبواغ).",
+  "refs": [
+   {
+    "title": "CDC - Disinfection and Sterilization Guideline: Glossary",
+    "url": "https://cdc.gov/infection-control/hcp/disinfection-sterilization/glossary.html"
+   },
+   {
+    "title": "CDC - A Rational Approach to Disinfection and Sterilization",
+    "url": "https://cdc.gov/infection-control/hcp/disinfection-sterilization/rational-approach.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0934",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "صحيح: الجرح = انقطاع في سلامة النسيج/الجلد مما يعرّض الفرد لخطر العدوى (تعريف كتب أساسيات التمريض؛ OpenStax يعرّفه بانقطاع سلامة الجلد أو النسيج)، وعبارة «خطر العدوى» من نص المنهج.",
+  "refs": [
+   {
+    "title": "OpenStax Fundamentals of Nursing - 24.3 Wound Classification",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/24-3-wound-classification"
+   }
+  ]
+ },
+ {
+  "id": "Q0930",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "صحيح: استكمال إجراءات القبول (الهوية/السوار والتوثيق) يقوم به عادةً طاقم التمريض كما في منهج أساسيات التمريض؛ المرجع المتاح شرائح تعليمية (ضعيف) لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Fundamental Nursing Skills and Concepts (slides, PowerShow) - weak source",
+    "url": "https://www.powershow.com/view/100856-ZWMyY/Fundamental_Nursing_Skills_and_Concepts_powerpoint_ppt_presentation"
+   }
+  ]
+ },
+ {
+  "id": "Q0931",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "صياغة العبارة مشوّهة («most of them have a few feet considered») ولا يمكن تحديد المقصود حتى يُحكم بصح/خطأ؛ علامة المصدر «صح» غير قابلة للتحقق.",
+  "refs": []
+ },
+ {
+  "id": "Q0748",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة مبتورة («contusion is ... discoloration...») فلا يمكن تقييمها؛ الكدمة إصابة نسيج رخو مغلقة مع تغيّر لون الجلد، لكن علامة المصدر «خطأ» لا يمكن التحقق منها على نص ناقص.",
+  "refs": []
+ },
+ {
+  "id": "Q0784",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة تصف وظائف المغذّيات عمومًا (بناء الأنسجة وتنظيم العمليات)؛ غير العضوية (الماء والمعادن) تنظّم وظائف الجسم وتدخل في بناء العظام، لكن المرجع المتاح لا يصنّف عضوي/غير عضوي والعبارة موسومة بالبتر، فالأرجح «صح» بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Hong Kong Centre for Health Protection - Nutrient Classifications",
+    "url": "https://www.chp.gov.hk/en/static/100022.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0749",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "خطأ: النسيج التحبّبي السليم أحمر/وردي في مرحلة التكاثر، أما الجرح الأصفر فيدل على القشرة الليفية (slough) المرتبطة بالالتهاب وتحتاج إزالة (نظام ألوان أحمر-أصفر-أسود).",
+  "refs": [
+   {
+    "title": "WRHA Wound Care - Tissue Types in Wound Bed (2024)",
+    "url": "https://professionals.wrha.mb.ca/files/Tissue-Types-in-Wound-Bed-2024.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0788",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "صحيح: الموافقة المستنيرة مطلوبة للإجراءات الجراحية والتخدير (StatPearls يدرج التخدير ضمن ما يستلزمها)؛ والتخدير/التهدئة من أبرز الحالات التي تستوجبها.",
+  "refs": [
+   {
+    "title": "Informed Consent - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK430827/"
+   }
+  ]
+ },
+ {
+  "id": "Q0750",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "صحيح: الحروق الكيميائية تسببها الأحماض والقلويات (كبريتيك، هيدروكلوريك، خليك... وهيدروكسيد الصوديوم/البوتاسيوم، الأمونيا) وغيرها (StatPearls).",
+  "refs": [
+   {
+    "title": "Chemical Burns - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK499888/"
+   }
+  ]
+ },
+ {
+  "id": "Q0751",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال مشوّه؛ تغيير الوضعية بعد العملية المعيار الشائع كل ساعتين، أما التنفس العميق/مقياس التحفيز التنفسي فيُنصح به كل ساعة أثناء اليقظة (مراجع تمريض عامة) فالمراجع تختلف؛ الأرجح «كل ساعتين» بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "WTCS Health Alterations - 2.5 Postoperative Nursing Care",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/2-5-postoperative-nursing-care/"
+   },
+   {
+    "title": "Brookside Press - Nursing Fundamentals II: Postoperative Patient Care",
+    "url": "https://brooksidepress.org/Products/Nursing_Fundamentals_II/lesson_8_Section_4A.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0914",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "نقل الأكسجين للأنسجة يعتمد على النتاج القلبي وتركيز الهيموغلوبين (DO2 = CO × CaO2) وتتأثر كفايته بالمتطلبات الاستقلابية للأنسجة في مراجع التمريض، فالجواب «كل ما سبق»؛ ملاحظة: فيزيولوجيًا المتطلبات الاستقلابية تحدد الطلب لا النقل نفسه.",
+  "refs": [
+   {
+    "title": "Physiology, Oxygen Transport - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK538336/"
+   },
+   {
+    "title": "BCcampus open textbook (opentextbc.ca/clinicalskills) - Oxygenation principles",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/5-1-principles/"
+   }
+  ]
+ },
+ {
+  "id": "Q0752",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "البيبسين إنزيم معدي يفكّك البروتينات الغذائية إلى ببتيدات/أحماض أمينية (StatPearls).",
+  "refs": [
+   {
+    "title": "Physiology, Pepsin - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK537005/"
+   }
+  ]
+ },
+ {
+  "id": "Q0753",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "يُنصح بإعطاء الفوروسيميد صباحًا (NHS: «ideally every morning») لأن إدرار البول الغزير قد يسبب تكرار التبول ليلًا ويقطع النوم؛ الصفحة لا تصرّح بعلة الليل حرفيًا فالثقة متوسطة. الخيار الثالث مشوّه نصيًا.",
+  "refs": [
+   {
+    "title": "NHS - How and when to take furosemide",
+    "url": "https://www.nhs.uk/medicines/furosemide/how-and-when-to-take-furosemide/"
+   }
+  ]
+ },
+ {
+  "id": "Q0888",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "تدبير احتباس البول الحاد/التالي للجراحة يكون بتفريغ المثانة بالقسطرة (Foley أو قسطرة متقطعة) مع مراقبة كمية البول؛ الطمأنة والحمية لا تعالجانه، أما الكمادات الساخنة فإجراء مساعد تقليدي وليست التدبير الأساسي.",
+  "refs": [
+   {
+    "title": "Bladder Catheterization - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK560748/"
+   },
+   {
+    "title": "Postoperative Urinary Retention - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK549844/"
+   }
+  ]
+ },
+ {
+  "id": "Q0754",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "ضمور العضلات (Muscle atrophy) = هزال/نقص كتلة النسيج العضلي (MedlinePlus)؛ التقلّص contracture وانصباب effusion وهشاشة العظام osteoporosis مفاهيم أخرى.",
+  "refs": [
+   {
+    "title": "MedlinePlus Medical Encyclopedia - Muscle atrophy",
+    "url": "https://medlineplus.gov/ency/article/003188.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0899",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخياران الثالث والرابع «??» (مقطوعان) فالسؤال غير مكتمل؛ علميًا الجواب Atrophy (انظر النسخة الكاملة Q0754/Q0919).",
+  "refs": [
+   {
+    "title": "MedlinePlus Medical Encyclopedia - Muscle atrophy",
+    "url": "https://medlineplus.gov/ency/article/003188.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0915",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال مبتور («... means:») فلا يُعرف المطلوب؛ الخيارات مطابقة لسؤال ضمور العضلات (Atrophy) لكن لا يُجزم دون الجذع.",
+  "refs": []
+ },
+ {
+  "id": "Q0919",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "هزال العضلات (Wasting of muscles) يسمى ضمورًا Atrophy (MedlinePlus).",
+  "refs": [
+   {
+    "title": "MedlinePlus Medical Encyclopedia - Muscle atrophy",
+    "url": "https://medlineplus.gov/ency/article/003188.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0755",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "مقياس غلاسكو للغيبوبة يقيّم فتح العين والاستجابة اللفظية والحركية فقط؛ «تجهّم الوجه» (Facial grimace) ليس من مكوناته (StatPearls).",
+  "refs": [
+   {
+    "title": "Glasgow Coma Scale - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK513298/"
+   }
+  ]
+ },
+ {
+  "id": "Q0756",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "غياب أصوات الأمعاء مع انتفاخ البطن بعد جراحة البطن يدل على الانسداد الشللي (Paralytic/postoperative ileus)؛ StatPearls يذكر غياب/ضعف الأصوات والانتفاخ كعلامات.",
+  "refs": [
+   {
+    "title": "Postoperative Ileus - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560780/"
+   }
+  ]
+ },
+ {
+  "id": "Q0757",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "انقطاع تصريف فغر اللفائفي عدة ساعات (مع ألم/انتفاخ/غثيان) علامة انسداد تستدعي الإبلاغ الفوري؛ السائل والفتات الغذائي غير المهضوم من الأمور المتوقعة، والحرارة 37.6 طفيفة (UOAA).",
+  "refs": [
+   {
+    "title": "United Ostomy Associations of America - How to Treat Ileostomy Blockage",
+    "url": "https://www.ostomy.org/wp-content/uploads/2020/10/Ileostomy_Blockage_2020.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0758",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "التنفس الخارجي (External respiration) هو تبادل الغازات بين الحويصلات الهوائية والشعيرات الدموية الرئوية، أما التنفس الداخلي فبين الدم والخلايا/الأنسجة.",
+  "refs": [
+   {
+    "title": "SUNY / Lumen Learning A&P II - Gas Exchange",
+    "url": "https://courses.lumenlearning.com/suny-ap2/chapter/gas-exchange/"
+   },
+   {
+    "title": "Anatomy & Physiology (UEN Pressbooks) - External and Internal Respiration",
+    "url": "https://uen.pressbooks.pub/anatomyphysiology2/chapter/external-internal-respiration/"
+   }
+  ]
+ },
+ {
+  "id": "Q0759",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "محلول رينغر اللاكتاتي (Ringer's Lactate) وNaCl 0.9% متساويا التوتر؛ 0.45% NaCl ناقص التوتر، وDextrose 10% وdextrose مع محلول ملحي (D5NS) مفرطا التوتر.",
+  "refs": [
+   {
+    "title": "Nursing Fundamentals (WTCS) - 15.3 Intravenous Solutions",
+    "url": "https://wtcs.pressbooks.pub/nursingfundamentals/chapter/15-3-intravenous-solutions/"
+   }
+  ]
+ },
+ {
+  "id": "Q0774",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "بعد استئصال المعدة الجزئي يكون تصريف الأنبوب الأنفي المعدي دمويًا داكنًا/بنيًا (دم قديم) في أول 12–24 ساعة ثم يصفو ويميل إلى الأخضر؛ الأحمر الزاهي يعني نزفًا نشطًا. المراجع المتاحة عامة (Nurseslabs) وضعيفة (Brainly) فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Nurseslabs - Subtotal Gastrectomy Nursing Care Plan",
+    "url": "https://nurseslabs.com/subtotal-gastrectomy-nursing-care-plan/"
+   },
+   {
+    "title": "Brainly - NG tube drainage after subtotal gastrectomy (weak source)",
+    "url": "https://brainly.com/question/39206250"
+   }
+  ]
+ },
+ {
+  "id": "Q0760",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الحمى وهبوط الضغط وتسرّع القلب عند مريض التهاب الزائدة تدل على انثقاب الزائدة والتهاب الصفاق (Peritonitis) وتعفّن الدم؛ StatPearls يذكر التهاب الصفاق ضمن المضاعفات ويوجب إبلاغ الطبيب. نقص السوائل قد يرافقه لكنه ليس «المضاعفة» المقصودة.",
+  "refs": [
+   {
+    "title": "Appendicitis - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK493193/"
+   },
+   {
+    "title": "Appendicitis (Nursing) - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK568712/"
+   }
+  ]
+ },
+ {
+  "id": "Q0761",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "احتياطات التلامس تُطبَّق دائمًا إضافةً إلى الاحتياطات القياسية (CDC)؛ أما الأطباق وأدوات الأكل فلا تحتاج معاملة خاصة (لا حاجة لأدوات للاستعمال الواحد)، والقناع غير مطلوب لكل تضميد، والتقنية الجراحية المعقمة ليست من متطلبات العزل. الخيار الأنسب بين المتاح هو اتباع الاحتياطات القياسية (القفازات/الرداء غير مدرجين) فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "CDC - III. Precautions to Prevent Transmission of Infectious Agents",
+    "url": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html"
+   },
+   {
+    "title": "CDC/HICPAC - 2007 Guideline for Isolation Precautions",
+    "url": "https://www.cdc.gov/infection-control/media/pdfs/Guideline-Isolation-H.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0762",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "تهيئة البيئة للراحة والنوم تشمل تقليل الضجيج وتوفير الخصوصية ودعم البيئة الأسرية/النفسية؛ كل الخيارات صحيحة فالجواب «كل ما سبق» (مراجع تمريض أساسيات عامة).",
+  "refs": [
+   {
+    "title": "Nursing Fundamentals (Open RN) - 12.3 Applying the Nursing Process (Sleep and Rest)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Nursing_Fundamentals_(OpenRN)/12:_Sleep_and_Rest/12.03:_Applying_the_Nursing_Process"
+   }
+  ]
+ },
+ {
+  "id": "Q0763",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "براز طيني اللون وغثيان وبول داكن أعراض متوقعة في التهاب الكبد A (CDC)، أما التململ/تغيّر الحالة العقلية فمن علامات الاعتلال الدماغي الكبدي/الفشل الكبدي الحاد التي تستدعي الإبلاغ الفوري (Nurse.com)؛ الجواب بالاستبعاد بثقة منخفضة ولم أجد نص السؤال الأصلي.",
+  "refs": [
+   {
+    "title": "CDC - About Hepatitis A",
+    "url": "https://www.cdc.gov/hepatitis-a/about/index.html"
+   },
+   {
+    "title": "Nurse.com - Hepatitis A Guide for Nurses",
+    "url": "https://www.nurse.com/clinical-guides/hepatitis-a/"
+   }
+  ]
+ },
+ {
+  "id": "Q0764",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "بعد استئصال الكلية تكون أعلى أولوية مراقبة ناتج البول (كل ساعة تقريبًا) لأن الكلية المتبقية يجب أن تعمل؛ المصادر المتاحة تمريضية عامة فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Student Nurse Life - Nephrectomy Perioperative Care for Nursing Students",
+    "url": "https://student-nurse-life.com/nephrectomy-perioperative-care-for-nursing-students/"
+   },
+   {
+    "title": "Scientific Reports - Intraoperative urine output and postoperative AKI in partial vs radical nephrectomy",
+    "url": "https://www.nature.com/articles/s41598-018-37432-7"
+   }
+  ]
+ },
+ {
+  "id": "Q0767",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الجذع مبتور («mitral………..») ولا يُعرف المطلوب (هل هو الأنسب أم الواجب تجنبه)؛ والخياران فقط الخيط وفرشاة يدوية، فلا يمكن الحسم.",
+  "refs": []
+ },
+ {
+  "id": "Q0786",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الإنزيمات المعوية (الحافة الفرشاتية) تنتجها الخلايا المعوية في الأمعاء الدقيقة بما فيها الصائم، فالعبارة غير خاطئة لكن الصياغة غامضة («produced in the jejunum») ولم أجد مرجعًا يحدد الصائم دون غيره؛ الأرجح «صح» بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Human Nutrition (Lindshield), LibreTexts - 3.4 Small Intestine",
+    "url": "https://med.libretexts.org/Courses/Kansas_State_University/FNDH_400:_Human_Nutrition_(Lindshield)/03:_Macronutrient_Digestion/3.04:_Small_Intestine"
+   }
+  ]
+ },
+ {
+  "id": "Q0766",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "خطأ: الرسائل التي يرسلها الشخص لنفسه (حديث الذات) تُسمى التواصل الذاتي Intrapersonal، أما Interpersonal فبين شخصين فأكثر.",
+  "refs": [
+   {
+    "title": "LevelUpRN - Nursing Communication (Fundamentals of Nursing)",
+    "url": "https://leveluprn.com/blogs/fundamentals-of-nursing/principles-7-nursing-communication"
+   }
+  ]
+ },
+ {
+  "id": "Q0768",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "صحيح: الأرق صعوبة في بدء النوم أو استمراره أو رداءة جودته (مزمن إن استمر ≥3 أشهر) مع يقظات متقطعة/استيقاظ مبكر (StatPearls وNHS).",
+  "refs": [
+   {
+    "title": "Chronic Insomnia - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK526136/"
+   },
+   {
+    "title": "NHS - Insomnia",
+    "url": "https://www.nhs.uk/conditions/insomnia/"
+   }
+  ]
+ },
+ {
+  "id": "Q0785",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "القاعدة أن الممرض يوقّع/يختم سجل إعطاء الدواء (MAR) فقط عن الأدوية التي أعطاها هو فعلًا (OpenStax)؛ لكن كلمة «potentially» في العبارة تبدو خطأ نسخ (ربما personally) وتغيّر المعنى حرفيًا، فالأرجح «صح» بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "OpenStax Clinical Nursing Skills - 11.3 Documentation of Medication Administration",
+    "url": "https://openstax.org/books/clinical-nursing-skills/pages/11-3-documentation-of-medication-administration"
+   }
+  ]
+ },
+ {
+  "id": "Q0787",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "صحيح: الأدوية الاستنشاقية تُستعمل لتأثير موضعي في الرئة والمجاري الهوائية (موسّعات الشعب) أو لتأثير جهازي بعد الامتصاص (كالغازات المخدرة)؛ OpenStax وMerck يذكران الامتصاص والتأثير الجهازي.",
+  "refs": [
+   {
+    "title": "OpenStax Clinical Nursing Skills - 14.4 Administering Inhaled Medications",
+    "url": "https://openstax.org/books/clinical-nursing-skills/pages/14-4-administering-inhaled-medications"
+   },
+   {
+    "title": "Merck Manual Consumer Version - Drug Administration",
+    "url": "https://www.merckmanuals.com/home/drugs/administration-and-kinetics-of-drugs/drug-administration"
+   }
+  ]
+ },
+ {
+  "id": "Q0769",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "صحيح وفق منهج أساسيات التمريض: يُجرد المقتنيات الثمينة ويوقّع الجرد الممرض والمريض بحضور ممرض ثانٍ أو مشرف أو أمن؛ تختلف السياسة بين المستشفيات (مثلًا شاهدان: المريض والممرض أو ممرضان) والمراجع المتاحة ضعيفة/سياساتية فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Fundamental Nursing Skills and Concepts (slides, PowerShow) - weak source",
+    "url": "https://www.powershow.com/view/100856-ZWMyY/Fundamental_Nursing_Skills_and_Concepts_powerpoint_ppt_presentation"
+   },
+   {
+    "title": "WA Country Health Service - Patient Property and Valuables Procedure",
+    "url": "https://www.wacountry.health.wa.gov.au/~/media/WACHS/Documents/About-us/Policies/Patient-Property-and-Valuables-Procedure---Midwest.pdf?thn=0"
+   }
+  ]
+ },
+ {
+  "id": "Q0770",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "صحيح: الجرس (Bell) لسماع الأصوات منخفضة التردد، والغشاء (Diaphragm) للأصوات عالية التردد؛ ويُستعمل الجرس بضغط خفيف (Merck).",
+  "refs": [
+   {
+    "title": "Merck Manual Professional - Cardiac Auscultation",
+    "url": "https://www.merckmanuals.com/professional/cardiovascular-disorders/approach-to-the-cardiac-patient/cardiac-auscultation"
+   }
+  ]
+ },
+ {
+  "id": "Q0771",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "خطأ: جسّ النبض يكون بأطراف/وسائد الأصابع (السبابة والوسطى والبنصر) وليس بظهر اليد؛ وظهر اليد يُستعمل لتقدير حرارة الجلد (Lapum et al.).",
+  "refs": [
+   {
+    "title": "Vital Sign Measurement Across the Lifespan (Lapum et al.) - 3.18 Radial Pulse",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Book:_Vital_Sign_Measurement_Across_the_Lifespan_(Lapum_et_al.)/03:_Pulse_and_Respiration/3.18:_Radial_Pulse"
+   }
+  ]
+ },
+ {
+  "id": "Q0772",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "المريض هو أكثر من يعرف ألمه: تعريف McCaffery «الألم هو ما يقوله الشخص الذي يعانيه ويوجد حيثما قال إنه موجود»، والإبلاغ الذاتي هو المعيار الذهبي (ONS).",
+  "refs": [
+   {
+    "title": "Oncology Nursing Society - Remembering Margo McCaffery's Contributions to Pain Management",
+    "url": "https://www.ons.org/publications-research/voice/news-views/01-2018/remembering-margo-mccafferys-contributions-pain"
+   }
+  ]
+ },
+ {
+  "id": "Q0913",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "لجفاف جلد القدمين عند مريض السكري يُنصح بترطيبه بلوشن/كريم (ليس بين الأصابع) وعدم نقع القدمين (NIDDK وCDC)؛ الخيار «غير معطّر» يتسق مع تجنّب المهيّجات، والمسحوق/النقع لا يعالجان الجفاف، وتجنّب الجوارب الضاغطة نصيحة عامة لكنها لا تعالج الجفاف.",
+  "refs": [
+   {
+    "title": "NIDDK - Diabetes & Foot Problems",
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/foot-problems"
+   },
+   {
+    "title": "CDC - Your Feet and Diabetes",
+    "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-your-feet.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0779",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الكزاز (Tetanus) لا ينتقل من شخص لآخر فيكفي فيه الاحتياطات القياسية؛ أما الحصبة (هوائية) والنكاف (رذاذية) والجدري المائي (هوائية + تلامس) فتحتاج عزلًا (CDC Appendix A).",
+  "refs": [
+   {
+    "title": "CDC - Appendix A: Type and Duration of Precautions Recommended for Selected Infections and Conditions",
+    "url": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html"
+   }
+  ]
+ }
+]

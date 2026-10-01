@@ -1,0 +1,802 @@
+[
+ {
+  "id": "Q0151",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "قلّة البول (Oliguria) أقل من 400–500 مل/24 ساعة، أما انعدام البول (Anuria) فيُعرَّف في مراجع التمريض بأنه أقل من 50 مل/24 ساعة (وتعرّفه مراجع أخرى بأقل من 100 مل)؛ فالخيار الوحيد المطابق هو Anuria.",
+  "refs": [
+   {
+    "title": "OpenRN Nursing Fundamentals - Elimination Glossary (anuria: less than 50 mL/24 h)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Nursing_Fundamentals_(OpenRN)/16:_Elimination/16.12:_XVI_Glossary"
+   },
+   {
+    "title": "Nursing Pass - Anuria (less than 100 mL/24 h; some sources use less than 50 mL)",
+    "url": "https://nursing-pass.com/glossary/anuria"
+   }
+  ]
+ },
+ {
+  "id": "Q0152",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "المتلازمة الكلوية (Nephrotic syndrome) تُعرَّف بالبيلة البروتينية الكبيرة ونقص ألبومين الدم والوذمة مع فرط شحميات الدم؛ أما التهاب الكبيبات فهو متلازمة التهابية (nephritic) مع بيلة دموية وارتفاع الضغط.",
+  "refs": [
+   {
+    "title": "Diagnosis and Management of Nephrotic Syndrome in Adults - AAFP",
+    "url": "https://www.aafp.org/pubs/afp/issues/2016/0315/p479.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0153",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "Cystolithectomy = استئصال حصاة المثانة (cysto مثانة + litho حصاة + ectomy استئصال)؛ أما Cystolithiasis فهو وجود الحصاة، وCystometry فحص ضغط المثانة. المصطلح الجراحي الأشيع في المراجع الحديثة هو cystolithotomy بنفس المعنى؛ لم أجد تعريفاً مقروءاً لـ cystolithectomy نفسها فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Merriam-Webster Medical - Cystolithotomy (surgical removal of a calculus from the urinary bladder)",
+    "url": "https://www.merriam-webster.com/medical/cystolithotomy"
+   },
+   {
+    "title": "Cystolithotomy: Technique and Complications of Sectio Alta - Urology Textbook",
+    "url": "https://www.urology-textbook.com/cystolithotomy.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0154",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "مرضى الغسيل الكلوي الدموي معرّضون بدرجة عالية لالتهاب الكبد الفيروسي (B وC) بسبب الوصول الوعائي المتكرر؛ أما التهاب الصفاق (Peritonitis) فهو مضاعفة الغسيل البريتوني لا الدموي.",
+  "refs": [
+   {
+    "title": "CDC MMWR - Recommendations for Preventing Transmission of Infections Among Chronic Hemodialysis Patients",
+    "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5005a1.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0155",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "بعد تصوير الحويضة الوريدي (IVP) يُشجَّع المريض على شرب سوائل كثيرة لإخراج الصبغة؛ ولا يلزم الراحة في الفراش ولا الملينات.",
+  "refs": [
+   {
+    "title": "MedlinePlus - Intravenous Pyelogram (IVP)",
+    "url": "https://medlineplus.gov/lab-tests/intravenous-pyelogram-ivp/"
+   },
+   {
+    "title": "Cleveland Clinic - Intravenous Pyelogram",
+    "url": "https://my.clevelandclinic.org/health/diagnostics/23578-intravenous-pyelogram"
+   },
+   {
+    "title": "Drugs.com - Intravenous Pyelogram (Discharge Care)",
+    "url": "https://www.drugs.com/cg/intravenous-pyelogram-discharge-care.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0156",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "للوقاية من تكرار التهاب المسالك البولية: المسح من الأمام إلى الخلف، وشرب سوائل كافية (لا قليلة)، والاستحمام بالدش بدل حوض الاستحمام.",
+  "refs": [
+   {
+    "title": "Royal United Hospitals Bath NHS - Advice for Women with Recurrent UTIs",
+    "url": "https://www.ruh.nhs.uk/patients/Urology/documents/patient_leaflets/UTI_Advice_for_Women_with_recurrent_UTIs.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0157",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الأسبرين مضاد استطباب عند وجود نزف فعّال أو اضطرابات نزفية لتأثيره المضاد للصفيحات؛ أما الحمى الروماتيزمية فالأسبرين علاج لها، وأمراض القلب يُستعمل فيها الأسبرين بجرعة منخفضة.",
+  "refs": [
+   {
+    "title": "Drugs.com - Aspirin Disease Interactions (contraindicated in significant active bleeding)",
+    "url": "https://www.drugs.com/disease-interactions/aspirin.html"
+   },
+   {
+    "title": "Salicylic Acid (Aspirin) - StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK519032/"
+   }
+  ]
+ },
+ {
+  "id": "Q0158",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الجنتاميسين مضاد حيوي من فئة الأمينوغليكوزيدات (C صحيحة)، وتصفه مراجع دوائية بأنه واسع الطيف (A) رغم أن فعاليته الأساسية على سلبيات الغرام الهوائية؛ وليس مضاد أيض (antimetabolite). لذا 'A وC' أفضل الخيارات مع خلاف طفيف في وصف 'واسع الطيف'.",
+  "refs": [
+   {
+    "title": "MedicineNet - Gentamicin injection (broad-spectrum aminoglycoside antibiotic)",
+    "url": "https://www.medicinenet.com/gentamicin-injection/article.htm"
+   },
+   {
+    "title": "DrugBank - What do I need to know about aminoglycoside antibiotics?",
+    "url": "https://go.drugbank.com/articles/A233769"
+   },
+   {
+    "title": "Gentamicin - StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK557550/"
+   }
+  ]
+ },
+ {
+  "id": "Q0159",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الباراسيتامول (Acetaminophen) مسكّن للألم وخافض للحرارة معاً، فالإجابة 'A وB'.",
+  "refs": [
+   {
+    "title": "Acetaminophen - StatPearls (non-opioid analgesic and antipyretic)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK482369/"
+   }
+  ]
+ },
+ {
+  "id": "Q0160",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "Flagyl (ميترونيدازول) مضاد جراثيم/طفيليات وليس مسكناً؛ بينما Acamol اسم تجاري للباراسيتامول وDiclofin للديكلوفيناك وAspirin مسكنات (ربط الأسماء التجارية من معرفة عامة لا من مرجع فُتح).",
+  "refs": [
+   {
+    "title": "Drugs.com - Metronidazole monograph (antibacterial and antiprotozoal)",
+    "url": "https://www.drugs.com/monograph/metronidazole.html"
+   },
+   {
+    "title": "Acetaminophen - StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK482369/"
+   }
+  ]
+ },
+ {
+  "id": "Q0161",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "في إصابة الرأس الحادة تُؤخَّر المهدئات والمشلّات إلى ما بعد الفحص العصبي الكامل لأنها تخفض GCS وتحجب التقييم، بينما تُعطى الأوكسجين والسوائل الوريدية لدعم التروية الدماغية. (قد تُستعمل المهدئات لاحقاً في العناية المركزة، فالجواب يخص التدبير الأولي.)",
+  "refs": [
+   {
+    "title": "MSD Manual Professional - Traumatic Brain Injury (delay sedatives until full neurologic exam)",
+    "url": "https://www.merckmanuals.com/professional/injuries-poisoning/traumatic-brain-injury-tbi/traumatic-brain-injury-tbi"
+   }
+  ]
+ },
+ {
+  "id": "Q0162",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "اسم الدواء مشوَّه؛ على الأرجح Prothiaden (دوسوليبين، مضاد اكتئاب ثلاثي الحلقات) الذي تنصّ نشرته على أنه يسبب النعاس وعدم القيادة حتى تُعرف الاستجابة. باقي الخيارات لا معنى سريرياً لها، لكن تحديد الدواء استنتاج.",
+  "refs": [
+   {
+    "title": "HPRA - Prothiaden 75 mg coated tablets: package leaflet (drowsiness, do not drive)",
+    "url": "https://assets.hpra.ie/products/Human/13809/d5652a5e-513c-42b8-a469-6a1291799634.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0163",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "Diclofin (على الأرجح ديكلوفيناك) مضاد التهاب لاستيرويدي وله أيضاً خصائص مسكّنة وخافضة للحرارة، فالجواب 'a وb'. (ربط الاسم التجاري بالديكلوفيناك استنتاج.)",
+  "refs": [
+   {
+    "title": "Diclofenac - StatPearls (NSAID with analgesic and antipyretic effects)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK557879/"
+   },
+   {
+    "title": "Drugs.com - Diclofenac prescribing information",
+    "url": "https://www.drugs.com/pro/diclofenac.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0164",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "التنبيب الأنفي المعدي (Nasogastric intubation) هو إدخال أنبوب عبر الأنف والبلعوم والمريء إلى المعدة.",
+  "refs": [
+   {
+    "title": "Nasogastric Tube Insertion - StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK556063/"
+   }
+  ]
+ },
+ {
+  "id": "Q0165",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "غسيل المعدة (Gastric lavage) هو تفريغ المعدة من محتوياتها/المواد السامة عبر أنبوب بإدخال سائل وشفطه؛ أما التغذية بالأنبوب فتسمى gavage.",
+  "refs": [
+   {
+    "title": "ScienceDirect Topics - Gastric Lavage",
+    "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/gastric-lavage"
+   },
+   {
+    "title": "MSD Manual Professional - Caustic Ingestion",
+    "url": "https://www.merckmanuals.com/professional/injuries-poisoning/poisoning/caustic-ingestion"
+   }
+  ]
+ },
+ {
+  "id": "Q0166",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "اللون الطبيعي للبول أصفر فاتح (straw-yellow).",
+  "refs": [
+   {
+    "title": "MedlinePlus Medical Encyclopedia - Urine, abnormal color (usual color is straw-yellow)",
+    "url": "https://medlineplus.gov/ency/article/003139.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0167",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الإخراج البولي (Urinary elimination) في التمريض هو عملية طرح السوائل الزائدة والفضلات الاستقلابية من الجسم؛ أما إعادة الامتصاص فجزء من فسيولوجيا الكلية، وجمع البول في المثانة تخزين لا إخراج.",
+  "refs": [
+   {
+    "title": "OpenRN Nursing Fundamentals - Elimination (body eliminates waste products through the urinary system)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Nursing_Fundamentals_(OpenRN)/16:_Elimination/16.01:_Elimination_Introduction"
+   },
+   {
+    "title": "Wikipedia - Urination (main method of eliminating waste and excess fluid)",
+    "url": "https://en.wikipedia.org/wiki/Urination"
+   }
+  ]
+ },
+ {
+  "id": "Q0168",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "طول الأنبوب الأنفي المعدي يُقاس تقليدياً من الأنف إلى شحمة الأذن إلى الناتئ الخنجري (NEX). تنبيه: تُظهر مراجعات حديثة أن دقة هذه الطريقة محدودة (≤72%)، لكن الجواب المعتمد في مناهج التمريض هو هذا.",
+  "refs": [
+   {
+    "title": "Nasogastric tube insertion length measurement and tip verification in adults: a narrative review - Critical Care",
+    "url": "https://link.springer.com/article/10.1186/s13054-023-04611-6"
+   }
+  ]
+ },
+ {
+  "id": "Q0169",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "مصادر التسمم عند الأطفال: الأدوية ومنتجات التنظيف والمبيدات والنباتات ومستحضرات التجميل؛ أما الطعام الطازج فليس مادة سمّية نمطية. (لم أجد مرجعاً يذكر مستحضرات التجميل نصاً، فالثقة متوسطة.)",
+  "refs": [
+   {
+    "title": "MedlinePlus - Poisoning (medicines, household cleaning products, pesticides, plants)",
+    "url": "https://medlineplus.gov/poisoning.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0170",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "في التسمم بالمواد الكاوية/الأكّالة يُمنع إحداث القيء وغسل المعدة لأنهما يعيدان تعريض المريء والمعدة للمادة الكاوية. ملاحظة: المراجع الحديثة تقلّل أصلاً من استعمال القيء المُحدَث والغسل في بقية أنواع التسمم، لكن الاستثناء المطلق هنا هو الكاوي.",
+  "refs": [
+   {
+    "title": "MSD Manual Professional - Caustic Ingestion (emesis or lavage is contraindicated)",
+    "url": "https://www.merckmanuals.com/professional/injuries-poisoning/poisoning/caustic-ingestion"
+   },
+   {
+    "title": "ScienceDirect Topics - Gastric Lavage",
+    "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/gastric-lavage"
+   }
+  ]
+ },
+ {
+  "id": "Q0171",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "نقل الألم يبدأ بتنبيه مستقبلات الألم (nociceptors) في النهايات العصبية الطرفية بمنبهات ضارة، ثم تنتقل الإشارة إلى النخاع الشوكي فالدماغ.",
+  "refs": [
+   {
+    "title": "Physiology, Nociception - StatPearls (NCBI Bookshelf NBK551562)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK551562/"
+   }
+  ]
+ },
+ {
+  "id": "Q0172",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "المدى الطبيعي لـ pH الدم الشرياني 7.35–7.45 (متوسطه 7.40).",
+  "refs": [
+   {
+    "title": "Physiology, Acid Base Balance - StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK507807/"
+   }
+  ]
+ },
+ {
+  "id": "Q0173",
+  "verdict": "confirmed",
+  "answer": 4,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "تعزيز الأكسجة يتم بكل ما ذُكر: فتح مجرى الهواء، وضعية الجلوس/فاولر التي توسّع الصدر، تقنيات التنفس (الشفتين المزمومتين/الحجابي)، وإعطاء الأكسجين. (المراجع داعمة لكل عنصر على حدة، لا لنص السؤال بحرفه.)",
+  "refs": [
+   {
+    "title": "Wikipedia - Fowler's position (promotes oxygenation via maximum chest expansion)",
+    "url": "https://en.wikipedia.org/wiki/Fowler%27s_position"
+   },
+   {
+    "title": "American Lung Association - Breathing Exercises",
+    "url": "https://www.lung.org/lung-health-diseases/wellness/breathing-exercises"
+   },
+   {
+    "title": "Wikipedia - Oxygen therapy",
+    "url": "https://en.wikipedia.org/wiki/Oxygen_therapy"
+   }
+  ]
+ },
+ {
+  "id": "Q0174",
+  "verdict": "corrected",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": false,
+  "note_ar": "المصدر أشّر 'None of the above' وهو خطأ: فترة ما حول الجراحة (Perioperative) تشمل المراحل الثلاث قبل الجراحة وأثناءها وبعدها، فالصحيح الخيار الثالث.",
+  "refs": [
+   {
+    "title": "Wikipedia - Perioperative (preoperative, intraoperative and postoperative phases)",
+    "url": "https://en.wikipedia.org/wiki/Perioperative"
+   },
+   {
+    "title": "Wikipedia - Perioperative nursing",
+    "url": "https://en.wikipedia.org/wiki/Perioperative_nursing"
+   }
+  ]
+ },
+ {
+  "id": "Q0175",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "اختيار المحقنة والإبرة يعتمد على وزن/حجم المريض وعمره ونسيج الشحم، وعمق النسيج وموضع الحقن، ونوع الدواء ولزوجته؛ أما التاريخ العائلي فليس عاملاً.",
+  "refs": [
+   {
+    "title": "Clinical Procedures for Safer Patient Care (opentextbc.ca) - Intramuscular injections: needle and syringe selection",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/6-8-iv-push-medications-and-saline-lock-flush/"
+   }
+  ]
+ },
+ {
+  "id": "Q0176",
+  "verdict": "confirmed",
+  "answer": 6,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الطرق الحقنية (Parenteral) هي الحقن: داخل الجلد وتحت الجلد وبالعضل وبالوريد وداخل المفصل؛ أما القطرة الأذنية (otic) والعينية (ophthalmic) فموضعية غير حقنية، فالإجابة 'd وf معاً'. (بالتعريف الأوسع 'أي طريق غير معوي' تُعدّ الموضعية أيضاً غير معوية، لكن السؤال يتبع تعريف التمريض بأنها حقنية.)",
+  "refs": [
+   {
+    "title": "MSD Manual Consumer - Drug Administration (parenteral = administration by injection; ocular and otic routes separate)",
+    "url": "https://www.merckmanuals.com/home/drugs/administration-and-kinetics-of-drugs/drug-administration"
+   },
+   {
+    "title": "Wikipedia - Route of administration (intra-articular is a parenteral route)",
+    "url": "https://en.wikipedia.org/wiki/Route_of_administration"
+   }
+  ]
+ },
+ {
+  "id": "Q0177",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "الـ IV bolus هو إعطاء جرعة مركّزة واحدة وريدياً بسرعة خلال فترة قصيرة (ثوانٍ إلى دقائق)؛ الخياران 0 و3 كلاهما صحيح جزئياً، لكن المراجع لا تجعل 'بدون تخفيف' شرطاً (بعض الأدوية تُخفَّف)، فأبقيت على علامة المصدر (3) بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Louis Pressbooks - Principles of Intravenous Medication Administration (IV push/bolus: single concentrated dose over a short time)",
+    "url": "https://louis.pressbooks.pub/intravenoustherapy/chapter/medication-administration/"
+   },
+   {
+    "title": "K Med Health - Differences Between IV Infusion and IV Bolus (rapid injection; some drugs need dilution)",
+    "url": "https://www.kmedhealth.com/what-are-the-differences-between-intravenous-infusion-and-intravenous-bolus/"
+   }
+  ]
+ },
+ {
+  "id": "Q0178",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "تقنية Z-track حقن عضلي عميق يمنع تسرّب الدواء إلى النسيج تحت الجلد، وتُستعمل خصوصاً مع الأدوية المهيّجة/الملوِّنة للنسيج، فالجواب 'a وb'.",
+  "refs": [
+   {
+    "title": "Mombaby - Clinical Procedures: Intramuscular Injections Z-Track (used for drugs that irritate and discolor subcutaneous tissue)",
+    "url": "https://www.mombaby.org/wp-content/uploads/2016/03/17P-Intramuscular-Injections-Z-Track.pdf"
+   },
+   {
+    "title": "Intramuscular Injection - StatPearls (Z-track method recommended)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK556121/"
+   }
+  ]
+ },
+ {
+  "id": "Q0179",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "مواضع الحقن العضلي: الألوية الظهرية والبطنية، الفخذ الوحشي (vastus lateralis)، والدالية (deltoid)؛ أما الساعد فليس موضعاً للحقن العضلي.",
+  "refs": [
+   {
+    "title": "Intramuscular Injection - StatPearls (ventrogluteal, dorsogluteal, vastus lateralis, deltoid)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK556121/"
+   }
+  ]
+ },
+ {
+  "id": "Q0180",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "في التهاب السحايا الجرثومي يكون سكر السائل الدماغي الشوكي منخفضاً والبروتين مرتفعاً والسائل عكِراً والضغط مرتفعاً؛ فالخيار الصحيح 'انخفاض السكر' (وهو غير منخفض في الفيروسي غالباً).",
+  "refs": [
+   {
+    "title": "Wikipedia - Meningitis (CSF: low glucose, high protein, PMNs)",
+    "url": "https://en.wikipedia.org/wiki/Meningitis"
+   },
+   {
+    "title": "Meningitis - StatPearls (CSF glucose, protein, cell count evaluation)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK459360/"
+   }
+  ]
+ },
+ {
+  "id": "Q0181",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "مضاعفات التهاب السحايا: الاختلاجات، الوذمة الدماغية، استسقاء الرأس، الاحتشاء/الخراج الدماغي، التجمع تحت الجافية، وفقدان السمع؛ ولا يُعدّ احتشاء عضلة القلب من مضاعفاتها.",
+  "refs": [
+   {
+    "title": "Meningitis - StatPearls (complications: hearing loss, cerebrovascular complications, seizure disorders, hydrocephalus)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK459360/"
+   },
+   {
+    "title": "NHS - Meningitis (complications do not include heart attack)",
+    "url": "https://www.nhs.uk/conditions/meningitis/"
+   }
+  ]
+ },
+ {
+  "id": "Q0182",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "التهاب الكبيبات الحاد: بول بنيّ/بلون الصدأ ووذمة وارتفاع ضغط ووعكة؛ والوزن يزداد باحتباس السوائل لا ينقص، فـ'فقدان الوزن' هو الاستثناء. (صفحة MedlinePlus لا تذكر الوزن صراحةً؛ الاستدلال من الوذمة.)",
+  "refs": [
+   {
+    "title": "MedlinePlus Medical Encyclopedia - Poststreptococcal glomerulonephritis (rust-colored urine, edema, high blood pressure)",
+    "url": "https://medlineplus.gov/ency/article/000503.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0183",
+  "verdict": "corrected",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": false,
+  "note_ar": "المصدر أشّر تضيّق الأبهر (2) وهو خطأ: الاستثناء المطلوب هو المرض الزرقي؛ رتق الصمام ثلاثي الشرفات (Tricuspid atresia) مرض قلبي خِلقي زرقي، بينما VSD وPDA وتضيّق الأبهر (Coarctation) لا زرقية.",
+  "refs": [
+   {
+    "title": "CDC - Tricuspid Atresia (causes cyanosis; critical CHD)",
+    "url": "https://www.cdc.gov/heart-defects/about/tricuspid-atresia.html"
+   },
+   {
+    "title": "Wikipedia - Congenital heart defect (VSD, PDA, coarctation non-cyanotic; tricuspid atresia cyanotic)",
+    "url": "https://en.wikipedia.org/wiki/Congenital_heart_defect"
+   },
+   {
+    "title": "CDC - Coarctation of the Aorta (symptoms do not include cyanosis)",
+    "url": "https://www.cdc.gov/heart-defects/about/coarctation-of-the-aorta.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0184",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "رباعي فالوت: VSD وتضيّق الشريان الرئوي وأبهر راكب وضخامة البطين الأيمن؛ أما الفتحة الأذينية (ASD) فليست من مكوّناته.",
+  "refs": [
+   {
+    "title": "CDC - Tetralogy of Fallot",
+    "url": "https://www.cdc.gov/heart-defects/about/tetralogy-of-fallot.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0185",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "علامة كيرنيغ (ألم/مقاومة عند بسط الركبة والورك مثني) علامة تهيّج سحائي تدل على التهاب السحايا.",
+  "refs": [
+   {
+    "title": "Meningitis - StatPearls (Kernig sign)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK459360/"
+   },
+   {
+    "title": "Wikipedia - Meningitis (Kernig's sign)",
+    "url": "https://en.wikipedia.org/wiki/Meningitis"
+   }
+  ]
+ },
+ {
+  "id": "Q0186",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "العلامات الأساسية للمتلازمة الكلوية: بيلة بروتينية وانخفاض الألبومين ووذمة مع فرط شحميات/كوليسترول الدم؛ فـ'نقص الكوليسترول' عكس الحقيقة وهو الاستثناء.",
+  "refs": [
+   {
+    "title": "Diagnosis and Management of Nephrotic Syndrome in Adults - AAFP",
+    "url": "https://www.aafp.org/pubs/afp/issues/2016/0315/p479.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0187",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "التعريفات تختلف: ACOG يجعل الحمل 'كامل المدة' 39+0 إلى 40+6 أسبوع، ومنظمة الصحة العالمية تعدّ 'الحمل التام' من 37 أسبوعاً (قبلها خديج) إلى أقل من 42، وبعض كتب التمريض تذكر 38–42 (الخيار 1) وأخرى 37–40؛ لا خيار يطابق ACOG تماماً. أبقيت على 37–40 (علامة المصدر) بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Wikipedia - Gestational age (ACOG term definitions; 38-42 weeks normal; WHO preterm <37 weeks)",
+    "url": "https://en.wikipedia.org/wiki/Gestational_age"
+   }
+  ]
+ },
+ {
+  "id": "Q0188",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "غثيان الصباح يُعزى إلى التغيرات الهرمونية في الحمل (hCG والإستروجين وغيرها) بحسب NHS (الآلية غير محسومة تماماً)؛ وحمل التوائم عامل خطر لا سبب.",
+  "refs": [
+   {
+    "title": "NHS - Vomiting and morning sickness in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/vomiting-and-morning-sickness/"
+   }
+  ]
+ },
+ {
+  "id": "Q0189",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الإباضة (Ovulation) هي إطلاق البويضة، وتحدث عند نهاية الطور الجريبي وقبيل الطور الأصفري (Luteal) بعد ذروة LH.",
+  "refs": [
+   {
+    "title": "Physiology, Menstrual Cycle - StatPearls (NCBI Bookshelf NBK500020)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK500020/"
+   }
+  ]
+ },
+ {
+  "id": "Q0190",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "انقطاع الطمث (Amenorrhea) = غياب الدورة الشهرية.",
+  "refs": [
+   {
+    "title": "MedlinePlus Medical Encyclopedia - Absent menstrual periods - secondary",
+    "url": "https://medlineplus.gov/ency/article/001219.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0191",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "المشيمة تمدّ الجنين بالمغذيات والأكسجين وتزيل الفضلات عبر تبادل بين الدورتين الدمويتين للأم والجنين.",
+  "refs": [
+   {
+    "title": "Wikipedia - Placenta",
+    "url": "https://en.wikipedia.org/wiki/Placenta"
+   }
+  ]
+ },
+ {
+  "id": "Q0192",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "أهم ميزة لحليب الأم للمولود حمايته من العدوى بما يحتويه من أجسام مضادة؛ الخيار 1 (ملاءمة الحليب لاحتياجاته) صحيح جزئياً لكن الجواب المعتمد هو الأجسام المضادة. (المرجعان ينصّان على الحماية من العدوى، لا يذكران لفظ 'antibodies' في ما استُخرج.)",
+  "refs": [
+   {
+    "title": "NHS - Benefits of breastfeeding (breast milk protects your baby from infections)",
+    "url": "https://www.nhs.uk/conditions/baby/breastfeeding-and-bottle-feeding/breastfeeding/benefits/"
+   },
+   {
+    "title": "NICHD - Benefits of breastfeeding (protection against common childhood infections)",
+    "url": "https://www.nichd.nih.gov/health/topics/breastfeeding/conditioninfo/benefits"
+   }
+  ]
+ },
+ {
+  "id": "Q0193",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "HCG = Human chorionic gonadotropin (الهرمون المحفّز للغدد التناسلية المشيمائي).",
+  "refs": [
+   {
+    "title": "Wikipedia - Human chorionic gonadotropin",
+    "url": "https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin"
+   }
+  ]
+ },
+ {
+  "id": "Q0194",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الأسرة النووية (Nuclear family) = الوالدان وأبناؤهما المعالون يعيشون معاً.",
+  "refs": [
+   {
+    "title": "Wikipedia - Nuclear family",
+    "url": "https://en.wikipedia.org/wiki/Nuclear_family"
+   }
+  ]
+ },
+ {
+  "id": "Q0195",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "أسباب الوفاة/الإصابة الرئيسية لدى المراهقين: حوادث السير والعنف والإيذاء الذاتي/الانتحار، وتعاطي المواد من أبرز عوامل الخطر، فالخيار 1.",
+  "refs": [
+   {
+    "title": "WHO - Adolescent health: risks and solutions",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/adolescents-health-risks-and-solutions"
+   }
+  ]
+ },
+ {
+  "id": "Q0196",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الوضعية البطنية (Prone) = الاستلقاء على الوجه/الصدر للأسفل؛ أما Supine فعلى الظهر.",
+  "refs": [
+   {
+    "title": "Wikipedia - Prone position",
+    "url": "https://en.wikipedia.org/wiki/Prone_position"
+   }
+  ]
+ },
+ {
+  "id": "Q0197",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "يعزو تقرير CDC الانخفاض في وفيات الرضع في أواخر القرن العشرين إلى التقدم في طب حديثي الولادة وتنظيم خدمات الفترة المحيطة بالولادة والسيرفاكتانت؛ أما التحسّن المبكر فمن الصرف الصحي والمضادات الحيوية (ليست خيارات). السؤال مرتبط بنص دراسي محدد، لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "CDC MMWR - Achievements in Public Health, 1900-1999: Healthier Mothers and Babies",
+    "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4838a2.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0198",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "سكري الحمل يميل إلى إنتاج مواليد أكبر حجماً (macrosomia) مع هبوط سكر الوليد، ويزول غالباً بعد الولادة؛ فالعبارة الخاطئة هي أن المواليد ناقصو الوزن.",
+  "refs": [
+   {
+    "title": "MedlinePlus Medical Encyclopedia - Gestational diabetes (larger babies, neonatal hypoglycemia)",
+    "url": "https://medlineplus.gov/ency/article/000896.htm"
+   },
+   {
+    "title": "NIDDK - Gestational Diabetes (resolves after birth)",
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/gestational"
+   }
+  ]
+ },
+ {
+  "id": "Q0199",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "كثرة السائل الأمنيوسي (Polyhydramnios) = زيادة السائل حول الجنين (AFI ≥ 24 سم أو أعمق جيب ≥ 8 سم).",
+  "refs": [
+   {
+    "title": "Polyhydramnios - StatPearls (NCBI Bookshelf NBK562140)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK562140/"
+   }
+  ]
+ },
+ {
+  "id": "Q0200",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "أعراض ما قبل الارتجاج: ارتفاع الضغط وبروتين في البول وتورّم وصداع واضطراب رؤية؛ أما النزف المهبلي فليس من أعراضه (يرتبط بانفصال المشيمة مثلاً).",
+  "refs": [
+   {
+    "title": "NHS - Pre-eclampsia: Symptoms",
+    "url": "https://www.nhs.uk/conditions/pre-eclampsia/symptoms/"
+   }
+  ]
+ }
+]

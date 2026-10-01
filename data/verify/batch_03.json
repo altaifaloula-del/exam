@@ -1,0 +1,921 @@
+[
+ {
+  "id": "Q0101",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A primary care provider is going to perform a thoracentesis. The physician assistant's role will include which action :",
+  "q_ar": null,
+  "options": [
+   "Place the client supine in the Trendelenburg position.",
+   "Position the client in a seated position with elbows on the over bed table.",
+   "Instruct the UAP to measure vital signs",
+   "Administer an opioid analgesic"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Position the client in a seated position with elbows on the over bed table.",
+  "source_status": "single",
+  "flags": [
+   "multiple_marks"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0102",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A client is scheduled for a colonoscopy. The nurse will provide information to the client about which type of enema :",
+  "q_ar": null,
+  "options": [
+   "Oil retention",
+   "Return flow",
+   "Theophylline",
+   "Epinephrine HCL"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0103",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When palpating the abdomen, begin by palpating:",
+  "q_ar": null,
+  "options": [
+   "lightly.",
+   "firmly.",
+   "deeply",
+   "the most tender..."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "lightly.",
+  "source_status": "single",
+  "flags": [
+   "multiple_marks",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0104",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A client with chronic pulmonary disease has a bluish tinge around the lips, which term to most accurately describe the client condition :",
+  "q_ar": null,
+  "options": [
+   "Hypoxia",
+   "Hypoxemia",
+   "Dyspnea",
+   "Cyan"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Cyan",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0105",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The causes of anemia during pregnancy include the following except one:",
+  "q_ar": null,
+  "options": [
+   "Inadequate amount of vitamin B6 in the diet",
+   "Inadequate amount of iron i d.",
+   "Inadequate amount of folic acid in the diet",
+   "Iron deficiency that lost"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Iron deficiency that lost",
+  "source_status": "single",
+  "flags": [
+   "multiple_marks",
+   "source_typo",
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0106",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The purposes of the physical examination are to:",
+  "q_ar": null,
+  "options": [
+   "Gather baseline data",
+   "Confirm data obtained in the Waterview and heal history",
+   "a&b",
+   "none of them"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0107",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Patient comes with fracture of femur in an acute accident, the first thing to do is:",
+  "q_ar": null,
+  "options": [
+   "Secure airway and treat the shock",
+   "Splinting",
+   "Physical examination",
+   "X-Ray"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0108",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The laboratory tests most specific to renal function are:",
+  "q_ar": null,
+  "options": [
+   "potassium and sodium measurements.",
+   "BUN and creatinine measurements.",
+   "chloride and bicarbonate measurements.",
+   "blood glucose and ketone measurements"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0109",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following are normally present in urine result EXCEPT:",
+  "q_ar": null,
+  "options": [
+   "Urea.",
+   "Createnin.",
+   "Albumin.",
+   "Sodium."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Albumin.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0110",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following are etiologic factors of fluid volume deficit except:",
+  "q_ar": null,
+  "options": [
+   "Vomiting",
+   "Diarrhea",
+   "Renal failure",
+   "Excessive sweating"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Renal failure",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0111",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following are most common complications postoperatively except:",
+  "q_ar": null,
+  "options": [
+   "Hemorrhage",
+   "Tonsillitis",
+   "Wound infection",
+   "Pain"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Tonsillitis",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0112",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following are clinical manifestations of fluid volume excess except:",
+  "q_ar": null,
+  "options": [
+   "Edema",
+   "Oligurea",
+   "Distended neck veins",
+   "Increased CVP"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Oligurea",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0113",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Apnea is medical term means:",
+  "q_ar": null,
+  "options": [
+   "Rapid pulse",
+   "Increase body temperature",
+   "Stop breathing",
+   "Low blood pressure"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Stop breathing",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0114",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following are nursing actions during preoperative nursing care except:",
+  "q_ar": null,
+  "options": [
+   "Observe incisional site",
+   "Remove hairpins and hairpieces",
+   "Remove jewelry and prostheses",
+   "Assess all vital signs"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Observe incisional site",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0115",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Signs and symptoms of Hypovolemic shock are all of the following except:",
+  "q_ar": null,
+  "options": [
+   "Tachycardia",
+   "Hypertension",
+   "Pallor and cyanosis",
+   "Tachypnea"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Hypertension",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0116",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Normal Saline 0.9% solution is considered as which of the following:",
+  "q_ar": null,
+  "options": [
+   "Isotonic solution",
+   "Hypotonic solution",
+   "Hypertonic solution",
+   "Non of the above"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Isotonic solution",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0117",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When blood sugar level is above normal range, this means that patient has:",
+  "q_ar": null,
+  "options": [
+   "Hypotension",
+   "Hypoglycemia",
+   "Hyperglycemia",
+   "Bradycardia"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Hyperglycemia",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0118",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The most important thing should be done after any nursing action is:",
+  "q_ar": null,
+  "options": [
+   "Documentation",
+   "Nursing diagnosis",
+   "Planning",
+   "All of the above"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Documentation",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0119",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following are assessment sites for body temperature except:",
+  "q_ar": null,
+  "options": [
+   "Oral Site.",
+   "Rectal Site.",
+   "Axillary Site.",
+   "Apical"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Apical",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0120",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Mr. Ashraf aged 35 years old, his pulse rate is found to be 120 bpm. His heart rate could be described as:",
+  "q_ar": null,
+  "options": [
+   "Tachypnea.",
+   "Tachycardia.",
+   "Bradypnea",
+   "Bradycardia."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Tachycardia.",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0121",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following factors are affecting body temperature:",
+  "q_ar": null,
+  "options": [
+   "Food intake.",
+   "Age and Gender",
+   "Climate.",
+   "All of the above"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "All of the above",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0122",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The condition in which a person is aware of his or her own heart beats is called:",
+  "q_ar": null,
+  "options": [
+   "Palpitation.",
+   "Dysrhythmia.",
+   "Pulse rhythm.",
+   "Arrhythmia."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Palpitation.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0123",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The condition in which the body temperature is above the average normal is called:",
+  "q_ar": null,
+  "options": [
+   "Bradypnea",
+   "Fever.",
+   "Hypertension.",
+   "Hypothermia."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Fever.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0124",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following best describes the technique of palpation:",
+  "q_ar": null,
+  "options": [
+   "The use of the sense of hearing to listen for sounds.",
+   "The use of tapping on a particular part of the body to produce sounds.",
+   "The use of the senses to evaluate general appearance of the patient.",
+   "The sense of touch to feel the body by slight or deep pressure."
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "The sense of touch to feel the body by slight or deep pressure.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0125",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Inhalation or inspiration means:",
+  "q_ar": null,
+  "options": [
+   "Stop breathing.",
+   "Difficult breathing.",
+   "Breathing out.",
+   "Breathing in."
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Breathing in.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0126",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Normal body temperature is ranging from:",
+  "q_ar": null,
+  "options": [
+   "35.8 – 37.4 C",
+   "34.5 – 36.5 C",
+   "35.0 – 38.0 C",
+   "36.5 – 38.5 C"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "35.8 – 37.4 C",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0127",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Pulse pressure is defined as which of the following:",
+  "q_ar": null,
+  "options": [
+   "Difference between systolic and diastolic pressure.",
+   "Expansion of the artery as blood moves through it.",
+   "Difference between arterial and venous pressure.",
+   "Difference between venous and systolic pressure."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Difference between systolic and diastolic pressure.",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0128",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Sleep is defined as:",
+  "q_ar": null,
+  "options": [
+   "A state of arousable unconsciousness.",
+   "A state of emotional rest and excessive sleepiness.",
+   "A state of drowsiness and decreased activity.",
+   "A state of decreased activity and mental stimulation."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "A state of arousable unconsciousness.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0129",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Unoccupied bed making means:",
+  "q_ar": null,
+  "options": [
+   "Changing linen when the patient remains in the bed.",
+   "Changing linen when the bed empty.",
+   "State in which a person is relieved of distress.",
+   "None of the above."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Changing linen when the bed empty.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0130",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The advantage of use head to toe approach when you assess the patient:",
+  "q_ar": null,
+  "options": [
+   "It is difficult to detect the disease or problem.",
+   "It helps to prevent overlooking some aspect of data collection.",
+   "It increase the number of position changes.",
+   "It takes more time."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "It helps to prevent overlooking some aspect of data collection.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0131",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The most accurate time for measuring pulse rate is:",
+  "q_ar": null,
+  "options": [
+   "30 seconds.",
+   "15 seconds.",
+   "60 seconds.",
+   "45 seconds."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "60 seconds.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0132",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Normal respiratory rate at rest per minute in adults is ranging from:",
+  "q_ar": null,
+  "options": [
+   "10-14.",
+   "12-20.",
+   "20-25.",
+   "20-30."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "12-20.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0133",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Practices that promote health through personal cleanliness is called:",
+  "q_ar": null,
+  "options": [
+   "General appearance.",
+   "Self image.",
+   "Insomnia.",
+   "Hygiene."
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Hygiene.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0134",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following are therapeutic bathes except:",
+  "q_ar": null,
+  "options": [
+   "Shampooing bath.",
+   "Whirlpool bath,",
+   "Medicated bath.",
+   "Sitz bath."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Shampooing bath.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0135",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Orthopnea is defined as:",
+  "q_ar": null,
+  "options": [
+   "Breathing facilitated by sitting or standing up.",
+   "Absence of breathing.",
+   "Rapid breathing.",
+   "Difficult breathing."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Breathing facilitated by sitting or standing up.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0136",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following is a form of radiograhpy:",
+  "q_ar": null,
+  "options": [
+   "Fluoroscopy.",
+   "Contrast medium.",
+   "C.T. Scan",
+   "All of the above"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "All of the above",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0137",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The examination that indicates physical inspection of the vagina and cervix with palpation of uterus and ovaries is called:",
+  "q_ar": null,
+  "options": [
+   "A Pap test.",
+   "Electrocardiography.",
+   "Pelvic examination.",
+   "Paracentesis."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Pelvic examination.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0138",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Procedure that involves the insertion of a needle between lumber vertebra in the spine but below the spinal cord itself is called:",
+  "q_ar": null,
+  "options": [
+   "Lumber puncture.",
+   "Paracentesis.",
+   "Pelvic Examination.",
+   "Electromyography."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Lumber puncture.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0139",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following is considered as a benefit of bathing:",
+  "q_ar": null,
+  "options": [
+   "Improving self image.",
+   "Eliminating body odor.",
+   "Stimulating circulation.",
+   "All of the above."
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "All of the above.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0140",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The patient is reclining on back with the feet elevated in metal support, this position is called:",
+  "q_ar": null,
+  "options": [
+   "Knee-Chest position.",
+   "Lithotomy position.",
+   "Modified Standing position.",
+   "Sims position."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Lithotomy position.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0141",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Exchange of oxygen and carbon dioxide when taking air in and out of the chest is:",
+  "q_ar": null,
+  "options": [
+   "Respiration.",
+   "Circulation.",
+   "Blood pressure.",
+   "None of the above."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Respiration.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0142",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Ventilation means:",
+  "q_ar": null,
+  "options": [
+   "Movement of air in and out of the chest.",
+   "Movement of air out of the chest.",
+   "Movement of air in the chest.",
+   "Non of the above."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Movement of air in and out of the chest.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0143",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following are common factors that invalidated examination or test results except:",
+  "q_ar": null,
+  "options": [
+   "Inadequate specimen volume.",
+   "Failure to send the specimen in a timely manner.",
+   "Correct diet preparation.",
+   "Insufficient bowel cleansing."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Correct diet preparation.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0144",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following are physical assessment techniques except:",
+  "q_ar": null,
+  "options": [
+   "Inspection.",
+   "Percussion.",
+   "Puncturing.",
+   "Palpation"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Puncturing.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0145",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the following are post procedural nursing responsibilities except:",
+  "q_ar": null,
+  "options": [
+   "The nurse has to attend the patient for comfort and rest.",
+   "Care of specimens.",
+   "Assist the examiner.",
+   "Record and report of information."
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Assist the examiner.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0146",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A patient is prepared for hemodialysis. He receives heparin before therapy before primarily to help:",
+  "q_ar": null,
+  "options": [
+   "Relieve discomfort",
+   "Prevent blood clotting",
+   "Maintain blood pressure",
+   "Stimulate the production of urine"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Prevent blood clotting",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0147",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Another name for a stone in the urinary tract is:",
+  "q_ar": null,
+  "options": [
+   "Calix",
+   "Calculus",
+   "Calcemia",
+   "Calcitonin"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Calculus",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0148",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Urine that remains in pt's bladder after he voids is called:",
+  "q_ar": null,
+  "options": [
+   "Reflux urine",
+   "Over flow urine",
+   "Retention urine",
+   "Residual urine"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Residual urine",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0149",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "For a normal person the urine specific gravity is ranged between:",
+  "q_ar": null,
+  "options": [
+   "1.000 and 1.010",
+   "1.015 and 1.025",
+   "1.025 and 1.050",
+   "1.050 and 1.070"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "1.015 and 1.025",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0150",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following conditions does not predispose the development of renal failure:",
+  "q_ar": null,
+  "options": [
+   "Mismatched blood transfusion",
+   "Sever dehydration",
+   "Septicemia",
+   "Cerebrovascular accident (CVA)"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Cerebrovascular accident (CVA)",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

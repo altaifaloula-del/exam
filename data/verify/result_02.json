@@ -1,0 +1,755 @@
+[
+ {
+  "id": "Q0051",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الجرام = 1000 ملغ (البادئة milli تعني جزءًا من ألف)، فـ 0.5 غ = 500 ملغ؛ الخيار 3 صحيح حسابيًا.",
+  "refs": [
+   {
+    "title": "NIST: Metric (SI) Prefixes",
+    "url": "https://www.nist.gov/pml/owm/metric-si-prefixes"
+   }
+  ]
+ },
+ {
+  "id": "Q0052",
+  "verdict": "corrected",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": false,
+  "note_ar": "TID = ثلاث مرات يوميًا وPO = بالفم (per os)، فالمعنى 'ثلاث مرات يوميًا عن طريق الفم'؛ الاختصار لا يحدد التوقيت بالنسبة للوجبات، فعلامة المصدر (بعد الوجبات) غير مدعومة (وكانت علامتها ملتبسة/متعددة).",
+  "refs": [
+   {
+    "title": "NIH ClinicalInfo HIV Glossary: TID",
+    "url": "https://clinicalinfo.hiv.gov/en/glossary/tid"
+   },
+   {
+    "title": "Wikipedia: List of abbreviations used in medical prescriptions (p.o. = per os = by mouth; t.i.d. = 3 times a day)",
+    "url": "https://en.wikipedia.org/wiki/List_of_abbreviations_used_in_medical_prescriptions"
+   }
+  ]
+ },
+ {
+  "id": "Q0053",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": false,
+  "note_ar": "القاعدة: استعمال العضلات الكبيرة القوية (الفخذين/الساقين والوركين) بدل الظهر الصغير؛ لكن بعض مراجع الأساسيات تعدّ العضد والكتف ضمن العضلات القوية أيضًا، ومفتاح الأسئلة الشائع 'عضلات الساقين'، فأرجّح الساقين بثقة منخفضة وعلامة المصدر (العضد) أضعف دعمًا.",
+  "refs": [
+   {
+    "title": "Body Mechanics (TRU pressbooks): use the larger and stronger muscles of thighs, hips, shoulders and upper arms",
+    "url": "https://hcalabtheoryandpractice.pressbooks.tru.ca/chapter/body-mechanics/"
+   },
+   {
+    "title": "Nurse Key: Body mechanics (bend knees and squat, do not bend from the waist)",
+    "url": "https://nursekey.com/16-body-mechanics/"
+   },
+   {
+    "title": "RN-Nurse: Safe patient transfers (use leg muscles instead of the back) - weak source",
+    "url": "https://rn-nurse.com/safe-patient-transfers-and-positioning-nursing/"
+   }
+  ]
+ },
+ {
+  "id": "Q0054",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "الإرشادات تختلف: CDC تقول فرك اليدين 15 ثانية على الأقل (وجهات أخرى 20)، وStatPearls 15–20 ثانية، بينما WHO تحدد 40–60 ثانية (≈ دقيقة)؛ الخيار 10–15 ثانية يوافق الكتب التعليمية/CDC لكنه أقل من الحد الأدنى في التوصيات الأحدث، والخيار 1 دقيقة يوافق WHO.",
+  "refs": [
+   {
+    "title": "CDC: Clinical Safety: Hand Hygiene for Healthcare Workers",
+    "url": "https://www.cdc.gov/clean-hands/hcp/clinical-safety/index.html"
+   },
+   {
+    "title": "StatPearls: Hand Hygiene in Clinical Practice",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470254/"
+   },
+   {
+    "title": "WHO: How to Handwash (poster)",
+    "url": "https://www.who.int/docs/default-source/patient-safety/how-to-handwash-poster.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0055",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الجزء الداخلي للقفاز غير معقّم (تلمسه اليد العارية ويُمسك الأول من داخل الكفّة)، والمعقّم هو السطح الخارجي فقط؛ لذا العبارة الخاطئة (الاستثناء) هي الرابعة. المرجع المتاح مدوّنة تعليمية فقط فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "LevelUpRN: Sterile Gloving (inside of glove is not sterile; pick up first glove by the cuff)",
+    "url": "https://leveluprn.com/blogs/clinical-nursing-skills/4-sterile-gloving"
+   }
+  ]
+ },
+ {
+  "id": "Q0056",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "توصي CDC بإدخال القسطرة البولية بتقنية معقمة (aseptic) وأدوات معقمة؛ أما التنقيط المهبلي وإدخال أنبوب المعدة وغسيل فغر القولون فتُجرى عادةً بتقنية نظيفة.",
+  "refs": [
+   {
+    "title": "CDC: CAUTI Guideline - Summary of Recommendations (insert urinary catheters using aseptic technique and sterile equipment)",
+    "url": "https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0057",
+  "verdict": "corrected",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": false,
+  "note_ar": "الحافة الخارجية (~1 إنش/2.5 سم) للميدان المعقّم تُعدّ غير معقمة فوضع أداة معقمة عليها يكسر التعقيم؛ أما الخيارات الأخرى فإجراءات مقبولة (لمس الغلاف الخارجي غير المعقّم، أو سكب كمية صغيرة لتنظيف فوهة الزجاجة). علامة المصدر (لمس الغلاف الخارجي) ليست كسرًا للتعقيم.",
+  "refs": [
+   {
+    "title": "StatPearls: Sterile Technique (imaginary 1-inch border is unsterile)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK459175/"
+   },
+   {
+    "title": "Nursing Skills (WTCS): 4.4 Sterile Fields (any part within 1 inch of the edge is contaminated)",
+    "url": "https://wtcs.pressbooks.pub/nursingskills/chapter/4-4-sterile-fields/"
+   }
+  ]
+ },
+ {
+  "id": "Q0058",
+  "verdict": "corrected",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": false,
+  "note_ar": "البروتين هو المغذّي الأهم لالتئام الجروح ونقصه يعطّل الالتئام (بناء الكولاجين والنسيج)، أما الدهون والكربوهيدرات فدورها طاقي أساسًا؛ فخيار 'لا شيء مما سبق' غير صحيح.",
+  "refs": [
+   {
+    "title": "Nutrition, Anabolism, and the Wound Healing Process: An Overview (PMC)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2642618/"
+   },
+   {
+    "title": "StatPearls: Impaired Wound Healing (proteins are the key building blocks)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK482254/"
+   }
+  ]
+ },
+ {
+  "id": "Q0059",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": false,
+  "note_ar": "عوامل الخطر لقرحة الضغط: قلة الحركة/الحبسة بالفراش، سلس البول (رطوبة)، سوء التغذية، والشيخوخة؛ الخيار 1 (88 سنة، سلس، سرطان معدة، طريح الفراش) يجمعها، لكن نص الخيار 3 مبتور فلا يمكن المقارنة الكاملة ولم أجد نص السؤال الأصلي؛ علامة المصدر (الخيار 3) لا يدعمها المرجع المتاح.",
+  "refs": [
+   {
+    "title": "AAFP: Pressure Ulcers: Prevention, Evaluation, and Management (intrinsic/extrinsic risk factors)",
+    "url": "https://www.aafp.org/pubs/afp/issues/2008/1115/p1186.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0060",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الغرض الأهم من غسل اليدين هو منع انتقال الكائنات الدقيقة/العدوى؛ CDC وStatPearls تصفان نظافة اليدين بأنها أهم ممارسة لخفض انتقال العدوى.",
+  "refs": [
+   {
+    "title": "StatPearls: Hand Hygiene in Clinical Practice",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470254/"
+   },
+   {
+    "title": "CDC: Clinical Safety: Hand Hygiene for Healthcare Workers",
+    "url": "https://www.cdc.gov/clean-hands/hcp/clinical-safety/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0061",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "العلامات الجهازية لعدوى الجرح: حمى/زيادة النبض (استجابة التهابية) وارتفاع كريات الدم البيضاء؛ أما التورم والحرارة والألم والاحمرار فعلامات موضعية؛ فالإجابة 'a&b'. StatPearls يذكر الحمى وكثرة الكريات البيض كعلامات جهازية، وSIRS يشمل النبض >90.",
+  "refs": [
+   {
+    "title": "StatPearls: Postoperative Wound Infections (systemic signs: fever, leukocytosis)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560533/"
+   },
+   {
+    "title": "StatPearls: Systemic Inflammatory Response Syndrome (temperature, heart rate >90, WBC criteria)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK547669/"
+   }
+  ]
+ },
+ {
+  "id": "Q0062",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "فقر الدم (نقص سعة نقل الأكسجين) وتصلب الشرايين (تقييد التروية) وفشل القلب (انخفاض النتاج القلبي) كلها تعيق توصيل الأكسجين للأنسجة؛ أما arthroprosis (يقصد خشونة/التهاب المفاصل) فلا تؤثر مباشرة في الأكسجة. الكلمة مكتوبة بخطأ إملائي.",
+  "refs": [
+   {
+    "title": "StatPearls: Physiology, Oxygen Transport (DO2 = CO x CaO2; anemia, restricted blood supply)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK538336/"
+   }
+  ]
+ },
+ {
+  "id": "Q0063",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "التعقيم الطبي (التقنية النظيفة) يقلل عدد الكائنات الدقيقة ويمنع انتشارها، وتعريفه في كتب التمريض يشمل الحد من العدد والنمو والانتقال؛ المرجع المسترجَع (موسوعي) يذكر خفض العدد ومنع الانتشار فقط ولم أصل لنص كتاب التمريض، لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Wikipedia: Asepsis (medical/clean asepsis reduces the number of organisms and prevents their spread)",
+    "url": "https://en.wikipedia.org/wiki/Asepsis"
+   }
+  ]
+ },
+ {
+  "id": "Q0064",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "عدم القدرة على الرمش يعرّض القرنية للجفاف وتبخّر الدمعة (اعتلال القرنية بالتعرّض) ثم تقرّح القرنية والتهاب القرنية الجرثومي؛ StatPearls يذكر جفاف العين والتقرّح والتهاب القرنية الميكروبي، أما 'تورم العين' فيرد كوذمة الملتحمة (chemosis) ضمنًا فقط، فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "StatPearls: Lagophthalmos (exposure keratopathy, corneal ulceration, microbial keratitis)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560661/"
+   }
+  ]
+ },
+ {
+  "id": "Q0065",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الإجراء الإسعافي الفوري عند الاشتباه بإصابة الحبل الشوكي هو تثبيت/تقييد حركة العمود الفقري لمنع تفاقم الإصابة (spinal motion restriction وفق ACS)، قبل المسكنات أو تغيير الوضع أو التمارين.",
+  "refs": [
+   {
+    "title": "StatPearls: Spinal Cord Injuries (spinal motion restriction / immobilization to prevent exacerbation)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560721/"
+   }
+  ]
+ },
+ {
+  "id": "Q0066",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الهرمون المنبّه للجُريب FSH يحفّز نضج الجريبات (وبالتالي نمو البويضة) في الطور الجريبي، أما LH فيثير الإباضة والبروجسترون يهيّئ بطانة الرحم.",
+  "refs": [
+   {
+    "title": "StatPearls: Physiology, Menstrual Cycle (FSH stimulates primordial follicles to mature)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK500020/"
+   }
+  ]
+ },
+ {
+  "id": "Q0067",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الطور الإفرازي (اللوتئيني) بعد الإباضة: يحفّز البروجسترون نضج بطانة الرحم تهيئةً لانغراس البويضة المخصبة؛ (ischaemia phase هي مرحلة ما قبل الحيض).",
+  "refs": [
+   {
+    "title": "StatPearls: Physiology, Menstrual Cycle (luteal/secretory phase prepares endometrium for implantation)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK500020/"
+   }
+  ]
+ },
+ {
+  "id": "Q0068",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "موانع حبوب منع الحمل المركبة: عمر ≥35 مع تدخين ≥15 سيجارة/يوم = فئة 4 (خطر غير مقبول) في US MEC؛ أما اللولب فهو فئة 1 للمدخنات بلا قيود. (الخيارات المعروضة ثلاثة فقط).",
+  "refs": [
+   {
+    "title": "CDC: Summary of Classifications, U.S. MEC for Contraceptive Use 2024 (CHC in smokers age >=35: category 3/4; IUD: category 1)",
+    "url": "https://www.cdc.gov/contraception/hcp/usspr/classifications-mec-contraception.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0069",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال غامض: ضغط 180/100 في مدى شديد (≥160/110) ويستدعي تدخّلًا عاجلًا من الطبيب (خافض ضغط) — وهو الوحيد غير الطبيعي؛ أما إدرار 40 مل/س (≥30) وتنفس 12 (التوقّف عند <12 عادةً) وحرارة 37 فمقبولة، وتختلف البروتوكولات في حدّ التنفس (بعضها <16). لا علامة مصدر؛ أُرجّح الخيار الأول بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "AAFP/ACOG PB 222: severe-range BP (>=160/110) needs timely intervention; monitor urine output, respiration, reflexes on MgSO4",
+    "url": "https://www.aafp.org/pubs/afp/issues/2019/1115/p649.html"
+   },
+   {
+    "title": "USF Health: Magnesium Sulfate (urine output <30 mL/h, respiratory depression, loss of DTRs)",
+    "url": "https://health.usf.edu/media/zdrpe3ja/magnesium_sulfate.pdf"
+   },
+   {
+    "title": "StatPearls: Magnesium Sulfate",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK554553/"
+   }
+  ]
+ },
+ {
+  "id": "Q0070",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "ارتفاع الضغط الحملي/ما قبل الارتعاج يظهر بعد الأسبوع 20 من الحمل (وعادةً قرب الولادة)؛ وليس في الثلث الأول ولا 'في أي وقت'.",
+  "refs": [
+   {
+    "title": "AAFP: Gestational Hypertension and Preeclampsia - ACOG Practice Bulletin (presents after 20 weeks' gestation)",
+    "url": "https://www.aafp.org/pubs/afp/issues/2019/1115/p649.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0071",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "بعد ساعات من كبريتات المغنيسيوم تجب مراقبة علامات فرط المغنيسيوم في الدم (فقدان المنعكسات الوترية، تثبيط التنفس، قلة البول) والتوقف عند ظهورها مع كالسيوم غلوكونات كترياق.",
+  "refs": [
+   {
+    "title": "StatPearls: Magnesium Toxicity (loss of patellar reflexes, respiratory depression)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK554593/"
+   },
+   {
+    "title": "StatPearls: Magnesium Sulfate (hypermagnesemia signs; monitor reflexes and urine output)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK554553/"
+   }
+  ]
+ },
+ {
+  "id": "Q0072",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "فرط تنبيه الرحم بالأوكسيتوسين يسبب انقباضات قوية/مستمرة (tetanic/hypertonic) مع خطر ضائقة الجنين وتمزق الرحم؛ نشرة الدواء تذكر الانقباضات الشديدة أو المطوّلة (tetanic)، والرقم 90 ثانية يرد في ملاحظات تمريضية (مصدر ضعيف)؛ الانقباضات 'الضعيفة' ليست فرط تنبيه. (Titanic = tetanic خطأ إملائي).",
+  "refs": [
+   {
+    "title": "Drugs.com: Oxytocin prescribing information (hyperstimulation with hypertonic or prolonged tetanic contractions)",
+    "url": "https://www.drugs.com/pro/oxytocin.html"
+   },
+   {
+    "title": "RNpedia: Induction of Labor (tonic contractions prolonged to more than 90 seconds) - weak source",
+    "url": "https://www.rnpedia.com/nursing-notes/maternal-and-child-nursing-notes/induction-labor/"
+   }
+  ]
+ },
+ {
+  "id": "Q0073",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "متوسط طول الحبل السري 50–60 سم، فالأقرب 55 سم؛ (5 سم و45 سم خارج المعدّل، وخيار amniotic fluid خطأ نسخ).",
+  "refs": [
+   {
+    "title": "StatPearls: Embryology, Umbilical Cord (average 50 to 60 cm)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK557490/"
+   },
+   {
+    "title": "StatPearls: Anatomy, Abdomen and Pelvis: Umbilical Cord (average length 50 to 60 cm)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK557389/"
+   }
+  ]
+ },
+ {
+  "id": "Q0074",
+  "verdict": "corrected",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": false,
+  "note_ar": "الـ conceptus هو الجنين/الجنين المبكر مع ملحقاته (الأغشية، المشيمة، الحبل السري) أي كل ما نشأ من اللاقحة؛ أما السّاقط decidua فنسيج أمومي من بطانة الرحم وليس جزءًا منه، لذا هو المستثنى. علامة المصدر (السائل الأمنيوسي) غير مدعومة، وتعريف الـ conceptus يختلف بين المراجع لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Wikipedia: Conceptus (embryo and its appendages, membranes, placenta, umbilical cord)",
+    "url": "https://en.wikipedia.org/wiki/Conceptus"
+   },
+   {
+    "title": "StatPearls: Physiology, Placenta (decidua basalis constitutes the maternal component)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK538332/"
+   }
+  ]
+ },
+ {
+  "id": "Q0075",
+  "verdict": "corrected",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": false,
+  "note_ar": "قاعدة نيجل: +سنة −3 أشهر +7 أيام؛ آخر دورة 15 نوفمبر 2017 → 22 أغسطس 2018 (=280 يومًا وقد تحقّقت حسابيًا)؛ فالخيار الأول صحيح وعلامة المصدر (22 يوليو) خطأ.",
+  "refs": [
+   {
+    "title": "Wikipedia: Estimated date of delivery - Naegele's rule (add a year, subtract three months, add seven days)",
+    "url": "https://en.wikipedia.org/wiki/Estimated_date_of_delivery"
+   }
+  ]
+ },
+ {
+  "id": "Q0076",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "صياغة السؤال متناقضة: الملاحظة المطبوعة تشير إلى عتبة 10 ركلات، بينما الطريقة المعتمدة (count-to-10) تعني 10 حركات خلال ساعتين (≈5/ساعة) ولا يوجد مرجع يجعل 10–12 حركة في الساعة طبيعية؛ أُبقي الخيار الذي يوافق مفتاح المصدر وملاحظة السؤال بثقة منخفضة (الأقرب لمعدّل الساعة 'أربع مرات').",
+  "refs": [
+   {
+    "title": "StatPearls: Fetal Movement (count-to-10: fewer than 10 movements within 2 hours)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470566/"
+   },
+   {
+    "title": "StatPearls: Antenatal Fetal Surveillance (kick counts: 10 movements in 2 hours; other protocols 1 hour)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK537123/"
+   }
+  ]
+ },
+ {
+  "id": "Q0077",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "العلاج الضوئي يحوّل البيليروبين إلى لوميروبين قابل للطرح بالبول والصفراء، فيُستدل على فعاليته بانخفاض بيليروبين المصل؛ وليس بالأكسجة أو تعداد الدم.",
+  "refs": [
+   {
+    "title": "StatPearls: Neonatal Jaundice (phototherapy converts bilirubin to lumirubin; TSB monitoring)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK532930/"
+   },
+   {
+    "title": "StatPearls: Unconjugated Hyperbilirubinemia (phototherapy increases bilirubin elimination)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK549796/"
+   }
+  ]
+ },
+ {
+  "id": "Q0078",
+  "verdict": "corrected",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": false,
+  "note_ar": "الأكسجين وCO2 (غازات صغيرة غير قطبية) تعبر المشيمة بالانتشار البسيط (simple diffusion) حسب تدرّج التركيز؛ أما النقل النشط فللمواد التي تحتاج طاقة/ناقلات؛ علامة المصدر (active transfusion) خطأ.",
+  "refs": [
+   {
+    "title": "Burton & Fowden 2015, The placenta: a multifaceted, transient organ (PMC): respiratory gases cross by diffusion",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4305167/"
+   },
+   {
+    "title": "StatPearls: Physiology, Placenta (passive diffusion or active transport)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK538332/"
+   }
+  ]
+ },
+ {
+  "id": "Q0079",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "يُقاس محيط الرأس بلفّ شريط مرن حول الرأس فوق الحاجبين من الأمام وعلى أبرز نقطة في القفا (العظم القذالي) من الخلف؛ الخيار الأول يطابق النص، والخيار 2 مشابه لكنه يقول 'فوق العينين' والخيار 1 'قاعدة الجمجمة' خطأ.",
+  "refs": [
+   {
+    "title": "StatPearls: Macrocephaly (tape just above the eyebrows and over the most prominent portion of the occiput)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560786/"
+   }
+  ]
+ },
+ {
+  "id": "Q0080",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "فيتامين K للمولود يُعطى عضليًا (AAP) وموضع الحقن العضلي للرضّع هو الفخذ الوحشي الأمامي (vastus lateralis)؛ العضلة الدالية والعضد غير مناسبة لضعف كتلتها.",
+  "refs": [
+   {
+    "title": "StatPearls: Routine Newborn Care (AAP: IM vitamin K1 for all newborns)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK539900/"
+   },
+   {
+    "title": "StatPearls: Intramuscular Injection (infants: vastus lateralis)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK556121/"
+   }
+  ]
+ },
+ {
+  "id": "Q0081",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخيار 15–30 ثانية يوافق CDC (≥15 ثانية، أو 20) وStatPearls (15–20 ثانية)، بينما WHO تحدد 40–60 ثانية (≈ دقيقة) فتختلف الجهات؛ لا علامة مصدر، والسؤال مكرّر لـ Q0054.",
+  "refs": [
+   {
+    "title": "CDC: Clinical Safety: Hand Hygiene for Healthcare Workers (at least 15 seconds; 20 seconds acceptable)",
+    "url": "https://www.cdc.gov/clean-hands/hcp/clinical-safety/index.html"
+   },
+   {
+    "title": "StatPearls: Hand Hygiene in Clinical Practice (at least 15 to 20 seconds)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470254/"
+   },
+   {
+    "title": "WHO: How to Handwash (duration of the entire procedure 40-60 seconds)",
+    "url": "https://www.who.int/docs/default-source/patient-safety/how-to-handwash-poster.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0082",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "نقص الحديد هو السبب الأشيع لفقر الدم عالميًا وعند الحوامل (WHO)؛ نقص حمض الفوليك وB12 (المكتوب vit 12) أقل شيوعًا.",
+  "refs": [
+   {
+    "title": "WHO: Anaemia fact sheet (iron deficiency is the most common nutritional deficiency leading to anaemia; anaemia in pregnant women)",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/anaemia"
+   }
+  ]
+ },
+ {
+  "id": "Q0083",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال مبتور (لا يوضح 'الخطوة الأولى'/السياق)؛ في الإسعاف الأولي للكسر المفتوح: يُضغط حول الجرح (لا على العظم البارز) للسيطرة على النزف ويُغطّى بضماد معقّم ولا تُنزع الأجسام العالقة؛ أما تنظيف الجرح فيتم لاحقًا بالمستشفى، فأرجّح إيقاف النزف بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "St John Ambulance: Fractures and broken bones (control bleeding around the wound, cover with sterile dressing, do not remove embedded objects)",
+    "url": "https://www.sja.org.uk/first-aid-advice/fractures-and-broken-bones/"
+   }
+  ]
+ },
+ {
+  "id": "Q0084",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال مبتور (لم يكتمل نص السؤال 'الهرمون الذي تفرزه جزر لانغرهانس...') وخيارات الإجابة فارغة، فلا يمكن الحسم.",
+  "refs": []
+ },
+ {
+  "id": "Q0085",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "حروق الدرجة الثانية مؤلمة وتسبب فقاعات وتورمًا ويلتئم السطحي منها خلال 2–3 أسابيع (لا 2–3 أيام)؛ فالعبارة الخاطئة (الاستثناء) هي 'تلتئم خلال 2–3 أيام'.",
+  "refs": [
+   {
+    "title": "StatPearls: Burn Classification (second-degree burns painful, blisters, heal within 2 to 3 weeks)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK539773/"
+   }
+  ]
+ },
+ {
+  "id": "Q0086",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "القصة الصحية (Health history) تُجمع بالمقابلة من أقوال المريض فهي بيانات ذاتية (subjective)؛ أما الفحص السريري والعلامات الحيوية فبيانات موضوعية. 'Sings date' يقصد علامات (signs) وهي موضوعية.",
+  "refs": [
+   {
+    "title": "StatPearls: Nursing Process (subjective data are verbal statements; objective data are measurable findings)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK499937/"
+   }
+  ]
+ },
+ {
+  "id": "Q0087",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال مشوّه/ناقص ('bleeding from the cerebro vascular accident ... Brain') والخيارات شرايين فروة الرأس/الفخذ لا تتّسق مع أي إجابة محددة لنزف سكتة دماغية؛ لا يوجد جواب وحيد مدعوم.",
+  "refs": []
+ },
+ {
+  "id": "Q0088",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "يُفحص البطن بوضعية الاستلقاء على الظهر (supine) مع استرخاء جدار البطن ودعم الرأس والركبتين بوسادة صغيرة.",
+  "refs": [
+   {
+    "title": "StatPearls: Abdominal Examination (patient should lie comfortably in a supine position)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK459220/"
+   }
+  ]
+ },
+ {
+  "id": "Q0089",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الدواء الشدقي (buccal) يوضع بين الخد واللثة في جيب الخد (المخاطية)، وليس على الجلد أو الملتحمة.",
+  "refs": [
+   {
+    "title": "StatPearls: Medication Routes of Administration (buccal: applied on the cheek; sublingual: under the tongue)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK568677/"
+   }
+  ]
+ },
+ {
+  "id": "Q0090",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "البطين الأيمن يضخّ الدم غير المؤكسج عبر الصمام الرئوي إلى الشريان الرئوي نحو الرئتين؛ أما البطين الأيسر فيضخّ إلى الأبهر (الخياران الأولان مشوّهان ولا يصلحان).",
+  "refs": [
+   {
+    "title": "StatPearls: Anatomy, Thorax, Heart (right ventricle pumps blood through the pulmonic valve into the pulmonary artery to the lungs)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470256/"
+   }
+  ]
+ },
+ {
+  "id": "Q0091",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال والخيارات مبتورة (الخياران الأول والثاني فارغان والآخران علامات استفهام)؛ السؤال يقصد على الأرجح الغشاء بين الزندين (interosseous membrane) لكن لا يمكن الحسم بدون الخيارات.",
+  "refs": []
+ },
+ {
+  "id": "Q0092",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال مشوّه ('measured blood pressure and cave small ...') وأحد الخيارات علامة استفهام؛ لا يوجد سؤال واضح يمكن الحسم فيه.",
+  "refs": []
+ },
+ {
+  "id": "Q0093",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال مشوّه؛ مقصده على الأرجح التعامل مع مريض ينزف دمًا قد يكون معديًا: الاحتياطات القياسية تقتضي ارتداء القفازات والرداء (وقاية شخصية) عند توقّع ملامسة الدم، لكن نظافة اليدين قبل/بعد الملامسة مطلوبة أيضًا؛ أرجّح الخيار الثاني بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "StatPearls: Universal Precautions (treat blood as infectious; gloves, gowns, masks as barriers)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470223/"
+   }
+  ]
+ },
+ {
+  "id": "Q0094",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال والخيارات مبتورة/مشوّهة (خيار 'Positivist in eat' وخيار علامة استفهام)؛ المعروف سريريًا أن مريض GERD يبقى منتصبًا بعد الوجبة ولا يستلقي لكن لا يمكن الحسم بين الخيارات المشوّهة.",
+  "refs": []
+ },
+ {
+  "id": "Q0095",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال مشوّه ومبتور والخيارات عبارات متفرقة (بعضها يصلح كعبارات صحيحة متعددة) ولا يوجد جواب وحيد محدد.",
+  "refs": []
+ },
+ {
+  "id": "Q0096",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخيارات مبتورة (يظهر خيار واحد فقط 'More accurate')؛ لا يمكن الحسم لأن بقية الخيارات مفقودة.",
+  "refs": []
+ },
+ {
+  "id": "Q0097",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "المدرّات (الحلقية/الثيازيدية) تسبب نقص البوتاسيوم (hypokalemia) وأعراضه ضعف وتشنجات عضلية؛ نص السؤال مشوّه والخياران 4 و5 دخيلان من أسئلة أخرى، لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "StatPearls: Hypokalemia (loop diuretic intake; muscle weakness, cramps)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK482465/"
+   }
+  ]
+ },
+ {
+  "id": "Q0098",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "التسلسل المنهجي للفحص السريري يبدأ بالمعاينة (inspection) ثم الجس والقرع والإصغاء (وفي البطن: معاينة ثم إصغاء ثم قرع ثم جس).",
+  "refs": [
+   {
+    "title": "StatPearls: Abdominal Examination (systematic examination begins with inspection)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK459220/"
+   }
+  ]
+ },
+ {
+  "id": "Q0099",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "فتح المجرى الهوائي لفاقد الوعي يكون بإمالة الرأس ورفع الذقن (head tilt-chin lift)؛ ودفع الفك (jaw thrust) يُستعمل للمدرَّب عند الاشتباه بإصابة العنق.",
+  "refs": [
+   {
+    "title": "St John Ambulance: CPR (gently tilt the head back and lift the chin)",
+    "url": "https://www.sja.org.uk/first-aid-advice/cpr/"
+   },
+   {
+    "title": "StatPearls: Airway Management (head tilt, chin lift, or jaw thrust)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470403/"
+   }
+  ]
+ },
+ {
+  "id": "Q0100",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "ارتفاع معدل النبض فوق الطبيعي (>100 نبضة/دقيقة) يسمّى تسارع القلب tachycardia؛ أما tachypnea فتسارع التنفس، وhyperpyrexia حمى شديدة، وarrhythmia اضطراب نظم.",
+  "refs": [
+   {
+    "title": "StatPearls: Sinus Tachycardia (heart rate greater than 100 beats per minute)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK553128/"
+   }
+  ]
+ }
+]

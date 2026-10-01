@@ -1,0 +1,778 @@
+[
+  {
+    "id": "Q0455",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "الإجهاض (abortion/miscarriage) هو فقدان الحمل قبل أن يصبح الجنين قابلاً للحياة (تقليدياً قبل 20 أسبوعاً)؛ الحمل خارج الرحم وصف لموضع الانغراس لا لانقطاع الحمل.",
+    "refs": [
+      {
+        "title": "Early Pregnancy Loss (Spontaneous Abortion) - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK560521/"
+      }
+    ]
+  },
+  {
+    "id": "Q0456",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "فقر الدم الناتج عن نقص الحديد هو أشيع سبب لفقر الدم ويصيب نحو 37% من الحوامل عالمياً (WHO)، وهو أشيع اضطراب دموي في الحمل؛ المرجع المسترجَع يذكر أشيعية نقص الحديد كسبب لفقر الدم ولا ينص حرفياً على عبارة 'أشيع اضطراب دموي في الحمل'.",
+    "refs": [
+      {
+        "title": "Anaemia - WHO fact sheet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/anaemia"
+      }
+    ]
+  },
+  {
+    "id": "Q0457",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "بقاء أجزاء من المشيمة (tissue) سبب معروف لنزيف ما بعد الولادة لأنه يمنع انقباض الرحم وانضغاط الأوعية (الـ 4Ts: Tone, Trauma, Tissue, Thrombin).",
+    "refs": [
+      {
+        "title": "Postpartum Hemorrhage - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK499988/"
+      }
+    ]
+  },
+  {
+    "id": "Q0458",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "المرحلة الرابعة من المخاض تُعرَّف بفترة ما بعد الولادة المباشرة/التعافي (الساعة إلى الساعات الأولى بعد خروج المشيمة)؛ المصدر المسترجَع (ويكيبيديا) يسميها 'المرحلة الرابعة' دون نص تفصيلي، لذا الثقة متوسطة (بعض المراجع مثل NHS تعدّ ثلاث مراحل فقط).",
+    "refs": [
+      {
+        "title": "Childbirth - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Childbirth"
+      },
+      {
+        "title": "The stages of labour and birth - NHS",
+        "url": "https://www.nhs.uk/pregnancy/labour-and-birth/what-happens/the-stages-of-labour-and-birth/"
+      }
+    ]
+  },
+  {
+    "id": "Q0459",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "من دواعي الاستشارة الوراثية: عمر الأم 35 سنة فأكثر عند الولادة، والإجهاضات المتكررة/وفيات الأجنة أو الرضّع غير المفسَّرة، والتاريخ العائلي؛ فخيار 'كل ما سبق' صحيح (صياغة الخيار الأول 'أكثر من ثلاثة أطفال' غير دقيقة لكن الفكرة ولادات ميتة متكررة).",
+    "refs": [
+      {
+        "title": "Genetic counseling - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Genetic_counseling"
+      }
+    ]
+  },
+  {
+    "id": "Q0460",
+    "verdict": "corrected",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": false,
+    "note_ar": "المراجع تربط غثيان الحمل بهرمونات hCG والإستروجين والبروجسترون (تأخّر تفريغ المعدة وارتخاء المصرّة)، ولا تذكر FSH؛ فالبروجسترون ليس الاستثناء بل FSH هو الهرمون غير المرتبط بالغثيان (الريلاكسين غير مذكور في المرجع المسترجَع).",
+    "refs": [
+      {
+        "title": "Hyperemesis Gravidarum - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK532917/"
+      }
+    ]
+  },
+  {
+    "id": "Q0461",
+    "verdict": "corrected",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": false,
+    "note_ar": "يُعرَّف ارتفاع ضغط الدم في الحمل بقراءة ≥140/90 ملم زئبق (NICE NG133)، وهي الوحيدة بين الخيارات التي تبلغ العتبة؛ أما 130/85 فدونها. صياغة السؤال غير واضحة ('يحتمل أن يزيد')، وأُفسِّرها بأنها 'أي قراءة تدل على ارتفاع الضغط'، لذا الثقة متوسطة.",
+    "refs": [
+      {
+        "title": "Hypertension in pregnancy: diagnosis and management (NG133) - NICE, Recommendations",
+        "url": "https://www.nice.org.uk/guidance/ng133/chapter/Recommendations"
+      }
+    ]
+  },
+  {
+    "id": "Q0462",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "وظائف المشيمة: تبادل الغذاء والغازات، إخراج الفضلات، الأيض، الإفراز الهرموني والحاجز المناعي؛ أما حماية الجنين من الصدمات الميكانيكية فوظيفة السائل الأمنيوسي لا المشيمة (المرجع لا يذكرها ضمن وظائفها).",
+    "refs": [
+      {
+        "title": "Physiology, Placenta - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538332/"
+      }
+    ]
+  },
+  {
+    "id": "Q0463",
+    "verdict": "corrected",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": false,
+    "note_ar": "البروجسترون يرخي عضل الرحم ويكبح الانقباضات (وظيفة صحيحة، فالخيار 1 ليس الاستثناء) ويُفرَز في النصف الثاني من الدورة؛ أما تليين عنق الرحم فليس من وظائفه (يزيد مخاط عنق الرحم ويُبقيه مغلقاً، والتليين يتم بالريلاكسين/البروستاغلاندين وانسحاب البروجسترون) — الاستثناء هو الخيار 0؛ الحسم بالاستبعاد لأن المرجع لا يتناول التليين صراحة.",
+    "refs": [
+      {
+        "title": "Physiology, Progesterone - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK558960/"
+      }
+    ]
+  },
+  {
+    "id": "Q0464",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "تدليك قاع الرحم والأوكسيتوسين والتقييم المتكرر من إجراءات الوقاية/التدبير المعتمدة لنزيف ما بعد الولادة، أما الكمادات الباردة فتُستعمل لوذمة/ورم دموي العجان وليست إجراءً وقائياً من النزف؛ ملاحظة: فعالية التدليك محل جدل (الأدلة غير حاسمة) لكنه ممارسة تمريضية معتادة.",
+    "refs": [
+      {
+        "title": "Postpartum Hemorrhage - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK499988/"
+      },
+      {
+        "title": "Postpartum bleeding - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Postpartum_bleeding"
+      }
+    ]
+  },
+  {
+    "id": "Q0465",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "ربط البوقين (tubal ligation) وسيلة تعقيم دائمة، أما الحبوب والحاجز واللولب فوسائل مؤقتة قابلة للإيقاف.",
+    "refs": [
+      {
+        "title": "Birth Control Methods - CDC (Contraception)",
+        "url": "https://www.cdc.gov/reproductive-health/contraception/index.html"
+      }
+    ]
+  },
+  {
+    "id": "Q0466",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "تُطرَح المشيمة عادةً خلال نحو 30 دقيقة من ولادة الطفل (Mayo)، وتجاوز 30 دقيقة يثير الشك في احتباس المشيمة؛ بعض الأدلة (NHS) تسمح حتى ساعة في الإدارة الفيزيولوجية، لذا الثقة متوسطة.",
+    "refs": [
+      {
+        "title": "Stages of labor and birth: Baby, it's time! - Mayo Clinic",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/stages-of-labor/art-20046545"
+      },
+      {
+        "title": "Childbirth - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Childbirth"
+      },
+      {
+        "title": "The stages of labour and birth - NHS",
+        "url": "https://www.nhs.uk/pregnancy/labour-and-birth/what-happens/the-stages-of-labour-and-birth/"
+      }
+    ]
+  },
+  {
+    "id": "Q0467",
+    "verdict": "uncertain",
+    "answer": 2,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "صياغة السؤال غير دقيقة ('وضع الطفل'، والخيارات أوضاع للأم). وضع الاستلقاء القطعي lithotomy هو الوضع التقليدي الشائع في الكتب والمستشفيات (وعليه علامة المصدر)، لكن الأدلة الحديثة (Cochrane/WHO) تفضّل الأوضاع الواقفة/الجانبية، فلا يمكن الجزم بأنه 'الأفضل'.",
+    "refs": [
+      {
+        "title": "Childbirth positions - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Childbirth_positions"
+      }
+    ]
+  },
+  {
+    "id": "Q0468",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "عسر الطمث (dysmenorrhea) هو ألم/تقلصات الرحم المصاحبة للدورة الشهرية؛ عسر الجماع ألم أثناء الجماع، وقلة الطمث ندرة الدم، وانقطاع الطمث غياب الدورة.",
+    "refs": [
+      {
+        "title": "Dysmenorrhea - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK560834/"
+      }
+    ]
+  },
+  {
+    "id": "Q0469",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "أشيع موضع للحمل خارج الرحم هو قناة فالوب (نحو 70% في المنطقة الأمبولية منها).",
+    "refs": [
+      {
+        "title": "Ectopic Pregnancy - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK539860/"
+      }
+    ]
+  },
+  {
+    "id": "Q0470",
+    "verdict": "corrected",
+    "answer": 3,
+    "confidence": "high",
+    "agrees_with_source_mark": false,
+    "note_ar": "زيادة السائل الأمنيوسي (polyhydramnios) تُعرَّف تقليدياً بحجم أكثر من 2000 مل (أو AFI >24–25 سم)، أما 800 مل فهو متوسط الحجم الطبيعي عند تمام الحمل؛ علامة المصدر (800 مل) غير صحيحة والصحيح الخيار 2000 مل.",
+    "refs": [
+      {
+        "title": "Amniotic fluid as a vital sign for fetal wellbeing - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5029989/"
+      },
+      {
+        "title": "Polyhydramnios - Clinical Gate",
+        "url": "https://clinicalgate.com/2015/05/30/polyhydramnios/"
+      },
+      {
+        "title": "Polyhydramnios - Merck Manual Professional Edition",
+        "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/antenatal-complications/polyhydramnios"
+      }
+    ]
+  },
+  {
+    "id": "Q0471",
+    "verdict": "confirmed",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "وزن الرحم البالغ غير الحامل نحو 60 غرام (مرجع واحد مسترجَع هو ويكيبيديا: 'typical adult uterus weighs about 60 grams') فالثقة متوسطة؛ الخيارات 30 و100 و120 غ بعيدة عن ذلك.",
+    "refs": [
+      {
+        "title": "Uterus - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Uterus"
+      }
+    ]
+  },
+  {
+    "id": "Q0472",
+    "verdict": "corrected",
+    "answer": 2,
+    "confidence": "high",
+    "agrees_with_source_mark": false,
+    "note_ar": "بطانة الرحم (endometrium) هي الطبقة الداخلية المبطِّنة للرحم غير الحامل، أما عضل الرحم (myometrium) فهو الطبقة العضلية الوسطى؛ والديسيدوا اسم البطانة أثناء الحمل. علامة المصدر (عضل الرحم) خطأ.",
+    "refs": [
+      {
+        "title": "Anatomy, Abdomen and Pelvis: Uterus - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK470297/"
+      }
+    ]
+  },
+  {
+    "id": "Q0473",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "يحدث الإخصاب عادةً في الجزء الأمبولي من قناة فالوب/الأنبوب الرحمي؛ الخيارات الأخرى أطوار من الدورة لا أماكن (المرجع الأساسي المسترجَع ويكيبيديا + StatPearls للحمل خارج الرحم يؤكد أن الأمبولة جزء من القناة)، لذا الثقة متوسطة.",
+    "refs": [
+      {
+        "title": "Fertilisation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fertilisation"
+      },
+      {
+        "title": "Ectopic Pregnancy - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK539860/"
+      }
+    ]
+  },
+  {
+    "id": "Q0474",
+    "verdict": "confirmed",
+    "answer": 1,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "الطور الإفرازي (secretory = الطور اللوتيني) يبدأ بالإباضة وينتهي ببدء نزف الحيض، أي هو الطور السابق للحيض.",
+    "refs": [
+      {
+        "title": "Physiology, Menstrual Cycle - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK500020/"
+      }
+    ]
+  },
+  {
+    "id": "Q0475",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "يفرز الوطاء GnRH الذي ينبّه الغدة النخامية الأمامية لإفراز FSH وLH فتنظّمان دورة المبيض؛ الغدة النخامية الخلفية تفرز الأوكسيتوسين وADH.",
+    "refs": [
+      {
+        "title": "Physiology, Menstrual Cycle - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK500020/"
+      }
+    ]
+  },
+  {
+    "id": "Q0476",
+    "verdict": "corrected",
+    "answer": 3,
+    "confidence": "high",
+    "agrees_with_source_mark": false,
+    "note_ar": "الذي يتحكم مباشرة بوظيفة المبيض هو الهرمونان الموجِّهان للغدد التناسلية FSH وLH من النخامية؛ أما الإستروجين والبروجسترون فهما نواتج المبيض (تغذية راجعة) وليسا المتحكِّمَين به. (علامة المصدر على الخيار 0 خطأ).",
+    "refs": [
+      {
+        "title": "Physiology, Menstrual Cycle - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK500020/"
+      }
+    ]
+  },
+  {
+    "id": "Q0477",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "هرمون hCG تفرزه المشيمة ويُكشف في بول الحامل (اختبارات الحمل البولية) وفي الدم؛ الخيار 'الدم في جميع الأوقات' خطأ لأنه لا يوجد خارج الحمل (إلا في حالات مرضية نادرة)؛ المرجع المسترجَع ويكيبيديا + StatPearls للمشيمة.",
+    "refs": [
+      {
+        "title": "Human chorionic gonadotropin - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin"
+      },
+      {
+        "title": "Physiology, Placenta - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538332/"
+      }
+    ]
+  },
+  {
+    "id": "Q0478",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "قلة السائل السلوي (oligohydramnios) تُعرَّف بحجم أقل من نحو 200–500 مل (أو AFI <5 سم)، والخيار الأقرب هو 'أقل من 400'؛ أما 'أقل من 1000 مل' فيشمل الحجم الطبيعي (المتوسط نحو 800 مل عند تمام الحمل). العتبة الدقيقة تختلف بين المراجع لذا الثقة متوسطة.",
+    "refs": [
+      {
+        "title": "Amniotic fluid as a vital sign for fetal wellbeing - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5029989/"
+      },
+      {
+        "title": "Oligohydramnios - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK562326/"
+      }
+    ]
+  },
+  {
+    "id": "Q0479",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "بزل السلى (amniocentesis) يُستعمل للكشف عن الشذوذات الكروموسومية والتشوهات الخلقية، وتاريخياً لقياس البيليروبين في حالات عدم توافق الريزوس؛ (يمكنه أيضاً تحديد الجنس لكن الخيار 3 هو الأشمل والأصح كمؤشر).",
+    "refs": [
+      {
+        "title": "Amniocentesis - MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/ency/article/003921.htm"
+      },
+      {
+        "title": "Amniocentesis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amniocentesis"
+      }
+    ]
+  },
+  {
+    "id": "Q0480",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "الوضع الطبيعي للرحم هو الميل للأمام anteversion (نحو 80% من النساء) وغالباً مع الانحناء للأمام anteflexion أيضاً؛ بما أن 'الوضع' (version) يعني الميل فالخيار 0 هو الأدق، علماً أن الخيار 2 'منحني للأمام' صحيح جزئياً.",
+    "refs": [
+      {
+        "title": "Anatomy, Abdomen and Pelvis: Uterus - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK470297/"
+      },
+      {
+        "title": "Uterus - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Uterus"
+      }
+    ]
+  },
+  {
+    "id": "Q0481",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "الانغراس (implantation) يبدأ بعد الفقس بنحو 4–5 أيام من الإخصاب ويحدث عادةً بعد نحو أسبوع (6–10 أيام) من الإخصاب؛ المرجع المسترجَع ويكيبيديا فقط لذا الثقة متوسطة.",
+    "refs": [
+      {
+        "title": "Implantation (embryology) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Implantation_(embryology)"
+      }
+    ]
+  },
+  {
+    "id": "Q0482",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "الصياغة غامضة: الجريب الناضج (حويصلة جراف) هو الذي يُطلق البويضة، بينما ما يتبقى منه بعد الإباضة يتحول إلى الجسم الأصفر corpus luteum؛ الأرجح أن المقصود 'الجزء الذي أفرغ البويضة' = الجسم الأصفر (علامة المصدر)، لكن الخيار 3 (حويصلات جراف) معقول أيضاً والخيار 2 مشوَّه.",
+    "refs": [
+      {
+        "title": "Ovarian follicle - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ovarian_follicle"
+      },
+      {
+        "title": "Corpus luteum - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Corpus_luteum"
+      }
+    ]
+  },
+  {
+    "id": "Q0483",
+    "verdict": "confirmed",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "المخاض التلقائي ضمن أسبوعين من موعد الولادة المتوقع (نحو 37–42 أسبوعاً، term) يُعدّ مخاضاً طبيعياً/عند تمام الحمل؛ المبكر <37 أسبوعاً وما بعد الناضج >42 أسبوعاً؛ تعريفات ACOG من مرجع ثانوي (ويكيبيديا) لذا الثقة متوسطة.",
+    "refs": [
+      {
+        "title": "Gestational age - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gestational_age"
+      }
+    ]
+  },
+  {
+    "id": "Q0484",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "من الخيارات المعروضة، احتباس بقايا المشيمة (tissue) سبب مباشر للنزف بعد الولادة؛ أما ارتفاع الضغط والسكري والحمل المتعدد فعوامل خطورة لا أسباب مباشرة. (السبب الأشيع عموماً هو ارتخاء الرحم atony وهو غير مدرج بين الخيارات).",
+    "refs": [
+      {
+        "title": "Postpartum Hemorrhage - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK499988/"
+      },
+      {
+        "title": "Postpartum bleeding - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Postpartum_bleeding"
+      }
+    ]
+  },
+  {
+    "id": "Q0485",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "توصية IOM للوزن الطبيعي قبل الحمل: زيادة 11–16 كغ (25–35 رطلاً)؛ 13 كغ يقع ضمن النطاق ويقارب المتوسط الشائع في الكتب، بينما 5 و9 كغ نطاق البدينات و17 كغ يتجاوز الحد الأعلى للوزن الطبيعي. صياغة 'يجب ألا تتجاوز' تقريبية لذا الثقة متوسطة.",
+    "refs": [
+      {
+        "title": "Pregnancy weight gain: What's healthy? - Mayo Clinic",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy-weight-gain/art-20044360"
+      }
+    ]
+  },
+  {
+    "id": "Q0486",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "النزف المهبلي في النصف الأول من الحمل (قبل القابلية للحياة) مع إغلاق عنق الرحم يُسمى تهديد الإجهاض threatened miscarriage؛ النزف قبل الولادة antepartum hemorrhage يُطلق على ما بعد 24–28 أسبوعاً. (الخلد المائي سبب نزف لكنه ليس اسم الحالة). لم أستطع استرجاع مرجع التعريف الزمني للـ APH.",
+    "refs": [
+      {
+        "title": "Early Pregnancy Loss (Spontaneous Abortion) - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK560521/"
+      },
+      {
+        "title": "Placenta Previa - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK539818/"
+      }
+    ]
+  },
+  {
+    "id": "Q0487",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "علامات تسمم الحمل: ارتفاع الضغط، بروتين البول، الوذمة/التورم المفاجئ (وعادةً زيادة وزن سريعة)، وليس فقدان الوزن؛ مرجع NHS المسترجَع يذكر الضغط والبروتين والتورم ولا يذكر الوزن صراحة.",
+    "refs": [
+      {
+        "title": "Pre-eclampsia: Symptoms - NHS",
+        "url": "https://www.nhs.uk/conditions/pre-eclampsia/symptoms/"
+      }
+    ]
+  },
+  {
+    "id": "Q0488",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "المشيمة المنزاحة (previa) مشيمة غير طبيعية الموضع تغطي فوهة عنق الرحم وتسبب نزفاً مهبلياً غير مؤلم في الثلث الثاني/الثالث؛ النزف من مشيمة طبيعية الموضع يميز الانفصال المبكر.",
+    "refs": [
+      {
+        "title": "Placenta Previa - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK539818/"
+      }
+    ]
+  },
+  {
+    "id": "Q0489",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "التقيؤ الحملي الشديد يؤدي إلى الجفاف واضطراب الشوارد والكيتونات (ketonuria) وقلة البول الناتجة عن الجفاف، فالخيارات 0 و1 و2 كلها نتائج معروفة؛ الجفاف هو الأكثر مباشرة وأشيعية (علامة المصدر) أما كثرة السائل السلوي فغير مرتبطة.",
+    "refs": [
+      {
+        "title": "Hyperemesis Gravidarum - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK532917/"
+      }
+    ]
+  },
+  {
+    "id": "Q0490",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "الطور اللوتيني ثابت الطول نحو 14 يوماً، فيحدث الحيض بعد الإباضة بنحو 14 يوماً (الإباضة تسبق الحيض بـ14 يوماً).",
+    "refs": [
+      {
+        "title": "Physiology, Menstrual Cycle - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK500020/"
+      }
+    ]
+  },
+  {
+    "id": "Q0491",
+    "verdict": "confirmed",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "البويضة (والنطفة) بعد الانقسام الاختزالي تحتوي 23 كروموسوماً (أحادية الصيغة haploid) مقابل 46 في الخلايا الجسدية؛ الخيار 1 هو الوحيد المتضمن الرقم 23، وكلمة 'أزواج' خطأ في الصياغة/الترجمة (المقصود 23 كروموسوماً لا 23 زوجاً).",
+    "refs": [
+      {
+        "title": "Meiosis - NHGRI Genetics Glossary",
+        "url": "https://www.genome.gov/genetics-glossary/Meiosis"
+      }
+    ]
+  },
+  {
+    "id": "Q0492",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "شلل الوجه وكسر الجمجمة والورم الدموي الرأسي cephalohematoma من إصابات الولادة birth injuries للوليد، أما تخثر دم الأم فليس من إصابات/مضاعفات الولادة بهذا المعنى؛ المرجع المسترجَع يسرد cephalohematoma والنزوف وشلل الضفيرة والكسور ولا يذكر شلل الوجه/كسر الجمجمة صراحة.",
+    "refs": [
+      {
+        "title": "Birth trauma (physical) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Birth_trauma_(physical)"
+      }
+    ]
+  },
+  {
+    "id": "Q0493",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "ذهان ما بعد الولادة postpartum psychosis مضاعفة نفاسية معروفة تبدأ عادةً خلال أسبوعين من الولادة (NHS)؛ انخفاض الحرارة ونقص السكر مشكلات للوليد، أما ارتفاع الضغط (تسمم حمل بعد الولادة) فقد يحدث أيضاً لذا هناك غموض جزئي في الخيارات.",
+    "refs": [
+      {
+        "title": "Postpartum psychosis - NHS",
+        "url": "https://www.nhs.uk/mental-health/conditions/post-partum-psychosis/"
+      }
+    ]
+  },
+  {
+    "id": "Q0494",
+    "verdict": "confirmed",
+    "answer": 1,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "في المشيمة المنزاحة (المقصود بـ'هبوط المشيمة' placenta previa) يجب تجنّب الفحص المهبلي الإصبعي لأنه قد يسبب نزفاً غزيراً (StatPearls)؛ أما تسمم الحمل والإجهاض والحمل خارج الرحم فلا يمنع الفحص.",
+    "refs": [
+      {
+        "title": "Placenta Previa - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK539818/"
+      }
+    ]
+  },
+  {
+    "id": "Q0495",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "بقاعدة نيغيلي (آخر دورة +7 أيام −3 أشهر +1 سنة): 5 مايو 2020 → 12 فبراير 2021؛ الخيار 3 هو الوحيد الموافق لليوم والشهر (12/2) لكن السنة المكتوبة 2020 خطأ مطبعي على الأرجح (الصحيح 2021)، والخيارات الأخرى تعطي 12 ديسمبر وهو خطأ.",
+    "refs": [
+      {
+        "title": "Gestational age - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gestational_age"
+      }
+    ]
+  },
+  {
+    "id": "Q0496",
+    "verdict": "confirmed",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "كيس الصفار yolk sac هو الذي يوفّر التغذية وتبادل الغازات للجنين المبكر قبل أن تتولى المشيمة ذلك؛ ملاحظة: اليوم الثاني/الثالث حرفياً يسبق تكوّن كيس الصفار (الأسبوع الثاني) فالأرجح أن المقصود الأسبوع الثاني والثالث.",
+    "refs": [
+      {
+        "title": "Yolk sac - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Yolk_sac"
+      }
+    ]
+  },
+  {
+    "id": "Q0497",
+    "verdict": "confirmed",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "تظهر الأعضاء التناسلية الخارجية ويمكن تمييز جنس الجنين في الأسابيع 11–14 (MedlinePlus)، ويمكن تحديده بالموجات فوق الصوتية من الأسبوع 12؛ الأسبوع 20 موعد فحص التشوهات الروتيني وليس بداية التمايز.",
+    "refs": [
+      {
+        "title": "Fetal development - MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/ency/article/002398.htm"
+      },
+      {
+        "title": "Prenatal sex discernment - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Prenatal_sex_discernment"
+      }
+    ]
+  },
+  {
+    "id": "Q0498",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": false,
+    "note_ar": "الصياغة ملتبسة: 'ورم بطانة الرحم' على الأرجح ترجمة قديمة لـ endometritis (في العربية القديمة 'ورم' قد تعني التهاب) فتكون الإجابة التهاب بطانة الرحم (الخيار 0)؛ وإن كان المقصود endometrioma فهو كيس مبيضي لا التهاب. علامة المصدر (التهاب المبايض = oophoritis) لا تطابق أياً من المصطلحين.",
+    "refs": [
+      {
+        "title": "Endometritis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Endometritis"
+      },
+      {
+        "title": "Endometrioma - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Endometrioma"
+      }
+    ]
+  },
+  {
+    "id": "Q0499",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "الهيموفيليا A وB تورَّث بنمط متنحٍّ مرتبط بالكروموسوم X؛ التلاسيميا جسمية متنحية، وكلاينفلتر وداون شذوذات كروموسومية.",
+    "refs": [
+      {
+        "title": "Hemophilia - MedlinePlus Genetics",
+        "url": "https://medlineplus.gov/genetics/condition/hemophilia/"
+      }
+    ]
+  },
+  {
+    "id": "Q0500",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "تشعر الأم بأولى حركات الجنين (quickening) بين 16 و24 أسبوعاً (وغالباً بعد الأسبوع 20 في الحمل الأول؛ MedlinePlus: الأسبوع 19–21)، والخيار 20 أسبوعاً هو الوحيد ضمن هذا المدى.",
+    "refs": [
+      {
+        "title": "Your baby's movements - NHS",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/your-babys-movements/"
+      },
+      {
+        "title": "Fetal development - MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/ency/article/002398.htm"
+      }
+    ]
+  },
+  {
+    "id": "Q0501",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "أشيع أعراض سن اليأس/الإياس (climacteric) هي الأعراض الحركية الوعائية vasomotor (الهبّات الساخنة) وتصيب 75–80% من النساء، وجفاف الجهاز التناسلي أقل (50–75%)؛ صياغة 'اضطرابات الدورة' غير دقيقة والخيارات كلها أعراض انقطاع الطمث.",
+    "refs": [
+      {
+        "title": "Menopause - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK507826/"
+      }
+    ]
+  },
+  {
+    "id": "Q0502",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": false,
+    "note_ar": "لم أجد مرجعاً يحسم هذا البند التمريضي؛ الإجراء المعتاد لضبط نزف تمزق العجان هو الضغط المباشر بضمادة نظيفة ثم الخياطة، أما رفع الساق فليس إجراءً قياسياً والأوكسيتوسين لا يعالج نزف التمزق (الرحم متقلص)؛ الخيار 3 'كل ما سبق' وارد في بعض بنوك الأسئلة. علامة المصدر (رفع الساق) غير مدعومة.",
+    "refs": [
+      {
+        "title": "Postpartum Hemorrhage - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK499988/"
+      }
+    ]
+  },
+  {
+    "id": "Q0503",
+    "verdict": "confirmed",
+    "answer": 1,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "التعقيم النسائي هو أشيع وسائل منع الحمل استخداماً عالمياً (23.7% من مستخدمات الوسائل، 219 مليون امرأة في 2019، الأمم المتحدة) وهو من أعلى الوسائل فعالية (CDC)، فيتقدم على الحبوب والواقي واللولب.",
+    "refs": [
+      {
+        "title": "Contraceptive Use by Method 2019: Data Booklet - United Nations DESA",
+        "url": "https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/files/documents/2020/Jan/un_2019_contraceptiveusebymethod_databooklet.pdf"
+      },
+      {
+        "title": "Birth Control Methods - CDC (Contraception)",
+        "url": "https://www.cdc.gov/reproductive-health/contraception/index.html"
+      },
+      {
+        "title": "Family planning/contraception methods - WHO",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/family-planning-contraception"
+      }
+    ]
+  },
+  {
+    "id": "Q0504",
+    "verdict": "confirmed",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "مخاطر تمزق الأغشية: العدوى/التهاب المشيمة والسلى، والولادة المبكرة، وتدلي الحبل وانفصال المشيمة؛ أما لون/شحوب السائل فهو من علامات تقييم السائل (قد يدل على العقي أو العدوى) لا خطراً من تمزق الأغشية بحد ذاته. اجتمع 'عدا' مع 'كل ما سبق' يجعل السؤال ركيكاً لذا الثقة متوسطة.",
+    "refs": [
+      {
+        "title": "Preterm and Term Prelabor Rupture of Membranes (PPROM and PROM) - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK532888/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+ "items": 114,
+ "per_spec": {
+  "assistant": 40,
+  "nursing": 40,
+  "midwifery": 25,
+  "dental": 9
+ },
+ "approved_target": {
+  "assistant": 40,
+  "nursing": 40,
+  "midwifery": 25,
+  "dental": 15
+ },
+ "shortfall_vs_target": {
+  "dental": 6
+ },
+ "points_total": 700,
+ "fetched_extra_refs": 0
+}

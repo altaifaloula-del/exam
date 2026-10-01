@@ -1,0 +1,392 @@
+[
+ {
+  "spec": "assistant",
+  "topic": 7,
+  "q": "اشرح أهمية نظافة اليدين (hand hygiene) في الرعاية الصحية، ومتى يُفضَّل المطهر الكحولي ومتى يلزم الماء والصابون، وهل الصابون المضاد للبكتيريا أفضل من العادي؟",
+  "model": "نظافة اليدين (hand hygiene) أهم ممارسة لخفض انتقال العدوى في المنشآت الصحية، وغرضها الأهم منع انتقال الكائنات الدقيقة (microorganisms) بين المرضى والعاملين لأن الأيدي الملوثة ناقل رئيسي لها. تُجرى قبل ملامسة المريض، وقبل الإجراءات المعقمة، وبعد ملامسة المريض أو محيطه، وبعد التعرض للدم وسوائل الجسم، وبعد خلع القفازات. يُفضَّل مطهر اليدين الكحولي (alcohol-based hand rub) عندما لا تكون اليدان متسختين بوضوح، أما إذا كانتا متسختين بوضوح فيلزم الماء والصابون، ويُفضَّل أيضًا عند رعاية مرضى مصابين أو يُشتبه بإصابتهم بالمطثية العسيرة (C. difficile) أثناء التفشي لأن الكحول لا يقضي على الأبواغ (spores) بشكل موثوق. وليس الصابون المضاد للبكتيريا أفضل من الصابون العادي، ولا فائدة صحية إضافية له خارج بيئة الرعاية الصحية، وقد يسهم في مقاومة المضادات الحيوية.",
+  "points": [
+   "الغرض الأهم من غسل اليدين هو منع انتقال الكائنات الدقيقة (microorganisms)، وتُعدّ نظافة اليدين أهم ممارسة لخفض انتقال العدوى",
+   "تُجرى نظافة اليدين قبل ملامسة المريض وقبل الإجراءات المعقمة، وبعد ملامسة المريض أو محيطه، وبعد التعرض للدم وسوائل الجسم، وبعد خلع القفازات",
+   "يُفضَّل مطهر اليدين الكحولي (alcohol-based hand rub) في معظم مواقف الرعاية الصحية عندما لا تكون اليدان متسختين بوضوح",
+   "يلزم الماء والصابون عندما تكون اليدان متسختين بوضوح، ويُفضَّل أيضًا عند رعاية مرضى مصابين أو يُشتبه بإصابتهم بالمطثية العسيرة (C. difficile) أثناء التفشي، لأن الكحول لا يقضي على الأبواغ (spores) بشكل موثوق",
+   "الصابون المضاد للبكتيريا ليس أفضل من الصابون العادي (plain soap) ولا فائدة صحية إضافية له خارج الرعاية الصحية، وقد يسهم في مقاومة المضادات الحيوية"
+  ],
+  "refs": [
+   {
+    "title": "StatPearls: Hand Hygiene in Clinical Practice",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470254/"
+   },
+   {
+    "title": "CDC: Clinical Safety: Hand Hygiene for Healthcare Workers",
+    "url": "https://www.cdc.gov/clean-hands/hcp/clinical-safety/index.html"
+   },
+   {
+    "title": "CDC - Hand Hygiene Frequently Asked Questions (antibacterial vs plain soap)",
+    "url": "https://www.cdc.gov/clean-hands/faq/index.html"
+   }
+  ],
+  "from": [
+   "Q0060",
+   "Q0695"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 7,
+  "q": "قارن بين التقنية النظيفة (medical asepsis) والتقنية المعقمة (surgical asepsis)، واذكر مثالًا على إجراء يتطلب التقنية المعقمة وأهم قواعد المحافظة على الميدان المعقم والقفازات المعقمة، وما الفرق بين التعقيم (sterilization) والتطهير (disinfection) من حيث الأبواغ؟",
+  "model": "التقنية النظيفة (medical asepsis) تقلل عدد الكائنات الدقيقة وتمنع انتشارها، أما التقنية المعقمة (surgical asepsis) فأشد صرامة وتهدف إلى إزالة الكائنات الدقيقة من منطقة الإجراء. يتطلب إدخال القسطرة البولية (urinary catheterization) تقنية معقمة وأدوات معقمة مع نظافة اليدين قبل الإدخال وبعده، بينما تُجرى إجراءات مثل إدخال أنبوب المعدة وغسيل فغر القولون عادةً بتقنية نظيفة. في الميدان المعقم تُعدّ الحافة الخارجية بعرض نحو 1 إنش (2.5 سم) غير معقمة، فوضع أداة معقمة عليها يُعدّ كسرًا للتقنية، ولا يُترك الميدان المفتوح دون مراقبة. وعند لبس القفازات المعقمة يُمسك القفاز الأول من الجزء الداخلي للكفّة، ويُلتقط الثاني بإدخال الأصابع المقفّزة تحت كفّته الخارجية، والسطح الداخلي للقفاز غير معقم. والتعقيم (sterilization) يقضي على جميع أشكال الكائنات الدقيقة بما فيها الأبواغ، أما التطهير (disinfection) فلا يضمن ذلك.",
+  "points": [
+   "التقنية النظيفة (medical asepsis) تقلل عدد الكائنات الدقيقة وتمنع انتشارها، أما التقنية المعقمة (surgical asepsis) فأشد صرامة وتهدف إلى إزالة الكائنات الدقيقة من منطقة الإجراء",
+   "إدخال القسطرة البولية (urinary catheterization) يتطلب تقنية معقمة (aseptic technique) وأدوات معقمة، بينما إدخال أنبوب المعدة وغسيل فغر القولون يُجريان عادةً بتقنية نظيفة",
+   "الحافة الخارجية للميدان المعقم (نحو 1 إنش أو 2.5 سم) غير معقمة، فوضع أداة معقمة عليها يُعدّ كسرًا للتقنية المعقمة",
+   "عند لبس القفازات المعقمة يُمسك القفاز الأول من الجزء الداخلي للكفّة ويُلتقط الثاني بإدخال الأصابع المقفّزة تحت كفّته الخارجية، والسطح الداخلي للقفاز غير معقم",
+   "التعقيم (sterilization) يقضي على جميع أشكال الكائنات الدقيقة الحية بما فيها الأبواغ (spores)، أما التطهير (disinfection) فلا يضمن القضاء على الأبواغ",
+   "لا يُترك الميدان المعقم المفتوح دون مراقبة."
+  ],
+  "refs": [
+   {
+    "title": "CDC: CAUTI Guideline - Summary of Recommendations (insert urinary catheters using aseptic technique and sterile equipmen",
+    "url": "https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html"
+   },
+   {
+    "title": "StatPearls: Sterile Technique (imaginary 1-inch border is unsterile)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK459175/"
+   },
+   {
+    "title": "LevelUpRN: Sterile Gloving (inside of glove is not sterile; pick up first glove by the cuff)",
+    "url": "https://leveluprn.com/blogs/clinical-nursing-skills/4-sterile-gloving"
+   },
+   {
+    "title": "Wikipedia: Asepsis (medical/clean asepsis reduces the number of organisms and prevents their spread)",
+    "url": "https://en.wikipedia.org/wiki/Asepsis"
+   },
+   {
+    "title": "CDC - Disinfection and Sterilization Glossary",
+    "url": "https://cdc.gov/infection-control/hcp/disinfection-sterilization/glossary.html"
+   }
+  ],
+  "from": [
+   "Q0056",
+   "Q0057",
+   "Q0055",
+   "Q0063",
+   "Q0271",
+   "Q0702"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 8,
+  "q": "وصف الطبيب محلولًا وريديًا بمعدل 100 مل/ساعة وجهاز تنقيط معامله 15 نقطة/مل (gtt/mL)، وباراسيتامول 0.5 غرام. احسب معدل التنقيط بالنقطة/دقيقة والجرعة بالملغ، وما تصنيف محلول الملح 0.9%، وكيف يُتحقق من معدل التسريب، ومتى يُحذَّر من هذا المحلول؟",
+  "model": "معدل التنقيط بالجاذبية (gtt/min) = (معدل التسريب بالمل/ساعة × معامل القطرة بالنقطة/مل) ÷ 60. وفي الحالة: (100 × 15) ÷ 60 = 25 نقطة/دقيقة، ويُتحقق من المعدل بعدّ النقاط لمدة دقيقة كاملة أو ببرمجة المضخة، مع فحص موضع القسطرة الوريدية (ألم، احمرار، تورم، تسرب). أما الجرعة فبما أن البادئة milli تعني جزءًا من ألف فالغرام الواحد يساوي 1000 ملغ، وبذلك 0.5 غرام = 500 ملغ. ومحلول كلوريد الصوديوم 0.9% (normal saline) محلول متساوي التوتر (isotonic) يبقى في الحيّز خارج الخلايا فيوسّع حجم السائل الوعائي والخلالي دون انتقال كبير للماء إلى داخل الخلايا أو خروجه منها، ويُستعمل في الجفاف ونقص الحجم والنزف، مع الحذر من فرط الحمل السائلي في قصور القلب والكلى وتشمع الكبد.",
+  "points": [
+   "معادلة معدل التنقيط: (معدل التسريب مل/ساعة × معامل القطرة نقطة/مل) ÷ 60 = نقطة/دقيقة، ويُقرأ معامل القطرة من جهاز التسريب",
+   "بالتطبيق: (100 × 15) ÷ 60 = 25 نقطة/دقيقة",
+   "الغرام = 1000 ملغ لأن البادئة milli تعني جزءًا من ألف، فـ 0.5 غرام = 500 ملغ",
+   "محلول كلوريد الصوديوم 0.9% (normal saline) محلول متساوي التوتر (isotonic)",
+   "يُتحقق من معدل التسريب بعدّ النقاط لمدة دقيقة كاملة أو بمراجعة برمجة المضخة، ويُفحص موضع القسطرة الوريدية بحثًا عن ألم أو احمرار أو تورم أو تسرب",
+   "يُحذَّر من المحلول الملحي عند قصور القلب أو الكلى أو تشمع الكبد لخطر فرط الحمل السائلي"
+  ],
+  "refs": [
+   {
+    "title": "OpenStax Clinical Nursing Skills 13.3: Intravenous Infusion (LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/13%3A_Intravenous_Administration/13.03%3A_Intravenous_Infusion"
+   },
+   {
+    "title": "NIST: Metric (SI) Prefixes",
+    "url": "https://www.nist.gov/pml/owm/metric-si-prefixes"
+   },
+   {
+    "title": "Normal Saline - StatPearls",
+    "url": "https://www.statpearls.com/point-of-care/25982"
+   }
+  ],
+  "from": [
+   "Q0050",
+   "Q0051",
+   "Q0116"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 8,
+  "q": "اشرح الحقن العضلي (intramuscular injection): ما الطرق الحقنية (parenteral)، ومواضع الحقن العضلي، واختيار المحقنة والإبرة، وتقنية Z-track، وموضع حقن فيتامين K للمولود.",
+  "model": "الطرق الحقنية (parenteral) هي الإعطاء بالحقن: داخل الجلد وتحت الجلد وبالعضل وبالوريد وداخل المفصل، أما القطرات الأذنية (otic) والعينية (ophthalmic) فموضعية وليست حقنية. مواضع الحقن العضلي: الألوية البطني (الأفضل أمانًا) والألوية الظهري (يُتجنب عادةً لخطر إصابة العصب الوركي)، والفخذ الوحشي (vastus lateralis)، والدالية (deltoid)، وليس الساعد. تُختار الإبرة والمحقنة بحسب وزن المريض وحجمه وعمره وكمية نسيجه الشحمي وعمق النسيج وموضع الحقن ونوع الدواء ولزوجته، ولا دخل للتاريخ العائلي. تُستعمل تقنية Z-track في الحقن العضلي العميق وللأدوية المهيّجة أو الملوِّنة للنسيج: يُزاح الجلد والنسيج تحته جانبيًا قبل إدخال الإبرة ثم يُترك بعد سحبها، فلا يتسرب الدواء إلى النسيج تحت الجلد، ولا يُدلَّك الموضع. وللمولود يُعطى فيتامين K عضليًا في الفخذ الوحشي الأمامي (vastus lateralis).",
+  "points": [
+   "الطرق الحقنية (parenteral): داخل الجلد وتحت الجلد وبالعضل وبالوريد وداخل المفصل؛ أما القطرة الأذنية (otic) والعينية (ophthalmic) فموضعية غير حقنية",
+   "مواضع الحقن العضلي: الألوية البطني (الأفضل أمانًا) والألوية الظهري (يُتجنب عادةً لخطر إصابة العصب الوركي)، والفخذ الوحشي (vastus lateralis)، والدالية (deltoid)؛ والساعد ليس موضعًا للحقن العضلي",
+   "يعتمد اختيار المحقنة والإبرة على وزن المريض وحجمه وعمره وكمية النسيج الشحمي وعمق النسيج وموضع الحقن ونوع الدواء ولزوجته، وليس على التاريخ العائلي",
+   "تقنية Z-track تُستعمل في الحقن العضلي العميق وللأدوية المهيّجة أو الملوِّنة للنسيج، وتمنع تسرب الدواء إلى النسيج تحت الجلد",
+   "في Z-track يُزاح الجلد والنسيج تحته جانبيًا قبل إدخال الإبرة ويُترك بعد سحبها لإغلاق المسار، ولا يُدلَّك موضع الحقن",
+   "فيتامين K للمولود يُعطى عضليًا (IM) في الفخذ الوحشي الأمامي (vastus lateralis) لا في العضلة الدالية أو العضد لضعف كتلتها"
+  ],
+  "refs": [
+   {
+    "title": "Clinical Procedures for Safer Patient Care (opentextbc.ca) - Intramuscular injections: needle and syringe selection",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/6-8-iv-push-medications-and-saline-lock-flush/"
+   },
+   {
+    "title": "MSD Manual Consumer - Drug Administration (parenteral = administration by injection; ocular and otic routes separate)",
+    "url": "https://www.merckmanuals.com/home/drugs/administration-and-kinetics-of-drugs/drug-administration"
+   },
+   {
+    "title": "Mombaby - Clinical Procedures: Intramuscular Injections Z-Track (used for drugs that irritate and discolor subcutaneous ",
+    "url": "https://www.mombaby.org/wp-content/uploads/2016/03/17P-Intramuscular-Injections-Z-Track.pdf"
+   },
+   {
+    "title": "Intramuscular Injection - StatPearls (ventrogluteal, dorsogluteal, vastus lateralis, deltoid)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK556121/"
+   },
+   {
+    "title": "StatPearls: Routine Newborn Care (AAP: IM vitamin K1 for all newborns)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK539900/"
+   }
+  ],
+  "from": [
+   "Q0175",
+   "Q0176",
+   "Q0178",
+   "Q0179",
+   "Q0080"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 8,
+  "q": "قارن بين الباراسيتامول (paracetamol) والديكلوفيناك (diclofenac) والأسبرين (aspirin) من حيث التأثير والتحذيرات التمريضية، ولماذا لا يُعدّ الميترونيدازول (metronidazole) مسكنًا؟",
+  "model": "الباراسيتامول (paracetamol) مسكّن للألم (analgesic) وخافض للحرارة (antipyretic) وليس له تأثير مضاد للالتهاب محيطي مهم، والجرعة الزائدة منه تضر الكبد وترياقها أسيتيل سيستئين. الديكلوفيناك (diclofenac) مضاد التهاب لاستيرويدي (NSAID) له تأثير مسكّن ومضاد للالتهاب وخافض للحرارة، ويُحذَّر منه عند وجود قرحة أو نزف هضمي سابق وقصور كلوي وأمراض قلبية وعائية. والأسبرين (aspirin) مسكّن وخافض للحرارة ويثبط تجمع الصفيحات، لذلك يُمنع عند النزف الفعّال أو اضطرابات النزف، ويُتجنب عند الأطفال المصابين بعدوى فيروسية لخطر متلازمة راي (Reye syndrome). أما الميترونيدازول (Flagyl) فمضاد للجراثيم والطفيليات وليس مسكنًا، ولذلك هو الاستثناء بين مجموعة المسكنات.",
+  "points": [
+   "الباراسيتامول (paracetamol) مسكّن للألم وخافض للحرارة (analgesic + antipyretic) وليس له تأثير مضاد للالتهاب محيطي مهم",
+   "الجرعة الزائدة من الباراسيتامول تضر الكبد، والترياق النوعي هو أسيتيل سيستئين (N-acetylcysteine)",
+   "الديكلوفيناك (diclofenac) من مضادات الالتهاب اللاستيرويدية (NSAID) وله تأثيرات مسكّنة ومضادة للالتهاب وخافضة للحرارة",
+   "يُحذَّر من الديكلوفيناك عند وجود قرحة أو نزف هضمي سابق أو قصور كلوي أو أمراض قلبية وعائية",
+   "الأسبرين (aspirin) يثبط تجمع الصفيحات، لذلك يُمنع عند النزف الفعّال أو اضطرابات النزف",
+   "يُتجنب الأسبرين عند الأطفال المصابين بعدوى فيروسية لخطر متلازمة راي (Reye syndrome)",
+   "الميترونيدازول (Flagyl) مضاد للجراثيم والطفيليات وليس مسكنًا للألم"
+  ],
+  "refs": [
+   {
+    "title": "Acetaminophen - StatPearls (non-opioid analgesic and antipyretic)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK482369/"
+   },
+   {
+    "title": "Diclofenac - StatPearls (NSAID with analgesic and antipyretic effects)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK557879/"
+   },
+   {
+    "title": "Salicylic Acid (Aspirin) - StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK519032/"
+   },
+   {
+    "title": "Drugs.com - Aspirin Disease Interactions (contraindicated in significant active bleeding)",
+    "url": "https://www.drugs.com/disease-interactions/aspirin.html"
+   },
+   {
+    "title": "Drugs.com - Metronidazole monograph (antibacterial and antiprotozoal)",
+    "url": "https://www.drugs.com/monograph/metronidazole.html"
+   }
+  ],
+  "from": [
+   "Q0159",
+   "Q0160",
+   "Q0163",
+   "Q0157"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 9,
+  "q": "مصاب وصل الطوارئ بنزف شديد بعد حادث. اذكر علامات صدمة نقص الحجم (hypovolemic shock)، وما التدخلات الأولية، وكيف تعرف أن تعويض السوائل كافٍ؟",
+  "model": "في صدمة نقص الحجم يظهر تسرع القلب (tachycardia) وتسرع التنفس (tachypnea) وشحوب الجلد وبرودته ورطوبته، مع هبوط الضغط الانقباضي (أقل من 90 ملم زئبق) وقلة البول وتغير الحالة الذهنية؛ أما ارتفاع الضغط فليس من علاماتها. التدخلات: السيطرة على مصدر النزف بالضغط المباشر، وبدء السوائل الوريدية المتساوية التوتر (isotonic crystalloids) مع الاقتصار على الحد الأدنى منها في النزف الشديد، وإعطاء الدم ومشتقاته مبكرًا (نقل متوازن) عند النزف، ووضع المريض مستلقيًا مع رفع الساقين. ولا تُستعمل الأدوية الرافعة للضغط عادةً إلا إذا لم تتحسن الحالة رغم تعويض الحجم الكافي. ويدل على كفاية التعويض إدرار بول لا يقل عن 30 مل/ساعة، مع نبض بين 60 و100 وتحسن مستوى الوعي وانخفاض القلق.",
+  "points": [
+   "علامات صدمة نقص الحجم: تسرع القلب (tachycardia) وتسرع التنفس (tachypnea) وشحوب الجلد وبرودته ورطوبته؛ وارتفاع الضغط ليس من علاماتها",
+   "من علامات النقص الشديد في التروية: هبوط الضغط الانقباضي (أقل من 90 ملم زئبق) وقلة البول وتغير الحالة الذهنية",
+   "السيطرة على مصدر النزف (مثل الضغط المباشر) جزء أساسي من العلاج",
+   "البدء المبكر بالسوائل الوريدية المتساوية التوتر (isotonic crystalloids) مع الاقتصار على الحد الأدنى منها في النزف الشديد حتى يتوفر الدم، مع وضع المريض مستلقيًا ورفع ساقيه",
+   "الدم ومشتقاته عند النزف؛ والأدوية الرافعة للضغط لا تُستعمل عادةً إلا إذا لم تستجب الحالة لتعويض السوائل",
+   "كفاية تعويض السوائل يدل عليها إدرار بول لا يقل عن 30 مل/ساعة (دلالة على كفاية التروية الكلوية) مع نبض 60-100 وتحسن الوعي"
+  ],
+  "refs": [
+   {
+    "title": "Hypovolemia and Hypovolemic Shock - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK513297/"
+   },
+   {
+    "title": "OpenStax Medical-Surgical Nursing - Hypovolemic Shock (Medicine LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Medical-Surgical_Nursing_(OpenStax)/23:_Shock_and_Sepsis/23.02:_Hypovolemic_Shock"
+   }
+  ],
+  "from": [
+   "Q0045",
+   "Q0115",
+   "Q0366",
+   "Q0717"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 9,
+  "q": "فرّق بين حروق الدرجة الأولى والثانية والثالثة، ثم اشرح قاعدة التسعات (rule of nines) وما الذي تقيسه، واحسب نسبة الحرق لمريض بالغ أُصيب صدره وبطنه وعجانه وذراعه اليمنى كاملة (أمامًا وخلفًا) بحروق من الدرجة الثانية أو الثالثة.",
+  "model": "تُصنَّف الحروق بحسب العمق سريريًا: الأولى تصيب البشرة فقط (epidermis) وتكون حمراء مؤلمة بلا فقاعات؛ والثانية تمتد إلى الأدمة (dermis) وتكون مؤلمة وفيها فقاعات وتورم، ويلتئم السطحي منها خلال 2-3 أسابيع لا 2-3 أيام؛ والثالثة تخترق الجلد بكامل سمكه وتبدو جلدية قاسية وقليلة الإحساس. أما قاعدة التسعات فتقدّر نسبة مساحة سطح الجسم المحترقة (TBSA) وليس العمق، ولا تُحتسب فيها الحروق السطحية. وفي البالغ: الرأس 9% وكل ذراع 9% والجذع الأمامي 18% والخلفي 18% وكل ساق 18% والعجان 1%. ففي الحالة: 18% (صدر وبطن) + 1% (عجان) + 9% (ذراع) = 28%. وللأطفال يكون مخطط لوند وبراودر (Lund and Browder) أدق.",
+  "points": [
+   "حرق الدرجة الأولى يصيب الطبقة السطحية فقط (البشرة) ويكون أحمر مؤلمًا دون فقاعات",
+   "حرق الدرجة الثانية مؤلم ويسبب فقاعات وتورمًا، ويلتئم السطحي منه خلال 2-3 أسابيع وليس 2-3 أيام",
+   "حرق الدرجة الثالثة يخترق الجلد بكامل سمكه (full-thickness) ويبدو جلديًا قاسيًا وقليل الإحساس",
+   "قاعدة التسعات (rule of nines) تقدّر نسبة مساحة سطح الجسم المحترقة (TBSA) ولا تقيس عمق الحرق، فالعمق يُصنَّف بالفحص السريري",
+   "قاعدة التسعات للبالغ: الرأس 9% وكل ذراع 9% والجذع الأمامي 18% والخلفي 18% وكل ساق 18% والعجان 1%",
+   "حالة الصدر والبطن والعجان والذراع اليمنى كاملة: 18% + 1% + 9% = 28%",
+   "الحروق السطحية (الدرجة الأولى) لا تُحسب ضمن مساحة الحرق الكلية، ومخطط Lund and Browder أدق عند الأطفال"
+  ],
+  "refs": [
+   {
+    "title": "MedlinePlus - Burns",
+    "url": "https://medlineplus.gov/burns.html"
+   },
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Burn Evaluation and Management (Archived)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK430741/"
+   },
+   {
+    "title": "StatPearls: Burn Classification (second-degree burns painful, blisters, heal within 2 to 3 weeks)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK539773/"
+   }
+  ],
+  "from": [
+   "Q0650",
+   "Q0085",
+   "Q0375",
+   "Q0666",
+   "Q0655"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 9,
+  "q": "اشرح أهداف علاج الكسور (fracture)، والفرق بين الرد (reduction) والتثبيت (immobilization)، وتعليمات المريض ذي الجبيرة (cast)، ومراحل التئام العظم.",
+  "model": "أهداف علاج الكسر ثلاثة: رد الكسر وإعادة اصطفاف الأجزاء المكسورة (reduction)، ثم التثبيت (immobilization) للحفاظ على هذا الاصطفاف، ثم استعادة وظيفة العضو. فإعادة الأجزاء إلى وضعها التشريحي هي الرد، أما التثبيت بالجبيرة أو الجبس فيحافظ على الوضع أثناء الالتئام. ويُستخدم التثبيت الخارجي (external fixation) في الكسور المفتوحة المصحوبة بتلف شديد في الأنسجة. وتشمل تعليمات الجبيرة: مراقبة علامات اضطراب الدورة الدموية والأعصاب (تنميل، تورم، ألم متزايد، تغير لون الجلد)، وعدم تحميل الوزن على جبيرة جديدة، وتحريك المفاصل فوق الجبيرة وتحتها. ويمر الالتئام بتكوّن الورم الدموي (hematoma)، ثم النسيج الحبيبي، ثم الدشبذ (callus)، وأخيرًا إعادة البناء (remodeling) وتستمر أشهرًا.",
+  "points": [
+   "أهداف علاج الكسر: رد الكسر وإعادة الاصطفاف (reduction)، والتثبيت (immobilization) للحفاظ عليه، واستعادة وظيفة العضو",
+   "إعادة الأجزاء المكسورة إلى وضعها التشريحي هي الرد (reduction) وليست التثبيت؛ أما التثبيت فهو الحفاظ على هذا الوضع بجبيرة أو جبس أثناء الالتئام",
+   "تعليمات الجبيرة تشمل مراقبة علامات مضاعفات الأعصاب والدورة الدموية: تنميل أو تورم أو ألم متزايد أو تغير لون الجلد",
+   "يُتجنب تحميل الوزن على جبيرة جديدة، وتُحرَّك المفاصل فوق الجبيرة وتحتها",
+   "التثبيت الخارجي (external fixation) مناسب للكسور المفتوحة المصحوبة بتلف واسع في الأنسجة الرخوة",
+   "مراحل التئام الكسر: الورم الدموي، ثم النسيج الحبيبي، ثم الدشبذ (callus)، وأخيرًا إعادة البناء (remodeling) وهي المرحلة الأخيرة"
+  ],
+  "refs": [
+   {
+    "title": "Bone fracture - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+   },
+   {
+    "title": "Orthopedic cast - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Orthopedic_cast"
+   },
+   {
+    "title": "StatPearls - Open Fracture Management",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK448083/"
+   },
+   {
+    "title": "StatPearls - Fracture Healing Overview (hematoma, granulation tissue, bony callus, remodeling)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK551678/"
+   }
+  ],
+  "from": [
+   "Q0042",
+   "Q0272",
+   "Q0043",
+   "Q0693",
+   "Q0260"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 9,
+  "q": "وجدتَ مصابًا فاقد الوعي بعد حادث. كيف تفتح مجرى الهواء (airway)، وماذا تفعل إذا شُبه بإصابة الحبل الشوكي أو كان لا يتنفس؟ ومتى تستعمل وضعية الإفاقة (recovery position)؟",
+  "model": "تُفتح مجرى الهواء لفاقد الوعي بإمالة الرأس ورفع الذقن (head tilt-chin lift)؛ ولا يصح سحب اللسان باليد، ولا يُعدّ الإنعاش القلبي الرئوي طريقة لفتح المجرى. عند الاشتباه بإصابة العنق يُفضَّل دفع الفك (jaw thrust) دون بسط الرأس، والإجراء الإسعافي الفوري في إصابة الحبل الشوكي هو تثبيت العمود الفقري (spinal immobilization) لمنع تفاقم الإصابة، قبل المسكنات أو تغيير الوضع أو التمارين. ثم يُفحص التنفس والنبض، ولا يتجاوز فحص النبض للمختص 10 ثوانٍ: إذا وُجد نبض مع غياب التنفس الطبيعي يُعطى تنفس إنقاذي (rescue breathing) بمعدل نفس كل 6 ثوانٍ تقريبًا، وإذا غاب النبض يُبدأ الإنعاش القلبي الرئوي (CPR). وإن كان المصاب غير مستجيب لكنه يتنفس طبيعيًا وُضع في وضعية الإفاقة لإبقاء المجرى مفتوحًا وتصريف القيء.",
+  "points": [
+   "فتح المجرى الهوائي لفاقد الوعي يتم بإمالة الرأس ورفع الذقن (head tilt-chin lift)، ولا يصح سحب اللسان باليد ولا يُعدّ الإنعاش القلبي الرئوي بديلًا عن فتح المجرى",
+   "عند الاشتباه بإصابة العنق يُفضَّل دفع الفك (jaw thrust) دون بسط الرأس",
+   "الإجراء الإسعافي الفوري في إصابة الحبل الشوكي هو تثبيت العمود الفقري (spinal immobilization) لمنع تفاقم الإصابة، قبل المسكنات أو تغيير الوضع أو التمارين",
+   "وجود نبض مع غياب التنفس الطبيعي يستلزم تنفسًا إنقاذيًا (rescue breathing) بمعدل نفس واحد كل 6 ثوانٍ تقريبًا",
+   "غياب النبض يستلزم بدء الإنعاش القلبي الرئوي (CPR)، ولا يتجاوز فحص النبض للمختص 10 ثوانٍ",
+   "وضعية الإفاقة (recovery position) لمن لا يستجيب ويتنفس طبيعيًا: تُبقي المجرى مفتوحًا وتسمح بتصريف القيء"
+  ],
+  "refs": [
+   {
+    "title": "St John Ambulance: CPR (gently tilt the head back and lift the chin)",
+    "url": "https://www.sja.org.uk/first-aid-advice/cpr/"
+   },
+   {
+    "title": "StatPearls: Airway Management (head tilt, chin lift, or jaw thrust)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470403/"
+   },
+   {
+    "title": "AHA - Adult Basic Life Support guidelines (rescue breathing 1 breath every 6 s when pulse present)",
+    "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+   },
+   {
+    "title": "StatPearls: Spinal Cord Injuries (spinal motion restriction / immobilization to prevent exacerbation)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560721/"
+   },
+   {
+    "title": "St John Ambulance - Recovery position",
+    "url": "https://www.sja.org.uk/first-aid-advice/recovery-position/"
+   }
+  ],
+  "from": [
+   "Q0099",
+   "Q0338",
+   "Q0381",
+   "Q0262",
+   "Q0318",
+   "Q0065"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 9,
+  "q": "اشرح مصادر التسمم الشائعة عند الأطفال (childhood poisoning)، وما الإجراءات الأولية، وما الذي يُمنع في التسمم بالمواد الكاوية، وما ترياق تسمم الباراسيتامول؟",
+  "model": "من مصادر التسمم الشائعة عند الأطفال الأدوية ومنتجات التنظيف المنزلية والمبيدات والنباتات، أما الطعام الطازج فليس مادة سمّية نمطية. تقوم الوقاية على حفظ المنتجات الخطرة بعيدًا عن متناول الأطفال واستعمالها وتخزينها كما تنص ملصقاتها، وعند الاشتباه بالتسمم يُتصل فورًا بمركز السموم (poison control). وفي التسمم بالمواد الكاوية أو الأكّالة يُمنع إحداث القيء وغسل المعدة (gastric lavage) لأنهما يعيدان تعريض الجهاز الهضمي العلوي للمادة الكاوية، كما أن المراجع الحديثة لا توصي بغسل المعدة روتينيًا في التسمم عمومًا. وفي تسمم الباراسيتامول (paracetamol) الترياق النوعي هو أسيتيل سيستئين (N-acetylcysteine) الذي يعوّض مخزون الغلوتاثيون ويحمي الكبد، وتكون فعاليته أفضل إذا أُعطي مبكرًا خلال 8 ساعات من التناول.",
+  "points": [
+   "مصادر التسمم الشائعة عند الأطفال: الأدوية ومنتجات التنظيف المنزلية والمبيدات والنباتات؛ والطعام الطازج ليس منها",
+   "الوقاية: حفظ المنتجات الخطرة بعيدًا عن متناول الأطفال واستعمالها وتخزينها كما تنص ملصقاتها",
+   "عند الاشتباه بالتسمم يُتصل فورًا بمركز السموم (poison control)",
+   "في التسمم بالمواد الكاوية يُمنع إحداث القيء وغسل المعدة (gastric lavage) لأنهما يعيدان تعريض الجهاز الهضمي العلوي للمادة الكاوية",
+   "المراجع الحديثة لا توصي بغسل المعدة روتينيًا في التسمم عمومًا",
+   "ترياق تسمم الباراسيتامول (paracetamol) هو أسيتيل سيستئين (N-acetylcysteine)، وفعاليته أفضل عند إعطائه مبكرًا خلال 8 ساعات من التناول"
+  ],
+  "refs": [
+   {
+    "title": "MedlinePlus - Poisoning (medicines, household cleaning products, pesticides, plants)",
+    "url": "https://medlineplus.gov/poisoning.html"
+   },
+   {
+    "title": "MSD Manual Professional - Caustic Ingestion (emesis or lavage is contraindicated)",
+    "url": "https://www.merckmanuals.com/professional/injuries-poisoning/poisoning/caustic-ingestion"
+   },
+   {
+    "title": "ScienceDirect Topics - Gastric Lavage",
+    "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/gastric-lavage"
+   },
+   {
+    "title": "N-acetylcysteine - LITFL Toxicology Library",
+    "url": "https://litfl.com/n-acetylcysteine/"
+   }
+  ],
+  "from": [
+   "Q0169",
+   "Q0170",
+   "Q0028"
+  ],
+  "fetched": []
+ }
+]

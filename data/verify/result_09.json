@@ -1,0 +1,729 @@
+[
+  {
+    "id": "Q0401",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "العبارة مكسورة الصياغة؛ المقصود غالبًا أن السعال مع البلغم (خصوصًا صباحًا) من أعراض التهاب القصبات المزمن فتكون صحيحة، لكن لم أجد مرجعًا يذكر «الصباح» صراحةً (NHS يذكر سعالًا مستمرًا مع بلغم).",
+    "refs": [
+      {
+        "title": "COPD symptoms - NHS",
+        "url": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/symptoms/"
+      },
+      {
+        "title": "Bronchitis - NHS",
+        "url": "https://www.nhs.uk/conditions/bronchitis/"
+      }
+    ]
+  },
+  {
+    "id": "Q0402",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "نص السؤال مبتور/غير مفهوم («unintentional wound cause treat and therapy») ولا يمكن استخلاص عبارة قابلة للحكم عليها بصح أو خطأ.",
+    "refs": []
+  },
+  {
+    "id": "Q0403",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "السؤال مبتور والخيار الثاني ناقص؛ الخيارات الظاهرة (ارتفاع البيليروبين/عدد الصفائح) لا تؤكد الإصابة الفيروسية بالكبد، والتأكيد يكون بالفحوص المصلية/الفيروسية (HBsAg، anti-HAV IgM، HCV Ab/RNA...) غير المذكورة.",
+    "refs": []
+  },
+  {
+    "id": "Q0404",
+    "verdict": "answered",
+    "answer": 3,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "مقياس غلاسكو للغيبوبة يقيس ثلاثة مكونات: فتح العين والاستجابة اللفظية والاستجابة الحركية، و«fecal» (البراز) ليس منها فهو الاستثناء.",
+    "refs": [
+      {
+        "title": "Glasgow Coma Scale - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK513298/"
+      }
+    ]
+  },
+  {
+    "id": "Q0405",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "الخيار الوحيد الظاهر (عدم تناول أقراص حمض الفوليك) سبب معروف لفقر الدم في الحمل (نقص الفولات)، لكن بقية الخيارات مفقودة فلا يمكن الجزم بأنه مفتاح السؤال؛ WHO يذكر نقص الحديد والفولات من الأسباب.",
+    "refs": [
+      {
+        "title": "Anaemia - WHO fact sheet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/anaemia"
+      }
+    ]
+  },
+  {
+    "id": "Q0406",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "الـ anosmia هو فقدان القدرة على شمّ الروائح وليس عدم القدرة على النوم، فالعبارة خاطئة.",
+    "refs": [
+      {
+        "title": "Anosmia - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482152/"
+      }
+    ]
+  },
+  {
+    "id": "Q0407",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "القرع (percussion) هو النقر على سطح الجسم لتقدير البنى الكامنة تحته؛ أما ملاحظة الشكل واللون والرطوبة فهي الفحص بالنظر (inspection)، فالعبارة خاطئة (صياغة السؤال مشوّشة).",
+    "refs": [
+      {
+        "title": "Percussion (medicine) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Percussion_(medicine)"
+      },
+      {
+        "title": "What are the 4 Techniques of Physical Assessment? - Stethoscope.com (weak source)",
+        "url": "https://www.stethoscope.com/blog/what-are-the-4-techniques-of-physical-assessment/"
+      }
+    ]
+  },
+  {
+    "id": "Q0408",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "العبارة متناقضة ومبتورة («complete partial picture»)؛ لا يمكن تحديد هل المقصود صورة كاملة أم جزئية للوظيفة الفيزيولوجية.",
+    "refs": []
+  },
+  {
+    "id": "Q0409",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "مطرقة الانعكاسات (ذات الرأس المطاطي) تُستعمل لفحص المنعكسات الوترية العميقة وليس لفحص الحس، فالعبارة خاطئة (النص مبتور قليلًا، والمراجع لا تذكر استخدامًا حسيًا).",
+    "refs": [
+      {
+        "title": "Reflex hammer - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Reflex_hammer"
+      }
+    ]
+  },
+  {
+    "id": "Q0561",
+    "verdict": "answered",
+    "answer": 2,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "عند تقطير قطرة الأذن للبالغ: يُسحب صيوان الأذن للخلف والأعلى، وتُدفّأ القطرة لدرجة حرارة الغرفة، ويستلقي المريض على الجانب؛ ويُتجنّب ملامسة رأس القطّارة للأذن فيكون الخيار 3 (وضع رأس القطّارة على حافة القناة) هو المُتجنَّب.",
+    "refs": [
+      {
+        "title": "Delegation of Medication Administration: Ear Drops - NC Board of Nursing module",
+        "url": "https://www.ncbon.com/sites/default/files/documents/2024-03/module-eardrops_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q0562",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "لتحسين نوم مريض العناية المركزة يُخفَّض الضوء ليلًا ويُقلَّل الضجيج وتُجمَّع الرعاية؛ أما التلفاز المستمر وإسكات إنذارات الأجهزة (غير آمن) والمسكنات بلا ألم فغير مناسبة.",
+    "refs": [
+      {
+        "title": "Sleep in the Intensive Care Unit: Strategies for Improvement (eScholarship review)",
+        "url": "https://escholarship.org/content/qt43m279rj/qt43m279rj_noSplash_cadb017d80c1c20d12f102218f8e06d6.pdf?t=rvnts8"
+      }
+    ]
+  },
+  {
+    "id": "Q0563",
+    "verdict": "answered",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "من مضاعفات التهاب البنكرياس الحاد الرئوية: الانصباب الجنبي وانخماص الرئة والالتهاب الرئوي وARDS؛ أما احتشاء العضلة والتشمع وقرحة المعدة فليست من مضاعفاته الرئيسية المقصودة.",
+    "refs": [
+      {
+        "title": "StatPearls NBK482468 - acute pancreatitis (complications section)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK482468/"
+      },
+      {
+        "title": "Respiratory Complications in Acute Pancreatitis (Longdom open-access review)",
+        "url": "https://www.longdom.org/open-access-pdfs/respiratory-complications-in-acute-pancreatitis-2165-7092-1000e149.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q0564",
+    "verdict": "answered",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "DSM-5 يعرّف اضطراب تعاطي المواد بأنه نمط إشكالي من التعاطي يؤدي إلى ضعف أو ضيق ذي دلالة سريرية؛ والخيار 4 الأقرب (إفراط وتبعية تؤثر سلبًا)، والخيارات الأخرى تصف أجزاء (رغبة/انسحاب) لا التعريف الكامل؛ نص الخيار الأخير مبتور قليلًا.",
+    "refs": [
+      {
+        "title": "Appendix A: DSM-IV-TR and DSM-5 Diagnostic Criteria - Public Safety Medicine",
+        "url": "https://www.publicsafetymedicine.org/leo/substance-use-disorders/appendix-a-dsm-iv-tr-and-dsm-5-diagnostic-criteria"
+      }
+    ]
+  },
+  {
+    "id": "Q0565",
+    "verdict": "answered",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "فيتامين C ضروري لتخليق الكولاجين في الخلايا الليفية ولالتئام الجروح (NIH ODS)، وهو المغذي الذي تنسبه مراجع التمريض (Lewis) لتكوين الشعيرات والكولاجين؛ والبروتين مهم عمومًا لكنه ليس المقصود بهذه الصياغة.",
+    "refs": [
+      {
+        "title": "Vitamin C - Health Professional Fact Sheet, NIH Office of Dietary Supplements",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "id": "Q0566",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "الالتصاقات (adhesions) بعد جراحة البطن هي السبب الأول لانسداد الأمعاء الدقيقة، وتظهر بألم مغص وقيء وانتفاخ وقد تحدث بعد أشهر أو سنوات.",
+    "refs": [
+      {
+        "title": "Small Bowel Obstruction - StatPearls (NCBI Bookshelf NBK448079)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK448079/"
+      },
+      {
+        "title": "Abdominal Adhesions - Cleveland Clinic",
+        "url": "https://my.clevelandclinic.org/health/diseases/15254-abdominal-adhesions"
+      }
+    ]
+  },
+  {
+    "id": "Q0567",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "لدى مدمن الكحول المرتبك يُعطى الثيامين الوريدي أولًا للوقاية من اعتلال فيرنيكه (يُعطى قبل أو مع الغلوكوز)؛ أما البنزوديازيبينات للانسحاب والهالوبيريدول يخفض عتبة التشنج والنالوكسون للأفيونات.",
+    "refs": [
+      {
+        "title": "Wernicke Encephalopathy (Nursing) - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK568798/"
+      }
+    ]
+  },
+  {
+    "id": "Q0568",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "تشوّه بارز وقصر في الطرف مع ألم وتورم وكدمات هو الوصف الكلاسيكي للكسر؛ أما الالتواء والشد والكدمة فلا تسبّب تشوهًا وقصرًا.",
+    "refs": [
+      {
+        "title": "Broken bone - MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/ency/article/000001.htm"
+      }
+    ]
+  },
+  {
+    "id": "Q0569",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "الفقاعات المستمرة في حجرة الختم المائي (water seal) تدل على تسرّب هوائي فيجب فحص النظام؛ أما فقاعات لطيفة في حجرة الشفط فطبيعية، وتذبذب السائل مع التنفس (tidaling) طبيعي.",
+    "refs": [
+      {
+        "title": "Chest Drainage Systems - Clinical Procedures for Safer Patient Care (OpenTextBC)",
+        "url": "https://opentextbc.ca/clinicalskills/chapter/10-7-chest-drainage-systems/"
+      },
+      {
+        "title": "Basic Concepts of chest tube drainage - Nursing Advanced Skills (OpenRN), LibreTexts",
+        "url": "https://med.libretexts.org/Bookshelves/Nursing/Nursing_Advanced_Skills_(OpenRN)/06:_Manage_Chest_Tube_Drainage_Systems/6.02:_Basic_Concepts"
+      }
+    ]
+  },
+  {
+    "id": "Q0570",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "النزف بعد جراحة استبدال الصمام (مع الهيبارين أثناء العملية) يُعالَج بكبريتات البروتامين وهي مضاد الهيبارين؛ الكومادين يزيد النزف وترياقه فيتامين K.",
+    "refs": [
+      {
+        "title": "Heparin - StatPearls (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538247/"
+      }
+    ]
+  },
+  {
+    "id": "Q0571",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "كل الخيارات فيها عوامل خطر (تقرحات الضغط: عدم الحركة وفقد الإحساس وسوء التغذية والعمر والرطوبة)؛ مفتاح Lewis المرجّح هو المسن المرتبك سيئ التغذية (عدة عوامل)، لكن المريض الغائب عن الوعي يقارب مثله بمقياس Braden، ولم أجد مفتاحًا موثوقًا للسؤال نفسه.",
+    "refs": [
+      {
+        "title": "Pressure Ulcer - StatPearls (NCBI Bookshelf NBK553107)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK553107/"
+      },
+      {
+        "title": "Pressure ulcer - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pressure_ulcer"
+      }
+    ]
+  },
+  {
+    "id": "Q0572",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "وجود فقاعات مفرطة في حجرة الختم المائي يعني تسرّبًا هوائيًا في النظام فيجب فحص الوصلات والنظام؛ لا يُعتبر طبيعيًا ولا يُعالج بتقليل الشفط أو بالعصر (stripping).",
+    "refs": [
+      {
+        "title": "Chest Drainage Systems - Clinical Procedures for Safer Patient Care (OpenTextBC)",
+        "url": "https://opentextbc.ca/clinicalskills/chapter/10-7-chest-drainage-systems/"
+      },
+      {
+        "title": "Basic Concepts of chest tube drainage - Nursing Advanced Skills (OpenRN), LibreTexts",
+        "url": "https://med.libretexts.org/Bookshelves/Nursing/Nursing_Advanced_Skills_(OpenRN)/06:_Manage_Chest_Tube_Drainage_Systems/6.02:_Basic_Concepts"
+      }
+    ]
+  },
+  {
+    "id": "Q0573",
+    "verdict": "uncertain",
+    "answer": 3,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "«حركات رعشية لا إرادية» تنطبق على النوبة الرمعية clonic (رعشات إيقاعية متكررة) وعلى النوبة الرمعية العضلية myoclonic (رعشات مفاجئة قصيرة)؛ الصياغة لا تحسم، رجّحت clonic، والبديل الأقرب الخيار 3 (myoclonic).",
+    "refs": [
+      {
+        "title": "Seizure - StatPearls (NCBI Bookshelf NBK430765)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK430765/"
+      },
+      {
+        "title": "Seizure types - Epilepsy Foundation",
+        "url": "https://www.epilepsy.com/what-is-epilepsy/seizure-types"
+      }
+    ]
+  },
+  {
+    "id": "Q0574",
+    "verdict": "answered",
+    "answer": 3,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "نظافة اليدين (بعد لمس السوائل وبعد نزع القفازات وبين المرضى) هي أهم إجراء لمنع انتقال العدوى؛ القفازات والرداء وحماية الوجه إجراءات مكمّلة (WHO وCDC).",
+    "refs": [
+      {
+        "title": "Hand hygiene - WHO Infection prevention and control",
+        "url": "https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene"
+      },
+      {
+        "title": "Hand Hygiene in Healthcare Settings - CDC",
+        "url": "https://www.cdc.gov/clean-hands/hcp/clinical-safety/index.html"
+      },
+      {
+        "title": "About Handwashing - CDC",
+        "url": "https://www.cdc.gov/clean-hands/about/index.html"
+      }
+    ]
+  },
+  {
+    "id": "Q0575",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "سكتة الجانب الأيمن تعني شللًا أيسر؛ وضع اليد بلفة (hand roll) وبسط الطرف العلوي الأيسر على وسادة يمنع التقفع، أما الجوارب المطاطية والمهد السريري (bed cradle) فلا تؤدي الغرض المذكور؛ بقي تمارين الحركة السلبية (الخيار 4) منافسًا محتملًا، ولم أجد مفتاحًا موثوقًا للسؤال.",
+    "refs": [
+      {
+        "title": "Stroke recovery - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Stroke_recovery"
+      }
+    ]
+  },
+  {
+    "id": "Q0576",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "إعادة تغيير وضع المريض بانتظام هي التدخل الأساسي للوقاية من قرح الضغط وعلاجها (مفتاح Lewis)، وأجهزة تخفيف الضغط مكمّلة؛ والتدليك ممنوع.",
+    "refs": [
+      {
+        "title": "Pressure Ulcer - StatPearls (NCBI Bookshelf NBK553107)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK553107/"
+      },
+      {
+        "title": "Pressure ulcer - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pressure_ulcer"
+      }
+    ]
+  },
+  {
+    "id": "Q0577",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "قسطرة القلب التاجية (تصوير الشرايين) غرضها الأساسي رؤية الشرايين التاجية وتحديد مرض الشرايين التاجية وانسداداتها؛ قياس الضغوط والأكسجين أغراض ثانوية.",
+    "refs": [
+      {
+        "title": "Cardiac catheterization - MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/ency/article/003419.htm"
+      },
+      {
+        "title": "Coronary catheterization - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Coronary_catheterization"
+      }
+    ]
+  },
+  {
+    "id": "Q0578",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": false,
+    "note_ar": "لا يوجد مرجع حاسم؛ في اليوم الثاني بعد احتشاء العضلة القلبية المتوقع: خلو المريض من الألم وقيامه بالعناية الذاتية، أما معرفة عوامل الخطورة فتعليم لاحق والمشي في برنامج التأهيل أبعد؛ إجابة المصدر (الخيار 3) مؤشَّر عليها «ambiguous» فأخالفها بثقة منخفضة.",
+    "refs": [
+      {
+        "title": "Cardiac rehabilitation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cardiac_rehabilitation"
+      },
+      {
+        "title": "Myocardial Infarction - StatPearls (NCBI Bookshelf NBK537076)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK537076/"
+      }
+    ]
+  },
+  {
+    "id": "Q0579",
+    "verdict": "uncertain",
+    "answer": 2,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "المغص/التقلصات البطنية أثر جانبي معروف للملينات المحفّزة مثل الكاسكارا ساجرادا، أما النزف الهضمي وقرحة المعدة والانسداد الجزئي فمحاذير استعمال لا آثار جانبية؛ المرجع الذي اطلعت عليه يذكر الإسهال الشديد والجفاف ولا ينص على المغص صراحةً.",
+    "refs": [
+      {
+        "title": "Cascara sagrada - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cascara_sagrada"
+      }
+    ]
+  },
+  {
+    "id": "Q0580",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "عوامل الخطورة القابلة للتعديل تشمل ضغط الدم والنظام الغذائي والوزن، أما العمر والتاريخ العائلي فغير قابلين للتعديل (AHA)؛ الخيار 2 وحده يخلو منهما (نص السؤال مبتور).",
+    "refs": [
+      {
+        "title": "Understand Your Risks to Prevent a Heart Attack - American Heart Association",
+        "url": "https://www.heart.org/en/health-topics/heart-attack/understand-your-risks-to-prevent-a-heart-attack"
+      }
+    ]
+  },
+  {
+    "id": "Q0581",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "الخيارات مبتورة («local and...»، «...») ولا يمكن تحديد المفتاح؛ التخدير المتوازن هو الجمع بين عدة عوامل (استنشاقي ووريدي ومرخٍّ عضلي ومسكّن) لكن الخيارات غير مكتملة.",
+    "refs": []
+  },
+  {
+    "id": "Q0582",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "الخياران الظاهران (باركنسون، سكري) ليسا من موانع قياس الحرارة الشرجية المعروفة (جراحة/أمراض المستقيم، الإسهال، نقص المناعة، بعض مرضى القلب) وباقي الخيارات مفقودة.",
+    "refs": []
+  },
+  {
+    "id": "Q0583",
+    "verdict": "answered",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "أشيع أنواع السكتة هي الإقفارية (ischemic)، وارتفاع ضغط الدم هو أهم عامل خطر قابل للتعديل يليه السكري؛ فمن لديهم ضغط وسكري الأعلى خطرًا (CDC).",
+    "refs": [
+      {
+        "title": "Stroke Risk Factors - CDC",
+        "url": "https://www.cdc.gov/stroke/risk-factors/index.html"
+      },
+      {
+        "title": "About Stroke - CDC",
+        "url": "https://www.cdc.gov/stroke/about/index.html"
+      }
+    ]
+  },
+  {
+    "id": "Q0584",
+    "verdict": "uncertain",
+    "answer": 2,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "النص مبتور؛ رأيت أن «الحد من الانتشار» يوافق مكافحة البعوض برش المبيدات (مفتاح محتمل)، لكن منظمة الصحة تعطي أولوية لتطعيم البشر في التهاب الدماغ الياباني (الخيار 1)، فالسؤال مرهون بنوع الالتهاب المقصود.",
+    "refs": [
+      {
+        "title": "Japanese encephalitis - WHO fact sheet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/japanese-encephalitis"
+      },
+      {
+        "title": "Japanese Encephalitis prevention - CDC",
+        "url": "https://www.cdc.gov/japanese-encephalitis/prevention/index.html"
+      }
+    ]
+  },
+  {
+    "id": "Q0585",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "أولوية التمريض في احتشاء العضلة القلبية هي تخفيف ألم الصدر (نيتروجلسرين/مورفين) لتقليل احتياج القلب للأكسجين؛ النص مبتور وأحد الخيارات مفقود.",
+    "refs": [
+      {
+        "title": "Acute Coronary Syndrome - StatPearls (NCBI Bookshelf NBK459157)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK459157/"
+      },
+      {
+        "title": "Myocardial Infarction - StatPearls (NCBI Bookshelf NBK537076)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK537076/"
+      }
+    ]
+  },
+  {
+    "id": "Q0586",
+    "verdict": "answered",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "يُبلَّغ الطبيب عند هبوط إخراج البول دون 30 مل/ساعة (قرابة 0.5 مل/كغ/ساعة في KDIGO)؛ بقية الخيارات ≥30 مل/ساعة (31 و30 و32).",
+    "refs": [
+      {
+        "title": "Acute Kidney Injury - StatPearls (NCBI Bookshelf NBK441896)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK441896/"
+      }
+    ]
+  },
+  {
+    "id": "Q0587",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "تحضير تخطيط الدماغ: يُغسل الشعر بلا زيوت وطمأنة المريض بأن الفحص غير مؤلم، ولا يُحلق الرأس (فالخيار 1 خاطئ) ومن الظاهر الخيار 2؛ لكن خيارين مفقودان فلا أجزم.",
+    "refs": [
+      {
+        "title": "EEG - MedlinePlus Medical Encyclopedia",
+        "url": "https://medlineplus.gov/ency/article/003931.htm"
+      }
+    ]
+  },
+  {
+    "id": "Q0588",
+    "verdict": "confirmed",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "نقطة الضغط للنزف من فروة الرأس هي الشريان الصدغي السطحي (بينما الوجهي للوجه والكعبري واليد والفخذي للطرفين)؛ ويبقى الضغط المباشر على الجرح هو الإسعاف الأساسي في المراجع الحديثة.",
+    "refs": [
+      {
+        "title": "Superficial temporal artery - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Superficial_temporal_artery"
+      }
+    ]
+  },
+  {
+    "id": "Q0589",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "إصابة النخاع فوق T6 تسبب صدمة عصبية (هبوط ضغط مع بطء قلب)؛ أرجّح أن بطء القلب 42 هو الأخطر (خطر توقف القلب)، أما ضغط 88/60 فهو أيضًا مقلق، وفقد الحركة في الذراعين لا يناسب مستوى T2؛ لم أجد مفتاحًا موثوقًا للسؤال.",
+    "refs": [
+      {
+        "title": "Neurogenic Shock - StatPearls (NCBI Bookshelf NBK459361)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK459361/"
+      }
+    ]
+  },
+  {
+    "id": "Q0590",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "سحب المكبس للتأكد من الدم غير مطلوب، والتبديل بين مناطق مختلفة مع كل حقنة غير مستحسن (يُبدَّل الموضع داخل المنطقة نفسها) وتنظيف الجلد بالكحول اختياري عند نظافته؛ فبالاستبعاد يبقى استخدام حجم المحقنة نفسه لتفادي أخطاء الجرعة (مفتاح Lewis المرجّح)، دون مرجع يؤكد ذلك نصًا.",
+    "refs": [
+      {
+        "title": "Insulin, Medicines & Other Diabetes Treatments - NIDDK",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/insulin-medicines-treatments"
+      }
+    ]
+  },
+  {
+    "id": "Q0591",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "النص مبتور وخياران مفقودان، والخياران الظاهران مكرران/مشوّهان («Ulcer diverticulitis») ولا يمكن الجزم؛ الإسهال الشديد مع ألم بطني أقرب عادةً إلى التهاب القولون التقرحي لكنه غير ظاهر بوضوح بين الخيارات.",
+    "refs": []
+  },
+  {
+    "id": "Q0592",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "المرحلة الأولى من استئصال القولون والمستقيم مع الكيس اللفائفي تشمل فغر لفائفي مؤقتًا من النوع الحلقي (loop) لحماية الكيس أثناء الالتئام ثم يُغلق في المرحلة الثانية؛ وليس دائمًا ولا فغر قولون.",
+    "refs": [
+      {
+        "title": "Ileo-anal pouch - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ileo-anal_pouch"
+      }
+    ]
+  },
+  {
+    "id": "Q0593",
+    "verdict": "answered",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "انحناء المريض مع تنفس ضحل وأنيني مع قرحة هضمية قد يعني انثقابًا (بطن متصلب وتنفس ضحل)؛ الإجراء الأول في عملية التمريض هو التقييم (البطن والعلامات الحيوية) قبل إبلاغ الطبيب أو غيره.",
+    "refs": [
+      {
+        "title": "Peptic Ulcer Disease - StatPearls (NCBI Bookshelf NBK534792)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK534792/"
+      }
+    ]
+  },
+  {
+    "id": "Q0594",
+    "verdict": "answered",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "القيء المبكر الغزير (القذفي) مع مغص متقطع وجفاف يدل على انسداد الأمعاء الدقيقة العلوية (proximal)، بينما يغلب الإمساك والانتفاخ في الانسداد السفلي.",
+    "refs": [
+      {
+        "title": "Bowel obstruction - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bowel_obstruction"
+      }
+    ]
+  },
+  {
+    "id": "Q0595",
+    "verdict": "answered",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "بعد استئصال البواسير يُنصح بالجلوس في ماء دافئ (sitz bath) عدة مرات يوميًا لتخفيف الألم والتنظيف؛ ويجب عدم تأخير التبرز (ملينات/ألياف) ولا يُنصح بتجنبه؛ المراجع تدعمه كإجراء راحة رغم ضعف الدليل العلمي.",
+    "refs": [
+      {
+        "title": "Hemorrhoids: diagnosis and treatment - Mayo Clinic",
+        "url": "https://www.mayoclinic.org/diseases-conditions/hemorrhoids/diagnosis-treatment/drc-20360280"
+      },
+      {
+        "title": "Hemorrhoidectomy - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hemorrhoidectomy"
+      }
+    ]
+  },
+  {
+    "id": "Q0596",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "السؤال مبتور والخياران الأخيران مفقودان والثاني ناقص («restrict.......diet»)، فلا يمكن تحديد مفتاح سؤال التهاب الرتج الحاد.",
+    "refs": []
+  },
+  {
+    "id": "Q0597",
+    "verdict": "answered",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "يُطلب من المريض إفراغ المثانة قبل بزل البطن لتقليل خطر إصابة المثانة؛ ولا يلزم الصيام ولا تفريغ الأمعاء (StatPearls)؛ أحد الخيارات مفقود.",
+    "refs": [
+      {
+        "title": "Paracentesis - StatPearls (NCBI Bookshelf NBK435998)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK435998/"
+      }
+    ]
+  },
+  {
+    "id": "Q0598",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "ثلاثة خيارات مفقودة والخيار الظاهر («الإفراغ عند امتلاء ثلثين») يخالف التوصية الشائعة بالإفراغ عند امتلاء الثلث إلى النصف، فلا يمكن اعتماد مفتاح.",
+    "refs": [
+      {
+        "title": "Colostomy - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Colostomy"
+      }
+    ]
+  },
+  {
+    "id": "Q0599",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "السؤال بلا خيارات ومبتور («Rectal cancer......»)، فلا يمكن تحديد إجابة.",
+    "refs": []
+  },
+  {
+    "id": "Q0600",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "السؤال بلا خيارات ومبتور («Intussusception......»)، فلا يمكن تحديد إجابة.",
+    "refs": []
+  },
+  {
+    "id": "Q0601",
+    "verdict": "confirmed",
+    "answer": 1,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "يسري السل الرئوي عبر الهواء برذاذ السعال والعطاس والتنفس (نوى الرذاذ المحمولة جوًا) ولا ينتقل عبر الأيدي أو الطعام أو سوائل الجسم (WHO وCDC).",
+    "refs": [
+      {
+        "title": "Tuberculosis - WHO fact sheet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis"
+      },
+      {
+        "title": "About Tuberculosis - CDC",
+        "url": "https://www.cdc.gov/tb/about/index.html"
+      }
+    ]
+  }
+]

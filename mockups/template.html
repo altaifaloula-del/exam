@@ -1,0 +1,359 @@
+<title>نماذج بنك المزاولة</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Amiri:wght@400;700&family=Readex+Pro:wght@300;400;500;600&display=swap">
+<style>
+/* Layout: one shell page (spec + three live design options). Shell follows the viewer theme;
+   each option panel is a self-contained product preview with its own explicit palette. */
+:root{
+  --bg:#F6F7F5; --fg:#17211F; --muted:#56655F; --line:#D9DFDB; --card:#FFFFFF; --accent:#0E6B60; --accent-ink:#FFFFFF; --warn:#9A3B1E; --warn-bg:#FBEDE7;
+  --font-ui:"IBM Plex Sans Arabic","Noto Sans Arabic",Tahoma,system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0F1513;--fg:#E7EDEA;--muted:#9FB0A8;--line:#25312D;--card:#151D1A;--accent:#5FC7B6;--accent-ink:#06211C;--warn:#F0A287;--warn-bg:#2A1A14;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0F1513;--fg:#E7EDEA;--muted:#9FB0A8;--line:#25312D;--card:#151D1A;--accent:#5FC7B6;--accent-ink:#06211C;--warn:#F0A287;--warn-bg:#2A1A14;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--font-ui);font-size:16px;line-height:1.7}
+*{box-sizing:border-box}
+.page{max-width:1040px;margin:0 auto;padding-inline:clamp(16px,4vw,32px);padding-block:24px 56px}
+h1{font-size:clamp(1.5rem,4vw,2rem);line-height:1.3;margin:0 0 6px;text-wrap:balance}
+h2{font-size:1.2rem;margin:0 0 10px;text-wrap:balance}
+h3{font-size:1rem;margin:0 0 6px}
+p{margin:0 0 10px;max-width:68ch}
+.lead{color:var(--muted);margin-bottom:18px}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-block:16px;border-bottom:1px solid var(--line);padding-bottom:10px}
+.tab{font:inherit;color:var(--fg);background:transparent;border:1px solid var(--line);border-radius:8px;padding:8px 14px;cursor:pointer;min-height:44px}
+.tab[aria-selected="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.tab:focus-visible,.btn:focus-visible,.opt:focus-visible,.chip:focus-visible,.nav-dot:focus-visible{outline:3px solid #F2B23A;outline-offset:2px}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:18px}
+.box{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px 18px;min-width:0}
+.box ul{margin:0;padding-inline-start:20px}
+.box li{margin-bottom:6px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-block:14px}
+.stat{border:1px solid var(--line);border-radius:8px;padding:10px 12px;background:var(--card)}
+.stat b{display:block;font-size:1.5rem;font-variant-numeric:tabular-nums;font-family:"IBM Plex Mono",monospace}
+.stat span{color:var(--muted);font-size:.85rem}
+.decide{background:var(--warn-bg);border:1px solid var(--warn);border-radius:10px;padding:14px 18px}
+.decide h2{color:var(--warn)}
+table{border-collapse:collapse;width:100%;font-size:.92rem}
+.tw{overflow-x:auto}
+th,td{border-bottom:1px solid var(--line);padding:8px 10px;text-align:start;vertical-align:top}
+th{color:var(--muted);font-weight:500}
+code{font-family:"IBM Plex Mono",monospace;font-size:.85em;direction:ltr;unicode-bidi:embed}
+.pick{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-block:10px 14px}
+.pick p{margin:0;color:var(--muted)}
+
+/* ---------- shared panel mechanics ---------- */
+.panel{border-radius:16px;overflow:hidden;max-width:760px;margin-inline:auto;border:1px solid var(--pline);background:var(--pbg);color:var(--pfg);font-family:var(--pfont)}
+.panel *{box-sizing:border-box}
+.p-top{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;padding:14px 18px;border-bottom:1px solid var(--pline)}
+.brand{font-weight:600;font-size:1.05rem}
+.seg{display:inline-flex;border:1px solid var(--pline);border-radius:999px;overflow:hidden}
+.seg button{font:inherit;font-size:.9rem;padding:8px 16px;background:transparent;color:var(--pfg);border:0;cursor:pointer;min-height:40px}
+.seg button[aria-pressed="true"]{background:var(--pacc);color:var(--pacc-ink)}
+.chips{display:flex;gap:8px;flex-wrap:wrap;padding:12px 18px;border-bottom:1px solid var(--pline)}
+.chip{font:inherit;font-size:.88rem;border:1px solid var(--pline);background:transparent;color:var(--pfg);border-radius:999px;padding:6px 12px;cursor:pointer;min-height:36px;display:inline-flex;gap:8px;align-items:center}
+.chip .n{font-family:"IBM Plex Mono",monospace;font-variant-numeric:tabular-nums;opacity:.75;font-size:.8rem}
+.chip[aria-pressed="true"]{border-color:var(--pacc);background:var(--pchip);color:var(--pfg)}
+.p-body{padding:18px;display:flex;flex-direction:column;gap:14px;min-width:0}
+.meta{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:.85rem;color:var(--pmuted)}
+.meta .no{font-family:"IBM Plex Mono",monospace;font-variant-numeric:tabular-nums}
+.badge{display:inline-flex;align-items:center;gap:6px;font-size:.78rem;padding:2px 10px;border-radius:999px;border:1px solid var(--pacc);color:var(--pacc)}
+.badge.warn{border-color:var(--pwarn);color:var(--pwarn)}
+.qtext{font-size:1.15rem;line-height:1.75;margin:0;max-width:62ch;text-wrap:pretty}
+.qtext.en{direction:ltr;text-align:left;font-family:var(--pfont-en)}
+.opts{display:flex;flex-direction:column;gap:8px}
+.opt{font:inherit;text-align:start;display:flex;gap:12px;align-items:flex-start;width:100%;padding:11px 14px;border-radius:10px;border:1px solid var(--pline);background:var(--popt);color:var(--pfg);cursor:pointer;min-height:48px;min-width:0}
+.opt .l{flex:none;width:28px;height:28px;border-radius:50%;border:1px solid var(--pmuted);display:grid;place-items:center;font-size:.8rem;color:var(--pmuted)}
+.opt .t{flex:1;min-width:0;overflow-wrap:anywhere}
+.opt.en .t{direction:ltr;text-align:left}
+.opt[aria-checked="true"]{border-color:var(--pacc);box-shadow:inset 0 0 0 1px var(--pacc)}
+.opt.right{border-color:var(--pgood);background:var(--pgood-bg)}
+.opt.right .l{background:var(--pgood);border-color:var(--pgood);color:var(--pgood-ink)}
+.opt.wrong{border-color:var(--pwarn);background:var(--pwarn-bg)}
+.opt.wrong .l{background:var(--pwarn);border-color:var(--pwarn);color:var(--pwarn-ink)}
+.reveal{border-top:1px dashed var(--pline);padding-top:12px;display:flex;flex-direction:column;gap:8px;font-size:.95rem}
+.reveal .note{margin:0;max-width:64ch}
+.reveal .refs{display:flex;flex-direction:column;gap:4px;font-size:.85rem}
+.reveal a{color:var(--pacc);overflow-wrap:anywhere}
+.tier{font-size:.78rem;color:var(--pmuted)}
+.foot{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;padding:12px 18px;border-top:1px solid var(--pline)}
+.btn{font:inherit;font-size:.92rem;border-radius:10px;border:1px solid var(--pacc);background:var(--pacc);color:var(--pacc-ink);padding:8px 18px;cursor:pointer;min-height:44px}
+.btn.ghost{background:transparent;color:var(--pfg);border-color:var(--pline)}
+.btn[disabled]{opacity:.45;cursor:default}
+.timer{font-family:"IBM Plex Mono",monospace;font-variant-numeric:tabular-nums;direction:ltr}
+.navrow{display:flex;gap:6px;flex-wrap:wrap}
+.nav-dot{font:inherit;font-size:.8rem;width:34px;height:34px;border-radius:8px;border:1px solid var(--pline);background:transparent;color:var(--pfg);cursor:pointer;font-family:"IBM Plex Mono",monospace}
+.nav-dot.done{background:var(--pchip);border-color:var(--pacc)}
+.nav-dot.cur{outline:2px solid var(--pacc);outline-offset:1px}
+.nav-dot.flag{border-style:dashed;border-color:var(--pwarn)}
+.result{display:flex;flex-direction:column;gap:12px}
+.score{font-size:2rem;font-family:"IBM Plex Mono",monospace;font-variant-numeric:tabular-nums;direction:ltr;text-align:start}
+.ritem{border:1px solid var(--pline);border-radius:10px;padding:10px 12px;font-size:.92rem;min-width:0}
+.ritem.ok{border-color:var(--pgood)}.ritem.no{border-color:var(--pwarn)}
+.cap{font-size:.8rem;color:var(--pmuted);text-align:center;padding:8px 18px 14px}
+.bar{height:6px;background:var(--pline);border-radius:99px;overflow:hidden}
+.bar>i{display:block;height:100%;background:var(--pacc);width:0}
+
+/* ---------- Option A: patient chart ---------- */
+.sk-a{--pbg:#F4F7F5;--pfg:#13302B;--pmuted:#55706A;--pline:#C9D8D3;--pacc:#0E7C70;--pacc-ink:#FFFFFF;--pchip:#DDEFEA;--popt:#FFFFFF;--pgood:#0E7C70;--pgood-bg:#E3F3EF;--pgood-ink:#fff;--pwarn:#B5391F;--pwarn-bg:#FBEAE4;--pwarn-ink:#fff;--pfont:"IBM Plex Sans Arabic",Tahoma,sans-serif;--pfont-en:"IBM Plex Sans Arabic",system-ui,sans-serif;
+  background-image:linear-gradient(var(--pline) 1px,transparent 1px);background-size:100% 32px;background-position:0 -1px;background-color:var(--pbg)}
+.sk-a .p-top{background:#13302B;color:#E8F4F0;border-bottom:0}
+.sk-a .seg{border-color:#3B5E57}.sk-a .seg button{color:#E8F4F0}.sk-a .seg button[aria-pressed="true"]{background:#5FD0BE;color:#0A2622}
+.sk-a .brand small{display:block;font-weight:400;font-size:.75rem;opacity:.75}
+.sk-a .chips,.sk-a .foot{background:rgba(244,247,245,.92)}
+.sk-a .p-body{background:rgba(244,247,245,.86)}
+.sk-a .qwrap{background:#fff;border:1px solid var(--pline);border-inline-start:6px solid var(--pacc);border-radius:6px;padding:16px}
+.sk-a .vitals{display:flex;gap:2px;align-items:flex-end;height:26px}
+.sk-a .vitals i{flex:1;background:var(--pline);border-radius:2px;height:30%}
+.sk-a .vitals i.on{background:var(--pacc);height:85%}
+.sk-a .vitals i.cur{background:var(--pwarn);height:100%}
+
+/* ---------- Option B: exam hall console (dark) ---------- */
+.sk-b{--pbg:#0C1220;--pfg:#E5EAF6;--pmuted:#93A0BD;--pline:#26324D;--pacc:#F2B23A;--pacc-ink:#1B1303;--pchip:#1A2540;--popt:#131C31;--pgood:#4BC98E;--pgood-bg:#12291F;--pgood-ink:#04150C;--pwarn:#FF7A66;--pwarn-bg:#2B1714;--pwarn-ink:#1C0805;--pfont:"Readex Pro","IBM Plex Sans Arabic",Tahoma,sans-serif;--pfont-en:"Readex Pro",system-ui,sans-serif}
+.sk-b .p-top{background:#101829}
+.sk-b .timer-big{font-size:1.9rem;color:var(--pacc);line-height:1}
+.sk-b .timer-big small{font-size:.75rem;color:var(--pmuted);display:block;font-family:var(--pfont);margin-bottom:2px}
+.sk-b .opt{border-radius:6px}
+.sk-b .opt .l{border-radius:6px;font-family:"IBM Plex Mono",monospace}
+.sk-b .nav-dot{border-radius:50%;width:32px;height:32px}
+.sk-b .qtext{font-weight:400}
+
+/* ---------- Option C: indigo paper ---------- */
+.sk-c{--pbg:#ECEEF7;--pfg:#1B2552;--pmuted:#5C6690;--pline:#C4C9E2;--pacc:#26327A;--pacc-ink:#FFFFFF;--pchip:#DCE0F2;--popt:#F8F9FD;--pgood:#1E7A5A;--pgood-bg:#E1F2EA;--pgood-ink:#fff;--pwarn:#A8382B;--pwarn-bg:#F8E7E3;--pwarn-ink:#fff;--pfont:"Readex Pro","IBM Plex Sans Arabic",Tahoma,sans-serif;--pfont-en:"Amiri",Georgia,serif}
+.sk-c .p-top{background:#26327A;color:#EEF0FB;border-bottom:0}
+.sk-c .brand{font-family:"Amiri",serif;font-size:1.4rem;font-weight:700}
+.sk-c .seg{border-color:#6873BE}.sk-c .seg button{color:#EEF0FB}.sk-c .seg button[aria-pressed="true"]{background:#EEF0FB;color:#26327A}
+.sk-c .card{background:#fff;border:1px solid var(--pline);border-radius:4px;padding:22px 20px;box-shadow:6px 6px 0 var(--pchip)}
+.sk-c .qtext{font-family:"Amiri",serif;font-size:1.45rem;line-height:1.9}
+.sk-c .qtext.en{font-family:"Amiri",Georgia,serif;font-size:1.3rem}
+.sk-c .opt{border-radius:2px;background:transparent;border:0;border-bottom:1px solid var(--pline);padding-inline:4px}
+.sk-c .opt .l{border:0;font-family:"Amiri",serif;font-size:1.1rem;color:var(--pacc);width:auto;height:auto}
+.sk-c .opt.right,.sk-c .opt.wrong{border:1px solid currentColor;border-radius:4px}
+.sk-c .opt.right{color:var(--pgood)}.sk-c .opt.wrong{color:var(--pwarn)}
+.sk-c .opt.right .t,.sk-c .opt.wrong .t{color:var(--pfg)}
+.sk-c .opt.right .l{background:transparent;color:var(--pgood)}.sk-c .opt.wrong .l{background:transparent;color:var(--pwarn)}
+.sk-c .seal{white-space:pre-line;width:64px;height:64px;border-radius:50%;border:2px solid var(--pgood);color:var(--pgood);display:grid;place-items:center;text-align:center;font-family:"Amiri",serif;font-size:.85rem;line-height:1.2;transform:rotate(-8deg)}
+.sk-c .seal.warn{border-color:var(--pwarn);color:var(--pwarn)}
+.sk-c .bar{height:3px;border-radius:0}
+.sk-c .nav-dot{border-radius:2px}
+@media (prefers-reduced-motion:no-preference){.opt{transition:border-color .15s,background-color .15s}}
+</style>
+
+<div class="page" dir="rtl" lang="ar">
+  <h1>بنك مزاولة المهنة: الورقة والنماذج</h1>
+  <p class="lead">الورقة أدناه تحدد ما سأبنيه وكيف نعرف أنه اكتمل. ثلاثة نماذج تفاعلية تعمل بأسئلة حقيقية من البنك. اختر واحدًا وراجع الورقة قبل أن أكتب سطرًا من الموقع.</p>
+  <div class="tabs" role="tablist" aria-label="أقسام الصفحة">
+    <button class="tab" role="tab" id="t-spec" aria-controls="p-spec" aria-selected="true">الورقة</button>
+    <button class="tab" role="tab" id="t-a" aria-controls="p-a" aria-selected="false">أ. سجل المريض</button>
+    <button class="tab" role="tab" id="t-b" aria-controls="p-b" aria-selected="false">ب. قاعة الاختبار</button>
+    <button class="tab" role="tab" id="t-c" aria-controls="p-c" aria-selected="false">ج. ورق نيلي</button>
+  </div>
+
+  <section id="p-spec" role="tabpanel" aria-labelledby="t-spec">
+    <div class="stats" aria-label="أرقام البنك">
+      <div class="stat"><b>1834</b><span>سؤالًا خامًا من 40 ملفًا</span></div>
+      <div class="stat"><b>781</b><span>سؤالًا في البنك بعد الدمج</span></div>
+      <div class="stat"><b>620</b><span>إجابة محقَّقة بمرجع</span></div>
+      <div class="stat"><b>161</b><span>غير مؤكدة (تظهر بعلامة)</span></div>
+      <div class="stat"><b>82</b><span>مستبعدة لأنها ناقصة أو مشوّهة</span></div>
+      <div class="stat"><b>35</b><span>إجابة المصدر فيها خطأ وصُحّحت</span></div>
+    </div>
+    <div class="grid2">
+      <div class="box"><h2>ما أريده بالضبط</h2><ul>
+        <li>موقع ثابت على GitHub Pages، عربي من اليمين لليسار، بلا حسابات ولا خادم.</li>
+        <li>أربعة أقسام: مساعد طبيب 313، تمريض 72، قبالة 111، أسنان 33.</li>
+        <li>وضع مراجعة: الإجابة تظهر فورًا مع الشرح والمراجع وعلامة «محقَّق» أو «غير مؤكد».</li>
+        <li>وضع اختبار: أسئلة عشوائية من القسم، مؤقّت، قفز بين الأسئلة، تعليم للمراجعة، ثم نتيجة تفصيلية.</li>
+        <li>حفظ آخر نتيجة وأسئلة الخطأ في متصفح الطالب فقط، دون إرسال أي بيانات.</li>
+        <li>سكربتات الدمج والتحقق تبقى في المستودع لإعادة التوليد عند تعديل أي إجابة.</li>
+      </ul></div>
+      <div class="box"><h2>ما لا أريده</h2><ul>
+        <li>لا حسابات ولا قاعدة بيانات ولا تتبّع ولا إعلانات.</li>
+        <li>لا احتساب لأسئلة «غير مؤكد» في درجة الاختبار.</li>
+        <li>لا شكل افتراضي جاهز للعناصر، ولا أسئلة مكرّرة في اختبار واحد.</li>
+        <li>لا إظهار سؤال مقطوع أو مشوّه على أنه سؤال سليم (الـ71 مستبعدة).</li>
+        <li>لا نشر علني لنص الملفات قبل قرارك في حقوق النشر.</li>
+      </ul></div>
+      <div class="box"><h2>كيف أعرف أنه اكتمل</h2><ul>
+        <li>اختبار آلي: كل سؤال محقَّق له فهرس إجابة صحيح ومرجع واحد على الأقل برابط https.</li>
+        <li>اختبار آلي: اختبار من 50 سؤالًا لا يكرر عائلة سؤال ولا يحوي «غير مؤكد».</li>
+        <li>لا تمرير أفقي عند 360 و768 و1280 بكسل، وتباين النص 4.5:1 أو أعلى.</li>
+        <li>كل الأزرار تعمل بلوحة المفاتيح، وعليها حلقة تركيز ظاهرة.</li>
+        <li>لا <code>innerHTML</code> بالبيانات، وسياسة CSP، ولا أسرار في المستودع.</li>
+        <li>GitHub Actions: lint وbuild واختبارات وفحص أمان لكل PR، ولا دمج قبل الخضرة.</li>
+        <li>اختبار انحدار قبل كل تعديل لاحق وبعده، وتقرير بما قد ينكسر.</li>
+      </ul></div>
+    </div>
+    <h2 style="margin-top:22px">حدود البيانات التي يجب أن تعرفها</h2>
+    <div class="tw"><table>
+      <tr><th>الموضوع</th><th>الواقع</th></tr>
+      <tr><td>إجابات المصدر</td><td>المصادر تعلّم الإجابة في نحو 55% من الأسئلة فقط. الباقي بلا أي إجابة، وجاءت إجاباتها من التحقق بالمراجع.</td></tr>
+      <tr><td>قوة المراجع</td><td>260 إجابة تستند إلى مرجع موثوق (NIH وCDC وWHO وAHA وNHS…). و157 تستند إلى مراجع عامة فقط (ويكيبيديا ومواقع تمريض تعليمية)، فسقفها «متوسطة». نفدت حصة البحث أثناء التحقق.</td></tr>
+      <tr><td>اختلاف المرجعيات</td><td>بعض الأسئلة تختلف إجابتها بحسب الجهة (مثل مدة غسل اليدين: CDC وWHO)، فبقيت «غير مؤكد» بدل أن أختار لك.</td></tr>
+      <tr><td>أسئلة ملتبسة</td><td>بعض الأسئلة فيها خيارات متطابقة أو خيار الإجابة غير موجود أصلًا. أعلّمها في الشرح ولا أغيّر نصّها.</td></tr>
+      <tr><td>الحروق</td><td>سؤالان في قاعدة التسعات عدّلتهما يدويًا بحساب موثّق (28%). التعديل مسجّل في <code>overrides.json</code> بسببه.</td></tr>
+    </table></div>
+    <div class="decide" style="margin-top:22px">
+      <h2>قرارات أحتاجها منك ولن أفترضها</h2>
+      <ul style="margin:0;padding-inline-start:20px">
+        <li>أي تصميم من الثلاثة؟ أو مزيج (مثل الألوان من أ والخريطة من ب).</li>
+        <li>مدة الاختبار وعدد أسئلته (النموذج يعرض 60 دقيقة و50 سؤالًا كمثال فقط).</li>
+        <li>هل يظهر «غير مؤكد» في المراجعة بعلامة (مقترحي)، أم يُخفى؟</li>
+        <li>النشر العلني: ملف «حيكان» عليه إشعار حقوق طبع. هل الموقع لك ولمجموعة محدودة، أم عام؟</li>
+        <li>اقتراح أمني أنتظر موافقتك عليه: استضافة الخطوط ذاتيًا بدل Google Fonts، حتى لا يُرسل الطالب أي طلب خارجي.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="p-a" role="tabpanel" aria-labelledby="t-a" hidden>
+    <div class="pick"><p>أ. سجل المريض: مظهر ورقة مخطط سريري، أخضر طبي، وشريط علامات حيوية للتقدّم. هادئ ومناسب لدراسة طويلة.</p></div>
+    <div class="panel sk-a" id="mk-a" data-skin="a"></div>
+  </section>
+  <section id="p-b" role="tabpanel" aria-labelledby="t-b" hidden>
+    <div class="pick"><p>ب. قاعة الاختبار: داكن بمؤقّت كبير وشبكة أرقام تشبه ورقة الإجابة. الأقرب لجو الاختبار الحقيقي.</p></div>
+    <div class="panel sk-b" id="mk-b" data-skin="b"></div>
+  </section>
+  <section id="p-c" role="tabpanel" aria-labelledby="t-c" hidden>
+    <div class="pick"><p>ج. ورق نيلي: لون النيلي اليمني وخط نسخ للسؤال وختم للتحقق. مظهر كتاب مرجعي.</p></div>
+    <div class="panel sk-c" id="mk-c" data-skin="c"></div>
+  </section>
+</div>
+
+<script>
+const SAMPLES = /*SAMPLES*/[];
+const SPEC = [["assistant","مساعد طبيب",313],["nursing","تمريض",72],["midwifery","قبالة",111],["dental","أسنان",33]];
+const LET = ["أ","ب","ج","د","هـ"];
+const EXAM_SECONDS = 3600;
+
+function h(tag, attrs, ...kids){
+  const e = document.createElement(tag);
+  for (const k in (attrs||{})){
+    const v = attrs[k];
+    if (v === false || v == null) continue;
+    if (k === "class") e.className = v;
+    else if (k.startsWith("on")) e.addEventListener(k.slice(2), v);
+    else e.setAttribute(k, v === true ? "" : v);
+  }
+  for (const c of kids.flat()){ if (c == null || c === false) continue; e.append(c.nodeType ? c : document.createTextNode(String(c))); }
+  return e;
+}
+const isEn = s => /[A-Za-z]/.test(s);
+const fmt = s => String(Math.floor(s/60)).padStart(2,"0")+":"+String(s%60).padStart(2,"0");
+
+function mount(root){
+  const skin = root.dataset.skin;
+  const S = { mode:"review", spec:"assistant", i:0, pick:{}, flag:{}, left:EXAM_SECONDS, done:false, timer:null };
+  const examSet = SAMPLES.filter(q => q.status === "verified");
+  const pool = () => S.mode === "exam" ? examSet : SAMPLES;
+  const cur = () => pool()[S.i % pool().length];
+
+  function setMode(m){
+    S.mode = m; S.i = 0; S.pick = {}; S.flag = {}; S.done = false; S.left = EXAM_SECONDS;
+    clearInterval(S.timer);
+    if (m === "exam") S.timer = setInterval(() => { if (S.left > 0 && !S.done && root.offsetParent) { S.left--; tick(); } }, 1000);
+    render();
+  }
+  function tick(){ const t = root.querySelector("[data-timer]"); if (t) t.textContent = fmt(S.left); }
+
+  function header(){
+    return h("div", {class:"p-top"},
+      skin === "b" && S.mode === "exam"
+        ? h("div", {class:"timer-big timer"}, h("small", null, "الزمن المتبقي"), h("span", {"data-timer":""}, fmt(S.left)))
+        : h("div", {class:"brand"}, skin === "c" ? "بنك المزاولة" : skin === "a" ? "بنك المزاولة" : "بنك المزاولة", skin === "a" ? h("small", null, "مراجعة واختبار تجريبي") : null),
+      h("div", {class:"seg", role:"group", "aria-label":"الوضع"},
+        h("button", {type:"button", "aria-pressed": S.mode==="review", onclick:()=>setMode("review")}, "مراجعة"),
+        h("button", {type:"button", "aria-pressed": S.mode==="exam", onclick:()=>setMode("exam")}, "اختبار")));
+  }
+  function chips(){
+    return h("div", {class:"chips", role:"group", "aria-label":"القسم"},
+      SPEC.map(([k,n,c]) => h("button", {type:"button", class:"chip", "aria-pressed": S.spec===k, onclick:()=>{S.spec=k; render();}}, n, h("span", {class:"n"}, c))));
+  }
+  function progress(){
+    const n = pool().length;
+    if (skin === "a") return h("div", {class:"vitals", "aria-hidden":"true"}, Array.from({length:Math.max(n,1)*4}, (_,k) => h("i", {class: k===S.i*4 ? "cur" : (k < S.i*4 ? "on" : "")})));
+    const b = h("div", {class:"bar", "aria-hidden":"true"}, h("i", {style:`width:${Math.round((S.i+1)/n*100)}%`}));
+    return b;
+  }
+  function options(q){
+    const answered = S.pick[q.id] != null;
+    const reveal = S.mode === "review" && answered;
+    return h("div", {class:"opts", role:"radiogroup", "aria-label":"الخيارات"},
+      q.options.map((o,k) => {
+        let cls = "opt" + (isEn(o) ? " en" : "");
+        if (reveal && k === q.answer) cls += " right";
+        else if (reveal && k === S.pick[q.id]) cls += " wrong";
+        return h("button", {type:"button", class:cls, role:"radio", "aria-checked": S.pick[q.id]===k, onclick:()=>{ if (S.done) return; if (S.mode==="review" && answered) return; S.pick[q.id]=k; render(); }},
+          h("span", {class:"l"}, q.type==="tf" ? (k===0?"ص":"خ") : LET[k]), h("span", {class:"t"}, o));
+      }));
+  }
+  function revealBox(q){
+    if (!(S.mode==="review" && S.pick[q.id]!=null)) return null;
+    const ok = S.pick[q.id] === q.answer, tent = q.status !== "verified";
+    return h("div", {class:"reveal", role:"status"},
+      h("strong", null, tent ? "إجابة مرجّحة وغير مؤكدة" : (ok ? "إجابتك صحيحة" : "الإجابة الصحيحة: " + (q.type==="tf" ? (q.answer===0?"صح":"خطأ") : LET[q.answer]))),
+      h("p", {class:"note"}, q.note_ar),
+      h("div", {class:"refs"}, q.refs.map(r => h("a", {href:r.url, target:"_blank", rel:"noopener noreferrer"}, r.title || r.url)),
+        h("span", {class:"tier"}, q.ref_tier==="strong" ? "مرجع موثوق" : q.ref_tier==="general" ? "مرجع عام فقط" : "لا مرجع")),
+      h("span", {class:"tier"}, "المصدر: " + q.sources.join("، ")));
+  }
+  function qblock(q){
+    const tent = q.status !== "verified";
+    const badge = h("span", {class:"badge" + (tent?" warn":"")}, tent ? "غير مؤكد" : (q.confidence==="high" ? "محقَّق · ثقة عالية" : "محقَّق · ثقة متوسطة"));
+    const n = pool().length;
+    const meta = h("div", {class:"meta"}, h("span", {class:"no"}, `${S.i+1} / ${S.mode==="exam" ? 50 : n}`), S.mode==="review" ? badge : null,
+      S.mode==="exam" ? h("button", {type:"button", class:"btn ghost", style:"min-height:32px;padding:2px 12px;font-size:.8rem", onclick:()=>{S.flag[q.id]=!S.flag[q.id]; render();}}, S.flag[q.id] ? "إلغاء التعليم" : "علّم للمراجعة") : null);
+    const qt = h("p", {class:"qtext" + (isEn(q.q) ? " en" : "")}, q.q);
+    const core = [meta, qt, options(q), revealBox(q)];
+    if (skin === "a") return h("div", {class:"qwrap", style:"display:flex;flex-direction:column;gap:14px"}, core);
+    if (skin === "c") {
+      const seal = S.mode==="review" && S.pick[q.id]!=null ? h("div", {class:"seal" + (tent?" warn":""), "aria-hidden":"true"}, tent ? "غير\nمؤكد" : "محقَّق") : null;
+      return h("div", {class:"card", style:"display:flex;flex-direction:column;gap:14px"}, seal ? h("div", {style:"display:flex;justify-content:space-between;align-items:center;gap:10px"}, meta, seal) : meta, qt, options(q), revealBox(q));
+    }
+    return h("div", {style:"display:flex;flex-direction:column;gap:14px"}, core);
+  }
+  function navigator(){
+    if (S.mode !== "exam") return null;
+    return h("div", {class:"navrow", role:"group", "aria-label":"الانتقال بين الأسئلة"}, examSet.map((q,k) =>
+      h("button", {type:"button", class:"nav-dot" + (S.pick[q.id]!=null?" done":"") + (k===S.i?" cur":"") + (S.flag[q.id]?" flag":""), "aria-label":"السؤال " + (k+1), onclick:()=>{S.i=k; render();}}, k+1)));
+  }
+  function result(){
+    const total = examSet.length; let ok = 0;
+    examSet.forEach(q => { if (S.pick[q.id] === q.answer) ok++; });
+    return h("div", {class:"p-body result"},
+      h("div", {class:"meta"}, "نتيجة الاختبار التجريبي"),
+      h("div", {class:"score"}, `${ok} / ${total}`),
+      h("p", {style:"margin:0"}, `${Math.round(ok/total*100)}%. الأسئلة غير المؤكدة لا تدخل الدرجة.`),
+      examSet.map((q,k) => { const good = S.pick[q.id]===q.answer; return h("div", {class:"ritem " + (good?"ok":"no")},
+        h("strong", null, `${k+1}. ` + (good ? "صحيح" : (S.pick[q.id]==null ? "لم تُجب" : "خطأ"))), h("div", {class:(isEn(q.q)?"en":""), style:isEn(q.q)?"direction:ltr;text-align:left":""}, q.q),
+        good ? null : h("div", {class:"tier"}, "الصحيح: " + q.options[q.answer] + " — " + q.note_ar.slice(0,110) + "…")); }),
+      h("button", {type:"button", class:"btn", onclick:()=>setMode("exam")}, "اختبار جديد"));
+  }
+  function render(){
+    const q = cur();
+    root.replaceChildren();
+    root.append(header(), chips());
+    if (S.mode === "exam" && S.done) { root.append(result(), h("p", {class:"cap"}, "معاينة. الموقع الفعلي يختار 50 سؤالًا عشوائيًا من القسم.")); return; }
+    root.append(h("div", {class:"p-body"}, skin==="b" ? null : progress(), qblock(q), navigator()));
+    const n = pool().length;
+    root.append(h("div", {class:"foot"},
+      h("button", {type:"button", class:"btn ghost", disabled:S.i===0, onclick:()=>{S.i--; render();}}, "السابق"),
+      S.mode==="exam" ? h("span", {class:"timer", "data-timer":"", style:skin==="b"?"display:none":""}, fmt(S.left)) : h("span", {class:"tier"}, "القسم: " + SPEC.find(s=>s[0]===S.spec)[1]),
+      S.mode==="exam" && S.i===n-1
+        ? h("button", {type:"button", class:"btn", onclick:()=>{S.done=true; clearInterval(S.timer); render();}}, "إنهاء وعرض النتيجة")
+        : h("button", {type:"button", class:"btn", disabled:S.i>=n-1, onclick:()=>{S.i++; render();}}, "التالي")));
+    root.append(h("p", {class:"cap"}, S.mode==="review" ? "معاينة بأسئلة حقيقية من البنك. اختر إجابة لترى الشرح والمراجع." : "معاينة الاختبار: المؤقّت يعمل، وأسئلة «غير مؤكد» مستبعدة من الاختبار."));
+  }
+  render();
+}
+document.querySelectorAll(".panel").forEach(mount);
+
+const tabs = [...document.querySelectorAll(".tab")];
+function show(id){
+  tabs.forEach(t => { const on = t.id === id; t.setAttribute("aria-selected", on); document.getElementById(t.getAttribute("aria-controls")).hidden = !on; });
+  try { history.replaceState(null, "", "#" + id.slice(2)); } catch(e) {}
+}
+tabs.forEach(t => t.addEventListener("click", () => show(t.id)));
+tabs.forEach((t,k) => t.addEventListener("keydown", e => {
+  if (e.key === "ArrowLeft" || e.key === "ArrowRight") { const d = e.key === "ArrowLeft" ? 1 : -1; const n = tabs[(k+d+tabs.length)%tabs.length]; n.focus(); show(n.id); }
+}));
+const hash = (location.hash || "").slice(1);
+if (["spec","a","b","c"].includes(hash)) show("t-" + hash);
+</script>

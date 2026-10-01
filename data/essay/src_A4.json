@@ -1,0 +1,414 @@
+[
+ {
+  "spec": "assistant",
+  "topic": 10,
+  "q": "اذكر أهم أعمال التمريض في مرحلة ما قبل الجراحة (preoperative nursing care) مع بيان سبب الصيام قبل التخدير (NPO) ومن الذي يوقّع الموافقة المستنيرة (informed consent) قبل الجراحة.",
+  "model": "تشمل فترة ما حول الجراحة (perioperative period) المراحل الثلاث: قبل الجراحة وأثناءها وبعدها. في مرحلة ما قبل الجراحة تقيس الممرضة العلامات الحيوية (vital signs) كلها، وتزيل المجوهرات والأطراف الصناعية ودبابيس الشعر، وتتأكد من الموافقة المستنيرة (informed consent)؛ فالبالغ ذو الأهلية يوقّعها بنفسه، ويوقّعها الوالد أو الولي عن القاصر أو فاقد الأهلية. ويُمنع المريض من الطعام والشراب (NPO) قبل التخدير لمنع القيء واستنشاق محتويات المعدة (aspiration) أثناء التخدير. كما يُقدَّم له الدعم النفسي لتخفيف قلقه. أما مراقبة موضع الشق الجراحي فتتم بعد الجراحة لأنه لا يوجد شق قبلها.",
+  "points": [
+   "فترة ما حول الجراحة (perioperative) تشمل المراحل الثلاث معًا: قبل الجراحة وأثناءها وبعدها.",
+   "الصيام (NPO) قبل التخدير غرضه منع القيء واستنشاق محتويات المعدة (aspiration) أثناء التخدير.",
+   "من تحضير ما قبل الجراحة: إزالة المجوهرات والأطراف الصناعية ودبابيس الشعر وقياس العلامات الحيوية كلها.",
+   "مراقبة موضع الشق الجراحي (incisional site) ليست من أعمال ما قبل الجراحة بل من عناية ما بعدها.",
+   "الدعم النفسي للمريض وتخفيف قلقه ضروري قبل الجراحة.",
+   "الموافقة المستنيرة (informed consent): يوقّعها البالغ (18 سنة فأكثر) ذو الأهلية بنفسه، وتُطلب موافقة الوالد أو الولي للقاصر أو فاقد الأهلية."
+  ],
+  "refs": [
+   {
+    "title": "2.3 Preoperative Nursing Care (WTCS Open Pressbooks)",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/2-3-preoperative-nursing-care/"
+   },
+   {
+    "title": "Pulmonary aspiration - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pulmonary_aspiration"
+   },
+   {
+    "title": "Wikipedia - Perioperative (preoperative, intraoperative and postoperative phases)",
+    "url": "https://en.wikipedia.org/wiki/Perioperative"
+   },
+   {
+    "title": "StatPearls (NCBI Bookshelf) NBK430827 - Informed Consent",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK430827/"
+   },
+   {
+    "title": "Preoperative care - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Preoperative_care"
+   }
+  ],
+  "from": [
+   "Q0044",
+   "Q0114",
+   "Q0174",
+   "Q0398",
+   "Q0399"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 10,
+  "q": "مريض أُجريت له عملية جراحية ويُقيَّم في غرفة الإفاقة (PACU): ما معايير جاهزيته للخروج، وما أشيع المضاعفات التي تراقبها، وكيف تفرّق بين العلامات الموضعية والجهازية لعدوى الجرح؟",
+  "model": "يُعدّ المريض جاهزًا للخروج من غرفة الإفاقة إذا ثبتت علاماته الحيوية (vital signs) وكان متوجهًا للشخص والمكان والزمان، وكان تشبّع الأكسجين في مقياس النبض (pulse oximeter) كافيًا؛ أما إدرار بول بمقدار 10 مل/ساعة فقليل (oliguria) ولا يدل على الجاهزية. وتراقب الممرضة المضاعفات الشائعة بعد الجراحة وهي النزف (hemorrhage) وعدوى الجرح (wound infection) والألم (pain)، ولا يُذكر التهاب اللوزتين بينها. وتفرّق بين العلامات الموضعية لعدوى الجرح (تورم وحرارة وألم واحمرار) والعلامات الجهازية وهي ارتفاع الحرارة وزيادة النبض وارتفاع كريات الدم البيضاء (leukocytosis). ومراقبة موضع الشق الجراحي من عناية ما بعد الجراحة.",
+  "points": [
+   "معايير الخروج من غرفة الإفاقة: ثبات العلامات الحيوية (stable vital signs) والتوجه للشخص والمكان والزمان وكفاية تشبّع الأكسجين في مقياس النبض.",
+   "إدرار البول 10 مل/ساعة قليل (oliguria) ولا يُعدّ معيار جاهزية للخروج، ومقياس ألدريت (Aldrete score) لا يتضمن البول.",
+   "من مضاعفات ما بعد الجراحة الشائعة: النزف (hemorrhage) وعدوى الجرح (wound infection) والألم (pain)، إضافة إلى الغثيان والقيء واحتباس البول وانخماص الرئة (atelectasis) والخثار الوريدي العميق (DVT)؛ أما التهاب اللوزتين (tonsillitis) فليس من مضاعفات ما بعد الجراحة الشائعة.",
+   "العلامات الجهازية لعدوى الجرح: ارتفاع الحرارة وزيادة النبض (increased pulse and temperature) وارتفاع كريات الدم البيضاء (leukocytosis).",
+   "العلامات الموضعية لعدوى الجرح هي التورم والحرارة والألم والاحمرار (swelling, warmth, tenderness, redness) وليست علامات جهازية.",
+   "مراقبة موضع الشق الجراحي (incisional site) جزء من عناية ما بعد الجراحة."
+  ],
+  "refs": [
+   {
+    "title": "Aldrete score - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Aldrete_score"
+   },
+   {
+    "title": "Oliguria (Archived) - StatPearls - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK560738/"
+   },
+   {
+    "title": "Common Postoperative Complications - Patient.info (professional)",
+    "url": "https://patient.info/doctor/general-surgery/common-postoperative-complications-pro"
+   },
+   {
+    "title": "StatPearls: Postoperative Wound Infections (systemic signs: fever, leukocytosis)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560533/"
+   },
+   {
+    "title": "StatPearls: Systemic Inflammatory Response Syndrome (temperature, heart rate >90, WBC criteria)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK547669/"
+   }
+  ],
+  "from": [
+   "Q0048",
+   "Q0111",
+   "Q0061",
+   "Q0114"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 10,
+  "q": "اشرح أساسيات العناية بالجرح: أغراض الضمادة (dressing)، أنواع نضح الجرح (wound exudate)، أي المغذيات الكبرى (البروتين أم الدهون أم الكربوهيدرات) يؤثر أكثر في التئام الجرح الجراحي، وتصنيف الجروح إلى متعمدة وغير متعمدة.",
+  "model": "تُستخدم الضمادة (dressing) لامتصاص الإفرازات وحماية الجرح من التلوث بالجراثيم، وللضغط لإيقاف النزف. وتُصنَّف إفرازات الجرح (exudate) إلى مصلية (serous) ومصلية دموية (serosanguineous) ودموية (sanguineous) وقيحية (purulent)، ولا يوجد نوع يُسمّى نضحًا استقلابيًا (metabolic exudate). ويتأثر التئام الجرح الجراحي أكثر ما يتأثر بتناول البروتين (protein) لأنه مادة بناء الكولاجين والنسيج ونقصه يعطّل الالتئام، أما الدهون والكربوهيدرات فدورها طاقي أساسًا. ومن جهة التصنيف، الجرح المتعمَّد ينتج عن علاج أو إجراء كالشق الجراحي، أما غير المتعمَّد فينتج عن رضّ مفاجئ كالحوادث والحروق.",
+  "points": [
+   "أغراض الضمادة: امتصاص الإفرازات وحماية الجرح من التلوث الجرثومي، وتُستعمل أيضًا للضغط لإيقاف النزف.",
+   "أنواع نضح الجرح المعتمدة: مصلي (serous) ومصلي دموي (serosanguineous) ودموي (sanguineous/hemorrhagic) وقيحي (purulent).",
+   "«النضح الاستقلابي» (metabolic exudate) ليس نوعًا معروفًا من نضح الجرح.",
+   "البروتين (protein) هو المغذّي الأهم لالتئام الجرح الجراحي، ونقصه يعطّل الالتئام لدوره في بناء الكولاجين والنسيج.",
+   "الدهون والكربوهيدرات دورها طاقي أساسًا، فليست أشد المغذيات تأثيرًا في الالتئام.",
+   "الجرح المتعمَّد (intentional) ينتج عن علاج أو إجراء علاجي مثل الشق الجراحي، وغير المتعمَّد ينتج عن رضّ مفاجئ كالحوادث والحروق."
+  ],
+  "refs": [
+   {
+    "title": "OpenStax Clinical Nursing Skills 8.3: Wound Management (LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/08%3A_Wound_and_Burn_Assessment_and_Care/8.03%3A_Wound_Management"
+   },
+   {
+    "title": "Nutrition, Anabolism, and the Wound Healing Process: An Overview (PMC)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2642618/"
+   },
+   {
+    "title": "StatPearls: Impaired Wound Healing (proteins are the key building blocks)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK482254/"
+   },
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Wound Assessment",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482198/"
+   },
+   {
+    "title": "OpenStax Fundamentals of Nursing - 24.3 Wound Classification",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/24-3-wound-classification"
+   }
+  ],
+  "from": [
+   "Q0040",
+   "Q0058",
+   "Q0645",
+   "Q0402"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 11,
+  "q": "اشرح أطوار الدورة الشهرية (menstrual cycle) ودور الهرمونات FSH وLH والبروجسترون، ومتى تحدث الإباضة ومتى يكون الانغراز مناسبًا، وماذا يعني غياب الدورة الشهرية (amenorrhea)؟",
+  "model": "تبدأ الدورة الشهرية (menstrual cycle) بالطور الجريبي (follicular phase) حيث ينبّه الهرمون المنبّه للجريب (FSH) نضج الجريبات ومن ثم نمو البويضة، ويرتفع الإستروجين فتتكاثر بطانة الرحم. وتحدث الإباضة (ovulation) أي إطلاق البويضة الناضجة عند نهاية هذا الطور بعد ذروة الهرمون الملوتن (LH)، وعادةً قبل الدورة التالية بنحو 12 إلى 16 يومًا، وليس دائمًا في المنتصف. بعدها يبدأ الطور الإفرازي الأصفري (secretory/luteal phase) وفيه يحفّز البروجسترون (progesterone) نضج بطانة الرحم، فهو الطور المثالي لانغراز البويضة المخصبة. وإن لم يحدث إخصاب انخفضت الهرمونات وتساقطت البطانة (حيض). وغياب الدورة يُسمّى انقطاع الطمث (amenorrhea).",
+  "points": [
+   "FSH ينبّه نضج الجريبات ونمو البويضة في الطور الجريبي (follicular phase)، أما LH فيثير الإباضة والبروجسترون يهيّئ بطانة الرحم.",
+   "الإباضة (ovulation) هي إطلاق البويضة الناضجة، وتحدث عند نهاية الطور الجريبي وقبيل الطور الأصفري بعد ذروة LH.",
+   "تحدث الإباضة عادةً قبل بدء الدورة التالية بنحو 12 إلى 16 يومًا، و«منتصف الدورة» تقدير صحيح تقريبًا لدورة 28 يومًا فقط.",
+   "الطور الإفرازي (secretory/luteal phase) هو الأنسب للانغراز لأن البروجسترون ينضّج بطانة الرحم لاستقبال البويضة المخصبة.",
+   "عند عدم حدوث إخصاب ينخفض الإستروجين والبروجسترون فتتساقط البطانة وهو الحيض (menstruation).",
+   "غياب الدورة الشهرية (amenorrhea) يعني عدم حدوث الطمث، وليس ألم الحيض ولا غزارته."
+  ],
+  "refs": [
+   {
+    "title": "StatPearls: Physiology, Menstrual Cycle (FSH stimulates primordial follicles to mature)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK500020/"
+   },
+   {
+    "title": "Clearblue - What is ovulation (ovulation typically occurs 12 to 16 days before your next period)",
+    "url": "https://www.clearblue.com/ovulation/what-is-ovulation"
+   },
+   {
+    "title": "Johns Hopkins Medicine - Calculating your monthly fertility window (ovulation about 12-14 days before next cycle)",
+    "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/calculating-your-monthly-fertility-window"
+   },
+   {
+    "title": "MedlinePlus Medical Encyclopedia - Absent menstrual periods - secondary",
+    "url": "https://medlineplus.gov/ency/article/001219.htm"
+   }
+  ],
+  "from": [
+   "Q0066",
+   "Q0067",
+   "Q0189",
+   "Q0206",
+   "Q0190"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 11,
+  "q": "حامل في الثلث الأخير شُخّصت بما قبل الارتعاج (preeclampsia) وبدأ إعطاؤها كبريتات المغنيسيوم (MgSO4). متى يظهر هذا الاضطراب وما سماته، وماذا تراقب الممرضة وما الإجراء عند ظهور التسمم؟",
+  "model": "يظهر ارتفاع الضغط الحملي وما قبل الارتعاج (preeclampsia) بعد الأسبوع 20 من الحمل وعادةً قرب الولادة، وليس في الثلث الأول. من سماته ارتفاع ضغط الدم (hypertension) ووجود بروتين في البول (proteinuria) وتورّم، وقد يصاحبها صداع واضطراب رؤية، أما النزف المهبلي فليس من أعراضه ويرتبط مثلًا بانفصال المشيمة. يُعطى كبريتات المغنيسيوم (MgSO4) للوقاية من التشنجات، وبعد ساعات من إعطائه تراقب الممرضة علامات فرط المغنيسيوم (hypermagnesemia) وهي فقدان المنعكسات الوترية (كمنعكس الرضفة) وتثبيط التنفس وقلة البول. وعند ظهورها يُوقف الإعطاء ويُعطى كالسيوم غلوكونات (calcium gluconate) ترياقًا.",
+  "points": [
+   "ارتفاع الضغط الحملي وما قبل الارتعاج يظهر بعد الأسبوع 20 من الحمل وعادةً قرب الولادة، وليس في الثلث الأول.",
+   "من سمات ما قبل الارتعاج: ارتفاع ضغط الدم وبروتين في البول (proteinuria) وتورّم، وقد يصاحبها صداع واضطراب رؤية.",
+   "النزف المهبلي ليس من أعراض ما قبل الارتعاج بل يرتبط مثلًا بانفصال المشيمة.",
+   "يُستخدم كبريتات المغنيسيوم (MgSO4) للوقاية من التشنجات في ما قبل الارتعاج والارتعاج.",
+   "بعد ساعات من MgSO4 تُراقب علامات فرط المغنيسيوم (hypermagnesemia): فقدان المنعكسات الوترية (كمنعكس الرضفة) وتثبيط التنفس، وتُراقب كمية البول أيضًا لأن قلتها تعني ضعف الإطراح الكلوي وتزيد خطر تراكم المغنيسيوم.",
+   "عند ظهور علامات فرط المغنيسيوم يُوقف الإعطاء ويُعطى كالسيوم غلوكونات (calcium gluconate) ترياقًا."
+  ],
+  "refs": [
+   {
+    "title": "AAFP: Gestational Hypertension and Preeclampsia - ACOG Practice Bulletin (presents after 20 weeks' gestation)",
+    "url": "https://www.aafp.org/pubs/afp/issues/2019/1115/p649.html"
+   },
+   {
+    "title": "NHS - Pre-eclampsia: Symptoms",
+    "url": "https://www.nhs.uk/conditions/pre-eclampsia/symptoms/"
+   },
+   {
+    "title": "StatPearls: Magnesium Toxicity (loss of patellar reflexes, respiratory depression)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK554593/"
+   },
+   {
+    "title": "StatPearls: Magnesium Sulfate (hypermagnesemia signs; monitor reflexes and urine output)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK554553/"
+   }
+  ],
+  "from": [
+   "Q0070",
+   "Q0200",
+   "Q0071"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 11,
+  "q": "قارن بين المشيمة المنزاحة (placenta previa) والانفكاك المشيمي (placental abruption)، ثم اذكر السبب الأشيع لنزف ما بعد الولادة (PPH) والسائل الوريدي المناسب عند حدوث صدمة.",
+  "model": "المشيمة المنزاحة (placenta previa) هي انغراز المشيمة فوق الفوهة الداخلية لعنق الرحم أو قربها، أي في القطعة السفلية جزئيًا أو كليًا، وتظهر بنزف مهبلي مفاجئ بلا ألم مع رحم رخو، ويُمنع فيها الفحص المهبلي الإصبعي. أما الانفكاك المشيمي (placental abruption) فهو انفصال مبكر لمشيمة طبيعية الانغراز قبل اكتمال المرحلة الثانية من الولادة، ويتميز بألم شديد ورحم قاسٍ كالخشب وقد يكون النزف مخفيًا. وأشيع سبب لنزف ما بعد الولادة (PPH) هو ارتخاء الرحم (uterine atony)، وعند حدوث صدمة يُعوَّض الحجم بمحلول ملحي متساوي التوتر (crystalloid) لا بمحلول الجلوكوز.",
+  "points": [
+   "المشيمة المنزاحة (previa): انغراز المشيمة فوق الفوهة الداخلية لعنق الرحم أو قربها (القطعة السفلية) جزئيًا أو كليًا، والنزف فيها مفاجئ بلا ألم والرحم رخو.",
+   "يُمنع الفحص المهبلي الإصبعي عند الاشتباه بالمنزاحة لخطر النزف الشديد، ويُشخَّص بالموجات فوق الصوتية عبر المهبل.",
+   "الانفكاك المشيمي (abruption): انفصال مبكر لمشيمة طبيعية الانغراز قبل اكتمال المرحلة الثانية من الولادة، وليس الالتصاق المرضي (accreta/percreta).",
+   "يتميز الانفكاك بألم حاد ورحم قاسٍ كالخشب، وقد يكون النزف مخفيًا.",
+   "أشيع أسباب نزف ما بعد الولادة ارتخاء الرحم (uterine atony) بنحو 70 إلى 80%، أما احتباس المشيمة والتمزقات فأقل شيوعًا.",
+   "عند نزف ما بعد الولادة مع صدمة يُعوَّض الحجم بالمحاليل البلورية متساوية التوتر (محلول الملح/رنجر لاكتات)، ولا تصلح محاليل الجلوكوز لذلك."
+  ],
+  "refs": [
+   {
+    "title": "StatPearls - Placental Abruption (early separation of the placenta before completion of second stage of labor)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482335/"
+   },
+   {
+    "title": "MSD Manual Professional - Placenta Previa (implantation of the placenta over or near the internal os)",
+    "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/antenatal-complications/placenta-previa"
+   },
+   {
+    "title": "StatPearls - Postpartum Hemorrhage (uterine atony ~70% of PPH; 4 T's)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK499988/?page=3"
+   },
+   {
+    "title": "Postpartum Hemorrhage - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK499988/"
+   }
+  ],
+  "from": [
+   "Q0209",
+   "Q0212",
+   "Q0211",
+   "Q0325"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 11,
+  "q": "اشرح أساسيات رعاية الوليد في الحضانة: آليات فقد الحرارة وطرق الوقاية منها، ومتابعة اليرقان بالعلاج الضوئي (phototherapy)، وقياس محيط الرأس، وأهمية حليب الأم.",
+  "model": "يفقد الوليد الحرارة بالتبخر (evaporation) والتوصيل (conduction) والحمل (convection) والإشعاع (radiation)، ويزيد استعداده لذلك قلة الدهن البني وكبر نسبة سطح الجسم إلى الوزن، فتجفّفه الممرضة بقماش دافئ بعد الولادة وتدفّئ الأسطح وتضعه على جلد أمه. وفي اليرقان (jaundice) يحوّل العلاج الضوئي البيليروبين إلى لوميروبين يُطرح بالبول والصفراء، ويُستدل على فعاليته بانخفاض بيليروبين المصل، لا بنسبة الأكسجين ولا بتعداد الدم. ويُقاس محيط الرأس بشريط مرن يُلفّ حول الرأس فوق الحاجبين وعلى أبرز نقطة في القفا (occiput). ويحمي حليب الأم الرضيع من العدوى لاحتوائه أجسامًا مضادة.",
+  "points": [
+   "آليات فقد الحرارة عند الوليد: التبخر والتوصيل والحمل والإشعاع (evaporation, conduction, convection, radiation).",
+   "من الوقاية من فقد الحرارة: تجفيف الوليد بقماش دافئ بعد الولادة وتدفئة الأسطح وتلامس الجلد بالجلد (skin-to-skin) مع الأم.",
+   "العلاج الضوئي (phototherapy) يحوّل البيليروبين إلى لوميروبين قابل للطرح بالبول والصفراء.",
+   "تُعرف فعالية العلاج الضوئي بانخفاض بيليروبين المصل (serum bilirubin)، لا بنسبة الأكسجين ولا بتعداد خلايا الدم أو الصفيحات.",
+   "يُقاس محيط الرأس بشريط مرن حول الرأس فوق الحاجبين من الأمام وعلى أبرز نقطة في القفا (occiput) من الخلف.",
+   "حليب الأم يحمي الرضيع من العدوى لاحتوائه على أجسام مضادة (antibodies)."
+  ],
+  "refs": [
+   {
+    "title": "OpenStax Maternal-Newborn Nursing 22.3 - Neutral Thermal Environment (evaporation, conduction, convection, radiation)",
+    "url": "https://openstax.org/books/maternal-newborn-nursing/pages/22-3-neutral-thermal-environment"
+   },
+   {
+    "title": "StatPearls: Neonatal Jaundice (phototherapy converts bilirubin to lumirubin; TSB monitoring)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK532930/"
+   },
+   {
+    "title": "StatPearls: Macrocephaly (tape just above the eyebrows and over the most prominent portion of the occiput)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560786/"
+   },
+   {
+    "title": "NHS - Benefits of breastfeeding (breast milk protects your baby from infections)",
+    "url": "https://www.nhs.uk/conditions/baby/breastfeeding-and-bottle-feeding/breastfeeding/benefits/"
+   }
+  ],
+  "from": [
+   "Q0208",
+   "Q0077",
+   "Q0079",
+   "Q0192",
+   "Q0205"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 12,
+  "q": "اشرح إدخال الأنبوب الأنفي المعدي (nasogastric tube): تعريفه، وكيفية قياس طوله، ووضع المريض، وماذا تفعل الممرضة عند مقاومة، وكيف يُتأكد من موضعه، وما أخطر مضاعفات الإدخال الخاطئ.",
+  "model": "التنبيب الأنفي المعدي (nasogastric intubation) هو إدخال أنبوب عبر الأنف والبلعوم والمريء إلى المعدة. يُقاس طول الأنبوب تقليديًا من الأنف إلى شحمة الأذن ثم إلى الناتئ الخنجري (xiphoid process)، مع التنبيه إلى أن دقة هذه الطريقة محدودة بحسب مراجعة حديثة. يُجلس المريض إن أمكن أو يُوضع على جنبه الأيسر أثناء الإدخال. وإذا واجهت الممرضة مقاومة فلا تدفع الأنبوب بالقوة بل تسحبه قليلًا ثم تعيد توجيهه وتحاول ثانية. ويجب التأكد من موضع الأنبوب قبل استعماله، والتصوير الشعاعي هو الطريقة المفضلة، ومن أخطر أخطاء الإدخال دخوله الشعب الهوائية مما قد يسبب التهابًا رئويًا استنشاقيًا (aspiration pneumonia).",
+  "points": [
+   "التنبيب الأنفي المعدي (nasogastric intubation) هو إدخال أنبوب عبر الأنف والبلعوم والمريء إلى المعدة.",
+   "يُقاس طول الأنبوب تقليديًا من الأنف إلى شحمة الأذن إلى الناتئ الخنجري (xiphoid process)، مع أن دقة هذه الطريقة محدودة بحسب مراجعة حديثة.",
+   "أثناء الإدخال يُجلس المريض إن أمكن أو يُوضع على جنبه الأيسر (left lateral).",
+   "عند مقاومة أثناء الإدخال لا يُدفع الأنبوب بالقوة؛ يُسحب قليلًا ويُعاد توجيهه ثم تُكرَّر المحاولة.",
+   "يجب التأكد من موضع الأنبوب قبل استعماله، والتصوير الشعاعي (x-ray) هو الطريقة المفضلة، أما سماع فقاعة الهواء بالسماعة فقليل القيمة.",
+   "من أخطر مضاعفات الإدخال الخاطئ دخول الأنبوب إلى الشعب الهوائية مما قد يسبب التهابًا رئويًا استنشاقيًا (aspiration pneumonia)."
+  ],
+  "refs": [
+   {
+    "title": "Nasogastric Tube Insertion - StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK556063/"
+   },
+   {
+    "title": "Nasogastric tube insertion length measurement and tip verification in adults: a narrative review - Critical Care",
+    "url": "https://link.springer.com/article/10.1186/s13054-023-04611-6"
+   },
+   {
+    "title": "Medscape - Nasogastric Intubation: Technique",
+    "url": "https://emedicine.medscape.com/article/80925-technique"
+   }
+  ],
+  "from": [
+   "Q0164",
+   "Q0168",
+   "Q0348"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 12,
+  "q": "قارن بين أوضاع المريض (patient positions) وأمثلة استخدامها: الحصاة (lithotomy)، المنبطح (prone)، فاولر (Fowler's)، الجلوس عند البزل الصدري، والاستلقاء الظهري بعد البزل القطني.",
+  "model": "وضع الحصاة (lithotomy) هو الاستلقاء على الظهر مع رفع الساقين على حوامل معدنية (stirrups)، والوضع المنبطح (prone) هو الاستلقاء على الوجه، بخلاف الوضع الظهري (supine) على الظهر، أما وضع سيمز (Sims) فجانبي ووضع الركبتين والصدر (knee-chest) يرتكز على الركبتين والصدر. وفي ضيق التنفس يُرفع رأس السرير إلى وضع فاولر (Fowler's) ليتسع الصدر، ولا يُستعمل ترندلنبرغ (Trendelenburg) لذلك. وعند البزل الصدري (thoracentesis) يجلس المريض منتصبًا مائلًا قليلًا للأمام مع إسناد ذراعيه على طاولة السرير لتتسع المسافات بين الأضلاع. وبعد البزل القطني (lumbar puncture) يستلقي المريض على ظهره ويستريح، فالوضع الجانبي وضع أثناء الإجراء لا بعده.",
+  "points": [
+   "وضع الحصاة (lithotomy): استلقاء على الظهر مع رفع الساقين على حوامل معدنية (stirrups).",
+   "الوضع المنبطح (prone) هو الاستلقاء على الوجه، بخلاف الوضع الظهري (supine) على الظهر.",
+   "وضع سيمز (Sims) وضع جانبي، ووضع الركبتين والصدر (knee-chest) يرتكز فيه المريض على ركبتيه وصدره.",
+   "في ضيق التنفس يُرفع رأس السرير إلى وضع فاولر (Fowler's) لزيادة تمدد الصدر، ولا يُستعمل ترندلنبرغ (Trendelenburg) لتسهيل التنفس.",
+   "عند البزل الصدري (thoracentesis) يجلس المريض منتصبًا مائلًا قليلًا للأمام مع إسناد ذراعيه على طاولة السرير لتوسيع المسافات بين الأضلاع.",
+   "بعد البزل القطني (lumbar puncture) يستلقي المريض على ظهره (supine) ويستريح، والوضع الجانبي هو وضع أثناء الإجراء لا بعده."
+  ],
+  "refs": [
+   {
+    "title": "Lithotomy position - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lithotomy_position"
+   },
+   {
+    "title": "Wikipedia - Prone position",
+    "url": "https://en.wikipedia.org/wiki/Prone_position"
+   },
+   {
+    "title": "Wikipedia - Fowler's position",
+    "url": "https://en.wikipedia.org/wiki/Fowler%27s_position"
+   },
+   {
+    "title": "How To Do Thoracentesis - Merck Manual Professional Edition",
+    "url": "https://www.merckmanuals.com/professional/pulmonary-disorders/how-to-do-pulmonary-procedures/how-to-do-thoracentesis"
+   },
+   {
+    "title": "Thoracentesis - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK441866/"
+   },
+   {
+    "title": "NHS - Lumbar puncture",
+    "url": "https://www.nhs.uk/conditions/lumbar-puncture/"
+   }
+  ],
+  "from": [
+   "Q0140",
+   "Q0196",
+   "Q0672",
+   "Q0101",
+   "Q0644"
+  ],
+  "fetched": []
+ },
+ {
+  "spec": "assistant",
+  "topic": 12,
+  "q": "مريض طريح الفراش فاقد الوعي: اذكر آثار عدم الحركة (immobility)، وما يُخشى على جلده وعينيه، وما الإجراءات التمريضية الوقائية؟",
+  "model": "يسبب عدم الحركة (immobility) تيبّس المفاصل وألمها، وركود الإفرازات التنفسية، وانخفاض الضغط الانتصابي (orthostatic hypotension)، وانخفاض معدل الاستقلاب لا ارتفاعه. وفي الجلد يقلّ وصول الأكسجين والمغذيات فتنشأ قرحة الضغط (pressure ulcer) وتسمى أيضًا قرحة الفراش (decubitus ulcer)، ويظهر فيها التفقع (blister) في المرحلة الثانية، بينما تعني المرحلة الرابعة فقدانًا كاملًا للسماكة مع إمكان انكشاف العضلة أو العظم. وللوقاية يُساعَد المريض على تغيير وضعه ويبقى جلده نظيفًا وجافًا وتُستعمل أسطح داعمة ويُغذّى بالبروتين الكافي. وفي المريض فاقد الوعي لا يستطيع الرمش فيجف سطح القرنية وتتقرّح وقد تلتهب بالجراثيم، لذلك تُرطَّب العينان بالدموع الاصطناعية والمراهم.",
+  "points": [
+   "من آثار عدم الحركة: تيبّس وألم المفاصل، وركود الإفرازات التنفسية، وانخفاض الضغط الانتصابي (orthostatic hypotension)، وانخفاض (لا ارتفاع) معدل الاستقلاب.",
+   "في الجلد يقلّ وصول الأكسجين والمغذيات مع الإقفار النسيجي مما يؤدي إلى تحطم الجلد وإصابات الضغط (pressure injuries).",
+   "قرحة الضغط تُسمّى أيضًا قرحة الفراش (decubitus ulcer/bedsore).",
+   "التفقع (blister) يظهر في المرحلة الثانية من قرحة الضغط لا الرابعة؛ والمرحلة الرابعة فقدان كامل السماكة مع إمكان ظهور العضلة أو العظم.",
+   "الوقاية من قرحة الضغط: مساعدة المريض العاجز على تغيير وضعه، وإبقاء الجلد نظيفًا وجافًا، واستعمال أسطح داعمة، وتغذية كافية بالبروتين.",
+   "عدم القدرة على الرمش يعرّض القرنية للجفاف والتقرّح والتهاب القرنية الجرثومي (microbial keratitis)، ويُخفَّف ذلك بالدموع الاصطناعية والمراهم."
+  ],
+  "refs": [
+   {
+    "title": "Table 13.2a Effects of Immobility on Body Systems - Nursing Fundamentals (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK591828/table/ch13mobility.T.effects_of_immobility_on/"
+   },
+   {
+    "title": "Complications of immobilization and bed rest. Part 2: Other complications (Teasell & Dittmer, PMC)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2379609"
+   },
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Pressure Ulcer",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK553107/"
+   },
+   {
+    "title": "NPIAP - Pressure Injury Stages",
+    "url": "https://cdn.ymaws.com/npiap.com/resource/resmgr/online_store/npiap_pressure_injury_stages.pdf"
+   },
+   {
+    "title": "StatPearls: Lagophthalmos (exposure keratopathy, corneal ulceration, microbial keratitis)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560661/"
+   }
+  ],
+  "from": [
+   "Q0307",
+   "Q0064",
+   "Q0675",
+   "Q0665"
+  ],
+  "fetched": []
+ }
+]

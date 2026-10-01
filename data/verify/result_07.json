@@ -1,0 +1,721 @@
+[
+ {
+  "id": "Q0301",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الصياغة مشوّهة («palates» تعني غالباً platelets = الصفائح الدموية)، والخيار «Definition of clot» يُرجَّح أنه «Formation of clot»؛ وظيفة الصفائح تكوين السدادة/الجلطة لإيقاف النزف، وهو الخيار الوحيد المنسجم مع ذلك، لكن تشوّه النص يمنع الجزم.",
+  "refs": [
+   {
+    "title": "Physiology, Platelet - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK470328/"
+   }
+  ]
+ },
+ {
+  "id": "Q0302",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الإسهال المائي الشبيه بماء الأرز هو العَرَض المميّز للكوليرا (Vibrio cholerae).",
+  "refs": [
+   {
+    "title": "CDC - Signs and Symptoms of Cholera",
+    "url": "https://www.cdc.gov/cholera/signs-symptoms/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0303",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "التفاعل التحسسي (فرط الحساسية النمط الأول) تتوسطه الغلوبولين المناعي IgE؛ ولا يوجد IgE بين الخيارات، و«IgC» غير موجود أصلاً ويُرجَّح أنه خطأ نسخ لـ IgE، فالإجابة المحتملة هي الخيار 3 بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Type I Hypersensitivity Reaction - StatPearls",
+    "url": "https://www.statpearls.com/point-of-care/30712"
+   }
+  ]
+ },
+ {
+  "id": "Q0304",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال مشوّه وغير مكتمل المعنى («الـ immunization Vaccination يُعتبر أياً من التالي») ولا يمكن تحديد المطلوب؛ كل الخيارات لقاحات.",
+  "refs": []
+ },
+ {
+  "id": "Q0305",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "في الحماض الكيتوني السكري العلاج الجوهري بعد السوائل الوريدية هو الإنسولين العادي الوريدي؛ البوتاسيوم يُعطى بعد التأكد من مستواه (يُؤجَّل إن كان >5.5)، والبيكربونات غير موصى بها روتينياً، وغلوكونات الكالسيوم لفرط البوتاسيوم. (السوائل أولاً لكنها ليست بين الخيارات).",
+  "refs": [
+   {
+    "title": "JBDS: The Management of Diabetic Ketoacidosis in Adults (March 2023)",
+    "url": "https://abcd.care/sites/default/files/site_uploads/JBDS_Guidelines_Current/JBDS_02_DKA_Guideline_with_QR_code_March_2023.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0306",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الصياغة مشوّهة («saft») ولا يوجد معيار واضح: الواقي الذكري يمنع الحمل ويحمي من العدوى المنقولة جنسياً، والحبوب أكثر فعالية بالاستخدام المعتاد؛ كلاهما يمنع الحمل فلا إجابة واحدة قابلة للدفاع.",
+  "refs": []
+ },
+ {
+  "id": "Q0307",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخمول/عدم الحركة يؤدي إلى نقص (لا زيادة) معدل الاستقلاب؛ أما تيبّس المفاصل وركود الإفرازات التنفسية وانخفاض الضغط الانتصابي فهي من آثاره. الاستثناء هو الخيار 2.",
+  "refs": [
+   {
+    "title": "Nursing Fundamentals I - 5.02 The Effects of Immobility",
+    "url": "https://brooksidepress.org/nursing_fundamentals_1/?page_id=430"
+   }
+  ]
+ },
+ {
+  "id": "Q0308",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "اليرقان (اصفرار الصلبة والجلد) من العلامات المميزة لالتهاب الكبد الفيروسي؛ البراز القطراني يدل على نزف هضمي علوي لا التهاب كبد. السؤال مبتور لكن الخيار 2 هو الأنسب. (تُجاهلت علامة الفاحص اليدوية).",
+  "refs": [
+   {
+    "title": "WHO - Hepatitis A fact sheet",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-a"
+   }
+  ]
+ },
+ {
+  "id": "Q0309",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال مبتور («of a …») وترتيب فحص البطن القياسي: المشاهدة ثم الإصغاء (auscultation) ثم القرع ثم الجس؛ فالتقنية الثانية هي الإصغاء وهي غير موجودة بين الخيارات (بينما الترتيب العام للأعضاء الأخرى يجعل الجس ثانياً) فلا إجابة قابلة للدفاع.",
+  "refs": [
+   {
+    "title": "Lecturio - Abdominal Assessment (order of techniques)",
+    "url": "https://www.lecturio.com/nursing/free-cheat-sheet/abdominal-assessment-order-tips/"
+   },
+   {
+    "title": "IPPA (physical examination) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/IPPA"
+   }
+  ]
+ },
+ {
+  "id": "Q0310",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الأيزونيازيد (INH) هو الدواء الكلاسيكي السام للكبد بين الخيارات (مع ريفامبين وبيرازيناميد)؛ الستربتومايسين ليس سامّاً للكبد، أما PAS والإيثامبيوتول فقد وُصفت لهما سُمّية كبدية نادرة لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Antituberculosis Agents - LiverTox (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK548763/"
+   },
+   {
+    "title": "Antitubercular Medications - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK557666/"
+   }
+  ]
+ },
+ {
+  "id": "Q0311",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "السؤال مبتور والخيار «??» غير مقروء و«post intake meal» مشوّه؛ (المعروف أن مريض الارتجاع يبقى منتصباً 1–2 ساعة بعد الوجبة) لكن لا يمكن مطابقته مع خيار سليم.",
+  "refs": []
+ },
+ {
+  "id": "Q0312",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الجملة تنسب لـ«الراحة» تعريف «النوم» (حالة تغيّر الوعي مع قلة النشاط)؛ الراحة هي حالة نشاط منخفض بلا ضغط جسدي/انفعالي، فالعبارة خاطئة. النص مبتور في آخره والمصدر تعليمي ضعيف نسبياً.",
+  "refs": [
+   {
+    "title": "Rest and Sleep - Nursing Awareness",
+    "url": "https://www.nursingawareness.com/message.php?id=254"
+   }
+  ]
+ },
+ {
+  "id": "Q0313",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الوحدة (loneliness) شعور ذاتي بالعزلة/اختلال بين العلاقات المرغوبة والفعلية، أي تحدث عند عدم القدرة على التواصل مع الأهل والأصدقاء لا عند القدرة عليه؛ فالعبارة خاطئة.",
+  "refs": [
+   {
+    "title": "Social Isolation and Loneliness Definitions and Measures - NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK537897/"
+   }
+  ]
+ },
+ {
+  "id": "Q0314",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "المغادرة ضد النصيحة الطبية (AMA) تعني أن المريض يغادر قبل أن يوصي الفريق الطبي بخروجه، لا بعد أن يأذن الطبيب بالخروج؛ فالعبارة خاطئة.",
+  "refs": [
+   {
+    "title": "AAFP - The Challenges of Discharge Against Medical Advice",
+    "url": "https://www.aafp.org/pubs/afp/issues/2023/0800/curbside-discharge-against-medical-advice.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0315",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "انتهاك المساحة الشخصية يثير انزعاجاً وقلقاً واستجابة توتر (تنشيط اللوزة والجهاز السمبثاوي)؛ والعبارة صحيحة (المصدر عام غير تمريضي لذا الثقة متوسطة).",
+  "refs": [
+   {
+    "title": "ScienceInsights - What happens when someone gets too close to your personal space",
+    "url": "https://scienceinsights.org/what-happens-when-someone-gets-too-close-to-your-personal-space/"
+   }
+  ]
+ },
+ {
+  "id": "Q0316",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة بلا سياق كافٍ (المقصود غالباً فاقد الوعي أثناء/بعد التخدير المطوّل) ولم أجد مرجعاً يحسمها؛ لا إجابة قابلة للدفاع بدون نص الكتاب الأصلي.",
+  "refs": []
+ },
+ {
+  "id": "Q0317",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة مبتورة عند «detect li…»: المسح الثانوي (head-to-toe) يهدف لكشف الإصابات الأقل إلحاحاً/المغفَلة بعد تثبيت المسح الأولي، بينما المهدِّدة للحياة تُكشف في المسح الأولي؛ وتحديد الصح/الخطأ يتوقف على الكلمة المحذوفة.",
+  "refs": [
+   {
+    "title": "Trauma Assessment - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK555913/"
+   },
+   {
+    "title": "Australia Wide First Aid - Secondary Survey (glossary)",
+    "url": "https://www.australiawidefirstaid.com.au/resources/glossary/secondary-survey"
+   }
+  ]
+ },
+ {
+  "id": "Q0318",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "وضعية الإفاقة تُبقي مجرى الهواء مفتوحاً وتسمح بتصريف القيء عند فاقد الوعي المتنفس؛ فالعبارة صحيحة.",
+  "refs": [
+   {
+    "title": "St John Ambulance - Recovery position",
+    "url": "https://www.sja.org.uk/first-aid-advice/recovery-position/"
+   }
+  ]
+ },
+ {
+  "id": "Q0319",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "المقطوع «pa…» يُقصد به الجس (palpation) وهو الفحص باللمس باليدين والأصابع؛ العبارة صحيحة مع افتراض إكمال الكلمة.",
+  "refs": [
+   {
+    "title": "Stethoscope.com - The 4 Techniques of Physical Assessment",
+    "url": "https://www.stethoscope.com/blog/what-are-the-4-techniques-of-physical-assessment/"
+   },
+   {
+    "title": "IPPA (physical examination) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/IPPA"
+   }
+  ]
+ },
+ {
+  "id": "Q0320",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "بعد جمع بيانات التقييم عند القبول تضع الممرضة خطة الرعاية الأولية في أقرب وقت (مرحلة التخطيط تلي التقييم والتشخيص في العملية التمريضية)؛ المرجع لا ينص على عبارة «أقرب وقت» حرفياً.",
+  "refs": [
+   {
+    "title": "Nursing Process - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK499937/"
+   }
+  ]
+ },
+ {
+  "id": "Q0321",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "النوم يتألف من دورات تتدرج من النوم الخفيف (N1–N2) إلى العميق (N3) ثم REM؛ العبارة صحيحة بافتراض أن المقطوع «light to deep».",
+  "refs": [
+   {
+    "title": "Physiology, Sleep Stages - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK526132/"
+   }
+  ]
+ },
+ {
+  "id": "Q0322",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "علم الأدوية (Pharmacology) هو دراسة تفاعل الأدوية وتأثيرها في الكائنات الحية؛ العبارة صحيحة (النهاية مبتورة «orga…» = organisms).",
+  "refs": [
+   {
+    "title": "Britannica - Pharmacology",
+    "url": "https://www.britannica.com/science/pharmacology"
+   }
+  ]
+ },
+ {
+  "id": "Q0323",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الوصف المذكور (استخدام اللمس لجمع المعلومات) هو تعريف الجس palpation، أما القرع percussion فهو النقر على سطح الجسم لإحداث أصوات؛ فالعبارة خاطئة. (تُجاهلت علامة الفاحص اليدوية).",
+  "refs": [
+   {
+    "title": "Stethoscope.com - The 4 Techniques of Physical Assessment",
+    "url": "https://www.stethoscope.com/blog/what-are-the-4-techniques-of-physical-assessment/"
+   },
+   {
+    "title": "IPPA (physical examination) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/IPPA"
+   }
+  ]
+ },
+ {
+  "id": "Q0324",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الباراسومنيا اضطرابات نوم تنتج عن تنشيط غير مناسب لأجهزة الجسم في أوقات غير ملائمة من دورة النوم-اليقظة (أحداث غير مرغوبة عند الدخول في النوم أو أثناءه أو عند الاستيقاظ)؛ العبارة صحيحة. (تُجاهلت علامة الفاحص اليدوية).",
+  "refs": [
+   {
+    "title": "Diagnosis and Management of NREM Sleep Parasomnias in Children and Adults (Diagnostics 2023)",
+    "url": "https://www.mdpi.com/2075-4418/13/7/1261"
+   },
+   {
+    "title": "Parasomnias: A Review for Psychiatrists (FOCUS)",
+    "url": "https://psychiatryonline.org/doi/full/10.1176/appi.focus.12.1.16"
+   }
+  ]
+ },
+ {
+  "id": "Q0325",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "في نزف ما بعد الولادة مع الصدمة يُعوَّض الحجم بالمحاليل البلّورية متساوية التوتر (محلول الملح/رنجر لاكتات)، ولا تصلح محاليل الجلوكوز/الملحي-السكري لتعويض الحجم.",
+  "refs": [
+   {
+    "title": "Postpartum Hemorrhage - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK499988/"
+   }
+  ]
+ },
+ {
+  "id": "Q0326",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "لقاح الحصبة (MMR) حيّ مضعَّف ومحظور أثناء الحمل، بينما الكزاز (Tdap) والإنفلونزا الموسمية الميتة يُوصى بهما؛ أحد الخيارات («الكتف») غير مقروء (ربما «الكبد» أي لقاح التهاب الكبد B وهو مسموح) فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "CDC - Vaccination guidelines for pregnant persons",
+    "url": "https://www.cdc.gov/vaccines-pregnancy/hcp/vaccination-guidelines/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0327",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "كل من البوتاسيوم والكالسيوم والصوديوم والمغنيسيوم يؤثر في نشاط عضلة القلب الكهربائي/الانقباضي، ولا يوجد خيار وحيد قابل للدفاع (الأكثر شيوعاً في البنوك: البوتاسيوم) والنص غير مقروء جزئياً.",
+  "refs": []
+ },
+ {
+  "id": "Q0328",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "حبوب البروجستين وحده (POP) لا تحتوي إستروجين ولا تؤثر في الرضاعة فهي الخيار المفضّل للمرضعات؛ وتُتجنَّب عند سرطان الثدي الحالي وأورام/تشمّع الكبد الحاد. (صفحة US MEC 2024 جُلبت لكن المقتطف لم يُظهر جدول التصنيفات، فالثقة متوسطة).",
+  "refs": [
+   {
+    "title": "CDC MMWR - U.S. Medical Eligibility Criteria for Contraceptive Use, 2024",
+    "url": "https://www.cdc.gov/mmwr/volumes/73/rr/rr7304a1.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0329",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال مشوّه (كلمة ناقصة قبل «بالسكر» وجملة غير مكتملة) ولا يمكن معرفة المطلوب من فحص CBC.",
+  "refs": []
+ },
+ {
+  "id": "Q0330",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخيار 3 غير مقروء («??») ويُرجَّح أنه 30 ضغطة ونفسين وهو النسبة الحالية لمسعف واحد (AHA/ERC/RCUK)؛ أما الخيار 2 (15:2) فهو نسبة الإرشادات القديمة (قبل 2005) فلا يمكن الحسم بين اتباع الإرشادات القديمة أو الحالية.",
+  "refs": [
+   {
+    "title": "St John Ambulance - CPR (adult)",
+    "url": "https://www.sja.org.uk/first-aid-advice/cpr/"
+   },
+   {
+    "title": "Resuscitation Council UK - Adult basic life support guidelines 2021",
+    "url": "https://www.resus.org.uk/library/2021-resuscitation-guidelines/adult-basic-life-support-guidelines"
+   }
+  ]
+ },
+ {
+  "id": "Q0331",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "احتياطات العدوى الهوائية للسل تتطلب من العاملين الصحيين لبس واقٍ تنفسي (N95 وليس كمامة جراحية عادية) عند دخول الغرفة مع معايير الوقاية القياسية (قفازات/رداء)؛ الخيار 3 هو الأقرب بين خيارات مشوّهة وغير منطقية.",
+  "refs": [
+   {
+    "title": "CDC - TB infection control in healthcare settings",
+    "url": "https://www.cdc.gov/tb-healthcare-settings/hcp/infection-control/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0332",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الرد العلاجي التواصلي الصادق وغير الاتهامي: توضيح أن المقاس 25G صغير (كلما زاد رقم الغيج صغر قطر الإبرة) مع عرض فحص الذراع؛ باقي الخيارات تلوم المريضة أو تقلّل من شكواها. الخيارات مشوّهة جزئياً.",
+  "refs": [
+   {
+    "title": "Therapeutic Communication - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK567775/"
+   }
+  ]
+ },
+ {
+  "id": "Q0333",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الالتواء إصابة أربطة تظهر بألم وورم وكدمة وصعوبة الحركة/تحميل الوزن؛ أما خروج العظم من المفصل فهو خلع (تشوّه ظاهر) لا التواء، فهو الاستثناء.",
+  "refs": [
+   {
+    "title": "NHS - Sprains and strains",
+    "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+   },
+   {
+    "title": "Sprain - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sprain"
+   },
+   {
+    "title": "Joint dislocation - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Joint_dislocation"
+   }
+  ]
+ },
+ {
+  "id": "Q0334",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "نزف قرحة الاثنى عشر العلوي يظهر كبراز أسود قطراني (ميلينا)؛ الدم الأحمر الفاتح يدل على نزف سفلي. الخيار 1 مشوّه جزئياً («ورقيق») لكنه الأقرب، والخيار 0 عام وغير نمطي.",
+  "refs": [
+   {
+    "title": "Mayo Clinic - Peptic ulcer symptoms and causes",
+    "url": "https://www.mayoclinic.org/diseases-conditions/peptic-ulcer/symptoms-causes/syc-20354223"
+   },
+   {
+    "title": "Melena - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Melena"
+   }
+  ]
+ },
+ {
+  "id": "Q0335",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العلاج الأساسي لقرحة الفراش الخفيفة هو تخفيف الضغط بتغيير الوضعية (NHS/NICE) وهو أقرب لخيار الجانب الأيمن (مع أنه ينبغي التبديل بين الجانبين)؛ بقية الخيارات (الجفاف، الضماد المبلل، السعرات) داعمة لا رئيسية، والنص مشوّه فالثقة منخفضة.",
+  "refs": [
+   {
+    "title": "NHS - Pressure ulcers",
+    "url": "https://www.nhs.uk/conditions/pressure-sores/"
+   },
+   {
+    "title": "NICE CG179 - Pressure ulcers: prevention and management (Recommendations)",
+    "url": "https://www.nice.org.uk/guidance/cg179/chapter/Recommendations"
+   }
+  ]
+ },
+ {
+  "id": "Q0336",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "المصطلح «Schiroph…» يُرجَّح أنه schizophrenia أي الفصام؛ الخيارات الأخرى (الهوس، الوسواس القهري، الاكتئاب) لا تطابق المصطلح. النص مشوّه جزئياً.",
+  "refs": [
+   {
+    "title": "NIMH - Schizophrenia",
+    "url": "https://www.nimh.nih.gov/health/topics/schizophrenia"
+   }
+  ]
+ },
+ {
+  "id": "Q0337",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "كلمة أساسية في السؤال غير مقروءة («الامتصاص من الزوائد؟») فلا يُعرف الامتصاص من أي موضع أو عن أي مادة؛ لا إجابة قابلة للدفاع.",
+  "refs": []
+ },
+ {
+  "id": "Q0338",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "فتح مجرى الهواء عند فاقد الوعي يكون بإمالة الرأس للخلف ورفع الذقن (مع دفع الفك بدل ذلك إن شُبه بإصابة عنق)؛ سحب اللسان غير مناسب، والإنعاش القلبي الرئوي ليس طريقة لفتح المجرى.",
+  "refs": [
+   {
+    "title": "St John Ambulance - CPR (adult)",
+    "url": "https://www.sja.org.uk/first-aid-advice/cpr/"
+   }
+  ]
+ },
+ {
+  "id": "Q0339",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "عند تعذّر التفريق بين الالتواء والخلع والكسر (لا يُفرَّق بينها دون أشعة) يُعامَل الطرف كأنه مكسور: تثبيت وعدم تحريك وطلب التقييم الطبي؛ المراجع لا تنص حرفياً على القاعدة لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "British Red Cross - Broken bone",
+    "url": "https://www.redcross.org.uk/first-aid/learn-first-aid/broken-bone"
+   },
+   {
+    "title": "Mayo Clinic - First aid: Fractures",
+    "url": "https://www.mayoclinic.org/first-aid/first-aid-fractures/basics/art-20056641"
+   },
+   {
+    "title": "MedlinePlus - Broken bone (fracture)",
+    "url": "https://medlineplus.gov/ency/article/000001.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0340",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "لم أجد مرجعاً موثوقاً يحدد موقع وقوف الممرضتين عند تغيير شرشف سرير المريض (صدر/كتف/حوض/ركبة)؛ لا إجابة قابلة للإثبات.",
+  "refs": []
+ },
+ {
+  "id": "Q0341",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "السل ينتقل عبر الهواء باستنشاق الرذاذ/نوى القطيرات من مريض السل الرئوي؛ «sputum of blood» خاطئ. الخياران 2 و3 مبتوران لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "CDC - About Tuberculosis",
+    "url": "https://www.cdc.gov/tb/about/index.html"
+   },
+   {
+    "title": "WHO - Tuberculosis fact sheet",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis"
+   }
+  ]
+ },
+ {
+  "id": "Q0342",
+  "verdict": "corrected",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": false,
+  "note_ar": "الانفعال والقلق والتململ من علامات الصدمة (shock) المبكرة، فليس هو الاستثناء؛ أما التنفس في الصدمة فسريع وسطحي (shallow) لا عميق، فالخيار 1 هو الاستثناء المقصود. تصحيح علامة المصدر.",
+  "refs": [
+   {
+    "title": "MedlinePlus - Shock",
+    "url": "https://medlineplus.gov/ency/article/000039.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0343",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخيار 3 مبتور («...») فلا يمكن الحكم على الاستثناء؛ علامة المصدر (نزف غير مسيطَر عليه) تتسق مع التعليم الإسعافي بأن النزف الوريدي داكن ويُسيطَر عليه عادةً بالضغط المباشر، لكن لم أحصل على مرجع يثبت ذلك.",
+  "refs": []
+ },
+ {
+  "id": "Q0344",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الأمينوفيللين موسّع قصبي (ملح للثيوفيللين) يُعطى في الربو الحاد لإرخاء العضلات الملساء القصبية وتخفيف التشنج القصبي.",
+  "refs": [
+   {
+    "title": "Aminophylline - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Aminophylline"
+   },
+   {
+    "title": "MedlinePlus - Theophylline",
+    "url": "https://medlineplus.gov/druginfo/meds/a681006.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0345",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "إساءة استخدام المواد هي استعمال مادة (مؤثرة نفسياً) بكميات/طرق ضارة تقود غالباً إلى الإدمان؛ الخيار 2 («المادة التي يدمنها الشخص») هو الأقرب رغم ركاكة الصياغة، والآخران (تغيّرات الشيخوخة، مادة سامة) خاطئان.",
+  "refs": [
+   {
+    "title": "Substance abuse / misuse - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Substance_abuse"
+   }
+  ]
+ },
+ {
+  "id": "Q0346",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "الناقل المزمن هو المستودع نفسه ولا يمكن عملياً القضاء عليه بتدخل تمريضي، فالمنطقي سدّ مخرج العامل المعدي (النظافة، الحواجز، العزل) وهو ما يتفق مع علامة المصدر، لكن المرجع المسترجَع يصف سلسلة العدوى عموماً ولا ينص على هذه الحالة.",
+  "refs": [
+   {
+    "title": "CDC Principles of Epidemiology - Chain of infection (archive)",
+    "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section10.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0347",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "نقص فيتامين د عند الأطفال يسبب الكساح (Rickets)؛ التهاب المعدة والاسقربوط (فيتامين C) وجفاف القرنية اللين (فيتامين A) أمراض أخرى.",
+  "refs": [
+   {
+    "title": "NHS - Rickets and osteomalacia",
+    "url": "https://www.nhs.uk/conditions/rickets-and-osteomalacia/"
+   }
+  ]
+ },
+ {
+  "id": "Q0348",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "عند مقاومة أثناء إدخال الأنبوب الأنفي المعدي لا يُدفَع بالقوة؛ يُسحب قليلاً ويُعاد توجيهه/تدويره ثم تُكرَّر المحاولة (Medscape: عند مقاومة كبيرة يُوقَف التقدّم ويُسحب الأنبوب ويُعاد التوجيه). الاستمرار في الدفع خاطئ.",
+  "refs": [
+   {
+    "title": "Medscape - Nasogastric Intubation: Technique",
+    "url": "https://emedicine.medscape.com/article/80925-technique"
+   }
+  ]
+ },
+ {
+  "id": "Q0349",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "أمر «Stat» (من statim = فوراً) هو أمر يُنفَّذ فوراً ولمرة واحدة، بخلاف الأمر الفردي المجدول والأمر عند اللزوم (PRN). المراجع المسترجَعة تثبت «فوراً» فقط وعبارة «مرة واحدة» من المنهج التمريضي المعتاد.",
+  "refs": [
+   {
+    "title": "Merriam-Webster Medical - stat",
+    "url": "https://www.merriam-webster.com/medical/stat"
+   },
+   {
+    "title": "List of abbreviations used in medical prescriptions - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_abbreviations_used_in_medical_prescriptions"
+   }
+  ]
+ },
+ {
+  "id": "Q0350",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "ضيق النفس الانتصابي (orthopnea) هو صعوبة التنفس عند الاستلقاء المسطّح التي تخف بالجلوس/الوضع المنتصب؛ بقية الخيارات: انقطاع النفس، عسر التنفس العام، وتسرّع التنفس.",
+  "refs": [
+   {
+    "title": "Orthopnea - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Orthopnea"
+   }
+  ]
+ }
+]

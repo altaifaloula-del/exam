@@ -1,0 +1,914 @@
+[
+ {
+  "id": "Q0001",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Type of examination to know the movement of air in bronchioles:",
+  "q_ar": "ماهو نوع الاجراء عند معرفة حركة الهواء في القصيبات الهوائية",
+  "options": [
+   "Auscultion",
+   "Palpation",
+   "inspection",
+   "percussion"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Auscultion",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0002",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Among the factors that affect the heart patients:",
+  "q_ar": "من العوامل التي تؤثر على مرضى القلب",
+  "options": [
+   "Obesity",
+   "blood pressure",
+   "all mentioned"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "all mentioned",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0003",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Type of wound and the instrument that that cause wound as knife?",
+  "q_ar": "نوع الجرح الذي يسببه السكين",
+  "options": [
+   "punctuation wound",
+   "rupture wound",
+   "Fissure wound",
+   "non all above"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "Fissure wound",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0004",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following blood tests must be performed before a blood transfusion?",
+  "q_ar": "أي من الفحوصات الاتية يجب عملها قبل نقل الدم",
+  "options": [
+   "prothrombin and coagulation time",
+   "Blood typing and cross matching",
+   "Bleeding and clotting time",
+   "Complete blood count (CBC) and electrolyte levels."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Blood typing and cross matching",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0005",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When you want to withdraw a sample of the spinal cord, it is called (L.P-Lumper puncture) what will the patient's position be?",
+  "q_ar": "عندما نريد سحب عينة من النخاع الشوكي يكون وضعية المريض",
+  "options": [
+   "high flowers position",
+   "supin position",
+   "semi sitting position",
+   "prone position"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "prone position",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0006",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "the first intervention in pancture wound is:",
+  "q_ar": "التدخل الاولي في الجروح الثاقبة",
+  "options": [
+   "cleaning",
+   "stop bleeding",
+   "remove the instrucment",
+   "give antitetanus"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "cleaning",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0007",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "PT before surgery don't have food or drink for 10 hours then you measured temp body and result 37,7C that mean:",
+  "q_ar": "قبل العملية لم يتناول المريض طعام اوشراب لمدة 10 ساعات ثم قمت بقياس درجة حرارة الجسم وكانت النتيجة 37.7 هذا يعني ان",
+  "options": [
+   "Infection",
+   "Dehydration",
+   "hyperthermia",
+   "anexity"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "anexity",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0008",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "PT with burn at hospital the will have the bacterial infection from: (first cause)",
+  "q_ar": "مريض في المستشفى عنده حرق حصل له عدوى بكترية ما السبب الاولي في ذالك",
+  "options": [
+   "his family",
+   "intestinal",
+   "hospital care",
+   "entertainment"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "hospital care",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0009",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Which of the following is hormone released from Langerhans in pancreas?",
+  "q_ar": "أي مما يلي هو هرمون يفرز من النجرهانز في البنكرياس؟",
+  "options": [
+   "estrogen",
+   "progesterone",
+   "insulin",
+   "all above"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "insulin",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0010",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "about CPR chose the correct answer:",
+  "q_ar": "اختار الإجابة الصحيحة حول الإنعاش",
+  "options": [
+   "two breaths and 15 compression",
+   "one breaths and 15 compression",
+   "two breaths and 5 compression",
+   "one breaths and 15 compression"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "one breaths and 15 compression",
+  "source_status": "single",
+  "flags": [
+   "duplicate_options"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0011",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "the chamber the receive oxygenated blood that is coming from the lung is:",
+  "q_ar": "الحجرة التي يتلقى فيها الدم المؤكسج القادم من الرئة هي",
+  "options": [
+   "left atrium",
+   "right atrium",
+   "left vertical",
+   "right vertical"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "left atrium",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0012",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "the diagnostic test for parasite infection in the intestine is:",
+  "q_ar": "الاختبار التشخيصي لعدوى الطفيليات في الأمعاء هو:",
+  "options": [
+   "U/S",
+   "x_ray",
+   "stool analysis",
+   "MRI"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "stool analysis",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0013",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "for liver and gall bladder abscess you case see it by:",
+  "q_ar": "في حالة خراج الكبد والمرارة يمكنك رؤيته من خلال:",
+  "options": [
+   "??",
+   "??",
+   "CT scan x_ray",
+   "MRI"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "??",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0014",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "the purpose of platelets that is to era lot",
+  "q_ar": "الغرض من الصفائح الدموية هو",
+  "options": [
+   "to identity blood clot",
+   "to identify bleeding",
+   "to identify antibiotic"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "to identity blood clot",
+  "source_status": "single",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0015",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "difference between the diastolic and systolic blood pressure?",
+  "q_ar": "الفرق بين ضغط الدم الانبساطي والانقباضي؟",
+  "options": [
+   "pressure arterial.",
+   "blood vine.",
+   "pulse.",
+   "??"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0016",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "which organ in the body contains 90% of calcium?",
+  "q_ar": "أي عضو في الجسم يحتوي على 90٪ من الكالسيوم؟",
+  "options": [
+   "liver.",
+   "muscles.",
+   "nerves.",
+   "bones"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "bones",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0017",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The buccal means give the drug in?",
+  "q_ar": "الشدق يعني إعطاء الدواء؟",
+  "options": [
+   "the jaw.",
+   "the eye conjunctive",
+   "the oral.",
+   "cheek"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "cheek",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0018",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "the first treatment for the back pain?",
+  "q_ar": "أول علاج لآلام الظهر؟",
+  "options": [
+   "Message of the back.",
+   "washing of the back.",
+   "??",
+   "??"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Message of the back.",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0019",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "where is the ascending colon in the abdomen?",
+  "q_ar": "أين يقع القولون الصاعد في البطن؟",
+  "options": [
+   "In the lower right quadrant of the abdomen",
+   "In the upper left quadrant of the abdomen",
+   "In the upper right quadrant of the abdomen",
+   "In the lower left quadrant of the abdomen"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "In the lower right quadrant of the abdomen",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0020",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Factors Affects the heart EXEPT:",
+  "q_ar": "العوامل التي تؤثر على القلب ما عدا:",
+  "options": [
+   "Obesity",
+   "hypertension",
+   "Pulspertur",
+   "rest"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "rest",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0021",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "the chronic disease of lung bronchi and emphysema that associated obstruction is:",
+  "q_ar": "المرض المزمن الذي يصيب القصبات الهوائية وانتفاخ الرئة المصاحب للانسداد هو:",
+  "options": [
+   "COPD",
+   "asthma",
+   "Pneumonia",
+   "Tuberculosis"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "COPD",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0022",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The urine output between 100 and 500 is called:",
+  "q_ar": "يسمى إخراج البول بين 100 و 500؟",
+  "options": [
+   "oliguria",
+   "polyuria",
+   "anuria",
+   "dysuria"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "oliguria",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0023",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When examining the abdomen as a nurse, what is required",
+  "q_ar": "عند فحص البطن كممرض ، ما هو الاجراء المطلوب",
+  "options": [
+   "Auscultation",
+   "Palpation",
+   "inspection",
+   "observation"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "observation",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0024",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "the emergency care for hyporolemic shock is:",
+  "q_ar": "التعامل في الطوارئ لصدمة نقص حجم الدم هي",
+  "options": [
+   "I.V fluid",
+   "give blood",
+   "give drug that high BP",
+   "??"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "I.V fluid",
+  "source_status": "single",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0025",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When a patient arrives at the emergency room, and the patient is bleeding, and the wound was caused by a piercing machine, what do we start?",
+  "q_ar": "عندما يصل المريض إلى غرفة الطوارئ والمريض ينزف ، والجرح ناجم عن آلة ثقب ، ماذا نبدأ؟؟",
+  "options": [
+   "stop the bleeding",
+   "the fight",
+   "Removing the sharp instrument",
+   "give him a place to live"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "stop the bleeding",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0026",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "A patient arrived at the emergency room and his body temperature was 37.7 and he is in a coma and he has not eaten for 10 hours and he has a lack of fluids. What to diagnose the case",
+  "q_ar": "وصل مريض إلى غرفة الطوارئ وكانت درجة حرارة جسمه 37.7 وهو في غيبوبة ولم يأكل منذ 10 ساعات ويعاني من نقص في السوائل. ما لتشخيص الحالة؟",
+  "options": [
+   "Hypothermia",
+   "Dehydration",
+   "Swelling",
+   "Anemia"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "Dehydration",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0027",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "function skeletal muscle:",
+  "q_ar": "وظيفة العضلات الهيكلية:",
+  "options": [
+   "movement",
+   "posture",
+   "heat production",
+   "all of above"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "all of above",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0028",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "which the right choice of antidote for paracetamol?",
+  "q_ar": "ما هو الاختيار الصحيح لترياق الباراسيتامول؟",
+  "options": [
+   "Acetylcysteine.",
+   "Mefanamic acid.",
+   "Clonidine.",
+   "Epinephrine."
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Acetylcysteine.",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0029",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Glasgow coma scale composed of all of the following except",
+  "q_ar": "يتكون مقياس غلاسكو للغيبوبة من كل ما يلي باستثناء؟",
+  "options": [
+   "best motor response",
+   "eye opening",
+   "best verbal response",
+   "orientation level"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "orientation level",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0030",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "the first cause of heart disease except:",
+  "q_ar": "السبب الأول لمرض القلب باستثناء؟",
+  "options": [
+   "hypertension",
+   "hyperlipidemia",
+   "cigarette smoking",
+   "physical activity"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "hyperlipidemia",
+  "source_status": "single",
+  "flags": [
+   "ambiguous_mark"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0031",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "size of needle that use for ID, SC, IV and IM",
+  "q_ar": "حجم الإبرة التي تستخدم للحقن تحت الجلد والعضل والوريد؟",
+  "options": [
+   "22 gauge",
+   "23 gauge",
+   "24 gauge",
+   "25 gauge"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "22 gauge",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0032",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "How many times you should take vital signs in the recovery room at the first hour:",
+  "q_ar": "كم مرة يجب أن تأخذ العلامات الحيوية في غرفة الإنعاش في الساعة الأولى؟",
+  "options": [
+   "6",
+   "10",
+   "12",
+   "14"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "6",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0033",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "When transfusion of blood to a patient suffering from anemia and observed sensitivity called this:",
+  "q_ar": "عند نقل الدم لمريض يعاني من فقر دم وحساسية ملحوظة يسمى هذا ؟",
+  "options": [
+   "feel",
+   "anaphylactic shock"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "anaphylactic shock",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0034",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "PT receive blood then had hematuria",
+  "q_ar": "عند تلقي المريض الدم ثم حصل له بول دموي يسمى هذا ؟",
+  "options": [
+   "anaphylactic reaction",
+   "hemolytic reaction"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "anaphylactic reaction",
+  "source_status": "single",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0035",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Care of the indwelling urinary catheter involves the followings, EXCEPT:",
+  "q_ar": null,
+  "options": [
+   "tube checking for kinks",
+   "routine irrigation",
+   "perineal area cleaning",
+   "urine bag drainage at a lower level."
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "routine irrigation",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0036",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "when blood transfusion reaction occur, the immediate nursing action is:",
+  "q_ar": null,
+  "options": [
+   "monitor vital signs closely",
+   "Give antipyretic drugs",
+   "document relevant data",
+   "Discontinue the blood transfusion"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "Discontinue the blood transfusion",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0037",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "to monitor cardiovascular stability, the nurse assess the patient's:",
+  "q_ar": null,
+  "options": [
+   "color and moisture",
+   "skin temperature",
+   "cardiac rhythm",
+   "All the above"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "cardiac rhythm",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0038",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "All of the followings are used for monitoring the deterioration in renal funcation EXCEPT",
+  "q_ar": null,
+  "options": [
+   "White blood cells count",
+   "Serum creatinine.",
+   "blood urea nitrogen",
+   "urine volum"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "White blood cells count",
+  "source_status": "agree",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0039",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "which of the following is not a desirable nursing action during patient understands general anesthesia?",
+  "q_ar": null,
+  "options": [
+   "Encourage deep breathing exercises",
+   "Positioning the patient supine",
+   "suctioning to remove excess respiratory secretions",
+   "assess respiratory function"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Encourage deep breathing exercises",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0040",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The dressing is applied to the wound for the following reason :",
+  "q_ar": null,
+  "options": [
+   "tube absorb drainage",
+   "to splint or immobilize the wound",
+   "protect the wound from bacteria contaminated",
+   "All of the above"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "All of the above",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0041",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "the best position for the patient with head injury and high intracranial pressure is :",
+  "q_ar": null,
+  "options": [
+   "Elevation the head of the bed to 30 _45degrees",
+   "supin position and head turned to least",
+   "High flowers position with knee flexion and legs elevated",
+   "Side-lying position with hips and knees flexed"
+  ],
+  "source_marked_answer_index": 0,
+  "source_marked_answer_text": "Elevation the head of the bed to 30 _45degrees",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0042",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The overall goals of fracture treatment fracture are:",
+  "q_ar": null,
+  "options": [
+   "atomical goals realignment of bone fractures fragments",
+   "immobilization to maintain realignment",
+   "restoration of function of the part",
+   "All of the above"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "All of the above",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0043",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The instruction given to the patient with a cast should include:",
+  "q_ar": null,
+  "options": [
+   "awareness of signs of developing peripheral neurovascular complication",
+   "Hazards of walking on a new cast",
+   "joint exercise above and below the cast",
+   "All of the above"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "All of the above",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0044",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The preoperative patient is kept NPO \" after midnight in order of prevent:",
+  "q_ar": null,
+  "options": [
+   "over hydration or fluid over-load postoperatively",
+   "urinary incontinence in the operating room",
+   "vomiting and aspiration during anesthesia",
+   "NO of the above"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "vomiting and aspiration during anesthesia",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0045",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "The management of the hypovolemic shock include:",
+  "q_ar": null,
+  "options": [
+   "the timely admiistration of IV fluids",
+   "Blood and blood products",
+   "medcation the elevate blood pressure",
+   "All of the above"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "All of the above",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0046",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "patient in the ER has sever hemorrhage, which of the following is a manifestation hemorrhage shock:",
+  "q_ar": null,
+  "options": [
+   "apprehensive restless and thirsty",
+   "the skin is cold,moist,and pale and temperature falls",
+   "the pulse rate increase, and respirations are rapid and deep",
+   "ALLOF THE ABOVE"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "ALLOF THE ABOVE",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0047",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "Dysrhythmias may result from the following, Except:",
+  "q_ar": null,
+  "options": [
+   "Electrolyte balance",
+   "altered respiratory function",
+   "pain",
+   "Hypothermi"
+  ],
+  "source_marked_answer_index": 1,
+  "source_marked_answer_text": "altered respiratory function",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0048",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "the following measures are used to determin patient readiness for discharge from the post recovery room EXCEPT",
+  "q_ar": null,
+  "options": [
+   "stable v/s",
+   "orintation to person, place,event,time",
+   "puls oximeter reading indicated adequate blood oxygen saturation",
+   "urine output at last 10ml/h"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "urine output at last 10ml/h",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0049",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": ":Safety issues in the Operation room include the fallowing EXCEITE",
+  "q_ar": null,
+  "options": [
+   "exposure to blood and body fluids",
+   "hazards associated with laser beans",
+   "exposure to latex and adhesive substances",
+   "exposure to the artificial light"
+  ],
+  "source_marked_answer_index": 3,
+  "source_marked_answer_text": "exposure to the artificial light",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0050",
+  "specialty": "assistant",
+  "type": "mcq",
+  "q": "_The physician preseribed an IV dextrose 5% in water at 100ml flow rate be if the drops factors is 15gtt=1ml",
+  "q_ar": null,
+  "options": [
+   "5 gtt/minute",
+   "13 gttminute",
+   "25 gtt/minute",
+   "50 gtt/minute"
+  ],
+  "source_marked_answer_index": 2,
+  "source_marked_answer_text": "25 gtt/minute",
+  "source_status": "agree",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

@@ -1,0 +1,706 @@
+[
+  {
+    "id": "Q0251",
+    "verdict": "confirmed",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "كل الخيارات علامات معروفة للنزف الداخلي/الصدمة النزفية: نبض سريع ضعيف مع عطش، جلد بارد رطب شاحب أو مزرق، وألم/تورم/كدمات أو صلابة في مناطق مثل البطن؛ فالإجابة (كل ما سبق). المراجع التي فُتحت (MedlinePlus وويكيبيديا وصفحة إسعافات أولية) تغطي هذه العلامات متفرقة، ولم أصل إلى نص دليل الصليب الأحمر نفسه.",
+    "refs": [
+      {
+        "title": "MedlinePlus Medical Encyclopedia - Internal bleeding and shock signs (pallor, clammy skin, rapid pulse, abdominal pain/swelling)",
+        "url": "https://medlineplus.gov/ency/article/000045.htm"
+      },
+      {
+        "title": "Wikipedia - Internal bleeding (symptoms incl. thirst, fast heart rate, pale/cold skin)",
+        "url": "https://en.wikipedia.org/wiki/Internal_bleeding"
+      },
+      {
+        "title": "First Aid Anywhere - Internal Bleeding: Recognition and First Aid",
+        "url": "https://www.firstaidanywhere.com/internal-bleeding.html"
+      }
+    ]
+  },
+  {
+    "id": "Q0252",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "كريات الدم الحمراء (بالهيموغلوبين) هي الناقل الأساسي للأكسجين من الرئتين إلى الأنسجة وتساعد في إعادة ثاني أكسيد الكربون إلى الرئتين؛ أما الكريات البيضاء فللمناعة والصفائح للتخثر والمحببات نوع من البيضاء.",
+    "refs": [
+      {
+        "title": "Biology LibreTexts - 14.3 Red Blood Cells: Oxygen Transport and Hemoglobin",
+        "url": "https://bio.libretexts.org/Workbench/Human_Physiology:_A_Students_Open_Path_to_Understanding_the_Body/14:_Blood/14.03:_Red_Blood_Cells-_Oxygen_Transport_and_Hemoglobin"
+      }
+    ]
+  },
+  {
+    "id": "Q0253",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": true,
+    "note_ar": "التوصيات تختلف: CDC للعاملين الصحيين 20-30 ثانية، ومنظمة الصحة العالمية 40-60 ثانية للغسل بالماء والصابون، والكتب التمريضية القديمة 15-30 ثانية؛ و30 ثانية هو أقرب الخيارات لـ'على الأقل' وفق CDC، لكن WHO تجعل الأنسب قرابة الدقيقة، فلا حسم.",
+    "refs": [
+      {
+        "title": "CDC - Hand Washing for healthcare workers (20-30 s; 40-60 s if soiled)",
+        "url": "https://www.cdc.gov/ebola/media/pdfs/2024/05/hand-washing-for-healthcare-workers.pdf"
+      },
+      {
+        "title": "WHO - How to Handwash? (duration of the entire procedure 40-60 seconds)",
+        "url": "https://www.who.int/docs/default-source/patient-safety/how-to-handwash-poster.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q0254",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "high",
+    "agrees_with_source_mark": true,
+    "note_ar": "أغراض الفحص الجسدي في كوزير وغيره: الحصول على بيانات أساسية (baseline)، ودعم/تأكيد/نفي البيانات المجموعة في المقابلة والتاريخ الصحي؛ فكلا (a) و(b) صحيح وهو الخيار (a & b).",
+    "refs": [
+      {
+        "title": "Pearson - Berman, Kozier & Erb's Fundamentals of Nursing 10e, Ch.30 Health Assessment (purposes of physical examination)",
+        "url": "https://www.pearson.com/content/dam/one-dot-com/one-dot-com/us/en/higher-ed/en/products-services/course-products/berman-10e-info/pdf/CH30.pdf"
+      },
+      {
+        "title": "RNpedia - Physical Examination (purposes)",
+        "url": "https://www.rnpedia.com/nursing-notes/fundamentals-in-nursing-notes/physical-examination/"
+      },
+      {
+        "title": "NurseKey - Health Assessment and Physical Examination (purposes of physical examination)",
+        "url": "https://nursekey.com/health-assessment-and-physical-examination/"
+      }
+    ]
+  },
+  {
+    "id": "Q0255",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "الثيوفيلين من مشتقات الميثيل زانثين ويُستعمل موسِّعًا للقصبات في الربو وCOPD؛ أسيتيل سيستئين مُذيب للبلغم وغوايفينيسين مقشّع (معلومة عامة). تنبيه: الإبينفرين يوسّع القصبات أيضًا لكنه يُصنَّف أساسًا كأدرينالي/علاج التأق، لذا الخيار النمطي هو الثيوفيلين (ثقة متوسطة بسبب هذا الالتباس).",
+    "refs": [
+      {
+        "title": "StatPearls - Theophylline (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK519024/"
+      }
+    ]
+  },
+  {
+    "id": "Q0256",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "في التقييم التمريضي يبدأ التاريخ الصحي بالبيانات التعريفية/الديموغرافية (biographic data) ثم الشكوى الرئيسية وبقية المكونات؛ بينما الصيغة الطبية المكتوبة (Clinical Methods) تبدأ بالشكوى الرئيسية بعد التعارف، فثقتي متوسطة لاختلاف الصيغتين.",
+    "refs": [
+      {
+        "title": "Brookside Press - Nursing Fundamentals II, Lesson 6: Introduction to Physical Assessment (assessment begins with demographic data)",
+        "url": "https://brooksidepress.org/nursing_fundamentals_2/lessons/lesson-6-introduction-to-physical-assessment/"
+      },
+      {
+        "title": "Clinical Methods (NCBI Bookshelf) - Chapter 3: The Medical Interview (physician format starts with chief complaint)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK349/"
+      }
+    ]
+  },
+  {
+    "id": "Q0257",
+    "verdict": "answered",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "نفس السؤال Q0251 مع قصّ بسيط في آخر الخيارين 1 و3 يمكن استنتاجه؛ كل الخيارات علامات للنزف الداخلي (نبض سريع ضعيف، عطش، جلد بارد شاحب/مزرق، تورم/كدمات/صلابة بالبطن) فالإجابة (كل ما سبق).",
+    "refs": [
+      {
+        "title": "MedlinePlus Medical Encyclopedia - Internal bleeding and shock signs (pallor, clammy skin, rapid pulse, abdominal pain/swelling)",
+        "url": "https://medlineplus.gov/ency/article/000045.htm"
+      },
+      {
+        "title": "Wikipedia - Internal bleeding (symptoms incl. thirst, fast heart rate, pale/cold skin)",
+        "url": "https://en.wikipedia.org/wiki/Internal_bleeding"
+      },
+      {
+        "title": "First Aid Anywhere - Internal Bleeding: Recognition and First Aid",
+        "url": "https://www.firstaidanywhere.com/internal-bleeding.html"
+      }
+    ]
+  },
+  {
+    "id": "Q0258",
+    "verdict": "answered",
+    "answer": 3,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "كلمة auricular خطأ مطبعي على الأرجح لـ articular (المفصلية)؛ التهاب المفاصل/الفُصال العظمي يبدأ بتلف الغضروف المفصلي، بينما luxation خلع وankylosis تيبّس/التحام مفصلي وsciatica عرق النسا (ليست أمراض غضروف مفصلي)؛ الإجابة مبنية على هذا التصحيح للنص.",
+    "refs": [
+      {
+        "title": "StatPearls - Osteoarthritis (earliest changes at articular cartilage)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK482326/"
+      }
+    ]
+  },
+  {
+    "id": "Q0259",
+    "verdict": "answered",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "في طور القشعريرة من الحمى يرفع الجسم حرارته، فالتدخل المناسب توفير دفء بأغطية إضافية وليس كمادات كحول باردة أو سوائل باردة أو تهوية زائدة؛ مرجع Mayo Clinic يوصي ببطانية خفيفة عند الشعور بالبرد حتى تنتهي القشعريرة (لم أصل إلى نص Kozier/Potter).",
+    "refs": [
+      {
+        "title": "Mayo Clinic - Fever: First aid (light blanket if chilled until chills end)",
+        "url": "https://www.mayoclinic.org/first-aid/first-aid-fever/basics/art-20056685"
+      }
+    ]
+  },
+  {
+    "id": "Q0260",
+    "verdict": "answered",
+    "answer": 2,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "مراحل التئام الكسر: تكوّن الورم الدموي، ثم النسيج الحبيبي، ثم الدشبذ (callus)/الالتحام، وأخيرًا إعادة البناء (remodeling) وهي المرحلة الأخيرة وتستمر أشهرًا.",
+    "refs": [
+      {
+        "title": "StatPearls - Fracture Healing Overview (hematoma, granulation tissue, bony callus, remodeling)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK551678/"
+      }
+    ]
+  },
+  {
+    "id": "Q0261",
+    "verdict": "confirmed",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "يُنصح مريض الارتجاع المعدي المريئي بالبقاء منتصبًا وعدم الاستلقاء بعد الوجبة (Mayo: انتظر ثلاث ساعات على الأقل قبل الاستلقاء)، فخيار الاستلقاء 30 دقيقة خاطئ والجلوس المنتصب أنسب الخيارات؛ تبقى الثقة متوسطة لأن نص السؤال مبتور وقد يُنصح بالمشي الخفيف أيضًا.",
+    "refs": [
+      {
+        "title": "Mayo Clinic - GERD: diagnosis and treatment, lifestyle (do not lie down for 3 h after a meal)",
+        "url": "https://www.mayoclinic.org/diseases-conditions/gerd/diagnosis-treatment/drc-20361959"
+      }
+    ]
+  },
+  {
+    "id": "Q0262",
+    "verdict": "confirmed",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": true,
+    "note_ar": "عند وجود نبض (حتى لو ضعيف) مع انعدام التنفس يُعطى تنفس إنقاذي (AHA: نفس كل ~6 ثوانٍ للبالغ)، ويبدأ الإنعاش القلبي الرئوي CPR عند غياب النبض؛ الثقة متوسطة لأن السؤال مبتور (needs....) وكلمة 'weak pulse' قد تُقرأ بحذر.",
+    "refs": [
+      {
+        "title": "AHA - Adult Basic Life Support guidelines (rescue breathing 1 breath every 6 s when pulse present)",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+      }
+    ]
+  },
+  {
+    "id": "Q0263",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "نص السؤال مبتور ومشوّه (أجزاء الجسم المحروقة بعد 'chest, abdomen' مفقودة) فلا يمكن حساب TBSA؛ للمرجعية: قاعدة التسعات تعطي الجذع الأمامي 18% والذراع 9%، فالرقم 28% ممكن حسابيًا لكن لا يمكن التحقق منه دون النص كاملًا.",
+    "refs": [
+      {
+        "title": "Wikipedia - Wallace rule of nines",
+        "url": "https://en.wikipedia.org/wiki/Wallace_rule_of_nines"
+      }
+    ]
+  },
+  {
+    "id": "Q0264",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "النص مشوّه: قيمتا الحرارة والنبض غير مقروءتين ('temperatur 88')؛ المؤكد فقط أن معدل التنفس 30/د مرتفع (الطبيعي 12-18 وفق MedlinePlus) ويُبلَّغ عنه، لكن الحسم بين الخيار 0 و3 يتوقف على قيمة الحرارة؛ علامة الفاحص الضعيفة أُهملت.",
+    "refs": [
+      {
+        "title": "MedlinePlus - Vital signs (adult respiratory rate 12-18, pulse 60-100)",
+        "url": "https://medlineplus.gov/ency/article/002341.htm"
+      }
+    ]
+  },
+  {
+    "id": "Q0265",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "الأشعة السينية العادية هي الفحص التصويري الأولي الشائع لتقييم العظام والمفاصل (ويكيبيديا: العظم مناسب جدًا للتصوير الشعاعي وهو منخفض الكلفة وعالي المردود التشخيصي)، أما الميلوغرام والتنظير المفصلي والرنين فأقل شيوعًا؛ لكن لم أحصل على مرجع صريح لعبارة 'الأكثر شيوعًا' والنص مبتور.",
+    "refs": [
+      {
+        "title": "Wikipedia - Radiography (bone lends itself to projection radiography; low cost, high diagnostic yield)",
+        "url": "https://en.wikipedia.org/wiki/Radiography"
+      }
+    ]
+  },
+  {
+    "id": "Q0266",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "نص السؤال مشوّه ('pulmonary en... failure') فلا يُعرف هل المقصود فشل قلبي مع وذمة رئوية (الهدف: زيادة النتاج القلبي) أم فشل تنفسي (الهدف: تحسين الحالة التنفسية)؛ لا يمكن الحكم على علامة المصدر (زيادة النتاج القلبي).",
+    "refs": []
+  },
+  {
+    "id": "Q0267",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "medium",
+    "agrees_with_source_mark": false,
+    "note_ar": "علامة المصدر (نحافة/Underweight) خاطئة: عوامل خطر سكري الحمل المذكورة في StatPearls هي زيادة الوزن/مؤشر الكتلة وقريب من الدرجة الأولى مصاب بالسكري، وليس نقص الوزن؛ لكن الخيار 3 غير مقروء (......) وقد يكون 'a & c' أو غيره، لذا لا يمكن تحديد رقم الإجابة.",
+    "refs": [
+      {
+        "title": "StatPearls - Gestational Diabetes Mellitus (risk factors: increased BMI, first-degree relative with diabetes)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK545196/"
+      }
+    ]
+  },
+  {
+    "id": "Q0268",
+    "verdict": "uncertain",
+    "answer": 2,
+    "confidence": "low",
+    "agrees_with_source_mark": false,
+    "note_ar": "تنظير القولون يتطلب تنظيف القولون، والحقنة الشرجية المنظِّفة عالية كبيرة الحجم (high, large volume) هي المستعملة لتفريغ القولون قبل الإجراءات التشخيصية، أما الحقنة العكسية (return flow/Harris flush) فهدفها طرد الغازات (معلومة عامة لم أستطع فتح مرجع يؤكدها)؛ ثقة منخفضة لأن الممارسة الحديثة تعتمد المحاليل الفموية.",
+    "refs": [
+      {
+        "title": "Wikipedia - Enema (bowel cleansing before colonoscopy; large-volume vs low-volume)",
+        "url": "https://en.wikipedia.org/wiki/Enema"
+      }
+    ]
+  },
+  {
+    "id": "Q0269",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "العبارة خاطئة: الألم الحاد هو الذي يدل عادةً على حدوث إصابة/تلف نسيجي ووظيفته وقائية، أما الألم المزمن فيستمر بعد مدة الالتئام ولا يعني بالضرورة وجود تلف حالي (كثيرًا ما يعكس اضطرابًا في الجهاز العصبي المركزي).",
+    "refs": [
+      {
+        "title": "StatPearls - Pain Assessment (acute vs chronic pain)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK556098/"
+      },
+      {
+        "title": "Wikipedia - Chronic pain",
+        "url": "https://en.wikipedia.org/wiki/Chronic_pain"
+      }
+    ]
+  },
+  {
+    "id": "Q0270",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "التعريف التمريضي الشائع للقلق شعور غامض بعدم الارتياح/الانزعاج أو الخوف من تهديد مُدرَك؛ ربطه بـ'انعدام الأمان (insecurity)' غير قياسي لكنه غير خاطئ بوضوح، والمرجع المفتوح (StatPearls) يعرّفه كحالة مزاجية مرتبطة بالتهديد المتوقع، فالأرجح صح بثقة منخفضة.",
+    "refs": [
+      {
+        "title": "StatPearls - Anxiety (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK470361/"
+      }
+    ]
+  },
+  {
+    "id": "Q0271",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "صحيح: التقنية المعقمة (aseptic technique) ممارسات لمنع العدوى والتلوث بالكائنات الممرضة ونقلها، وتشمل نظافة اليدين والقفازات والأدوات المعقمة.",
+    "refs": [
+      {
+        "title": "Wikipedia - Asepsis (aseptic technique; surgical vs medical asepsis)",
+        "url": "https://en.wikipedia.org/wiki/Asepsis"
+      }
+    ]
+  },
+  {
+    "id": "Q0272",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "العبارة خاطئة: استعادة الأجزاء المكسورة إلى وضعها التشريحي هي الرد (reduction)، أما التثبيت (immobilization) فهو الحفاظ على هذا الوضع بجبيرة أو جبس أثناء الالتئام.",
+    "refs": [
+      {
+        "title": "Wikipedia - Bone fracture (reduction vs immobilization)",
+        "url": "https://en.wikipedia.org/wiki/Bone_fracture"
+      }
+    ]
+  },
+  {
+    "id": "Q0273",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "العبارة خاطئة: التحمّل (tolerance) هو نقص استجابة الجسم للدواء عند تكرار استعماله فيحتاج جرعة أكبر؛ أما عجز الجسم عن استقلاب الدواء وتراكمه في الدم فهو التأثير التراكمي (cumulative effect) والسمية.",
+    "refs": [
+      {
+        "title": "Wikipedia - Drug tolerance",
+        "url": "https://en.wikipedia.org/wiki/Drug_tolerance"
+      }
+    ]
+  },
+  {
+    "id": "Q0274",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "صحيح: حمض الفوليك موصى به في الحمل (RDA 600 mcg DFE) وقبله لمنع عيوب الأنبوب العصبي، وهو دواء آمن بالجرعات الموصى بها.",
+    "refs": [
+      {
+        "title": "NIH Office of Dietary Supplements - Folate Fact Sheet for Health Professionals",
+        "url": "https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "id": "Q0275",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "العبارة خاطئة: الكدمة (contusion) هي ورم دموي/نزف شعيري تحت الجلد بعد رضّ، أما الخلع الجزئي لسطوح المفصل فهو subluxation.",
+    "refs": [
+      {
+        "title": "Wikipedia - Bruise (contusion)",
+        "url": "https://en.wikipedia.org/wiki/Bruise"
+      },
+      {
+        "title": "Wikipedia - Subluxation (partial dislocation)",
+        "url": "https://en.wikipedia.org/wiki/Subluxation"
+      }
+    ]
+  },
+  {
+    "id": "Q0276",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "صحيح: الإجهاض غير المكتمل (incomplete) هو خروج جزء من نواتج الحمل وبقاء جزء آخر داخل الرحم.",
+    "refs": [
+      {
+        "title": "MedlinePlus Medical Encyclopedia - spontaneous abortion / miscarriage types (article 001488)",
+        "url": "https://medlineplus.gov/ency/article/001488.htm"
+      }
+    ]
+  },
+  {
+    "id": "Q0277",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "التعريف مقبول عمومًا (نمط الحياة = أنماط سلوك وأنشطة يومية معتادة)، لكن لم أتمكن من فتح مرجع لتعريفه بصياغة 'الممارسات المقبولة' فأُبقي الثقة منخفضة.",
+    "refs": []
+  },
+  {
+    "id": "Q0278",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "high",
+    "agrees_with_source_mark": null,
+    "note_ar": "العبارة خاطئة: في الانسداد الجزئي/الخفيف يستطيع الشخص الكلام أو السعال أو التنفس، أما عدم القدرة على الكلام أو التنفس أو السعال إطلاقًا فيدل على انسداد كامل (شديد).",
+    "refs": [
+      {
+        "title": "MedlinePlus - Choking (adult/child over 1 year): speak/cough = mild, cannot = severe",
+        "url": "https://medlineplus.gov/ency/article/000047.htm"
+      },
+      {
+        "title": "St John Ambulance - Choking (mild vs severe obstruction)",
+        "url": "https://www.sja.org.uk/get-advice/first-aid-advice/choking/"
+      }
+    ]
+  },
+  {
+    "id": "Q0279",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "نص السؤال مبتور (لا يُعرف موضوع خطة التثقيف: قدم سكرية/مرض أوعية طرفية أم غير ذلك)؛ حفظ الإنسولين غير المستعمل في الثلاجة ممارسة صحيحة فلا يصلح جوابًا لـ'inappropriate'، والأرجح أن المقصود رفع الساق على وسادتين في الداء الشرياني لكن دون النص الكامل لا يمكن الجزم.",
+    "refs": []
+  },
+  {
+    "id": "Q0280",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "الخيارات 0 و2 و3 من آثار قلة الحركة المعروفة (تيبس المفاصل، تجمع الإفرازات التنفسية، هبوط الضغط الانتصابي) أما زيادة معدل الاستقلاب فعكس المتوقع (ينقص معدل الاستقلاب مع الخمول)؛ الخيار 1 مبتور لكنه يبدو 'Increase metabolic rate'، ولم أصل لمرجع مفتوح صريح للاستقلاب.",
+    "refs": [
+      {
+        "title": "Wikipedia - Bed rest (complications of immobility)",
+        "url": "https://en.wikipedia.org/wiki/Bed_rest"
+      }
+    ]
+  },
+  {
+    "id": "Q0281",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "الدواء الشدقي (buccal) يوضع بين الخد واللثة (داخل الخد) فيمتص عبر مخاطية الفم؛ أما تحت اللسان فهو sublingual والجلد والملتحمة طرق أخرى، والخيار 1 الأقرب.",
+    "refs": [
+      {
+        "title": "Wikipedia - Buccal administration (between gum and inner cheek)",
+        "url": "https://en.wikipedia.org/wiki/Buccal_administration"
+      }
+    ]
+  },
+  {
+    "id": "Q0282",
+    "verdict": "uncertain",
+    "answer": 2,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "التعقيم الجراحي (surgical asepsis/sterile technique) يهدف إلى إبادة الأحياء الدقيقة قبل دخولها الجسم، بينما التعقيم الطبي يقلل أعدادها وانتشارها؛ الخيار 1 مبتور (يشبه تعريف التعقيم الطبي) والخيار 0 قريب جدًا من 2، لذا الثقة منخفضة؛ علامة الفاحص الضعيفة أُهملت.",
+    "refs": [
+      {
+        "title": "Wikipedia - Asepsis (aseptic technique; surgical vs medical asepsis)",
+        "url": "https://en.wikipedia.org/wiki/Asepsis"
+      }
+    ]
+  },
+  {
+    "id": "Q0283",
+    "verdict": "uncertain",
+    "answer": 2,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "المعروف في تمريض السكري أن قياس سكر الدم الذاتي أدق من اختبار سكر البول لأنه يعكس مستوى السكر الحالي بينما يتأخر البول ويتأثر بعتبة الكلية؛ لم أتمكن من فتح مرجع مؤيد والنص مبتور.",
+    "refs": []
+  },
+  {
+    "id": "Q0284",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "نص السؤال مبتور ('can damage t...') فلا يُعرف العصب المقصود: الستربتوميسين يؤذي العصب القحفي الثامن (سمع/توازن) بينما الإيثامبوتول يؤذي العصب البصري، وكلاهما بين الخيارات.",
+    "refs": []
+  },
+  {
+    "id": "Q0285",
+    "verdict": "answered",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "لون الفغرة الطبيعي وردي/أحمر رطب (Cleveland Clinic)، أما الأحمر الداكن المائل للأرجواني فيشير إلى نقص التروية ويجب الإبلاغ عنه؛ بقية الخيارات المقروءة طبيعية (بروز نصف بوصة، احمرار الجلد لفترة قصيرة) والخيار 3 مبتور.",
+    "refs": [
+      {
+        "title": "Cleveland Clinic - Stoma (normal: pink or red, moist; black = call provider)",
+        "url": "https://my.clevelandclinic.org/health/treatments/stoma"
+      }
+    ]
+  },
+  {
+    "id": "Q0286",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "ترتيب فحص البطن: المعاينة أولًا ثم الإصغاء (auscultation) ثم القرع والجس، لأن القرع والجس قد يغيّران أصوات الأمعاء؛ فالتقنية الثانية هي الإصغاء. علامة الفاحص الضعيفة (Palpation) أُهملت.",
+    "refs": [
+      {
+        "title": "Wikipedia - Abdominal examination (auscultation before percussion and palpation)",
+        "url": "https://en.wikipedia.org/wiki/Abdominal_examination"
+      }
+    ]
+  },
+  {
+    "id": "Q0287",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "النص مبتور والخيارات الثلاثة (ثوانٍ/دقائق/ساعات) قد تكون ناقصة (ربما خيار 'أيام')؛ ويشير مرجع ويكيبيديا للتئام الجروح إلى أن تكوّن الأوعية يبدأ نحو اليوم الرابع، فلا يمكن ترجيح خيار دون النص الكامل.",
+    "refs": [
+      {
+        "title": "Wikipedia - Wound healing (angiogenesis begins about day 4)",
+        "url": "https://en.wikipedia.org/wiki/Wound_healing"
+      }
+    ]
+  },
+  {
+    "id": "Q0288",
+    "verdict": "uncertain",
+    "answer": 2,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "الإجراء الإسعافي الفوري لإصابة الحبل الشوكي المشتبهة هو تثبيت العمود الفقري/الرقبة (NINDS: طوق صلب ولوح ظهر)؛ لكن بداية السؤال والخيارين 1 و3 مبتورة، فالتخمين منخفض الثقة.",
+    "refs": [
+      {
+        "title": "NINDS - Spinal Cord Injury (rigid collar and backboard at the scene)",
+        "url": "https://www.ninds.nih.gov/health-information/disorders/spinal-cord-injury"
+      }
+    ]
+  },
+  {
+    "id": "Q0289",
+    "verdict": "uncertain",
+    "answer": 3,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "الحساسية المفرطة من لدغات الحشرات تُسمى التأق/الصدمة التأقية (anaphylaxis)؛ والخيارات المقروءة (septic shock، cardiac arrest، toxic shock) خاطئة، والخيار 3 غير مقروء (??) فيُرجَّح بالاستبعاد أن يكون 'Anaphylactic shock'؛ علامة الفاحص الضعيفة (toxic shock) خاطئة وأُهملت.",
+    "refs": [
+      {
+        "title": "MedlinePlus - Anaphylaxis (aka anaphylactic shock; insect stings a common trigger)",
+        "url": "https://medlineplus.gov/ency/article/000844.htm"
+      }
+    ]
+  },
+  {
+    "id": "Q0290",
+    "verdict": "uncertain",
+    "answer": 3,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "عوامل حدوث العدوى تشمل نوع وعدد الكائنات وضراوتها وحالة المضيف ومناعته، لذا 'كل ما سبق' هو المنطقي، لكن الخيار 1 مبتور ولم أفتح مرجعًا صريحًا للتأكد.",
+    "refs": []
+  },
+  {
+    "id": "Q0291",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "نص السؤال مبتور ('include the follow...') فلا يُعرف هل المطلوب الخيار الصحيح أم الاستثناء (EXCEPT)، والخيار 3 مبتور أيضًا؛ وعوامل البقاء (دفء، رطوبة، غذاء) ليست كلها في الخيارات، ويُفضَّل الظلام على الضوء.",
+    "refs": []
+  },
+  {
+    "id": "Q0292",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "SBP أقل من 90 ملم زئبق هو العلامة الكلاسيكية للصدمة، لكن StatPearls/ATLS يذكر أن فقدان حتى 15% (الصنف I) لا يغيّر الضغط غالبًا وأن الهبوط يظهر عند 30% فأكثر، فالسؤال معيب؛ بقية الخيارات غير منطقية (بؤبؤان متفاوتان، تنفس 4/د، نبض أقل من...). علامة الفاحص الضعيفة أُهملت.",
+    "refs": [
+      {
+        "title": "StatPearls - Hypovolemic Shock (ATLS classes of hemorrhage)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK513297/"
+      }
+    ]
+  },
+  {
+    "id": "Q0293",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "المنطق الإكلينيكي: إن تعذّر جس النبض المأبضي (وهو صعب الجس أصلًا) يُفحص النبض القدمي/البعيد للتحقق من التروية، لكن لم أجد مرجعًا صريحًا للسؤال والنص مبتور؛ علامة الفاحص الضعيفة (اسأل ممرضة أخرى) أُهملت.",
+    "refs": []
+  },
+  {
+    "id": "Q0294",
+    "verdict": "uncertain",
+    "answer": 1,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "الفحص من الرأس إلى القدم هو المسح الثانوي (secondary survey) بحسب ATLS بينما المسح الأولي سريع يركز على تهديدات الحياة (ABCDE)، فالأرجح أن العبارة خاطئة؛ لكن النص مبتور في وسطه فلا يمكن الجزم.",
+    "refs": [
+      {
+        "title": "Wikipedia - Advanced trauma life support (primary vs secondary survey)",
+        "url": "https://en.wikipedia.org/wiki/Advanced_trauma_life_support"
+      }
+    ]
+  },
+  {
+    "id": "Q0295",
+    "verdict": "answered",
+    "answer": 1,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "العبارة خاطئة: الجانب الأيمن من القلب هو الذي يضخ الدم عبر الرئتين (الشريان الرئوي)، أما الأيسر فيضخ الدم إلى الجسم عبر الأورطي؛ الثقة متوسطة لأن آخر العبارة مبتور.",
+    "refs": [
+      {
+        "title": "Wikipedia - Heart (right heart to lungs, left heart to body)",
+        "url": "https://en.wikipedia.org/wiki/Heart"
+      }
+    ]
+  },
+  {
+    "id": "Q0296",
+    "verdict": "uncertain",
+    "answer": 0,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "ضيق النفس (dyspnea) من أبرز أعراض نقص الأكسجة لكن ليس دائمًا (قد لا تظهر أعراض)، والمرجع المفتوح (ويكيبيديا) يعدّه في مقدمة الأعراض دون وصفه بـ'الكلاسيكي'، ولم أجد مرجعًا يجزم؛ العبارة غالبًا من كتاب تمريضي يعدّها صحيحة؛ علامة الفاحص الضعيفة (False) أُهملت.",
+    "refs": [
+      {
+        "title": "Wikipedia - Hypoxemia (signs and symptoms)",
+        "url": "https://en.wikipedia.org/wiki/Hypoxemia"
+      }
+    ]
+  },
+  {
+    "id": "Q0297",
+    "verdict": "answered",
+    "answer": 2,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "نفس السؤال Q0259 مع قصّ بسيط في بعض الخيارات: في طور القشعريرة تُوفَّر أغطية إضافية للدفء (Mayo: بطانية خفيفة حتى تنتهي القشعريرة)؛ والكمادات الكحولية الباردة والسوائل الباردة والتهوية الزائدة غير مناسبة، وعلامة الفاحص الضعيفة توافق هذا الخيار.",
+    "refs": [
+      {
+        "title": "Mayo Clinic - Fever: First aid (light blanket if chilled until chills end)",
+        "url": "https://www.mayoclinic.org/first-aid/first-aid-fever/basics/art-20056685"
+      }
+    ]
+  },
+  {
+    "id": "Q0298",
+    "verdict": "answered",
+    "answer": 0,
+    "confidence": "medium",
+    "agrees_with_source_mark": null,
+    "note_ar": "صحيح على الأرجح: انقطاع النفس النومي (sleep apnea) حالة يتوقف فيها التنفس ويعود مرات عديدة أثناء النوم (NHLBI) وتُعرَّف توقفات تدفق الهواء عادةً بـ10 ثوانٍ فأكثر؛ الثقة متوسطة لأن العبارة مبتورة.",
+    "refs": [
+      {
+        "title": "NHLBI - Sleep Apnea (breathing stops and restarts many times during sleep)",
+        "url": "https://www.nhlbi.nih.gov/health/sleep-apnea"
+      }
+    ]
+  },
+  {
+    "id": "Q0299",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "لا جواب وحيد دفاعي: CDC يوصي بـTdap (التيتانوس) ولقاح التهاب الكبد B آمن عند الحاجة واللقاح الميت للسعار مسموح عند التعرض، والمحظور فقط الحية المضعفة (الحصبة الألمانية MMR والحماق)؛ فالخيارات 0 و1 و3 كلها آمنة والنص فيه خطأ مطبعي (rubies).",
+    "refs": [
+      {
+        "title": "CDC - Guidelines for vaccinating pregnant persons (Tdap, influenza, hepatitis B, rabies OK; MMR/varicella contraindicated)",
+        "url": "https://www.cdc.gov/vaccines/pregnancy/hcp-toolkit/guidelines.html"
+      }
+    ]
+  },
+  {
+    "id": "Q0300",
+    "verdict": "unanswerable",
+    "answer": null,
+    "confidence": "low",
+    "agrees_with_source_mark": null,
+    "note_ar": "كل الخيارات تساوي 30 مل/ساعة بالضبط (30/س، 60 في ساعتين، 90 في 3 ساعات، 120 في 4 ساعات) فلا يوجد خيار أقل من الحد المقبول، فالسؤال متناقض داخليًا؛ الحد الأدنى المعتمد للبالغ ~0.5 مل/كغ/ساعة (oliguria).",
+    "refs": [
+      {
+        "title": "Wikipedia - Oliguria (0.5 mL/kg/h threshold)",
+        "url": "https://en.wikipedia.org/wiki/Oliguria"
+      }
+    ]
+  }
+]

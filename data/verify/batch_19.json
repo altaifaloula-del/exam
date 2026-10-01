@@ -1,0 +1,878 @@
+[
+ {
+  "id": "Q0834",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "ينصح المريض المصاب بانتانات المجاري البولية بزيادة كمية السوائل وذلك",
+  "q_ar": null,
+  "options": [
+   "لخفض درجة الحرارة",
+   "لمنع احتباس البول",
+   "لمنع الجفاف",
+   "لتسهيل طرد البكتيريا"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0835",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "ابيضاض الدم Leukema ينتج عن التكاثر السريع وغير السوي لاي من التالي",
+  "q_ar": null,
+  "options": [
+   "كريات الدم الحمراء",
+   "كريات الدم البيضاء",
+   "الصفائح الدموية",
+   "البلازما"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0836",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "من الاعراض التي تصاحب الكسور",
+  "q_ar": null,
+  "options": [
+   "ورم وارتفاع في درجة حرارة العضو المصاب",
+   "ورم وانخفاض في درجة حرارة العضو المصاب",
+   "عدم الاحساس في العضو المصاب",
+   "جميع ماذكر صحيح"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0837",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "تعبير القسطرة القلبية اجراء",
+  "q_ar": null,
+  "options": [
+   "تشخيصي",
+   "علاجي",
+   "تشخيصي وعلاجي",
+   "لا شيء مما ذكر"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0838",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "من المداخلات التمريضية في العناية بمرضى الحروق",
+  "q_ar": null,
+  "options": [
+   "اعطاء المريض كميات من السوائل وتدفئته",
+   "عدم اعطاء سوائل لتسهيل حساب الماخوذ والمطروح",
+   "المحافظة على ابقاء المريض صائم ووضعة في مكان جيد التهوية",
+   "جميع ما ذكر صحيح"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0839",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "شاب اصيب في حروق في جسمة ولدى الكشف علية تبين ان البشرة والادمة للجذع الامامي والجذع الخلفي واليد اليمنى قد تاثرت باستعمال قاعدة التسعة الخاصة بالحروق فان مجموع مساحة الجسم المتاثرة بالحرق هي:",
+  "q_ar": null,
+  "options": [
+   "36%",
+   "27%",
+   "45 %",
+   "18%"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0829",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "من أسباب إنسداد الحالب الكل ماعداء",
+  "q_ar": null,
+  "options": [
+   "الورم",
+   "الحصى",
+   "الألم"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0830",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "كل هذه الفحوصات مهمة للمريض قبل إجراء العملية ماعد",
+  "q_ar": null,
+  "options": [
+   "CBC",
+   "X.RAY",
+   "فحص البراز"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0831",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "حقنة الأنسولين تعطى في جميع الأماكن ماعدا",
+  "q_ar": null,
+  "options": [
+   "تحت الجلد",
+   "في العضل",
+   "في الرقبة"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0832",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "كل هذه أماكن لجس النبض ماعدا",
+  "q_ar": null,
+  "options": [
+   "القلب",
+   "الزند",
+   "Radial",
+   "Carotid"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0840",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "قبل البدء بإعطاء الغذاء عن طريق الإنبوب الأنفي(N.G.T) يجب عمل الأتي",
+  "q_ar": null,
+  "options": [
+   "إعطاء المريض ماء للشرب مع وضع السماعة على منطقة المعده",
+   "وضع ماء في الإنبوب قبل البدء بالتغذية",
+   "وضع الأنبوب في ماء لمشاهدة الفقاعات",
+   "( 1 و 3 )"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0841",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "أفضل منطقة لأخذ الحرارة من طفل حديث الولادة",
+  "q_ar": null,
+  "options": [
+   "الفم",
+   "الإبط",
+   "الشرج"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0842",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "المادة المسؤلة عن تجلط الدم في حالة الجروح هي",
+  "q_ar": null,
+  "options": [
+   "الصفائح الدموية",
+   "البلازما",
+   "خلايا الدم البيضاء"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0843",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "مدة الحمل الطبيعية هي",
+  "q_ar": null,
+  "options": [
+   "36 أسبوع",
+   "37 أسبوع",
+   "38 أسبوع"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0844",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "معدل نبض الطفل حديث الولادة هو",
+  "q_ar": null,
+  "options": [
+   "120 _ 160",
+   "60 إلى 100",
+   "80 إلى 90"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0845",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "يصبح ضغط الدم مرتفع إذا كان مقداره",
+  "q_ar": null,
+  "options": [
+   "140 إلى 160",
+   "120 إلى 140",
+   "110 إلى 120"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0846",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "فحص الحساسية يجب عمله قبل البدء بإعطاء الدواء وذلك",
+  "q_ar": null,
+  "options": [
+   "للتأكد من عدم وجود حساسية لهذا الدواء لدى المريض",
+   "لتجربة الدواء قبل الإستمرار في إعطائه"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0847",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "نسبة الأوكسجين الطبيعية بجسم الإنسان",
+  "q_ar": null,
+  "options": [
+   "50 إلى 60%",
+   "70 إلى 80%",
+   "95 إلى 100%"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0848",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "قبل البدء بعملية نقل الدم مالذي يجب عمله",
+  "q_ar": null,
+  "options": [
+   "مراقبة المريض لمدة 30 دقيقة",
+   "أخذ العلامات الحيوية"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0852",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "قبل البدء بإعطاء عقار الدايجوكسين Digoxin مالذي يجب عمله",
+  "q_ar": null,
+  "options": [
+   "أخذ النبض",
+   "مراقبة المريض لمدة 30 دقيقة",
+   "إعطاء الدواء بعد الأكل مباشرة"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0849",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "بعد تركيب المغذي ب3 دقائق شعر المريض بألم شديد مالذي يجب عمله",
+  "q_ar": null,
+  "options": [
+   "إيقاف المغذي فوراً",
+   "إخبار الطبيب",
+   "إخبار رئيس القسم"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0850",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "مرض الدرن (TB)يعتبر من الأمراض",
+  "q_ar": null,
+  "options": [
+   "الفيروسية",
+   "البكتيرية",
+   "الوراثية"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0851",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "مالذي يجب عمله قبل البدء بعملية الإنعاش القلبي الرنوي(SPR)",
+  "q_ar": null,
+  "options": [
+   "التأكد من مستوى الوعي",
+   "التأكد من موجود نبض لدى المصاب",
+   "الإتصال بالفريق الطبي",
+   "التأكد من وجود نبض وتنفس لدى المريض"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0853",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "كل هذه أعراض لمرض السكري ماعد",
+  "q_ar": null,
+  "options": [
+   "كثيره البول",
+   "قلة البول",
+   "كثره العطش"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0854",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "درجة الحرارة الطبيعية للإنسان البالغ",
+  "q_ar": null,
+  "options": [
+   "38",
+   "37",
+   "35"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0855",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "كمية البول الطبيعية لشخص وزنة 60 Kg خلال 24 ساعة",
+  "q_ar": null,
+  "options": [
+   "600 مل",
+   "500 مل",
+   "1500 مل"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0856",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "كلمة (QID) تعني",
+  "q_ar": null,
+  "options": [
+   "أربع مرات باليوم",
+   "ثلاث مرات باليوم",
+   "مرتين باليوم"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0857",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "لماذا قرر الممرض ان مريض القلب اللذي يراقبه يحتاج الى انعاش قلب رئوي مع العلم انه يلاحظه في( cardiac monitor)",
+  "q_ar": null,
+  "options": [
+   "توقف في كهرباء القلب heart block",
+   "فيتا ب _ نبضات كاذبه",
+   "فرفه في نبض البطين ventricular fibrillation"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0858",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "اذا كانت الجرعه الموجوده في المستشفى 1 جم من الفيلوسيف لكل 10 مل . كم يأخذ المريض في الجرعه الواحده؟",
+  "q_ar": null,
+  "options": [
+   "5.5 ملل",
+   "6.5 ملل",
+   "5 ملل"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "truncated"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0859",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "مصطلح dementia يعني :-",
+  "q_ar": null,
+  "options": [
+   "فقدان الوعي",
+   "فقدان الوظائف العقليه",
+   "فقدان الوظائف الحيويه"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0860",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "طفل عمره شهرين يعاني من down syndrome",
+  "q_ar": null,
+  "options": [
+   "انف كبير",
+   "رأس صغير مدور مع تسطح خلف الرأس",
+   "لسان صغير"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0861",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "مريضه , 33 سنه , وزنها يصل الى 110 كجم تظهر عليها اعراض التهاب المراره كرر الطبيب تأجيل عمليتها حتى تختفي جميع الاعراض الحاده للمراره , بعد انخفاض الاعراض امر الطبيب بسوائل قليلة الدهون , ماهو الطعام اللذي تتجنبه ؟",
+  "q_ar": null,
+  "options": [
+   "الفواكه المطهيه",
+   "اللحم المسلوق",
+   "البيض والجبن"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f34",
+    "answer_text": "البيض والجبن"
+   }
+  ]
+ },
+ {
+  "id": "Q0862",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "ماهو اول جزء يقيم للمريض بعد اخذ العلامات الحيويه ؟",
+  "q_ar": null,
+  "options": [
+   "معدل الوعي",
+   "الجلد",
+   "سماع صوت الرئه"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0863",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "ماهو التحليل اللذي يجب عمله في اي عملية جراحيه : -",
+  "q_ar": null,
+  "options": [
+   "تحليل وظائف الكبد",
+   "تحليل وظائف الكلى",
+   "التجلد النزف"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f34",
+    "answer_text": "التجلد النزف"
+   }
+  ]
+ },
+ {
+  "id": "Q0864",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند استخدام spinal anesthesia للمريض ماهي النقطه المهمه اللتي يجب ان تقيم في المريض قبل التخير ؟",
+  "q_ar": null,
+  "options": [
+   "معدل السوائل في الجسم",
+   "التدخين",
+   "وظائف الحركه في الجسم"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0865",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "هرمون مدر للبول : -",
+  "q_ar": null,
+  "options": [
+   "يقل في حالة السكر",
+   "ينظم انخفاض الماء في الكلى",
+   "كل ما سبق"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": [
+   {
+    "src": "f34",
+    "answer_text": "كل ما سبق"
+   }
+  ]
+ },
+ {
+  "id": "Q0866",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند النتهاء من تقديم علاج فلورازيبام ( دالمين )30 ملجم عن طريق الفم اي من المقياس الآتيه يجب اتباعها لحماية المريض من الاعراض اللتي يسببها العلاج",
+  "q_ar": null,
+  "options": [
+   "ربط اغطية السرير على المريض بشده",
+   "رفع جوانب السرير",
+   "وضع جرس الاستدعاء في متناول يد المريض",
+   "شرح الاعراض الجانبيه للمريض"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0867",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "بعد ساعه من وضع الكمادات البلاستيكيه حول الالتواء اللذي حدث في مفصل الكاحل استدعاك المريض يشتكي من وخز خفيف وحقان في اصابع القدم , ماهو التصرف السليم في هذه الحاله ؟",
+  "q_ar": null,
+  "options": [
+   "فحص او جس نبض الساق",
+   "اعادة ربط الرباط وتوسيعه",
+   "ترشد المريض لرفع القدم المصابه",
+   "تشجيع المريض بتحريك اصابعه كل ساعتين"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0868",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "تم تكليف برعاية مريض افريقي يبلغ من العمر 30 عام اخل المستشفى بسبب ازمة ربو لوحظ عليه صعوبه في التنفس وشعور بعدم الراحه ونظرا للون جلده الداكن , يمكن التعرف ما اذا كان يعاني المريض من نقص في الاوكسجين عن طريق:",
+  "q_ar": null,
+  "options": [
+   "فحص غشاء الغم",
+   "قياس العلامات الحيويه كل ساعه",
+   "ملاحظة شفتاه والشعيرات الدمويه في اصابع يده",
+   "وضع جهاز قياس للنبض في اصبعه ( بلس اوكسيميتر)"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0869",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "الطريقه المثلى للحصول على امر الطبيب بفحص معدل السكر والاسيتون في البول لمريض سكر هي:",
+  "q_ar": null,
+  "options": [
+   "اجعل المريض يجمع عينة بول متوسطه",
+   "ارشد المريض بجمع العينه حيث تكون معقمه",
+   "تخلص من العينه الاولى لليوم واجمع بقية العينات مدة 24 ساعه",
+   "تخلص من العينه الاولى واحصل على اول عينه يستطيع المريض توفيرها"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0870",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "اثناء تنظيف جرح مفتوح يجب اتباع الاتي:",
+  "q_ar": null,
+  "options": [
+   "وضع ضغط متواصل على الجرح",
+   "يشطف الجرح كاملا بدفع ماء قوي",
+   "تنظيف الجرح من الداخل بمادة مطهره",
+   "ابدأ من المنطقه الاكثر نظافه باتجاه المنطقه الاكثر تلوث"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0871",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "للعنايه بمريض اجريت له عملية هيموردوكتومي المقاييس المتبعه هي:",
+  "q_ar": null,
+  "options": [
+   "استخدم انبوب اخراج للتقليل من الم الافرازات",
+   "تغيير ضمادات الجرح في منطقة العمليه",
+   "التشجيع على اخذ حمام دافئ",
+   "تقديم مسهل او ملين لتخفيف الالم اثناء الاخراج"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0872",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "اي من العلامات الاتيه تعتبر ن اعراض نقص الاوكسجين بالدم:",
+  "q_ar": null,
+  "options": [
+   "صعوبه في التنفس , انخفاض ضغط الدم , انخفاض في ضربات القلب",
+   "انخفاض في ضربات القلب , صفير , تشتت الادراك",
+   "قصر عملية التنفس , تشتت الادراك",
+   "الشعور بالتعب والضعف , ارتفاع في ضربات القلب"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0873",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "عند فحص نسبة التسمم والاعراض الجانبيه لعلاج ثايوفيلين يجب ملاحظة :",
+  "q_ar": null,
+  "options": [
+   "انخفاض ضغط الدم , مغص في البطن , اسهال",
+   "تهيج جلدي , غثيان واستفراغ , جفاف",
+   "الشعور بالتعب , ارتفاع في ضربات القلب , قلق",
+   "فقد الشهيه , زغلله في العينين , شد عضلي"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0874",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "ادخل مريض سكر للمستشفى لعلاج ذات الرئه , اعطي 22 وحده انسولين عادي الساعه 6.30 ص ولم يستطع تناول الافطار اهم ما يتطلب من الممرض ملاحظتة في هذه الحاله:",
+  "q_ar": null,
+  "options": [
+   "زيادة في اخراج البول",
+   "عطش",
+   "نعاس",
+   "تعرق شديد"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0875",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "زيادة نسبة الاوكسجين تؤدي الى:",
+  "q_ar": null,
+  "options": [
+   "زيادة اعطاء الاكسجين",
+   "زيادة نسبة ثاني اكسيد الكربون",
+   "يجعل نسبة ثاني اكسيد الكربون مستقره",
+   "يقلل فعالية وظائف alveolar surface area"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0876",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "اي من نتائج تحليل الدم للشريان للغازات يشير الى ظهور غير تنفس حمضي غير متاعدل uncompensated respiratory acidosis",
+  "q_ar": null,
+  "options": [
+   "زيادة , pco2 نقص hco3",
+   "نقص , pco2 عادي hco3",
+   "نقص, pco2 نقص hco3",
+   "زياده , pco2 زياده hco3"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [
+   "source_typo"
+  ],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0877",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "مريض بالسكر ارتفعت حرارته مصحوبه بكحه وصعوبه في التنفس بعد الفحص امر الطبيب بـ cbc عند ظهور النتائج , اي من الاجزاء سيكون جل اهتمامك لمساعدتك بالعنايه بالمريض عنايه كامله كممرض:",
+  "q_ar": null,
+  "options": [
+   "wbc",
+   "الهيموجلوبين والهيماتوكريت",
+   "rbc",
+   "عدد الصفائح الدمويه"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ },
+ {
+  "id": "Q0878",
+  "specialty": "nursing",
+  "type": "mcq",
+  "q": "امر الطبيب بـ 500 ملجم مضاد حيوي augmenten عليك ان تقدمه آمنا للمريض:",
+  "q_ar": null,
+  "options": [
+   "500جم",
+   "0.5 جم",
+   "0.05 جم",
+   "0.005 جم"
+  ],
+  "source_marked_answer_index": null,
+  "source_marked_answer_text": null,
+  "source_status": "none",
+  "flags": [],
+  "weak_marks_(examinee_pen_circles_unreliable)": []
+ }
+]

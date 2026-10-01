@@ -1,0 +1,2478 @@
+[
+ {
+  "src": "f23",
+  "page": 1,
+  "no": 1,
+  "lang": "en",
+  "q": "lf a pataient s blood pressure is 150/96 his pulse pressure is",
+  "q_ar": null,
+  "options": [
+   "54",
+   "96",
+   "150",
+   "54"
+  ],
+  "answer": 3,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "duplicate_options",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 1,
+  "no": 2,
+  "lang": "en",
+  "q": "the suitable position following. lumber puncture is",
+  "q_ar": null,
+  "options": [
+   "High fowler s. postion",
+   "supine postion",
+   "Lateral postion",
+   "prone postion"
+  ],
+  "answer": 1,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 1,
+  "no": 3,
+  "lang": "en",
+  "q": "which of the following is not type wound exudates",
+  "q_ar": null,
+  "options": [
+   "purulent exudates",
+   "Hemrrhe exudates",
+   "metabolic exudates",
+   "serous exudatea"
+  ],
+  "answer": 2,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 1,
+  "no": 4,
+  "lang": "en",
+  "q": "which of the following is not type wound exudates",
+  "q_ar": null,
+  "options": [
+   "purulent exudates",
+   "Hemrrhe exudates",
+   "metabolic exudates",
+   "serous exudatea"
+  ],
+  "answer": 2,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 2,
+  "no": 5,
+  "lang": "en",
+  "q": "The Pt use diuretics and complain of weakness of joint and difficulty in motion what side effects cause this",
+  "q_ar": null,
+  "options": [
+   "Hypokamia",
+   "Hyponatremia",
+   "Hypocalcemia",
+   "Hypokalemia"
+  ],
+  "answer": 3,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 2,
+  "no": 6,
+  "lang": "en",
+  "q": "when palpatng the abdomen begin by palpating",
+  "q_ar": null,
+  "options": [
+   "lightly",
+   "frimly",
+   "deeply",
+   "the most tender"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 2,
+  "no": 7,
+  "lang": "en",
+  "q": "client is admitted to the hospital due to metabolic acidosis caused by diabetic. ketoacidosis (DkA) the medical. assisstant prepares which of the follwing. medications as intial treatment for this problem",
+  "q_ar": null,
+  "options": [
+   "Reguler insulin",
+   "sodium bicarbnate",
+   "Reguler insulin",
+   "insulin"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "duplicate_options",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 3,
+  "no": 8,
+  "lang": "en",
+  "q": "the bleeding from the head can he prevented by pressure point on",
+  "q_ar": null,
+  "options": [
+   "Femoral artery",
+   "Facial artary",
+   "temporal artery",
+   "redisl artery"
+  ],
+  "answer": 2,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 3,
+  "no": 9,
+  "lang": "en",
+  "q": "client has a pressure ulce withe shallow partal skin thckess eroded necrotic aers the physicial assistant would treat the area with which dressing",
+  "q_ar": null,
+  "options": [
+   "Algnate",
+   "Dry gauze",
+   "Hydrocolloid",
+   "No dressing is indicated"
+  ],
+  "answer": 1,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 3,
+  "no": 10,
+  "lang": "en",
+  "q": "patienet withe heart rate 88and respiratory rate 30and temperature 37. 7. which abnrmal",
+  "q_ar": null,
+  "options": [
+   "pulse rate",
+   "respirtory and temperatur",
+   "temperature",
+   "non the above"
+  ],
+  "answer": 1,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 4,
+  "no": 11,
+  "lang": "en",
+  "q": "patient care with sezures includes the following",
+  "q_ar": null,
+  "options": [
+   "remove objects that may ham the pat",
+   "plac theoatient on the floor",
+   "protect airway an ppen",
+   "All of above"
+  ],
+  "answer": 3,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 4,
+  "no": 12,
+  "lang": "en",
+  "q": "First dagree burn",
+  "q_ar": null,
+  "options": [
+   "is red and blistered",
+   "involves only the top Layer of skink",
+   "Destroys all layer of skin",
+   "is the most serious of burns"
+  ],
+  "answer": 1,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 4,
+  "no": 13,
+  "lang": "en",
+  "q": "The bottom and surface are cleaned in the hospital Are you",
+  "q_ar": null,
+  "options": [
+   "saopy water",
+   "insecticide",
+   "Disinfectant",
+   "all of the above"
+  ],
+  "answer": 3,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 5,
+  "no": 14,
+  "lang": "en",
+  "q": "the deficiency of vitamin. D. is called",
+  "q_ar": null,
+  "options": [
+   "Rickets",
+   "Gastritis",
+   "scuryy",
+   "keratomalacia"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 5,
+  "no": 15,
+  "lang": "en",
+  "q": "the dressing isoppliead to the wound for the following reason",
+  "q_ar": null,
+  "options": [
+   "To absorb drainge",
+   "To splint or immobilize the wound",
+   "protect the wound from bacteria contaminated",
+   "All of above"
+  ],
+  "answer": 3,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 5,
+  "no": 16,
+  "lang": "en",
+  "q": "All of the following are the. effects of the immobility except",
+  "q_ar": null,
+  "options": [
+   "increase metabolic rate",
+   "Stiffness of and pain. in the joints",
+   "pooling of respiratory secretions",
+   "orthostatic hypotension."
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 6,
+  "no": 17,
+  "lang": "en",
+  "q": "what is primary examination use in abdominal check",
+  "q_ar": null,
+  "options": [
+   "palpation",
+   "percussion",
+   "inspection",
+   "Auscultation"
+  ],
+  "answer": 2,
+  "answer_basis": "arabic_answer_line",
+  "answer_ar": "الاجابة inspection",
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 6,
+  "no": 18,
+  "lang": "en",
+  "q": "Bilndness vision in Night The deficiency of any of the followoing",
+  "q_ar": null,
+  "options": [
+   "VItamin. A",
+   "Vitamin. E",
+   "Vitemin. c",
+   "Vitemin. D"
+  ],
+  "answer": 0,
+  "answer_basis": "arabic_answer_line",
+  "answer_ar": "الاجابة Vitemin. A",
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 6,
+  "no": 19,
+  "lang": "en",
+  "q": "patient with hepatitis He say eat contaminated food what type hepatitis",
+  "q_ar": null,
+  "options": [
+   "hepatitis. A",
+   "hepatitis. B",
+   "hepatitis. c",
+   "all of the above"
+  ],
+  "answer": 0,
+  "answer_basis": "arabic_answer_line",
+  "answer_ar": "الاجابة hepatitis. A",
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 7,
+  "no": 20,
+  "lang": "en",
+  "q": "the. bleeding from the ceebro vyculor accident. Brain",
+  "q_ar": null,
+  "options": [
+   "Temporal after",
+   "occipital after",
+   "Femoral after",
+   "parietal after"
+  ],
+  "answer": 0,
+  "answer_basis": "arabic_answer_line",
+  "answer_ar": "الاجابة Tempral after",
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 7,
+  "no": 21,
+  "lang": "en",
+  "q": "The nurse prepares to administer buccal medication",
+  "q_ar": null,
+  "options": [
+   "on the clients skin",
+   "conjugative",
+   "Between the clints chec"
+  ],
+  "answer": 2,
+  "answer_basis": "arabic_answer_line",
+  "answer_ar": "الاجابة c",
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 7,
+  "no": 22,
+  "lang": "en",
+  "q": "pressure ulcers can be prevented through a variety of measures except",
+  "q_ar": null,
+  "options": [
+   "Hygiene and skin care",
+   "positioning",
+   "the use of support surface therapy",
+   "the use of friction"
+  ],
+  "answer": 3,
+  "answer_basis": "arabic_answer_line",
+  "answer_ar": "الاجابة d the use of friction",
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 8,
+  "no": 23,
+  "lang": "en",
+  "q": "Eclampsia. factors effecting growth except",
+  "q_ar": null,
+  "options": [
+   "decrease plasma volum",
+   "increas blood acid",
+   "increase secreation of estrogine",
+   "a&b"
+  ],
+  "answer": 0,
+  "answer_basis": "arabic_answer_line",
+  "answer_ar": "الاجابة decrease plasma volum",
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 8,
+  "no": 24,
+  "lang": "en",
+  "q": "The most common non-communicable diseases are the following:",
+  "q_ar": null,
+  "options": [
+   "cancer",
+   "high blood pressure",
+   "syphilis..."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 8,
+  "no": 26,
+  "lang": "en",
+  "q": "The rule of nine evaluates the degree of burns..",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 8,
+  "no": 27,
+  "lang": "en",
+  "q": "palpation is a vital part physical examination",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": "( T )",
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 8,
+  "no": 28,
+  "lang": "en",
+  "q": "Patient, his pulse rate is found to be 120 bpm. His heart rate could be described as:",
+  "q_ar": null,
+  "options": [
+   "Tachypnea.",
+   "Tachycardia.",
+   "Bradypnea.",
+   "Bradycardia."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 9,
+  "no": 29,
+  "lang": "en",
+  "q": "Position of immobilization in fracture both bones of forearm in an adult male will be:",
+  "q_ar": null,
+  "options": [
+   "Prone.",
+   "Mid prone.",
+   "Supine.",
+   "??"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 9,
+  "no": 30,
+  "lang": "en",
+  "q": "What would be the primary goal of therapy for a client with pulmonary in failure:",
+  "q_ar": null,
+  "options": [
+   "Enhance comfort.",
+   "Increase cardiac output.",
+   "Improve respiratory status.",
+   "Peripheral edema decreased."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 9,
+  "no": 31,
+  "lang": "en",
+  "q": "The medical assistant examines the forehead sinus any the following places done:",
+  "q_ar": null,
+  "options": [
+   "Frontal.",
+   "Zygomatic.",
+   "Maxilla.",
+   "Temporary."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 10,
+  "no": 32,
+  "lang": "en",
+  "q": "During the physical assessment of the patient with severe anemia, which finding is of the most concern to the nurse:",
+  "q_ar": null,
+  "options": [
+   "Anorexia.",
+   "Bone pain.",
+   "Hepatomegaly.",
+   "Dyspnea at rest."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 10,
+  "no": 33,
+  "lang": "en",
+  "q": "In teaching the patient with pernicious anemia about the disease, the nurse explains that it results from a lack of:",
+  "q_ar": null,
+  "options": [
+   "Folic acid.",
+   "Intrinsic factor.",
+   "Extrinsic factor.",
+   "Cobalamin intake."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 10,
+  "no": 34,
+  "lang": "en",
+  "q": "What causes the anemia of sickle cell disease:",
+  "q_ar": null,
+  "options": [
+   "Intracellular hemolysis of sickled RBCs.",
+   "Accelerated breakdown of abnormal RBCs.",
+   "Autoimmune antibody destruction of RBCs.",
+   "Isoimmune antibody- antigen reactions with RBCs."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 11,
+  "no": 35,
+  "lang": "en",
+  "q": "non-communicable disease including the following EXCEPT:",
+  "q_ar": null,
+  "options": [
+   "Syphilis.",
+   "Cancer.",
+   "Hypertension.",
+   "Blindness."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 11,
+  "no": 36,
+  "lang": "en",
+  "q": "The nurse is inserting a nasogastric tube in an adult client. During the procedure, the client begins to cough and has difficulty breathing. What is the most appropriate action?",
+  "q_ar": null,
+  "options": [
+   "Insert the tube quickly.",
+   "Notify the health care provider immediately.",
+   "Remove the tube and reinsert it when the respiratory distress subsides.",
+   "Pull back on the tube and wait until the respiratory distress subsides."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 11,
+  "no": 37,
+  "lang": "en",
+  "q": "During the healing phase of inflammation, which cells would most likely to regenerate :",
+  "q_ar": null,
+  "options": [
+   "Skin.",
+   "Neurons.",
+   "Cardiac muscle.",
+   "Skeletal muscle."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 12,
+  "no": 38,
+  "lang": "en",
+  "q": "Sprain is a soft tissue injury of the ligaments within a joint",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 12,
+  "no": 39,
+  "lang": "en",
+  "q": "Chemical burn is caused by caustic soad of example of strong acid",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 12,
+  "no": 40,
+  "lang": "en",
+  "q": "Esophagus is located anterior of spinal and posterior of trachea",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 12,
+  "no": 41,
+  "lang": "en",
+  "q": "Intestinal obstruction is elective surgery",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 12,
+  "no": 42,
+  "lang": "en",
+  "q": "Blister is most common occurs is fourth stage",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 12,
+  "no": 43,
+  "lang": "en",
+  "q": "Rule of nine for burn used to measure the depth of burn",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 12,
+  "no": 44,
+  "lang": "en",
+  "q": "Metabolic disorder are one of cause fracture",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 12,
+  "no": 45,
+  "lang": "en",
+  "q": "Diagnostic test used to confirm data that obtain from medical assessment",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 12,
+  "no": 46,
+  "lang": "en",
+  "q": "Chronic pain indicates that damage or injury has occurred",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 12,
+  "no": 47,
+  "lang": "en",
+  "q": "Palpation technique is one of the components of the clinical examination",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 13,
+  "no": 1,
+  "lang": "en",
+  "q": "A person, who is unconscious, not breathing, has a weak pulse, needs:",
+  "q_ar": null,
+  "options": [
+   "CPR.",
+   "Heimlich maneuver.",
+   "Rescue breathing.",
+   "Back blow and chest thrust."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 13,
+  "no": 2,
+  "lang": "en",
+  "q": "All following Couse of anemia pregnancy women EXCEPT :",
+  "q_ar": null,
+  "options": [
+   "Deficiency of iron in diet.",
+   "Deficiency of folic acid.",
+   "Hemorrhage during menstrual.",
+   "Deficiency vitamin B12."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 13,
+  "no": 3,
+  "lang": "en",
+  "q": "An infected patient has chills and begin shivering, the best nursing intervention is to :",
+  "q_ar": null,
+  "options": [
+   "Apply iced alcohol sponges.",
+   "Provide increased cool liquids.",
+   "Provide additional body bed clothes.",
+   "Provide increased ventilation."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 14,
+  "no": 4,
+  "lang": "en",
+  "q": "A patient with a heart condition and pneumonia appeared on his lips, a blue - color. What does the have :",
+  "q_ar": null,
+  "options": [
+   "Cyanosis.",
+   "Hypoxia.",
+   "hypoxemia.",
+   "??"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 14,
+  "no": 5,
+  "lang": "en",
+  "q": "All of the following are normally present in urine result EXCEPT:",
+  "q_ar": null,
+  "options": [
+   "Urea.",
+   "Creatinine.",
+   "Albumin.",
+   "Sodium."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 14,
+  "no": 6,
+  "lang": "en",
+  "q": "Shock is the body's response to :",
+  "q_ar": null,
+  "options": [
+   "Blood loss.",
+   "Emotional distress.",
+   "Severe allergic reaction.",
+   "All of the above."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 14,
+  "no": 7,
+  "lang": "en",
+  "q": "Pulse pressure is defined as which of the following:",
+  "q_ar": null,
+  "options": [
+   "Difference between systolic and diastolic pressure.",
+   "Expansion of the artery as blood moves through it.",
+   "Difference between arterial and venous pressure.",
+   "Difference between venous and systolic pressure."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 15,
+  "no": 8,
+  "lang": "en",
+  "q": "All of the followings are used for monitoring the deterioration in renal function EXCEPT :",
+  "q_ar": null,
+  "options": [
+   "White blood cells count.",
+   "Serum creatinine.",
+   "Blood urea nitrogen.",
+   "urine volume."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 15,
+  "no": 9,
+  "lang": "en",
+  "q": "Which symptoms would indicate internal bleeding :",
+  "q_ar": null,
+  "options": [
+   "Rapid weak pulse, Excessive thirst.",
+   "Skin that feels cool or moist, or looks pale or blus ….",
+   "Tender, swollen, bruised, or hard areas of his body, such as the abdomen.",
+   "All of the above."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 15,
+  "no": 10,
+  "lang": "en",
+  "q": "Cardiogenic shock occurs as a result of the following :",
+  "q_ar": null,
+  "options": [
+   "Bacteria.",
+   "Allergic reaction.",
+   "Myocardial infarction.",
+   "Loss of blood."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 16,
+  "no": 11,
+  "lang": "en",
+  "q": "The laboratory tests most specific to renal function are:",
+  "q_ar": null,
+  "options": [
+   "potassium and sodium measurements.",
+   "BUN and creatinine measurements.",
+   "Chloride and bicarbonate measurements.",
+   "Blood glucose and ketone measurements."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 16,
+  "no": 12,
+  "lang": "en",
+  "q": "Which of the following clinical procedures always requires surgical asepsis:",
+  "q_ar": null,
+  "options": [
+   "Vaginal instillation of conjugated estrogen.",
+   "Urinary catheterization.",
+   "Nasogastric tube insertion.",
+   "Colostomy irrigation."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 16,
+  "no": 13,
+  "lang": "en",
+  "q": "A disease that always involves damage to the auricular Cartilages is known as:",
+  "q_ar": null,
+  "options": [
+   "Luxation .",
+   "Sciatica.",
+   "Ankyloses .",
+   "Arthritis."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 17,
+  "no": 14,
+  "lang": "en",
+  "q": "The last step in the healing of a fracture is:",
+  "q_ar": null,
+  "options": [
+   "Hematoma formation.",
+   "Consolidation.",
+   "Remodeling.",
+   "Demineralization."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 17,
+  "no": 15,
+  "lang": "en",
+  "q": "The morning vital signs of 38-year-old patients are auxiliary temperature 88, and the respiratory rate 30. Which findings should be reported:",
+  "q_ar": null,
+  "options": [
+   "Respiratory rate only.",
+   "Temperature only.",
+   "Pulse rate and temperature.",
+   "Temperature and respiratory rate."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 17,
+  "no": 16,
+  "lang": "en",
+  "q": "Client is admitted to the hospital due to metabolic acidosis caused by diabetic ketoacidosis (DKA). The medical assistant prepares which of the following medications as an initial treatment for this problem:",
+  "q_ar": null,
+  "options": [
+   "Regular insulin.",
+   "Potassium.",
+   "Sodium bicarbonate.",
+   "Calcium glaucom"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 18,
+  "no": 18,
+  "lang": "en",
+  "q": "During the second day of hospitalization of the client after a Myocardial Infraction the following is an expected outcome :",
+  "q_ar": null,
+  "options": [
+   "Able to perform self-care activities without pain.",
+   "Severe chest pain.",
+   "Can recognize the risk factors of Myocardial Infarction.",
+   "Can Participate in cardiac rehabilitation walking program."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 18,
+  "no": 19,
+  "lang": "en",
+  "q": "The bleeding from the head can be prevented by pressure point on:",
+  "q_ar": null,
+  "options": [
+   "Femoral artery.",
+   "Facial artery.",
+   "Temporal artery.",
+   "Radial artery."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 18,
+  "no": 20,
+  "lang": "en",
+  "q": "Client is admitted to the hospital due to metabolic acidosis caused by diabetic ketoacidosis (DKA). The medical assistant prepares which of the following medications as an initial treatment for this problem :",
+  "q_ar": null,
+  "options": [
+   "Regular insulin.",
+   "Potassium.",
+   "Sodium bicarbonate.",
+   "Calcium glaucoma."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 19,
+  "no": 21,
+  "lang": "en",
+  "q": "The management of the hypovolemic shock include:",
+  "q_ar": null,
+  "options": [
+   "The timely administration of IV fluids.",
+   "Blood, and Blood products.",
+   "Medications that elevate blood pressure.",
+   "All of the above."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 19,
+  "no": 22,
+  "lang": "en",
+  "q": "Surgical asepsis mean:",
+  "q_ar": null,
+  "options": [
+   "Destroying bacteria from articles.",
+   "Destroying the bacteria before entering in the body.",
+   "Removing the bacteria which is in contact with patient.",
+   "Hand washing."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 19,
+  "no": 23,
+  "lang": "en",
+  "q": "Medical assistant should explain to male client with diabetic glucose is preferred to urine glucose testing because:",
+  "q_ar": null,
+  "options": [
+   "Hypokalemia.",
+   "Hyperkalemia.",
+   "Hyponatremia.",
+   "Hypernatremia."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 20,
+  "no": 24,
+  "lang": "en",
+  "q": "Which of the following should the medical assistant teach digoxin of toxicity:",
+  "q_ar": null,
+  "options": [
+   "Increased appetite.",
+   "Skin rash over the chest and back.",
+   "Elevated blood pressure.",
+   "Visual disturbance."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 20,
+  "no": 25,
+  "lang": "en",
+  "q": "When palpating the abdomen, begin by palpating:",
+  "q_ar": null,
+  "options": [
+   "Lightly.",
+   "Firmly.",
+   "Deeply.",
+   "The most tender..."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 20,
+  "no": 26,
+  "lang": "en",
+  "q": "Patient with chronic with chronic gastritis, he complains deficiency any Vitamin:",
+  "q_ar": null,
+  "options": [
+   "Vitamin B12.",
+   "Vitamin C.",
+   "Vitamin A.",
+   "Vitamin E."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f23",
+  "page": 21,
+  "no": 27,
+  "lang": "en",
+  "q": "Tells a client that an increase intake of foods that are rich in Vitamin E ane..... carotene are important for healthier skin. The Medical Assistant teaches the client that food sources of both of these Substances Are:",
+  "q_ar": null,
+  "options": [
+   "Fish and fruit.",
+   "Oranges and grapefruit.",
+   "Carrots and potatoes.",
+   "Spinach and mangoes."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 21,
+  "no": 28,
+  "lang": "en",
+  "q": "Patient With find whatTUB hit mcgrath hendricks happy at fontamintense",
+  "q_ar": null,
+  "options": [
+   "WHEREBalls",
+   "miss hoping",
+   "Chepolitise",
+   "DoAllorché above"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo",
+   "unreadable"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 21,
+  "no": 29,
+  "lang": "en",
+  "q": "the mine into pollen unconscious",
+  "q_ar": null,
+  "options": [
+   "PERA Listed",
+   "atheist Thirist",
+   "bools airwaves",
+   "gow thrust"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo",
+   "unreadable"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 22,
+  "no": 8,
+  "lang": "en",
+  "q": "The client is complaining of shortness of breath. His respirations are 28 and labored. The bed is currently in the flat position. The nurse puts the bed in which position?",
+  "q_ar": null,
+  "options": [
+   "Fowler's",
+   "Semi-Fowler's",
+   "Trendelenburg",
+   "Reverse Trendelenburg"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 22,
+  "no": 9,
+  "lang": "en",
+  "q": "The first step in clinical intervention for patient with diabetes coma:",
+  "q_ar": null,
+  "options": [
+   "insert IV cannula and start glucose 10% infusion",
+   "Insert urine catheter",
+   "check blood sugar.",
+   "Give the patient oxygen therapy"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 22,
+  "no": 10,
+  "lang": "en",
+  "q": "A person, who is unconscious, not breathing, has a weak pulse, needs.",
+  "q_ar": null,
+  "options": [
+   "CPR",
+   "Heimlich maneuver.",
+   "Rescue breathing",
+   "Back blows and chest thrusts"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 22,
+  "no": 11,
+  "lang": "en",
+  "q": "Giving the patient medication immediately and only once is:",
+  "q_ar": null,
+  "options": [
+   "Single order.",
+   "Standing order.",
+   "As needed order"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 24,
+  "no": 9,
+  "lang": "en",
+  "q": "The first step in clinical intervention for patient with diabetes coma:",
+  "q_ar": null,
+  "options": [
+   "insert IV cannula and start glucose 10% infusion",
+   "Insert urine catheter",
+   "check blood sugar.",
+   "Give the patient oxygen therapy"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 24,
+  "no": 10,
+  "lang": "en",
+  "q": "A person, who is unconscious, not breathing, has a weak pulse, needs.",
+  "q_ar": null,
+  "options": [
+   "CPR",
+   "Heimlich maneuver.",
+   "Rescue breathing",
+   "Back blows and chest thrusts"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 24,
+  "no": 11,
+  "lang": "en",
+  "q": "Patient with hepatitis he say eat Contaminated food what type hepatitis:",
+  "q_ar": null,
+  "options": [
+   "hepatitis A",
+   "hepatitis B",
+   "hepatitis C",
+   "All of the above"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 24,
+  "no": 12,
+  "lang": "en",
+  "q": "Open air way for patient unconscious costly?",
+  "q_ar": null,
+  "options": [
+   "head tilt, chin lift",
+   "chest thrust",
+   "jaw thrust ..",
+   "put him in left side position"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo",
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 24,
+  "no": 13,
+  "lang": "en",
+  "q": "Abnormal in liver test:",
+  "q_ar": null,
+  "options": [
+   "low hemoglobin",
+   "low serum bilirubin",
+   "blood urea",
+   "BUN"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 25,
+  "no": 12,
+  "lang": "en",
+  "q": "surgical asepsis means:",
+  "q_ar": null,
+  "options": [
+   "removing the bacteria which is in contact with the patient",
+   "destroying bacteria from articles",
+   "destroying the bacteria before entering in to the body",
+   "hand washing"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 25,
+  "no": 13,
+  "lang": "en",
+  "q": "The medical assistant Ahmed should explain to male client of blood glucose is preferred to urine glucose testing because...",
+  "q_ar": null,
+  "options": [
+   "Can be done by the client",
+   "It is easy to perf",
+   "More accurate",
+   "It is not influence"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 25,
+  "no": 14,
+  "lang": "en",
+  "q": "Clint is admitted to the hospital due to metabolic acidosis caused by Diabetic ketoacidosis (DKA). The nurse prepares which of the following medications as an initial treatment for this problem",
+  "q_ar": null,
+  "options": [
+   "Potassium",
+   "Sodrum bicarbonate",
+   "Regular insulin",
+   "Calcium gluconate"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo",
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 25,
+  "no": 15,
+  "lang": "en",
+  "q": "The medical assistant is instructing the male client who has reduce postoperative swelling following the procedure. What should",
+  "q_ar": null,
+  "options": [
+   "Limit oral fluid",
+   "the scrotum",
+   "Remain in a low-fibe..........",
+   "Apply heat to the abdomen"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "source_typo",
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 25,
+  "no": 16,
+  "lang": "en",
+  "q": "Which of the following should the medical assistant teach of toxicity?",
+  "q_ar": null,
+  "options": [
+   "Increased appetite",
+   "Skin rash over the chest and back",
+   "Elevated blood pressure",
+   "Visual disturbance"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo",
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 25,
+  "no": 17,
+  "lang": "en",
+  "q": "If a patient's blood pressure is 150/96, his pulse pressure is",
+  "q_ar": null,
+  "options": [
+   "54",
+   "96",
+   "150"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 26,
+  "no": 16,
+  "lang": "en",
+  "q": "The suitable position following lumber puncture is:",
+  "q_ar": null,
+  "options": [
+   "High fowler's position.",
+   "Supine position.",
+   "Lateral position",
+   "Prone position."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 26,
+  "no": 17,
+  "lang": "en",
+  "q": "Another name for Pressure ulcers is:",
+  "q_ar": null,
+  "options": [
+   "decubitus ulcers",
+   "rubbing of the skin",
+   "diminished sensation",
+   "legs ulcers"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 26,
+  "no": 18,
+  "lang": "en",
+  "q": "........ are intentional wounds that were created by entry into the alimentary, respiratory, genitourinary, or oropharyngeal tract under controlled conditions",
+  "q_ar": null,
+  "options": [
+   "Clean wounds",
+   "Clean-contaminated wounds",
+   "Contaminated wounds",
+   "Dirty and infected wounds"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 26,
+  "no": 19,
+  "lang": "en",
+  "q": "Which of the following is not a type of wound exudates?",
+  "q_ar": null,
+  "options": [
+   "Purulent exudates",
+   "Hemorrhagic exudates",
+   "metabolic exudates",
+   "Serous exudates"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "multiple_marks",
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 26,
+  "no": 20,
+  "lang": "en",
+  "q": "The client is in surgery and will be returning to his bed via a stretcher. Which bed option reflects that the nurse appropriately planned ahead for this client?",
+  "q_ar": null,
+  "options": [
+   "Open bed in low position",
+   "Closed bed in high position",
+   "Occupied bed in low position",
+   "Surgical bed in high position"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "multiple_marks",
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 26,
+  "no": 26,
+  "lang": "en",
+  "q": "The morning vital signs of 38-year-old patients are auxiliary temperature 37.5 and the respiratory rate 30 Which findings should be reported?",
+  "q_ar": null,
+  "options": [
+   "Respiratory rate only",
+   "Temperature only",
+   "Temperature and respiratory",
+   "Pulse rate and temperature"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 26,
+  "no": 27,
+  "lang": "en",
+  "q": "An infected patient has chills and begin shivering, the best nursing intervention is to",
+  "q_ar": null,
+  "options": [
+   "Apply iced alcohol sponges",
+   "provide increased cool liquids",
+   "provide additional body bed clothes",
+   "provide increased ventilation"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f23",
+  "page": 26,
+  "no": 28,
+  "lang": "en",
+  "q": "which the following clinical procedure always requires urinary surgical asepsis:",
+  "q_ar": null,
+  "options": [
+   "vaginal installation of conjugated estrogen",
+   "urinary cauterization",
+   "nasogastric tube insertion",
+   "colostomy irrigation"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo",
+   "ambiguous_mark"
+  ]
+ },
+ {
+  "src": "f25",
+  "page": 1,
+  "no": 1,
+  "lang": "ar",
+  "q": "الممرض يفحص مكان العملية بعد (التهابات في الجههاز التنفسي) في حالة عن امرئه استئصال انومونيا ماهوا أو اجراء تمريضي dressing الممرض لاحض دم فاتح في ١٢. ساعه",
+  "q_ar": null,
+  "options": [
+   "تغيير الضماده",
+   "تسجيل كميه التصريف والوقت",
+   "أخبار الصبيب",
+   "........"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f25",
+  "page": 1,
+  "no": 2,
+  "lang": "mixed",
+  "q": "للحفاض على صحه جيده يجب أن تكون كمية السوائل الداخله والسوائل الخارجه كا الاتي",
+  "q_ar": null,
+  "options": [
+   "fluid intake should approximately equal fluid output.",
+   "السوائل اداخله أكثر من الخارجه",
+   "السوائل الخارجه أكثر من السوائل الداخله"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 1,
+  "no": 3,
+  "lang": "en",
+  "q": "Sources Vitamin D is found in :",
+  "q_ar": null,
+  "options": [
+   "Liver",
+   "egg's Yellow",
+   "Liver oils",
+   "cheese"
+  ],
+  "answer": 1,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 1,
+  "no": 4,
+  "lang": "en",
+  "q": "Giving the patient medication immediately and only once is:",
+  "q_ar": null,
+  "options": [
+   "Single order.",
+   "Standing order.",
+   "As needed order.",
+   "Stat order."
+  ],
+  "answer": 3,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 1,
+  "no": 5,
+  "lang": "en",
+  "q": "The nurse positions the client sitting upright during palpation of which area?",
+  "q_ar": null,
+  "options": [
+   "Abdomen",
+   "Genitals",
+   "Breast",
+   "Head and neck"
+  ],
+  "answer": 3,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 1,
+  "no": 6,
+  "lang": "en",
+  "q": "Which is the most effective clinical action for preventing and controlling the spread of infection?",
+  "q_ar": null,
+  "options": [
+   "Thorough hand hygiene",
+   "Wearing gloves and masks when providing direct client care",
+   "Implementing appropriate isolation precautions",
+   "Administering broad-spectrum prophylactic antibiotics"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 2,
+  "no": 7,
+  "lang": "en",
+  "q": "the assignment the nurse should that is first?",
+  "q_ar": null,
+  "options": [
+   "appendicitis",
+   "pneumonia",
+   "nephrophebitis",
+   "......."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated",
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f25",
+  "page": 2,
+  "no": 8,
+  "lang": "en",
+  "q": "Teach clients to change position and put pillow between their knees when lying on their side , the pillow keep?",
+  "q_ar": null,
+  "options": [
+   "bony prominences.",
+   "blood vessel",
+   "nerve",
+   "all above"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 2,
+  "no": 9,
+  "lang": "ar",
+  "q": "عند حصول حرق كهربائي ماهو أول اجراء تمريضي",
+  "q_ar": null,
+  "options": [
+   "قياس النبض وفتح مجراء الهواء",
+   "تقييم الغيبوبة",
+   "..........",
+   "............"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f25",
+  "page": 2,
+  "no": 10,
+  "lang": "en",
+  "q": "The client is a chronic carrier of infection. To prevent the spread of the infection to other clients or health care providers, the nurse emphasizes interventions that do which of the following?",
+  "q_ar": null,
+  "options": [
+   "Eliminate the reservoir.",
+   "Block the portal of exit from the reservoir",
+   "Block the portal of entry into the host",
+   "Decrease the susceptibility of the host"
+  ],
+  "answer": 1,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 2,
+  "no": 11,
+  "lang": "en",
+  "q": "All of the following are the effects of the immobility. except:",
+  "q_ar": null,
+  "options": [
+   "Increase metabolic rate .",
+   "Stiffness and pain in the joints",
+   "Pooling of respiratory secretions.",
+   "Orthostatic hypotension"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 2,
+  "no": 12,
+  "lang": "en",
+  "q": "Scuryy.is.a.deficiency øf.;,",
+  "q_ar": null,
+  "options": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "VitaminD"
+  ],
+  "answer": 2,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f25",
+  "page": 2,
+  "no": 13,
+  "lang": "en",
+  "q": "P.,C.mean;",
+  "q_ar": null,
+  "options": [
+   "After meal.",
+   "Between meal.",
+   "Before meal.",
+   "Before bed time"
+  ],
+  "answer": 0,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f25",
+  "page": 3,
+  "no": 14,
+  "lang": "en",
+  "q": "Arthritis mean inflammation in :",
+  "q_ar": null,
+  "options": [
+   "facial",
+   "bone",
+   "joint"
+  ],
+  "answer": 2,
+  "answer_basis": "tick",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 3,
+  "no": null,
+  "lang": "mixed",
+  "q": "إذا كان الجرح أحمر يدل على عمليه proliferation ويدل على",
+  "q_ar": null,
+  "options": [
+   "Healing",
+   "......",
+   ".....",
+   "...."
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f25",
+  "page": 3,
+  "no": 1,
+  "lang": "en",
+  "q": "Alcohol does not remove soil or dirt; it produces antisepsis when hands are visibly clean.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 3,
+  "no": 2,
+  "lang": "en",
+  "q": "intestinal obstruction is elective surgery",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 3,
+  "no": 3,
+  "lang": "en",
+  "q": "neurogenic shock most cause of surgery",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f25",
+  "page": 3,
+  "no": 4,
+  "lang": "en",
+  "q": "Palpation is a vital part of physical examination",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 3,
+  "no": 5,
+  "lang": "en",
+  "q": "Bilster is most common ocuer in degree tow burn",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f25",
+  "page": 3,
+  "no": 6,
+  "lang": "en",
+  "q": "Real of nin is used to measure depth wound",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f25",
+  "page": 3,
+  "no": 7,
+  "lang": "en",
+  "q": "Disinfection is the elimination of pathogens, except spores, from inanimate objects",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 3,
+  "no": 8,
+  "lang": "en",
+  "q": "rest refers to a state of altered consciousness during which an individual experiences minimal physical activity and a general slowing of the body’s physiological processes.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 3,
+  "no": 9,
+  "lang": "en",
+  "q": "Drug tolerance means body cannot metabolize a drug lead to accumulate drugs in blood",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f25",
+  "page": 3,
+  "no": 10,
+  "lang": "en",
+  "q": "A wound is a disruption in the integrity of the body tissue that puts an individual at risk for infection",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 3,
+  "no": 11,
+  "lang": "en",
+  "q": "Complete the agency's admission procedure usually performed by nursing personnel",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 3,
+  "no": 12,
+  "lang": "en",
+  "q": "aspesis is an infection control procedure that decreases the transmission of pathogens and, thereby, reduces the incidence of infection.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f25",
+  "page": 4,
+  "no": 13,
+  "lang": "en",
+  "q": "Clients often share rooms with strangers so, most of them have a few feet considered",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "answer_basis": "other",
+  "answer_ar": null,
+  "flags": [
+   "source_typo"
+  ]
+ },
+ {
+  "src": "f25",
+  "page": 4,
+  "no": 14,
+  "lang": "mixed",
+  "q": "contusion is . ..... discoloration...........",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "answer_basis": "arabic_answer_line",
+  "answer_ar": "جاب تعريف الالتواء لذالك هو خطاء",
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f25",
+  "page": 4,
+  "no": 15,
+  "lang": "en",
+  "q": "Pharmacology is the study of the effects of drugs on living organisms.",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 4,
+  "no": 16,
+  "lang": "en",
+  "q": "Loneliness occurs when a client can interact with family and friends",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 4,
+  "no": 17,
+  "lang": "en",
+  "q": "Inorganic nutrients build and maintain body tissues and regulate",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": [
+   "truncated"
+  ]
+ },
+ {
+  "src": "f25",
+  "page": 4,
+  "no": 18,
+  "lang": "en",
+  "q": "Yellow wounds are the color of normal granulation tissue and are in the proliferative phase of wound repair",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 4,
+  "no": 19,
+  "lang": "en",
+  "q": "Informed consent is necessary in the procedures requiring sedation and/or anesthesia",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 4,
+  "no": 20,
+  "lang": "en",
+  "q": "intestinal obstruction is elective surgery",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ },
+ {
+  "src": "f25",
+  "page": 4,
+  "no": 21,
+  "lang": "ar",
+  "q": "الحروق الكميائيه تتسبب ب المواد الكميائيه مثل حمض الاسيد",
+  "q_ar": null,
+  "options": [
+   "True",
+   "False"
+  ],
+  "answer": null,
+  "answer_basis": "none",
+  "answer_ar": null,
+  "flags": []
+ }
+]

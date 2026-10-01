@@ -1,0 +1,776 @@
+[
+ {
+  "id": "Q0393",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "المعتمد قبل إعطاء الديجوكسين/الديجيتال قياس النبض القمّي لدقيقة كاملة وحجب الجرعة عند بطء القلب (OpenRN؛ StatPearls يذكر إيقافه عند بطء القلب)؛ ولا يوجد خيار «قياس النبض» صريح، و«pulse oximetry» قياس تأكسج الدم وليس النبض القمّي، ويُرجَّح أنه صيغة مشوَّهة لـ «قياس النبض» (بقية الخيارات بصيغة X measurement) — أقرب خيار بثقة منخفضة وليس مفتاحًا مؤكدًا.",
+  "refs": [
+   {
+    "title": "OpenRN Nursing Pharmacology - Cardiac Glycosides (LibreTexts)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Nursing_Pharmacology_(OpenRN)/06%3A_Cardiovascular_and_Renal_System/6.07%3A_Cardiac_Glycosides"
+   },
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Digoxin",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK556025/"
+   }
+  ]
+ },
+ {
+  "id": "Q0394",
+  "verdict": "uncertain",
+  "answer": 3,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "يبدو أنه نفس سؤال Q0364 (المصدر يعلّم «كل ما سبق»): CDC توصي بالمنظّف والماء للأسطح عامةً وبمطهّر معتمد (EPA) في مناطق رعاية المرضى، وتذكر مكافحة الحشرات كإجراء منفصل يقوم به مختصّون لا كمادة لتنظيف الأرضيات؛ فالخياران (الماء والصابون) و(المطهّر) صحيحان و«Insecticide» مشكوك فيه (ربما تشويه لكلمة germicide)، فأُبقي «كل ما سبق» بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "CDC MMWR 2003 - Guidelines for Environmental Infection Control in Health-Care Facilities",
+    "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5210a1.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0405",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخيارات الأربعة كلها أسباب موثَّقة لفقر الدم في الحمل (نقص الفولات، فقد الحديد بالطمث وضعف المخزون، قلة الحديد في الغذاء، سوء التغذية — Merck وWHO) ولا يوجد خيار «كل ما سبق»، فلا مفتاح وحيد يمكن الدفاع عنه.",
+  "refs": [
+   {
+    "title": "MSD Manual Professional - Anemia in Pregnancy",
+    "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/approach-to-the-pregnant-woman-and-prenatal-care/anemia-in-pregnancy"
+   },
+   {
+    "title": "WHO - Anaemia fact sheet",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/anaemia"
+   }
+  ]
+ },
+ {
+  "id": "Q0400",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة مشوّهة («neurosurgic shock common most in the surgery asepsis surgical») ولا تُفهم كقضية قابلة للحكم بصح/خطأ، فلا يمكن الحسم.",
+  "refs": []
+ },
+ {
+  "id": "Q0402",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "تصنيف الجروح: الجرح المتعمَّد/المخطَّط هو الناتج عن علاج أو إجراء علاجي (كالشق الجراحي والبزل)، أما الجرح غير المتعمَّد فينتج عن رضّ مفاجئ (حوادث، حروق، طلقات)؛ فالعبارة خاطئة (OpenStax Nursing).",
+  "refs": [
+   {
+    "title": "OpenStax Fundamentals of Nursing - 24.3 Wound Classification",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/24-3-wound-classification"
+   },
+   {
+    "title": "OpenStax Clinical Nursing Skills - 8.1 Wound Classification",
+    "url": "https://openstax.org/books/clinical-nursing-skills/pages/8-1-wound-classification"
+   }
+  ]
+ },
+ {
+  "id": "Q0408",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة متناقضة ومبتورة («complete partial picture for physicology function»)؛ لا يُعرف إن كان المقصود صورة كاملة أم جزئية للوظيفة الفيزيولوجية، فلا حكم.",
+  "refs": []
+ },
+ {
+  "id": "Q0409",
+  "verdict": "corrected",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": false,
+  "note_ar": "مطرقة الانعكاسات (percussion/reflex hammer ذات الرأس المطاطي) تُستعمل لإثارة المنعكسات الوترية العميقة (استجابة حركية) وليس لفحص الحس الذي يُفحص باللمس الخفيف/الوخز/الشوكة الرنانة؛ المصدر الجديد يعلّم «صح» لكن المراجع لا تدعمه، فالإجابة «خطأ» (النص مبتور قليلًا فالثقة متوسطة).",
+  "refs": [
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Physiology, Deep Tendon Reflexes",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK562238/"
+   },
+   {
+    "title": "Wikipedia - Reflex hammer",
+    "url": "https://en.wikipedia.org/wiki/Reflex_hammer"
+   }
+  ]
+ },
+ {
+  "id": "Q0644",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "بعد البزل القطني يستلقي المريض على ظهره (supine/flat) فترة من الراحة (NHS: يستلقي على ظهره ويستريح بعد الإجراء؛ ومراجع التمريض ٤–٦ ساعات)؛ والوضع الجانبي هو وضع أثناء الإجراء لا بعده، وFowler والمنبطح غير مناسبين.",
+  "refs": [
+   {
+    "title": "NHS - Lumbar puncture",
+    "url": "https://www.nhs.uk/conditions/lumbar-puncture/"
+   },
+   {
+    "title": "Nurseslabs - Lumbar Puncture (Spinal Tap) Nursing Responsibilities",
+    "url": "https://nurseslabs.com/lumbar-puncture-spinal-tap/"
+   }
+  ]
+ },
+ {
+  "id": "Q0674",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "بعد البزل القطني يستلقي المريض على ظهره (supine/flat) فترة من الراحة (NHS: يستلقي على ظهره ويستريح بعد الإجراء؛ ومراجع التمريض ٤–٦ ساعات)؛ والوضع الجانبي هو وضع أثناء الإجراء لا بعده.",
+  "refs": [
+   {
+    "title": "NHS - Lumbar puncture",
+    "url": "https://www.nhs.uk/conditions/lumbar-puncture/"
+   },
+   {
+    "title": "Nurseslabs - Lumbar Puncture (Spinal Tap) Nursing Responsibilities",
+    "url": "https://nurseslabs.com/lumbar-puncture-spinal-tap/"
+   }
+  ]
+ },
+ {
+  "id": "Q0645",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "أنواع نضح الجرح المعتمدة: serous وserosanguineous وsanguineous (= hemorrhagic) وpurulent (StatPearls Wound Assessment)؛ «metabolic exudate» ليس نوعًا معروفًا فهو الاستثناء.",
+  "refs": [
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Wound Assessment",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482198/"
+   },
+   {
+    "title": "Wikipedia - Exudate",
+    "url": "https://en.wikipedia.org/wiki/Exudate"
+   },
+   {
+    "title": "WoundSource - Wound Exudate Assessment and Management Strategies",
+    "url": "https://www.woundsource.com/blog/wound-exudate-assessment-and-management-strategies"
+   }
+  ]
+ },
+ {
+  "id": "Q0676",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "أنواع نضح الجرح المعتمدة: serous وserosanguineous وsanguineous (= hemorrhagic) وpurulent (StatPearls Wound Assessment)؛ «metabolic exudate» ليس نوعًا معروفًا فهو المطلوب (not a type).",
+  "refs": [
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Wound Assessment",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482198/"
+   },
+   {
+    "title": "Wikipedia - Exudate",
+    "url": "https://en.wikipedia.org/wiki/Exudate"
+   },
+   {
+    "title": "WoundSource - Wound Exudate Assessment and Management Strategies",
+    "url": "https://www.woundsource.com/blog/wound-exudate-assessment-and-management-strategies"
+   }
+  ]
+ },
+ {
+  "id": "Q0648",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "المعدلات الطبيعية للبالغ: التنفس ١٢–٢٠/د والنبض ٦٠–١٠٠/د وحرارة الجسم ٣٦.٥–٣٧.٥°م (StatPearls Vital Sign Assessment)؛ فالنبض ٨٨ طبيعي، والتنفس ٣٠ مرتفع (tachypnea)، والحرارة ٣٧.٧ فوق الحد الأعلى بقليل، فالخيار «respiratory and temperature» هو الوحيد المتسق.",
+  "refs": [
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Vital Sign Assessment",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK553213/"
+   }
+  ]
+ },
+ {
+  "id": "Q0649",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "إسعاف النوبة الصرعية (CDC): تأمين المكان وإبعاد الأشياء الخطرة، وإنزال الشخص بلطف إلى الأرض إن كان يسقط ووضع شيء ناعم تحت رأسه، وإدارته على جنبه لإبقاء المجرى الهوائي مفتوحًا؛ فالخيارات الثلاثة صحيحة = «All of above».",
+  "refs": [
+   {
+    "title": "CDC - First Aid for Seizures",
+    "url": "https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0650",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "حروق الدرجة الأولى تصيب الطبقة الخارجية فقط من الجلد (البشرة) باحمرار دون تفقّع؛ أما التفقّع فللدرجة الثانية، وتدمير كل الطبقات للثالثة (MedlinePlus).",
+  "refs": [
+   {
+    "title": "MedlinePlus - Burns",
+    "url": "https://medlineplus.gov/burns.html"
+   },
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Burn Evaluation and Management (Archived)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK430741/"
+   }
+  ]
+ },
+ {
+  "id": "Q0651",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "العَشى الليلي (night blindness) أول علامات نقص فيتامين A بسبب انخفاض رودوبسين الشبكية (NIH ODS).",
+  "refs": [
+   {
+    "title": "NIH Office of Dietary Supplements - Vitamin A fact sheet (Health Professional)",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+   }
+  ]
+ },
+ {
+  "id": "Q0653",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الصياغة مشوّهة («Eclampsia. factors effecting growth except») والخيار الأخير «a&b» يجعل المقصود غير محدد مع سؤال «except»، ولا مرجع يسند علامة المصدر، فلا يمكن الحسم.",
+  "refs": []
+ },
+ {
+  "id": "Q0654",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخيارات مبتورة («syphilis...» وربما خيار ناقص) ولا معيار يحدد «الأشيع»؛ السرطان وارتفاع الضغط كلاهما من الأمراض غير السارية (WHO)، فلا مفتاح وحيد.",
+  "refs": [
+   {
+    "title": "WHO - Noncommunicable diseases fact sheet",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases"
+   }
+  ]
+ },
+ {
+  "id": "Q0659",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الأمراض غير السارية (WHO) لا تنتقل من شخص لآخر وأهمها أمراض القلب والأوعية (ومنها ارتفاع الضغط) والسرطان وأمراض الرئة المزمنة والسكري؛ أما الزهري فعدوى منقولة جنسيًا (CDC) فهو الاستثناء، و«Blindness» حالة/عجز لا مرض معدٍ بحدّ ذاته.",
+  "refs": [
+   {
+    "title": "WHO - Noncommunicable diseases fact sheet",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases"
+   },
+   {
+    "title": "CDC - About Syphilis",
+    "url": "https://www.cdc.gov/syphilis/about/index.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0655",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "قاعدة التسعات تقدّر نسبة مساحة سطح الجسم المصابة (extent/TBSA) وليس درجة/عمق الحرق الذي يُصنَّف بالفحص السريري (أولى/ثانية/ثالثة) (StatPearls Burn Evaluation) — فالعبارة خطأ؛ الثقة متوسطة لأن كلمة «degree» قد تُستعمل أحيانًا بمعنى الشدة عمومًا.",
+  "refs": [
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Burn Evaluation and Management (Archived)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK430741/"
+   }
+  ]
+ },
+ {
+  "id": "Q0668",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الفحص السريري يتكوّن من الملاحظة (inspection) والجس (palpation) والقرع (percussion) والإصغاء (auscultation)، فالجس أحد مكوّناته — صح (مراجع تعليمية عامة لا رسمية فالثقة متوسطة).",
+  "refs": [
+   {
+    "title": "Wikipedia - IPPA (Inspection, Palpation, Percussion, Auscultation)",
+    "url": "https://en.wikipedia.org/wiki/IPPA"
+   },
+   {
+    "title": "Techniques of Physical Assessment (Pressbooks chapter)",
+    "url": "https://pressbooks.pub/raquelbertiz1969/chapter/chapter-4-techniques-of-physical-assessment/"
+   },
+   {
+    "title": "Wikipedia - Physical examination",
+    "url": "https://en.wikipedia.org/wiki/Physical_examination"
+   }
+  ]
+ },
+ {
+  "id": "Q0656",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "في فقر الدم الشديد يدل ضيق النفس أثناء الراحة على نقص أكسجة الأنسجة وبداية فشل تعويضي/قلبي (StatPearls يذكر فشل القلب عالي النتاج في فقر الدم المزمن الشديد؛ MSD: ضيق النفس من أعراض الشديد)، أما القهم وألم العظام وتضخم الكبد فأقل إلحاحًا؛ الحكم تمريضي تعليمي بلا نص صريح فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Anemia",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK499994/"
+   },
+   {
+    "title": "MSD Manual Consumer Version - Overview of Anemia",
+    "url": "https://www.msdmanuals.com/home/blood-disorders/anemia/overview-of-anemia"
+   }
+  ]
+ },
+ {
+  "id": "Q0657",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "فقر الدم الخبيث ينتج عن نقص العامل الداخلي (intrinsic factor) إذ تمنع أجسام مضادة ذاتية ارتباط B12 بالعامل الداخلي أو تدمّر الخلايا الجدارية فيتعذّر امتصاص B12 (StatPearls)؛ والمشكلة في الامتصاص لا في نقص تناول الكوبالامين.",
+  "refs": [
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Pernicious Anemia",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK540989/"
+   }
+  ]
+ },
+ {
+  "id": "Q0658",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "فقر دم المنجلية انحلالي: الكريات المنجلية هشّة وتعيش ١٠–٢٠ يومًا بدل ٩٠–١٢٠ فتنكسر مبكرًا وتُهدم في الطحال (NHLBI، WTCS)، فالأنسب «تكسّر متسارع لكريات الدم الشاذة»؛ المناعة الذاتية/المتماثلة ليست آلية المرض، وعبارة «intracellular hemolysis» غير معيارية فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "NHLBI (NIH) - Sickle Cell Disease: Causes",
+    "url": "https://www.nhlbi.nih.gov/health/sickle-cell-disease/causes"
+   },
+   {
+    "title": "Health Alterations (WTCS Pressbooks) - 3.8 Sickle Cell Disease",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/3-8-sickle-cell-disease/"
+   }
+  ]
+ },
+ {
+  "id": "Q0660",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "سعال وصعوبة تنفس أثناء إدخال الأنبوب الأنفي المعدي يعنيان احتمال دخوله القصبة فيُسحَب الأنبوب (Glasgow وOpenTextBC وNursingEducation) ويُعاد إدخاله بعد استقرار التنفس؛ أحد المراجع (WTCS) يكتفي بسحبه للخلف حتى يعود التنفس طبيعيًا وهو أقرب للخيار الأخير، فالمراجع لا تتطابق تمامًا — أرجّح «Remove and reinsert» بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "University of Glasgow - Nasogastric Tube Insertion Clinical Skills Guidance",
+    "url": "https://www.gla.ac.uk/media/Media_678213_smxx.pdf"
+   },
+   {
+    "title": "Clinical Procedures for Safer Patient Care (BCcampus) - Nasogastric Tubes",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/10-2-nasogastric-tubes/"
+   },
+   {
+    "title": "Nursing Advanced Skills (WTCS Pressbooks) - Checklist: Insert a Nasogastric Tube",
+    "url": "https://wtcs.pressbooks.pub/nursingadvancedskills/chapter/5-4-checklist-inserting-a-nasogastric-tube/"
+   },
+   {
+    "title": "Nursing Education - NG tube insertion question",
+    "url": "https://nursingeducation.org/lms/questions/view/1025"
+   }
+  ]
+ },
+ {
+  "id": "Q0661",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "في مرحلة الالتئام تتجدد الخلايا «اللابلة» (labile) كظهارة الجلد بقدرة كبيرة، أما العصبونات وخلايا عضلة القلب والعضلات الهيكلية فخلايا «دائمة» قدرتها على التجدد ضئيلة وتُرمَّم بالندبة (ScienceDirect Topics)؛ فالجلد هو الأكثر تجددًا.",
+  "refs": [
+   {
+    "title": "ScienceDirect Topics - Tissue Regeneration",
+    "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/tissue-regeneration"
+   }
+  ]
+ },
+ {
+  "id": "Q0662",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الالتواء (sprain) هو شدّ أو تمزق في الأربطة (ligaments) التي تربط العظام عند المفصل (MedlinePlus)، فالعبارة صحيحة.",
+  "refs": [
+   {
+    "title": "MedlinePlus - Sprains and Strains",
+    "url": "https://medlineplus.gov/sprainsandstrains.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0663",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الحروق الكيميائية تنتج عن الأحماض أو القواعد القوية (Medscape)، والصودا الكاوية (هيدروكسيد الصوديوم) مادة أكّالة تسبب حروقًا شديدة (CDC) — فالعبارة صحيحة بقراءة «بالصودا الكاوية أو مثلًا حمض قوي»؛ والصياغة ركيكة، فإن كان المقصود أن الصودا الكاوية «مثال على حمض قوي» فهي في الواقع قاعدة قوية.",
+  "refs": [
+   {
+    "title": "Medscape - Chemical Burns: Background, Pathophysiology, Etiology",
+    "url": "https://emedicine.medscape.com/article/769336-overview"
+   },
+   {
+    "title": "CDC ATSDR ToxFAQs - Sodium Hydroxide",
+    "url": "https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=248&toxid=45"
+   }
+  ]
+ },
+ {
+  "id": "Q0699",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "StatPearls: المريء يمتد خلف القصبة الهوائية والقلب وأمام العمود الفقري ثم يعبر الحجاب الحاجز، فالعبارة صحيحة.",
+  "refs": [
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Anatomy, Thorax, Esophagus",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK482513/"
+   }
+  ]
+ },
+ {
+  "id": "Q0664",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "جراحة انسداد الأمعاء ليست اختيارية: تُجرى طارئة/عاجلة عند وجود علامات أذى الأمعاء أو عند فشل العلاج التحفظي (إرشادات انسداد الأمعاء الدقيقة - NCBI)، فالعبارة خطأ؛ لا نص صريح يصفها بـ«غير اختيارية» لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "NCBI Bookshelf - Evaluation and Management of Mechanical Small Bowel Obstruction in Adults",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK572336/"
+   }
+  ]
+ },
+ {
+  "id": "Q0665",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "لم تُحدَّد أي «مراحل»: في قرحة الضغط يظهر التفقّع (blister) في المرحلة الثانية (NPIAP) أما الرابعة ففقدان كامل السماكة مع انكشاف العضلة/العظم؛ وفي الحروق يرتبط التفقّع بالدرجة الثانية — فالعبارة خطأ في القراءتين.",
+  "refs": [
+   {
+    "title": "NPIAP - Pressure Injury Stages",
+    "url": "https://cdn.ymaws.com/npiap.com/resource/resmgr/online_store/npiap_pressure_injury_stages.pdf"
+   },
+   {
+    "title": "OpenStax Clinical Nursing Skills - 8.1 Wound Classification",
+    "url": "https://openstax.org/books/clinical-nursing-skills/pages/8-1-wound-classification"
+   }
+  ]
+ },
+ {
+  "id": "Q0667",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "الكسور المرضية (pathologic) تحدث في عظم ضعيف بسبب أورام أو اضطرابات استقلابية كامنة (StatPearls)، فالاضطرابات الاستقلابية من أسباب الكسر — صح.",
+  "refs": [
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Pathologic Fractures",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK559077/"
+   }
+  ]
+ },
+ {
+  "id": "Q0669",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "فقد الدم والتحسس الشديد من الأسباب الشائعة للصدمة (Red Cross)، ويُذكر الانفعال الشديد/الخوف سببًا للصدمة النفسية المنشأ (psychogenic) أي إغماء وعائي (Britannica، Healthline)، فيصحّ «كل ما سبق» بحسب مقررات الإسعاف؛ مع أن الصدمة الدورانية بالمعنى الصارم لا تشمل الكرب النفسي، فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "American Red Cross - Shock",
+    "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/shock"
+   },
+   {
+    "title": "Mayo Clinic - First aid: Shock",
+    "url": "https://www.mayoclinic.org/first-aid/first-aid-shock/basics/art-20056620"
+   },
+   {
+    "title": "Healthline - Shock: Signs, Causes, and Types",
+    "url": "https://www.healthline.com/health/shock"
+   },
+   {
+    "title": "Britannica - Psychogenic shock",
+    "url": "https://www.britannica.com/science/psychogenic-shock"
+   }
+  ]
+ },
+ {
+  "id": "Q0670",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال والخيارات غير مقروءة (تشويه OCR/ترجمة آلية: «mcgrath hendricks…»، «DoAllorché above») ولا يمكن استنتاج سؤال معقول، فلا حكم.",
+  "refs": []
+ },
+ {
+  "id": "Q0671",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص السؤال والخيارات غير مقروءة (تشويه OCR: «the mine into pollen unconscious»، «PERA Listed») ولا يمكن استنتاج سؤال معقول، فلا حكم.",
+  "refs": []
+ },
+ {
+  "id": "Q0672",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "في ضيق التنفس يُرفع رأس السرير لزيادة تمدد الصدر: Fowler (٤٥–٦٠°) وHigh Fowler (٦٠–٩٠°) للضائقة التنفسية، أما Semi-Fowler (٣٠–٤٥°) فأخفّ؛ فالأنسب بين الخيارات Fowler، وTrendelenburg لا يُستعمل لتسهيل التنفس؛ الفرق بين Fowler وSemi-Fowler يعتمد على تعريف الزوايا فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Wikipedia - Fowler's position",
+    "url": "https://en.wikipedia.org/wiki/Fowler%27s_position"
+   },
+   {
+    "title": "Fundamentals of Nursing - Patient Positions (LevelUpRN)",
+    "url": "https://leveluprn.com/blogs/fundamentals-of-nursing/principles-10-patient-positions"
+   }
+  ]
+ },
+ {
+  "id": "Q0673",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "المراجع تختلف: StatPearls للتمريض يذكر تأمين وريد وإعطاء دكستروز/جلوكاجون لفاقد الوعي المشتبه بنقص السكر، وBetter Health تبدأ باستدعاء الإسعاف ووضع الإفاقة، وStatPearls (فرط السكر) يبدأ بفحوص أولها الغلوكوز؛ وغيبوبة «السكري» قد تكون نقص أو فرط سكر فقياس سكر الدم أول خطوة لتحديد العلاج — أرجّح «check blood sugar» بثقة منخفضة (إن ثبت نقص السكر فالخيار الأول مقبول).",
+  "refs": [
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Hypoglycemia (Nursing)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK568695/"
+   },
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Hyperglycemia",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK430900/"
+   },
+   {
+    "title": "Better Health Channel (Victoria) - Diabetic coma",
+    "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/diabetic-coma"
+   }
+  ]
+ },
+ {
+  "id": "Q0675",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "قرحة الضغط تُسمّى أيضًا قرحة الفراش/الاستلقاء (decubitus ulcers / bed sores) (MedlinePlus وStatPearls).",
+  "refs": [
+   {
+    "title": "MedlinePlus - Pressure Sores",
+    "url": "https://medlineplus.gov/pressuresores.html"
+   },
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Pressure Ulcer",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK553107/"
+   }
+  ]
+ },
+ {
+  "id": "Q0677",
+  "verdict": "answered",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "السرير الجراحي (surgical/postoperative bed) يُترك في الوضع المرتفع ليوازي النقّالة ويسهّل نقل المريض منها مع إبعاد الأثاث (Brookside Press: Leave the bed in the high position)؛ السرير المفتوح/المغلق/المشغول ليس السرير المخصص للعائد من العمليات. مرجع تعليمي عام فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Brookside Press - Nursing Fundamentals I: Methods of Bed-Making",
+    "url": "https://brooksidepress.org/nursing_fundamentals_1/?page_id=280"
+   }
+  ]
+ },
+ {
+  "id": "Q0666",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "قاعدة التسعات تقدّر مدى/مساحة الحرق (TBSA) لا عمقه؛ العمق يُصنَّف بالدرجات بالفحص السريري (StatPearls Burn Evaluation) — فالعبارة خطأ.",
+  "refs": [
+   {
+    "title": "StatPearls (NCBI Bookshelf) - Burn Evaluation and Management (Archived)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK430741/"
+   }
+  ]
+ },
+ {
+  "id": "Q0725",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "إدارة احتباس البول تشمل الخصوصية والوضع الطبيعي للتبوّل والكمادات الدافئة وطمأنة المريض وتحفيز الانعكاس بصوت الماء ثم القسطرة عند الحاجة (Nurseslabs؛ مرجع تعليمي) فخياري «Reassurance» و«Hot compress» كلاهما صحيح ولا يوجد مفتاح وحيد (وقد يكون السؤال متعدد الإجابات)؛ والمدرّات غير مذكورة.",
+  "refs": [
+   {
+    "title": "Nurseslabs - Urinary Retention Nursing Diagnosis & Care Plan",
+    "url": "https://nurseslabs.com/urinary-retention/"
+   }
+  ]
+ },
+ {
+  "id": "Q0678",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "العبارة مشوّهة («when change patient position or any purpose hospital bed their lowest position») وتحتمل قراءتين متعاكستين (رفع السرير لمستوى العمل أثناء تغيير الوضع أم إبقاؤه في أدنى وضع)، فلا يمكن الحسم.",
+  "refs": []
+ },
+ {
+  "id": "Q0679",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الجس (palpation) هو الفحص بالملامسة/اللمس (touch/feel) باليدين والأصابع وهو أحد مكونات الفحص السريري — صح (مراجع تعليمية عامة فالثقة متوسطة).",
+  "refs": [
+   {
+    "title": "Techniques of Physical Assessment (Pressbooks chapter)",
+    "url": "https://pressbooks.pub/raquelbertiz1969/chapter/chapter-4-techniques-of-physical-assessment/"
+   },
+   {
+    "title": "Wikipedia - Physical examination",
+    "url": "https://en.wikipedia.org/wiki/Physical_examination"
+   },
+   {
+    "title": "Wikipedia - IPPA (Inspection, Palpation, Percussion, Auscultation)",
+    "url": "https://en.wikipedia.org/wiki/IPPA"
+   }
+  ]
+ },
+ {
+  "id": "Q0680",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "تسارع القلب (tachycardia) هو معدل نبض أعلى من الطبيعي، أي أكثر من ١٠٠ نبضة/دقيقة في الراحة للبالغ (AHA) — صح.",
+  "refs": [
+   {
+    "title": "American Heart Association - Tachycardia: Fast Heart Rate",
+    "url": "https://www.heart.org/en/health-topics/arrhythmia/about-arrhythmia/tachycardia--fast-heart-rate"
+   }
+  ]
+ },
+ {
+  "id": "Q0685",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "نص العبارة مبتور («Family history . .») ولا يحمل قضية قابلة للحكم بصح أو خطأ.",
+  "refs": []
+ },
+ {
+  "id": "Q0686",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "عند مقاومة أثناء إدخال الأنبوب الأنفي المعدي لا يُدفع بالقوة: OpenTextBC وWTCS يوصيان بسحب الأنبوب وإراحة المريض ثم إعادة المحاولة (غالبًا من الفتحة الأخرى)، وGlasgow توقف الإجراء وتُبلغ المختص؛ فالخيارات (سحبه) و(سحبه وإعادته) و(سحبه قليلًا) كلها قريبة — أرجّح «Pull out the tube and put it back» بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Clinical Procedures for Safer Patient Care (BCcampus) - Nasogastric Tubes",
+    "url": "https://opentextbc.ca/clinicalskills/chapter/10-2-nasogastric-tubes/"
+   },
+   {
+    "title": "Nursing Advanced Skills (WTCS Pressbooks) - Checklist: Insert a Nasogastric Tube",
+    "url": "https://wtcs.pressbooks.pub/nursingadvancedskills/chapter/5-4-checklist-inserting-a-nasogastric-tube/"
+   },
+   {
+    "title": "University of Glasgow - Nasogastric Tube Insertion Clinical Skills Guidance",
+    "url": "https://www.gla.ac.uk/media/Media_678213_smxx.pdf"
+   }
+  ]
+ },
+ {
+  "id": "Q0687",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "الكفة الأصغر من المطلوب (لدى البدين) تعطي قراءة ضغط أعلى من الحقيقية (overestimation) (AHA)؛ والصواب عمليًا استعمال كفة بالحجم المناسب؛ صياغة السؤال ركيكة («must be the nurse») فأرجّح «Increase» (القراءة تظهر مرتفعة) بثقة متوسطة.",
+  "refs": [
+   {
+    "title": "American Heart Association Newsroom - Study finds blood pressure cuff size matters",
+    "url": "https://newsroom.heart.org/news/study-finds-blood-pressure-cuff-size-matters-affects-blood-pressure-readings"
+   }
+  ]
+ },
+ {
+  "id": "Q0688",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخيارات مبتورة (يظهر خيار واحد فقط «Sprain») والنص ناقص؛ الراحة والثلج والضغط والرفع (RICE) علاج معتاد للالتواء (MedlinePlus يذكر الراحة والثلج والضغط) لكن لا يمكن الحكم دون بقية الخيارات (مثل strain أو contusion).",
+  "refs": [
+   {
+    "title": "MedlinePlus - Sprains and Strains",
+    "url": "https://medlineplus.gov/sprainsandstrains.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0689",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخيارات مبتورة (خيار واحد فقط) وصياغته مركّبة («احتقان البول وشرب القهوة بإفراط») والنص العربي مبتور، فلا يمكن الحكم.",
+  "refs": []
+ },
+ {
+  "id": "Q0690",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": null,
+  "note_ar": "النزف الداخلي قد لا يظهر فيتأخر اكتشافه وقد يهدد الحياة فيُعامل كطارئ (Red Cross)، فالقول إن النزف الخارجي أخطر من الداخلي غير صحيح كقاعدة — خطأ؛ لا مرجع يقارن بينهما صراحةً فالثقة متوسطة.",
+  "refs": [
+   {
+    "title": "American Red Cross - Bleeding (Life-Threatening Internal)",
+    "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-internal"
+   }
+  ]
+ }
+]

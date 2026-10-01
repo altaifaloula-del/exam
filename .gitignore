@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+*.log
+.DS_Store
+# Source documents are NOT published (decision in DECISIONS.md): only the transcribed JSON is.
+data/src/*.pdf
+data/src/*.txt
+data/src/*.png
+data/src/*.jpg

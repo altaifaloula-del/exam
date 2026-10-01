@@ -1,0 +1,776 @@
+[
+ {
+  "id": "Q0101",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "يُوضع المريض جالسًا منتصبًا مائلًا قليلًا للأمام مع إسناد الذراعين (على طاولة السرير) لتوسيع المسافات بين الأضلاع؛ وضع ترندلنبرغ غير مناسب، والتخدير موضعي لا أفيوني؛ ويبقى خيار تفويض قياس العلامات الحيوية مشتتًا لأن دور التمريض الأساسي هنا هو تهيئة الوضعية.",
+  "refs": [
+   {
+    "title": "How To Do Thoracentesis - Merck Manual Professional Edition",
+    "url": "https://www.merckmanuals.com/professional/pulmonary-disorders/how-to-do-pulmonary-procedures/how-to-do-thoracentesis"
+   },
+   {
+    "title": "Thoracentesis - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK441866/"
+   }
+  ]
+ },
+ {
+  "id": "Q0102",
+  "verdict": "unanswerable",
+  "answer": null,
+  "confidence": "low",
+  "agrees_with_source_mark": null,
+  "note_ar": "الخيارات معطوبة: Theophylline وEpinephrine HCL دواءان وليسا نوعي حقنة شرجية، ويبدو أنها اختلطت بسؤال آخر؛ الصيغة الأصلية المتداولة للسؤال خياراتها Oil retention / Return flow / High large volume / Low small volume والجواب فيها حقنة شرجية عالية كبيرة الحجم (تنظيفية) وهي غير موجودة هنا، فلا إجابة صحيحة بين الخيارات المعروضة.",
+  "refs": [
+   {
+    "title": "Brainly: 'A client is scheduled for a colonoscopy... which type of enema' (quiz site, weak; shows the original option set)",
+    "url": "https://brainly.com/question/38683360"
+   }
+  ]
+ },
+ {
+  "id": "Q0103",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "تبدأ جسّة البطن بالجسّ السطحي الخفيف ثم العميق، وتُجسّ المنطقة المؤلمة أخيرًا لا أولًا؛ الخيار الأخير مبتور (على الأرجح 'المنطقة الأكثر ألمًا') وهو غير صحيح كبداية، فبقي خفيفًا.",
+  "refs": [
+   {
+    "title": "Physical Assessment of the Abdomen - Clinical Nursing Skills (OpenStax)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/27:_Assessment_of_the_Abdomen/27.02:_Physical_Assessment"
+   }
+  ]
+ },
+ {
+  "id": "Q0104",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الخيار 'Cyan' مبتور من Cyanosis؛ اللون الأزرق حول الشفتين يسمى زرقة (Cyanosis) وهي علامة سريرية، أما Hypoxemia فنقص أكسجة الدم الشرياني وHypoxia نقص أكسجة الأنسجة وDyspnea ضيق النفس.",
+  "refs": [
+   {
+    "title": "Cyanosis - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK559167/"
+   }
+  ]
+ },
+ {
+  "id": "Q0105",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": false,
+  "note_ar": "خيارات السؤال مبتورة/مشوّهة (الخياران 2 و4 غير مقروءين)؛ المراجع تذكر أسباب فقر الدم في الحمل: نقص الحديد ونقص الفولات وفقد الدم ولا تذكر فيتامين B6 سببًا، فالاستثناء الأرجح هو الخيار 1 (B6) وليس الخيار 4 الذي وضعه المصدر (وهو على الأرجح سبب صحيح)؛ ويحتمل أن الأصل كان B12 لا B6 فيتغير الحكم.",
+  "refs": [
+   {
+    "title": "Anemia in Pregnancy - Merck Manual Professional Edition",
+    "url": "https://www.merckmanuals.com/professional/gynecology-and-obstetrics/approach-to-the-pregnant-woman-and-prenatal-care/anemia-in-pregnancy"
+   }
+  ]
+ },
+ {
+  "id": "Q0106",
+  "verdict": "answered",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "من أغراض الفحص السريري جمع البيانات القاعدية ودعم/تأكيد (أو نفي) بيانات القصة المرضية/التمريضية، فكلا الخيارين a وb صحيح وبالتالي a&b.",
+  "refs": [
+   {
+    "title": "Berman & Kozier, Fundamentals of Nursing 10e - Ch.30 Health Assessment (Pearson)",
+    "url": "https://www.pearson.com/content/dam/one-dot-com/one-dot-com/us/en/higher-ed/en/products-services/course-products/berman-10e-info/pdf/CH30.pdf"
+   },
+   {
+    "title": "Health Assessment and Physical Examination - NurseKey (Potter & Perry)",
+    "url": "https://nursekey.com/health-assessment-and-physical-examination/"
+   }
+  ]
+ },
+ {
+  "id": "Q0107",
+  "verdict": "answered",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "وفق ATLS/المسح الأولي (ABCDE) الأولوية لتأمين مجرى الهواء ثم التنفس والدوران (السيطرة على النزف ومعالجة الصدمة، وكسر عظم الفخذ قد يسبب نزفًا كبيرًا) قبل التجبير والفحص التفصيلي والأشعة.",
+  "refs": [
+   {
+    "title": "Trauma Assessment - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK555913/"
+   }
+  ]
+ },
+ {
+  "id": "Q0108",
+  "verdict": "answered",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": null,
+  "note_ar": "كرياتينين المصل هو أكثر واسم شائع لتقييم الوظيفة الكلوية، واليوريا (BUN) ترتفع مبكرًا في المرض الكلوي؛ أما الصوديوم/البوتاسيوم والكلوريد/البيكربونات والجلوكوز/الكيتون فليست نوعية للكلى.",
+  "refs": [
+   {
+    "title": "Renal Function Tests - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK507821/"
+   }
+  ]
+ },
+ {
+  "id": "Q0109",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "اليوريا والكرياتينين والصوديوم مكوّنات طبيعية في البول، أما الألبومين/البروتين فلا يوجد عادةً إلا بأثر ضئيل جدًا (الطبيعي بعينة عشوائية 0–14 ملغ/دل) وارتفاعه يدل على مرض كلوي؛ فهو الاستثناء.",
+  "refs": [
+   {
+    "title": "Urine protein dipstick test - MedlinePlus",
+    "url": "https://www.medlineplus.gov/ency/article/003580.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0110",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "القيء والإسهال والتعرق الشديد أسباب معروفة لنقص حجم السوائل، بينما يُدرج الفشل الكلوي بين أسباب زيادة حجم السوائل؛ مع تنبيه أن طور كثرة البول في الفشل الكلوي الحاد قد يسبب جفافًا لكن الإجابة المعتمدة في الكتب هي الفشل الكلوي.",
+  "refs": [
+   {
+    "title": "20.1 Fluid and Electrolyte Balances - Fundamentals of Nursing (OpenStax)",
+    "url": "https://openstax.org/books/fundamentals-nursing/pages/20-1-fluid-and-electrolyte-balances"
+   },
+   {
+    "title": "10.2 Fluid Disturbances and Replacement - Medical-Surgical Nursing (OpenStax)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Medical-Surgical_Nursing_(OpenStax)/10:_Fluid_Electrolyte_and_Acid-Base_Imbalances/10.02:_Fluid_Disturbances_and_Replacement"
+   }
+  ]
+ },
+ {
+  "id": "Q0111",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "النزف والتهاب الجرح والألم من مضاعفات ما بعد الجراحة المذكورة، ولا يُذكر التهاب اللوزتين بينها؛ فهو الاستثناء.",
+  "refs": [
+   {
+    "title": "Common Postoperative Complications - Patient.info (professional)",
+    "url": "https://patient.info/doctor/general-surgery/common-postoperative-complications-pro"
+   }
+  ]
+ },
+ {
+  "id": "Q0112",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الوذمة وانتفاخ أوردة العنق وارتفاع الضغط الوريدي المركزي من علامات زيادة حجم السوائل، أما قلة البول (Oliguria) فتُدرج عادةً في نقص الحجم (OpenStax: قلة البول في نقص الحجم وكثرة البول في زيادته)؛ ملاحظة: بعض المراجع تذكرها في زيادة الحجم عند وجود فشل كلوي، لكن الإجابة بالاستبعاد هي الخيار 2.",
+  "refs": [
+   {
+    "title": "10.2 Fluid Disturbances and Replacement - Medical-Surgical Nursing (OpenStax)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Medical-Surgical_Nursing_(OpenStax)/10:_Fluid_Electrolyte_and_Acid-Base_Imbalances/10.02:_Fluid_Disturbances_and_Replacement"
+   },
+   {
+    "title": "Fluid Volume Excess Nursing Care Plan - Nurseslabs (nursing-prep site, weak)",
+    "url": "https://nurseslabs.com/excess-fluid-volume/"
+   }
+  ]
+ },
+ {
+  "id": "Q0113",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "Apnea تعني التوقف الكامل/المؤقت عن التنفس.",
+  "refs": [
+   {
+    "title": "15.6 Respiration - Clinical Nursing Skills (OpenStax)",
+    "url": "https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration"
+   },
+   {
+    "title": "Apnea - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Apnea"
+   }
+  ]
+ },
+ {
+  "id": "Q0114",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "إزالة المجوهرات والأطراف الصناعية/الأسنان وقياس العلامات الحيوية من تحضير ما قبل الجراحة؛ أما مراقبة موضع الشق الجراحي فهي عناية ما بعد الجراحة إذ لا شق قبلها.",
+  "refs": [
+   {
+    "title": "2.3 Preoperative Nursing Care (WTCS Open Pressbooks)",
+    "url": "https://wtcs.pressbooks.pub/healthalts/chapter/2-3-preoperative-nursing-care/"
+   }
+  ]
+ },
+ {
+  "id": "Q0115",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "صدمة نقص الحجم تتميز بهبوط الضغط وتسرع القلب وتسرع التنفس وشحوب وبرودة الجلد؛ ارتفاع الضغط ليس من علاماتها.",
+  "refs": [
+   {
+    "title": "Hypovolemia and Hypovolemic Shock - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK513297/"
+   }
+  ]
+ },
+ {
+  "id": "Q0116",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "محلول كلوريد الصوديوم 0.9% (الملح الفسيولوجي) محلول متساوي التوتر.",
+  "refs": [
+   {
+    "title": "Normal Saline - StatPearls",
+    "url": "https://www.statpearls.com/point-of-care/25982"
+   }
+  ]
+ },
+ {
+  "id": "Q0117",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "ارتفاع سكر الدم فوق المعدل الطبيعي يسمى فرط سكر الدم Hyperglycemia.",
+  "refs": [
+   {
+    "title": "Hyperglycemia - MedlinePlus",
+    "url": "https://medlineplus.gov/hyperglycemia.html"
+   }
+  ]
+ },
+ {
+  "id": "Q0118",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "بعد تنفيذ أي تدخل تمريضي يجب توثيقه فورًا ('ما لم يُوثَّق فكأنه لم يُنفَّذ')؛ التشخيص والتخطيط يسبقان التنفيذ لا يليانه، وخطوة التقييم في العملية التمريضية غير مدرجة بين الخيارات، لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "4.7 Implementation of Interventions (WTCS Open Pressbooks, Nursing Fundamentals)",
+    "url": "https://wtcs.pressbooks.pub/nursingfundamentals/chapter/4-7-implementation-of-interventions/"
+   }
+  ]
+ },
+ {
+  "id": "Q0119",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "مواضع قياس الحرارة: الفم والمستقيم والإبط (والطبلة/الجلد)؛ أما الموضع القمي (Apical) فهو موضع قياس النبض/معدل القلب وليس الحرارة.",
+  "refs": [
+   {
+    "title": "7.2 How to Perform Vital Signs - Fundamentals of Nursing (OpenStax)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Fundamentals_of_Nursing_(OpenStax)/07:_Vital_Signs/7.02:_How_to_Perform_Vital_Signs"
+   },
+   {
+    "title": "Vital Signs - Johns Hopkins Medicine",
+    "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/vital-signs-body-temperature-pulse-rate-respiration-rate-blood-pressure"
+   }
+  ]
+ },
+ {
+  "id": "Q0120",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "معدل النبض فوق 100 نبضة/دقيقة عند البالغ يسمى تسرّع القلب Tachycardia، أما Tachypnea/Bradypnea فتخص التنفس.",
+  "refs": [
+   {
+    "title": "Fast heart rate - tachycardia - MedlinePlus",
+    "url": "https://medlineplus.gov/ency/article/007855.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0121",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "تتأثر حرارة الجسم بالعمر والجنس (الدورة الشهرية) والطعام والتمرين ووقت اليوم والبيئة/المناخ؛ فكل الخيارات صحيحة.",
+  "refs": [
+   {
+    "title": "9.6 Temperature - Health Care Assistant Lab Theory and Practice (BCcampus Open Textbook)",
+    "url": "https://opentextbc.ca/hcalabtheoryandpractice/chapter/temperature/"
+   },
+   {
+    "title": "Physiology, Thermal Regulation - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK499843/"
+   }
+  ]
+ },
+ {
+  "id": "Q0122",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الشعور بضربات القلب (سريعة أو قوية أو خافقة) يسمى خفقان Palpitation؛ أما Arrhythmia/Dysrhythmia فاضطراب في نظم القلب.",
+  "refs": [
+   {
+    "title": "Heart palpitations - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/heart-palpitations/symptoms-causes/syc-20373196"
+   }
+  ]
+ },
+ {
+  "id": "Q0123",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "ارتفاع حرارة الجسم فوق المعدل الطبيعي يسمى حمّى Fever؛ والمرجع المتاح ويكيبيديا فقط لذا الثقة متوسطة.",
+  "refs": [
+   {
+    "title": "Fever - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fever"
+   }
+  ]
+ },
+ {
+  "id": "Q0124",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الجسّ Palpation هو استخدام حاسة اللمس (اليدين والأصابع) لتحسس الأجزاء بضغط خفيف أو عميق؛ أما السمع فتسمّع، والنقر قرع Percussion.",
+  "refs": [
+   {
+    "title": "Health Assessment and Physical Examination - NurseKey (Potter & Perry)",
+    "url": "https://nursekey.com/health-assessment-and-physical-examination/"
+   },
+   {
+    "title": "Physical examination - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Physical_examination"
+   }
+  ]
+ },
+ {
+  "id": "Q0125",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الشهيق Inhalation/Inspiration هو دخول الهواء إلى الرئتين (التنفس للداخل).",
+  "refs": [
+   {
+    "title": "Breathing - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Breathing"
+   },
+   {
+    "title": "15.6 Respiration - Clinical Nursing Skills (OpenStax)",
+    "url": "https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration"
+   }
+  ]
+ },
+ {
+  "id": "Q0126",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "لا يوجد مجال واحد موحّد في المراجع: الفموي 35.8–37.3°م، والمركزي 36.5–37.5°م (BCcampus)، و36.4–37.5 (OpenStax)، و36.5–37.2 (Hopkins)؛ والخيار 1 (35.8–37.4) الأقرب، أما البقية فتنخفض عن الطبيعي أو تدخل نطاق الحمّى.",
+  "refs": [
+   {
+    "title": "9.6 Temperature - Health Care Assistant Lab Theory and Practice (BCcampus Open Textbook)",
+    "url": "https://opentextbc.ca/hcalabtheoryandpractice/chapter/temperature/"
+   },
+   {
+    "title": "7.1 Indicators of Physiologic Functioning - Fundamentals of Nursing (OpenStax)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Fundamentals_of_Nursing_(OpenStax)/07:_Vital_Signs/7.01:_Indicators_of_Physiologic_Functioning"
+   },
+   {
+    "title": "Vital Signs - Johns Hopkins Medicine",
+    "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/vital-signs-body-temperature-pulse-rate-respiration-rate-blood-pressure"
+   }
+  ]
+ },
+ {
+  "id": "Q0127",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "ضغط النبض Pulse pressure = الضغط الانقباضي − الضغط الانبساطي.",
+  "refs": [
+   {
+    "title": "7.1 Indicators of Physiologic Functioning - Fundamentals of Nursing (OpenStax)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Fundamentals_of_Nursing_(OpenStax)/07:_Vital_Signs/7.01:_Indicators_of_Physiologic_Functioning"
+   }
+  ]
+ },
+ {
+  "id": "Q0128",
+  "verdict": "uncertain",
+  "answer": 0,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "التعريف 'حالة لا وعي يمكن الإيقاظ منها' هو تعريف Guyton الكلاسيكي المتداول في كتب التمريض لكنني لم أتمكن من فتح نصه، بينما ويكيبيديا تعرّف النوم بأنه حالة نشاط ذهني وجسدي منخفض مع وعي متغيّر وحساسية حسية مثبَّطة فتقرّب خيارات أخرى؛ والتعريف يختلف بين المراجع، فبقي الخيار 1 الأرجح بثقة منخفضة.",
+  "refs": [
+   {
+    "title": "Sleep - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sleep"
+   }
+  ]
+ },
+ {
+  "id": "Q0129",
+  "verdict": "uncertain",
+  "answer": 1,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "التعريف المعياري: السرير الشاغر (Unoccupied bed) يُجهَّز والمريض خارج السرير (أي السرير فارغ)، أما تغيير الشراشف والمريض في السرير فهو السرير المشغول (Occupied bed)؛ لم أتمكن من فتح مرجع يؤكد ذلك (نفدت عمليات البحث) فالثقة منخفضة.",
+  "refs": []
+ },
+ {
+  "id": "Q0130",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "النهج من الرأس إلى القدم يمنع إغفال بعض البيانات ويقلل تغيير الوضعيات ويزيد الكفاءة؛ أما أنه يصعّب كشف المرض أو يزيد تغيير الوضعيات أو الوقت فخطأ.",
+  "refs": [
+   {
+    "title": "Health Assessment and Physical Examination - NurseKey (Potter & Perry)",
+    "url": "https://nursekey.com/health-assessment-and-physical-examination/"
+   }
+  ]
+ },
+ {
+  "id": "Q0131",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الأدق قياس النبض لمدة 60 ثانية كاملة (خصوصًا عند عدم انتظام النبض)، أما 15 أو 30 ثانية مع الضرب فطرق مختصرة أقل دقة.",
+  "refs": [
+   {
+    "title": "How to take your pulse - Mayo Clinic",
+    "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/how-to-take-pulse/art-20482581"
+   },
+   {
+    "title": "1.3 Vital Signs - Nursing Skills 2e (WTCS Open Pressbooks)",
+    "url": "https://wtcs.pressbooks.pub/nursingskills/chapter/1-3-vital-signs/"
+   },
+   {
+    "title": "Vital Signs - Johns Hopkins Medicine",
+    "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/vital-signs-body-temperature-pulse-rate-respiration-rate-blood-pressure"
+   }
+  ]
+ },
+ {
+  "id": "Q0132",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "معدل التنفس الطبيعي للبالغ في الراحة 12–20 نفس/دقيقة (StatPearls وOpenStax)؛ وتذكر بعض المصادر 12–16 لكن الخيار الأقرب 12–20.",
+  "refs": [
+   {
+    "title": "Tachypnea - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK541062/"
+   },
+   {
+    "title": "15.6 Respiration - Clinical Nursing Skills (OpenStax)",
+    "url": "https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration"
+   },
+   {
+    "title": "7.1 Indicators of Physiologic Functioning - Fundamentals of Nursing (OpenStax)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Fundamentals_of_Nursing_(OpenStax)/07:_Vital_Signs/7.01:_Indicators_of_Physiologic_Functioning"
+   }
+  ]
+ },
+ {
+  "id": "Q0133",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الممارسات التي تحافظ على الصحة عبر النظافة الشخصية تسمى النظافة الشخصية/الصحية Hygiene.",
+  "refs": [
+   {
+    "title": "7.1 Hygiene Practices - Clinical Nursing Skills (OpenStax)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/07%3A_Hygiene/7.01%3A_Hygiene_Practices"
+   },
+   {
+    "title": "Hygiene - Wikipedia (quotes WHO definition)",
+    "url": "https://en.wikipedia.org/wiki/Hygiene"
+   }
+  ]
+ },
+ {
+  "id": "Q0134",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الحمامات العلاجية تشمل الحمام المائي الدوّامي (Whirlpool) والمطهِّر/الدوائي (Medicated) والجلوسي (Sitz)، أما غسل الشعر (Shampooing) فمن العناية بالنظافة الشخصية وليس حمامًا علاجيًا؛ والتصنيف مستمد من مراجع عامة لا من نص تمريضي مباشر.",
+  "refs": [
+   {
+    "title": "Hydrotherapy - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hydrotherapy"
+   },
+   {
+    "title": "Bathing - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bathing"
+   }
+  ]
+ },
+ {
+  "id": "Q0135",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "Orthopnea ضيق نفس عند الاستلقاء يخفّ بالجلوس/الوضع المنتصب (يضطر المريض للنوم متكئًا)؛ أما انقطاع التنفس فـApnea، والتنفس السريع Tachypnea، والعسر العام Dyspnea.",
+  "refs": [
+   {
+    "title": "Orthopnea - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Orthopnea"
+   },
+   {
+    "title": "15.6 Respiration - Clinical Nursing Skills (OpenStax)",
+    "url": "https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration"
+   }
+  ]
+ },
+ {
+  "id": "Q0136",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "التنظير الفلوري والتصوير بالمادة الظليلة والتصوير المقطعي CT كلها تُعدّ من أشكال/تقنيات التصوير الشعاعي في مراجع عامة؛ والخيار 2 (المادة الظليلة) عامل مساعد لا تقنية بحد ذاته لذا الثقة متوسطة والمرجع ويكيبيديا فقط.",
+  "refs": [
+   {
+    "title": "Radiography - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Radiography"
+   }
+  ]
+ },
+ {
+  "id": "Q0137",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "الفحص الحوضي Pelvic examination هو فحص الأعضاء الحوضية الأنثوية الخارجية والداخلية (الفرج والمهبل وعنق الرحم) مع جسّ الرحم والمبيضين؛ أما Pap test فأخذ مسحة خلوية من عنق الرحم فقط.",
+  "refs": [
+   {
+    "title": "Pelvic examination - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pelvic_examination"
+   }
+  ]
+ },
+ {
+  "id": "Q0138",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "البزل القطني (Lumbar puncture) يُدخل فيه إبرة نخاعية في أسفل العمود الفقري لأخذ السائل الدماغي الشوكي؛ أما Paracentesis فبزل البطن وEMG تخطيط العضل.",
+  "refs": [
+   {
+    "title": "Lumbar puncture (spinal tap) - MedlinePlus",
+    "url": "https://medlineplus.gov/ency/article/003428.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0139",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "للاستحمام فوائد منها إزالة الروائح والنظافة وتحسين صورة الذات والمزاج وتنشيط الدورة الدموية؛ أُثبت منها مرجعيًا النظافة وتحسين تقدير الذات، أما تنشيط الدورة فمن الكتب الدراسية ولم أتمكن من فتح مرجع له.",
+  "refs": [
+   {
+    "title": "7.1 Hygiene Practices - Clinical Nursing Skills (OpenStax)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/07%3A_Hygiene/7.01%3A_Hygiene_Practices"
+   },
+   {
+    "title": "Bathing - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bathing"
+   }
+  ]
+ },
+ {
+  "id": "Q0140",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "وضعية الاستلقاء على الظهر مع رفع الساقين على حوامل (Stirrups) هي وضعية الحصاة Lithotomy؛ أما Sims فجانبية، وKnee-chest ركبتان وصدر.",
+  "refs": [
+   {
+    "title": "Lithotomy position - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lithotomy_position"
+   }
+  ]
+ },
+ {
+  "id": "Q0141",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "التنفس Respiration هو تبادل الأكسجين وثاني أكسيد الكربون مع دخول الهواء وخروجه؛ أما الدوران والضغط فليسا تبادل غازات.",
+  "refs": [
+   {
+    "title": "Breathing - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Breathing"
+   },
+   {
+    "title": "15.6 Respiration - Clinical Nursing Skills (OpenStax)",
+    "url": "https://openstax.org/books/clinical-nursing-skills/pages/15-6-respiration"
+   }
+  ]
+ },
+ {
+  "id": "Q0142",
+  "verdict": "confirmed",
+  "answer": 0,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "التهوية Ventilation هي حركة الهواء إلى داخل الصدر وخارجه (شهيق وزفير).",
+  "refs": [
+   {
+    "title": "Breathing - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Breathing"
+   }
+  ]
+ },
+ {
+  "id": "Q0143",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "نقص حجم العينة والتأخر في إرسالها وعدم كفاية تنظيف الأمعاء أخطاء تُبطل نتائج الفحوص، بينما التحضير الغذائي الصحيح لا يبطلها (بل يحمي صحتها) فهو الاستثناء؛ المرجع المتاح عام بشأن أن دقة جمع العينة أساس صحة النتائج.",
+  "refs": [
+   {
+    "title": "10.0 Introduction: Specimen Collection and Lab Testing - Clinical Nursing Skills (OpenStax)",
+    "url": "https://med.libretexts.org/Bookshelves/Nursing/Clinical_Nursing_Skills_(OpenStax)/10%3A_Specimen_Collection_and_Lab_Testing/10.00%3A_Introduction"
+   }
+  ]
+ },
+ {
+  "id": "Q0144",
+  "verdict": "confirmed",
+  "answer": 2,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "تقنيات الفحص الجسدي الأربع: المعاينة Inspection والجسّ Palpation والقرع Percussion والإصغاء Auscultation؛ والوخز/البزل Puncturing ليس منها.",
+  "refs": [
+   {
+    "title": "Health Assessment and Physical Examination - NurseKey (Potter & Perry)",
+    "url": "https://nursekey.com/health-assessment-and-physical-examination/"
+   },
+   {
+    "title": "Physical examination - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Physical_examination"
+   }
+  ]
+ },
+ {
+  "id": "Q0145",
+  "verdict": "uncertain",
+  "answer": 2,
+  "confidence": "low",
+  "agrees_with_source_mark": true,
+  "note_ar": "مساعدة الفاحص (Assist the examiner) مهمة تمريضية أثناء الإجراء وليست بعده، أما راحة المريض ورعاية العينات والتسجيل والإبلاغ فمن مسؤوليات ما بعد الإجراء؛ استنتاج من المعيار التمريضي العام ولم أتمكن من فتح مرجع يؤكده.",
+  "refs": []
+ },
+ {
+  "id": "Q0146",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "يُعطى الهيبارين في الغسيل الدموي كمضاد تخثر لمنع تجلط الدم داخل دارة الغسيل.",
+  "refs": [
+   {
+    "title": "Hemodialysis - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK563296/"
+   }
+  ]
+ },
+ {
+  "id": "Q0147",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الحصاة في السبيل البولي تسمى Calculus (جمعها Calculi، ومنها الحصى الكلوية)؛ أما Calix فكأس كلوي وCalcemia مستوى الكالسيوم وCalcitonin هرمون.",
+  "refs": [
+   {
+    "title": "Nephrolithiasis - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK442014/"
+   }
+  ]
+ },
+ {
+  "id": "Q0148",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "البول المتبقي في المثانة بعد التبوّل يسمى البول المتبقي Residual urine (Post-void residual)؛ أما Retention فاحتباس بولي مرضي.",
+  "refs": [
+   {
+    "title": "Urinary retention - Wikipedia (post-void residual)",
+    "url": "https://en.wikipedia.org/wiki/Urinary_retention"
+   }
+  ]
+ },
+ {
+  "id": "Q0149",
+  "verdict": "confirmed",
+  "answer": 1,
+  "confidence": "medium",
+  "agrees_with_source_mark": true,
+  "note_ar": "المجال الطبيعي للوزن النوعي للبول 1.005–1.030 (MedlinePlus)، وتذكر كتب التمريض 1.015–1.025 كمجال نموذجي؛ الخيار 2 داخل المجال الطبيعي وهو الأنسب بين الخيارات بينما الباقي خارجه أو يبدأ من قيمة غير طبيعية.",
+  "refs": [
+   {
+    "title": "Urine specific gravity test - MedlinePlus",
+    "url": "https://medlineplus.gov/ency/article/003587.htm"
+   }
+  ]
+ },
+ {
+  "id": "Q0150",
+  "verdict": "confirmed",
+  "answer": 3,
+  "confidence": "high",
+  "agrees_with_source_mark": true,
+  "note_ar": "الأسباب المهيِّئة للفشل الكلوي الحاد تشمل نقص الحجم/الجفاف والإنتان والانحلال الدموي (منه تفاعل نقل الدم غير المتوافق)؛ السكتة الدماغية (CVA) ليست من أسبابه المذكورة.",
+  "refs": [
+   {
+    "title": "Acute Kidney Injury - StatPearls (NCBI Bookshelf)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK441896/"
+   }
+  ]
+ }
+]
