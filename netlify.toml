@@ -1,0 +1,4 @@
+# Optional second host (Netlify). The site is plain static files in site/: no build command.
+# This file only matters when the Netlify project is connected to this repository; a manual upload of the site/ folder ignores it.
+[build]
+  publish = "site"

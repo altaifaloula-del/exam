@@ -1,6 +1,6 @@
 // Wall-clock countdown shared by the multiple-choice and essay sections: the clock element, the red "low time" state,
 // the visual alerts (10/5/1 minutes, only those below the section's length) and the expiry callback.
-import { h } from '../dom.js';
+import { h, mount } from '../dom.js';
 import { icon } from '../icons.js';
 import { formatClock, remaining } from '../logic.js';
 import { alertSeconds, alertText } from '../plan.js';
@@ -22,7 +22,7 @@ export function createClock(ctx, { start, limit, onExpire }) {
   for (const t of thresholds) if (left <= t) announced.add(t); // never announce a threshold that already passed
 
   function paint(text) {
-    alertEl.replaceChildren(...(text ? [h('div', { class: 'alertbar' }, icon('bell'), text)] : []));
+    mount(alertEl, text ? h('div', { class: 'alertbar' }, icon('bell'), text) : null);
   }
   /** text stays until replaced, or disappears after a few seconds when autoClear is set. */
   function message(text, { autoClear = false } = {}) {

@@ -66,7 +66,7 @@ export function validateBank(data) {
 /** Crypto-backed random in [0,1). Injectable in tests. */
 export function defaultRng() {
   const a = new Uint32Array(1);
-  globalThis.crypto.getRandomValues(a);
+  (typeof window !== 'undefined' ? window : globalThis).crypto.getRandomValues(a); // globalThis only exists in newer browsers; Node tests have no window
   return a[0] / 4294967296;
 }
 
