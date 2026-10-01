@@ -1,5 +1,5 @@
 // End-to-end test of the physician review page (review/doctor-review.html) in a real Chromium.
-// Run: npm run test:e2e:review   (CHROME_PATH overrides the browser; SHOT_DIR saves screenshots)
+// Run: node tests/e2e/review.mjs   (CHROME_PATH overrides the browser; SHOT_DIR saves screenshots)
 import assert from 'node:assert/strict';
 import { createServer } from 'node:http';
 import { readFile, mkdir } from 'node:fs/promises';

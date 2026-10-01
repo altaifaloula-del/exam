@@ -60,6 +60,19 @@ const noLeaks = async (page, where) => {
   assert.ok(!/\b(null|undefined|NaN)\b|\[object/.test(t), `template leak in ${where}: ${t.match(/.{0,20}(null|undefined|NaN|\[object).{0,20}/)?.[0]}`);
 };
 const noHScroll = (page) => page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth);
+/**
+ * Hash navigation (section chips, tabs) re-renders on a LATER task, so right after a click the page can still show the
+ * old list. Wait until the page shows `expected` matches, then assert (on a timeout the assertion reports the real count).
+ */
+async function expectCount(page, selector, expected, what = selector) {
+  await page.waitForFunction(([s, n]) => document.querySelectorAll(s).length === n, [selector, expected], { timeout: 5000 }).catch(() => null);
+  assert.equal(await page.locator(selector).count(), expected, `${what}: expected ${expected}`);
+}
+/** Same idea for the page heading: a hash change keeps the OLD h1 on screen until the new page is drawn. */
+async function expectHeading(page, re, what) {
+  await page.waitForFunction((src) => new RegExp(src).test(document.querySelector('h1')?.textContent || ''), re.source, { timeout: 5000 }).catch(() => null);
+  assert.match(await page.locator('h1').innerText(), re, what);
+}
 // The CSP blocks inline style attributes, so none may ever be rendered.
 const noInlineStyle = async (page, where) => assert.equal(await page.locator('#app [style]').count(), 0, `inline style attribute in ${where}`);
 const shot = async (page, name, full = false) => { if (process.env.SHOT_DIR) await page.screenshot({ path: join(process.env.SHOT_DIR, name), fullPage: full }); };
@@ -156,8 +169,7 @@ try {
     assert.equal(await page.locator('.model').count(), models.length);
     await page.locator('.chips[aria-label="القسم"]').getByRole('button', { name: 'تمريض', exact: true }).click();
     const nursing = models.filter((m) => m.spec === 'nursing');
-    await page.locator('.model').first().waitFor();
-    assert.equal(await page.locator('.model').count(), nursing.length);
+    await expectCount(page, '.model', nursing.length, 'nursing models after the section chip');
     const texts = await page.locator('.model .nm').allInnerTexts();
     assert.deepEqual(texts.map(ws), nursing.map((m) => ws(m.title)));
     await noInlineStyle(page, 'setup');
@@ -379,11 +391,9 @@ try {
     assert.match(page.url(), /#\/setup\//);
     assert.equal(await page.locator('#app img, #app script').count(), 0);
     await page.goto(base + '#/exam');
-    await page.getByRole('heading', { level: 1 }).waitFor();
-    assert.match(await page.locator('h1').innerText(), /إلى أين/);
+    await expectHeading(page, /إلى أين/, '/exam without a saved exam goes home');
     await page.goto(base + '#/instructions');
-    await page.getByRole('heading', { level: 1 }).waitFor();
-    assert.match(await page.locator('h1').innerText(), /إلى أين/, 'instructions without a plan goes home');
+    await expectHeading(page, /إلى أين/, 'instructions without a plan goes home');
     await page.context().close();
   }
   ok('tampered storage reported and discarded; hostile hash ignored; /exam and /instructions without state go home');
@@ -488,6 +498,7 @@ try {
     assert.ok((await page.getByRole('alert').first().innerText()).includes('تصنيف المواضيع'));
     assert.equal(await page.locator('.tool').count(), 5, 'no topic tool');
     await page.goto(base + '#/setup/topic/assistant');
+    await page.locator('.model').first().waitFor();   // setup is drawn (and fell back to models) before the tab check, or that check would run on the home page
     assert.equal(await page.getByRole('button', { name: 'حسب الموضوع' }).count(), 0, 'no topic tab');
     assert.equal(await page.locator('.model').first().isVisible(), true, 'falls back to models');
     await page.context().close();
