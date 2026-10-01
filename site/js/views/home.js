@@ -13,7 +13,7 @@ export function renderHome(ctx) {
   const signs = [...SPECIALTIES.map((s) => ({ ...s, c: counts[s.key] })), { key: 'all', name: 'كل الأقسام', c: { verified, tentative: bank.length - verified } }]
     .map((s) => h('a', { class: `sign s-${s.key}`, href: `#/setup/models/${s.key}` },
       h('span', { class: 'pg' }, icon(s.key)),
-      h('span', { class: 'tx' }, h('b', null, s.name), h('span', null, `${s.c.verified} سؤالًا محقَّقًا · ${s.c.tentative} غير مؤكد`)),
+      h('span', { class: 'tx' }, h('b', null, s.name), h('span', null, [h('span', { class: 'nb' }, `${s.c.verified} سؤالًا محقَّقًا`), ' · ', h('span', { class: 'nb' }, `${s.c.tentative} غير مؤكد`)])),
       h('span', { class: 'ar' }, icon('fwd'))));
 
   const tool = (name, ic, href, off) => (href

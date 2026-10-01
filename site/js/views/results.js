@@ -40,6 +40,9 @@ export function renderResults(ctx) {
   if (!r) { ctx.go('home'); return; }
   const byId = new Map(bank.map((q) => [q.id, q]));
   let onlyMiss = r.missIds.length > 0;
+  // A paper title that already names the specialty ("مساعد طبيب (104 أسئلة)") is not followed by the same name again.
+  const specName = specialtyName(r.spec);
+  const meta = [r.label, r.label && r.label.includes(specName) ? null : specName, when(r.finishedAt)].filter(Boolean).join(' — ');
 
   function draw() {
     const rows = r.items.filter((it) => !onlyMiss || r.missIds.includes(it.id));
@@ -63,7 +66,7 @@ export function renderResults(ctx) {
       h('h1', { class: 'page-title', tabindex: '-1', 'data-focus': '' }, 'نتيجة الاختبار'),
       h('div', { class: 'card resultcard' },
         r.essay ? h('h2', { class: 'h3' }, 'الاختيار من متعدد') : null,
-        h('p', { class: 'muted' }, [r.label, specialtyName(r.spec), when(r.finishedAt)].filter(Boolean).join(' — ')),
+        h('p', { class: 'muted' }, meta),
         h('div', { class: 'score', 'aria-label': `${r.correct} من ${r.total}، ${r.percent} بالمئة` }, `${r.correct}/${r.total}`),
         h('p', null, h('b', { class: 'mono' }, r.percent + '%'), ` — الزمن المستغرق ${formatClock(r.elapsed)} من ${formatClock(r.limit)}`),
         h('div', { class: 'rgrid' },

@@ -5,6 +5,7 @@ import { createServer } from 'node:http';
 import { readFile } from 'node:fs/promises';
 import { extname, join, normalize } from 'node:path';
 import { chromium } from 'playwright-core';
+import { applySlowRender } from './slow-render.mjs';
 import { examPool, formatClock, questionsPhrase } from '../../site/js/logic.js';
 import { examModels, minutesFor } from '../../site/js/plan.js';
 import { topicCounts, topicPool, validateTopics } from '../../site/js/topics.js';
@@ -41,17 +42,22 @@ const problems = [];
 let passed = 0;
 const ok = (name) => { passed++; console.log('  ok -', name); };
 
+// A same-origin font request cancelled by the browser (ERR_ABORTED) because the test reloaded or closed the page while the
+// font was still downloading is not an app failure. A font that really fails is still caught: expectFonts() checks every face's
+// load status, a 404 prints a console error, and any non-local request is aborted by the route below with ERR_FAILED (reported).
+const benignFontAbort = (r) => r.resourceType() === 'font' && r.url().startsWith(base) && r.failure()?.errorText === 'net::ERR_ABORTED';
+
 async function newPage(viewport = { width: 1280, height: 800 }, { expectConsole = null } = {}) {
   const ctx = await browser.newContext({ viewport, locale: 'ar' });
+  await applySlowRender(ctx);
   const page = await ctx.newPage();
   const at = () => `[scenario ${passed + 1}]`;
   page.on('console', (m) => { if (m.type() === 'error' && !(expectConsole && expectConsole.test(m.text()))) problems.push(`${at()} console: ${m.text()}`); });
   page.on('pageerror', (e) => problems.push(`${at()} pageerror: ${e.message}`));
-  page.on('requestfailed', (r) => problems.push(`${at()} request failed: ${r.url()} (${r.failure()?.errorText})`));
+  page.on('requestfailed', (r) => { if (!benignFontAbort(r)) problems.push(`${at()} request failed: ${r.url()} (${r.failure()?.errorText})`); });
   page.on('dialog', (d) => { problems.push('unexpected dialog: ' + d.message()); d.dismiss(); });
-  // Playwright runs the LAST registered matching route first: catch-all first, fonts stub second.
-  await page.route(/^https?:\/\/(?!127\.0\.0\.1)/, (r) => r.abort());
-  await page.route(/^https:\/\/fonts\.(googleapis|gstatic)\.com\//, (r) => r.fulfill({ status: 200, contentType: 'text/css', body: '' }));
+  // The site must load nothing from third parties (fonts are self-hosted): any outside request is aborted and reported as a problem.
+  await page.route(/^(?:https?|wss?):\/\/(?!127\.0\.0\.1[:/])/, (r) => r.abort());
   return page;
 }
 // Catches template leaks such as "null"/"undefined"/"[object Object]" printed into the UI.
@@ -67,6 +73,23 @@ const noHScroll = (page) => page.evaluate(() => document.documentElement.scrollW
 async function expectCount(page, selector, expected, what = selector) {
   await page.waitForFunction(([s, n]) => document.querySelectorAll(s).length === n, [selector, expected], { timeout: 5000 }).catch(() => null);
   assert.equal(await page.locator(selector).count(), expected, `${what}: expected ${expected}`);
+}
+/** Fonts are self-hosted: poll until the named families are loaded (faces load lazily, per unicode-range), then require that no face failed. */
+async function expectFonts(page, families, where) {
+  const state = () => page.evaluate(async () => {
+    await document.fonts.ready;
+    const faces = [...document.fonts];
+    return { loaded: [...new Set(faces.filter((f) => f.status === 'loaded').map((f) => f.family.replace(/["']/g, '')))], failed: faces.filter((f) => f.status === 'error').map((f) => f.family) };
+  });
+  const deadline = Date.now() + 5000;
+  let st = await state();
+  while (Date.now() < deadline && (st.failed.length || !families.every((f) => st.loaded.includes(f)))) {
+    if (st.failed.length) break;                                   // a failed face never recovers: report it now
+    await page.waitForTimeout(100);
+    st = await state();
+  }
+  assert.deepEqual(st.failed, [], `${where}: font faces failed to load`);
+  for (const f of families) assert.ok(st.loaded.includes(f), `${where}: font "${f}" did not load (loaded: ${st.loaded.join(', ')})`);
 }
 /** Same idea for the page heading: a hash change keeps the OLD h1 on screen until the new page is drawn. */
 async function expectHeading(page, re, what) {
@@ -131,6 +154,10 @@ try {
     assert.equal(await page.locator('button.tool:disabled').count(), 2, 'no mistakes / no last result yet');
     await noLeaks(page, `home ${w}`);
     await noInlineStyle(page, `home ${w}`);
+    assert.equal(await page.locator('meta[name=robots]').getAttribute('content'), 'noindex, nofollow', 'the public site must not be indexed');
+    await expectFonts(page, ['IBM Plex Sans Arabic', 'Noto Kufi Arabic'], `home ${w}`);
+    assert.equal(await page.locator('.sign .nb').count(), 10, `home ${w}: expected 10 non-breaking count phrases (2 on each of the 5 cards)`);
+    assert.equal(await page.locator('.sign .nb').evaluateAll((els) => els.filter((e) => new Set([...e.getClientRects()].map((r) => Math.round(r.top))).size > 1).length), 0, `home ${w}: a count phrase on a specialty card is split across lines`);
     await shot(page, `home-${w}.png`, true);
     await page.context().close();
   }
@@ -194,6 +221,7 @@ try {
     await page.getByRole('button', { name: 'ابدأ الاختبار' }).click();
     await page.locator('.dot').first().waitFor();
     assert.equal(await page.locator('.dot').count(), m.n);
+    await expectFonts(page, ['IBM Plex Sans Arabic', 'Noto Kufi Arabic', 'IBM Plex Mono'], 'exam screen (timer uses the mono face)');
     const t0 = await page.locator('[role=timer]').innerText();
     assert.ok([formatClock(m.minutes * 60), formatClock(m.minutes * 60 - 1)].includes(t0), `timer starts at the plan limit, got ${t0}`);
     assert.equal(await page.locator('.reveal').count(), 0, 'no answers shown during exam');
@@ -222,6 +250,8 @@ try {
     await page.getByRole('button', { name: 'مراجعة وتسليم' }).first().click();
     await page.getByRole('button', { name: 'نعم، أنهِ الاختبار' }).click();
     await page.locator('.score').waitFor();
+    const resultMeta = await page.locator('.resultcard p.muted').first().innerText();
+    assert.equal(resultMeta.split('مساعد طبيب').length - 1, 1, `result header repeats the specialty name: ${resultMeta}`);
     assert.equal(await page.locator('.score').innerText(), `${correct}/${m.n}`);
     assert.ok((await page.locator('.resultcard').innerText()).includes(m.title), 'result names the model');
     await noLeaks(page, 'results');
@@ -467,6 +497,7 @@ try {
     await page.getByRole('button', { name: 'نعم، أنهِ الاختبار' }).click();
     await page.locator('.score').waitFor();
     assert.ok((await page.locator('.resultcard').innerText()).includes('2 مواضيع مختارة'));
+    assert.ok((await page.locator('.resultcard p.muted').first().innerText()).includes('مساعد طبيب'), 'a result whose title does not name the specialty still shows it');
     await page.getByRole('button', { name: 'اختبار جديد في القسم نفسه' }).click();
     await page.locator('.topics .chip').first().waitFor();
     assert.match(page.url(), /#\/setup\/topic\/assistant$/, 'kind topic returns to the topic tab');
@@ -781,7 +812,7 @@ try {
     await page.locator('.chips[aria-label="عدد الأسئلة"]').waitFor();
     assert.equal(await page.locator('.chips[aria-label="عدد الأسئلة المقالية"]').count(), 0, 'no essay row');
     await page.unroute('**/data/essay.json');
-    await page.reload(); // the app is fully loaded here (its notice is on screen), so no request is in flight
+    await page.reload(); // a font may still be downloading here; the reload cancels it (benignFontAbort)
     await page.getByText('لديك اختبار غير منتهٍ').waitFor();
     await page.getByRole('button', { name: 'متابعة الاختبار' }).click();
     await page.locator('textarea').first().waitFor();
@@ -793,12 +824,13 @@ try {
   // 12. Storage blocked entirely: app still works through the new flow and says so.
   {
     const ctx = await browser.newContext({ viewport: { width: 1280, height: 800 } });
+    await applySlowRender(ctx);
     await ctx.addInitScript(() => { Object.defineProperty(window, 'localStorage', { get() { throw new Error('blocked'); } }); });
     const page = await ctx.newPage();
     page.on('pageerror', (e) => problems.push('pageerror: ' + e.message));
     page.on('console', (m) => { if (m.type() === 'error' && !/storage unavailable|blocked/.test(m.text())) problems.push('console: ' + m.text()); });
-    await page.route(/^https?:\/\/(?!127\.0\.0\.1)/, (r) => r.abort());
-    await page.route(/^https:\/\/fonts\./, (r) => r.fulfill({ status: 200, contentType: 'text/css', body: '' }));
+    page.on('requestfailed', (r) => { if (!benignFontAbort(r)) problems.push(`[scenario 12] request failed: ${r.url()} (${r.failure()?.errorText})`); });
+    await page.route(/^(?:https?|wss?):\/\/(?!127\.0\.0\.1[:/])/, (r) => r.abort());
     await page.goto(base);
     await page.getByText('التخزين في المتصفح غير متاح').waitFor();
     await page.locator('a.sign.s-assistant').click();

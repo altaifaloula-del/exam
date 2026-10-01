@@ -81,6 +81,7 @@ svg.i{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:2;stroke
 .sign .tx{padding:12px 14px;display:grid;align-content:center;min-width:0}
 .sign .tx b{font-family:var(--display);font-weight:800;font-size:1.25rem}
 .sign .tx span{color:var(--muted);font-size:.9rem}
+.nb{white-space:nowrap}
 .sign .ar{display:grid;place-items:center;background:var(--yellow);color:var(--navy)}
 .sign:hover{box-shadow:0 0 0 2px var(--yellow)}
 .tools{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
